@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "symk-project-init"
+version = "0.1.0"
+description = "SymK project initializer (PyCharm-aware)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+symk-init = "project_init.cli:main"
+
+[tool.setuptools]
+packages = ["project_init"]

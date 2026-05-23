@@ -1,0 +1,114 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: services.schema
+type: object
+required: [services]
+
+properties:
+  services:
+    type: object
+    additionalProperties:
+      $ref: "#/definitions/service"
+
+definitions:
+
+  service:
+    type: object
+    required:
+      - label
+      - lifecycle
+      - role
+      - runtime
+      - execution
+      - placement
+      - networking
+      - observability
+
+    properties:
+
+      label:
+        type: string
+        minLength: 1
+
+      description:
+        type: string
+
+      lifecycle:
+        type: string
+        enum:
+          - incubation
+          - pre-production
+          - production
+          - deprecated
+
+      role:
+        type: string
+        enum:
+          - frontend
+          - backend
+          - worker
+
+      runtime:
+        type: object
+        required: [language, stack]
+        properties:
+          language:
+            type: string
+            enum: [python, nodejs, php]
+          stack:
+            type: string
+            enum:
+              - fastapi
+              - flask
+              - node
+              - express
+              - apache-php
+
+      execution:
+        type: object
+        required: [type, service_name]
+        properties:
+          type:
+            type: string
+            enum: [systemd]
+          service_name:
+            type: string
+            minLength: 1
+
+      placement:
+        type: object
+        required: [host]
+        properties:
+          host:
+            type: string
+            minLength: 1
+
+      networking:
+        type: object
+        required: [ports]
+        properties:
+          ports:
+            type: array
+            items:
+              type: integer
+              minimum: 1
+              maximum: 65535
+          health_endpoint:
+            type: string
+
+      observability:
+        type: object
+        required: [logs]
+        properties:
+          logs:
+            type: object
+            properties:
+              journal:
+                type: boolean
+              paths:
+                type: array
+                items:
+                  type: string
+
+      environment_overrides:
+        type: object
+        additionalProperties: true

@@ -1,0 +1,30 @@
+# Symbiotic configuration (Option 2 — envelope on boundaries)
+# Place at repo root as `.symbiotic.yaml`
+
+# Where the envelope shim lives (created by `sym-init`)
+pkg_top: "common"   # REQUIRED for checker to resolve import
+
+# Boundary detection
+boundary_name_regex: "(run|execute|perform|backup|restore|handle|process)"
+
+# Codemod defaults (used by sym-decorate; not enforced by checker)
+schema_mode: "hints"          # or "minimal"
+write_mode: "mirror"          # or "inplace"
+out_dir: ".sym-mirror"
+copy_others: true
+
+# Checker behavior
+exclude_dirs: ["tests", ".venv", "venv", "__pycache__"]
+cross_pkg_allow: ["common"]   # R-400: only 'common' is allowed
+bounce_exempt: []             # Rare exceptions to R-500 (module names)
+
+# Reports
+report_json: "reports/symbiotic_report.json"
+report_md:   "reports/symbiotic_report.md"
+
+# Optional section to document known boundary entrypoints (for humans)
+# boundaries:
+#   - name: sym-check
+#     kind: cli
+#     module: symbiotic_devkit.cli.main:cmd_check
+#     schema: none

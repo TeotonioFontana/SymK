@@ -1,0 +1,148 @@
+{
+  "leaf_id": "1.1",
+  "leaf_name": "Product Vision",
+  "version": "v0.1.0",
+  "product_name": "IaaC Recovery Suite",
+  "problem": {
+    "context": "Multi-account, multi-region AWS environments with fragmented, script-based backup and DR practices.",
+    "pain_points": [
+      "Backups exist but are not centrally orchestrated or validated.",
+      "No single source of truth for what can actually be restored after a severe incident.",
+      "DR exercises are rare, manual, and stressful.",
+      "Audit evidence for backup and recovery posture is hard and slow to assemble."
+    ],
+    "do_nothing_risks": [
+      "Extended downtime during real incidents due to unclear recovery procedure.",
+      "Regulatory or contractual non-compliance related to RTO/RPO and DR testing.",
+      "Loss of trust from stakeholders when recovery posture is exposed as weak.",
+      "Silent backup gaps that only surface during crisis."
+    ]
+  },
+  "target_users": [
+    {
+      "segment": "Cloud / Platform Engineers",
+      "key_needs": [
+        "Automate backup and DR operations across regions and accounts.",
+        "Have deterministic, repeatable recovery procedures.",
+        "Reduce reliance on fragile one-off scripts."
+      ]
+    },
+    {
+      "segment": "SRE / Operations Teams",
+      "key_needs": [
+        "Execute DR drills and real incidents with confidence.",
+        "Quickly understand which workloads are protected and how.",
+        "Minimize MTTR during severe outages."
+      ]
+    },
+    {
+      "segment": "Security / Compliance Officers",
+      "key_needs": [
+        "Prove that backup and recovery policies are implemented and tested.",
+        "Access clear, exportable evidence for audits.",
+        "Detect gaps before regulators or customers do."
+      ]
+    }
+  ],
+  "jobs_to_be_done": [
+    {
+      "id": "job-001",
+      "statement": "When I am responsible for AWS backup and DR, I want a single orchestrated process that covers all critical workloads, so I can be confident we can recover from a region-level incident.",
+      "segment": "Cloud / Platform Engineers",
+      "importance": "high",
+      "current_satisfaction": "low"
+    },
+    {
+      "id": "job-002",
+      "statement": "When planning or running a DR drill, I want a clear, scripted recovery path based on current backup artifacts, so I can execute the exercise without guesswork or surprises.",
+      "segment": "SRE / Operations Teams",
+      "importance": "high",
+      "current_satisfaction": "low"
+    },
+    {
+      "id": "job-003",
+      "statement": "When preparing for an audit, I want to generate a concise report of backup and recovery coverage, so I can demonstrate compliance without manual data collection.",
+      "segment": "Security / Compliance Officers",
+      "importance": "high",
+      "current_satisfaction": "low"
+    }
+  ],
+  "value_proposition": {
+    "statement": "For teams responsible for AWS resilience and compliance, IaaC Recovery Suite is a recovery orchestration and audit tool that turns fragmented backups into a provable, repeatable disaster-recovery capability.",
+    "differentiators": [
+      "End-to-end view from backup orchestration to recovery audit and evidence.",
+      "Focus on region/account loss scenarios, not only single-resource restores.",
+      "Structured manifests and reports designed for auditors and engineers alike.",
+      "SymK-friendly architecture that enables AI-assisted analysis and reporting."
+    ]
+  },
+  "success_criteria": {
+    "business": [
+      "Reduce time to assemble audit-ready evidence for backup/DR from weeks to days or hours.",
+      "Increase percentage of critical workloads covered by orchestrated, validated backups to >= 95%.",
+      "Increase number of successful DR drills per year without increasing human effort."
+    ],
+    "user": [
+      "Cloud/SRE teams report increased confidence in DR posture in internal surveys.",
+      "Number of severe incidents where backups are unusable or incomplete trends to zero."
+    ],
+    "technical": [
+      "Backup and audit runs complete within defined windows for target account/region sizes.",
+      "Tooling can handle at least N accounts and M regions without manual tuning.",
+      "All critical operations are fully logged and traceable."
+    ],
+    "constraints": [
+      "Must respect AWS IAM least-privilege and organizational SCPs.",
+      "Must not materially increase blast radius or risk of misconfiguration.",
+      "Must integrate with existing logging and observability standards."
+    ]
+  },
+  "scope": {
+    "in": [
+      "AWS-based workloads running in EC2 and related services.",
+      "EBS snapshot orchestration, AMI creation, and S3 backup manifests.",
+      "Discovery and audit of backup artifacts for completeness and consistency.",
+      "Facilitation of DR drills and recovery rehearsals."
+    ],
+    "out": [
+      "Non-cloud or on-premise backup tooling.",
+      "Real-time transactional replication (e.g., database-level replication engines).",
+      "Acting as a full cloud management platform beyond backup/DR scope."
+    ],
+    "assumptions": [
+      "Organization already uses AWS as a primary or critical cloud provider.",
+      "Basic AWS backup capabilities (EBS snapshots, S3, AMIs) are available.",
+      "Teams are willing to standardize around a single orchestrator for backup/DR."
+    ]
+  },
+  "feature_themes": [
+    {
+      "id": "theme-001",
+      "name": "Backup Orchestration and Manifests",
+      "linked_jobs": ["job-001"],
+      "description": "Orchestrate EBS snapshots, AMIs, and S3 backups across accounts/regions with per-run manifests.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "theme-002",
+      "name": "Recovery Audit and Gap Detection",
+      "linked_jobs": ["job-001", "job-003"],
+      "description": "Inspect backup repositories and detect missing, stale, or inconsistent artifacts with clear remediation hints.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "theme-003",
+      "name": "DR Simulation and Rehearsals",
+      "linked_jobs": ["job-002"],
+      "description": "Provide playbooks and tooling to stand up recovery environments for DR drills using existing artifacts.",
+      "risk_level": "high"
+    },
+    {
+      "id": "theme-004",
+      "name": "Compliance Evidence and Reporting",
+      "linked_jobs": ["job-003"],
+      "description": "Generate audit-ready reports and evidence packages from manifests and run history.",
+      "risk_level": "low"
+    }
+  ]
+}

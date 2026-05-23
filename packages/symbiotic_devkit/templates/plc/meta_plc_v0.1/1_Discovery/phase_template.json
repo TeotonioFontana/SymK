@@ -1,0 +1,36 @@
+{
+  "kind": "meta",
+  "phase_id": "1_Discovery",
+  "name": "Discovery",
+  "version": "0.1.0",
+  "outputs_schema": [
+    {
+      "id": "product_vision",
+      "label": "Product Vision",
+      "type": "document",
+      "required": true,
+      "default_path": "1.1_Product_Vision/README.md"
+    },
+    {
+      "id": "market_research",
+      "label": "Market Research",
+      "type": "document",
+      "required": true,
+      "default_path": "1.2_Market_Research/README.md"
+    },
+    {
+      "id": "stakeholder_map",
+      "label": "Stakeholder Map",
+      "type": "document",
+      "required": true,
+      "default_path": "1.3_Stakeholder_Map/README.md"
+    },
+    {
+      "id": "project_model_canvas",
+      "label": "Project Model Canvas",
+      "type": "document",
+      "required": false,
+      "default_path": "1.4_Project_Model_Canvas/README.md"
+    }
+  ]
+}

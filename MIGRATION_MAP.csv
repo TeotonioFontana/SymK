@@ -1,0 +1,468 @@
+source_path,dest_path,rule,status
+Archive/1_Discovery/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/Archive/1_Discovery/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/Archive/1_Discovery/._1.6_Discovery_Outcomes,misc/__MACOSX/Archive/1_Discovery/._1.6_Discovery_Outcomes,misc passthrough,moved
+Archive/1_Discovery/README.md,docs/90_ARCHIVE/1_Discovery/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._1_Discovery,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._1_Discovery,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._5_Development,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._5_Development,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._6_Testing,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._6_Testing,misc passthrough,moved
+Archive/PLC-Product Life Cycle/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/Archive/PLC-Product Life Cycle/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/Archive/PLC-Product Life Cycle/._9_GTM,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._9_GTM,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._8_Operations,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._8_Operations,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._10_Documentation,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._10_Documentation,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._2_Architecture,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._2_Architecture,misc passthrough,moved
+Archive/PLC-Product Life Cycle/SymK Full Product Lifecycle Framework v1.docx,docs/90_ARCHIVE/PLC-Product_Life_Cycle/SymK_Full_Product_Lifecycle_Framework_v1.docx,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._SymK Full Product Lifecycle Framework v1.docx,docs/30_GUIDES/_UNCLASSIFIED/._SymK_Full_Product_Lifecycle_Framework_v1.docx,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/._4_Design,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._4_Design,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._3_Planning,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._3_Planning,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/._7_Deployment,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/._7_Deployment,misc passthrough,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.1_Decision_Framework,misc/__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.1_Decision_Framework,misc passthrough,moved
+Archive/1_Discovery/1.6_Discovery_Outcomes/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6_Discovery_Outcomes2.md,docs/90_ARCHIVE/1_Discovery/1.6_Discovery_Outcomes/1.6_Discovery_Outcomes2.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6_Discovery_Outcomes2.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6_Discovery_Outcomes2.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.2_Business_Size_Fit_Template,misc/__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.2_Business_Size_Fit_Template,misc passthrough,moved
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6_Discovery_Outcomes.md,docs/90_ARCHIVE/1_Discovery/1.6_Discovery_Outcomes/1.6_Discovery_Outcomes.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6_Discovery_Outcomes.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6_Discovery_Outcomes.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.3_Consulting_Leverage_Template,misc/__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.3_Consulting_Leverage_Template,misc passthrough,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.4_Career_Leverage_Template,misc/__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.4_Career_Leverage_Template,misc passthrough,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.5_Success_Metrics_and_Risks_Template,misc/__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6.5_Success_Metrics_and_Risks_Template,misc passthrough,moved
+Archive/1_Discovery/1.6_Outcomes/PLC_META_1_6_Discovery_Outcomes_Template.md,docs/90_ARCHIVE/1_Discovery/1.6_Outcomes/PLC_META_1_6_Discovery_Outcomes_Template.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Outcomes/._PLC_META_1_6_Discovery_Outcomes_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._PLC_META_1_6_Discovery_Outcomes_Template.md,doc -> GUIDE default (unclassified),moved
+Archive/1_Discovery/1.6_Outcomes/PLC_IaaC_1_6_Discovery_Outcomes.md,docs/90_ARCHIVE/1_Discovery/1.6_Outcomes/PLC_IaaC_1_6_Discovery_Outcomes.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Outcomes/._PLC_IaaC_1_6_Discovery_Outcomes.md,docs/30_GUIDES/_UNCLASSIFIED/._PLC_IaaC_1_6_Discovery_Outcomes.md,doc -> GUIDE default (unclassified),moved
+Archive/1_Discovery/1.4_Available_Methodologies/IaaC_discovery_methodologies_PLC_1_4_draft.md,docs/90_ARCHIVE/1_Discovery/1.4_Available_Methodologies/IaaC_discovery_methodologies_PLC_1_4_draft.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.4_Available_Methodologies/._IaaC_discovery_methodologies_PLC_1_4_draft.md,docs/30_GUIDES/_UNCLASSIFIED/._IaaC_discovery_methodologies_PLC_1_4_draft.md,doc -> GUIDE default (unclassified),moved
+Archive/1_Discovery/1.4_Available_Methodologies/IaaC_PLC1_discovery_methodologies_1_4_draft_v2.md,docs/90_ARCHIVE/1_Discovery/1.4_Available_Methodologies/IaaC_PLC1_discovery_methodologies_1_4_draft_v2.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.4_Available_Methodologies/._IaaC_PLC1_discovery_methodologies_1_4_draft_v2.md,docs/30_GUIDES/_UNCLASSIFIED/._IaaC_PLC1_discovery_methodologies_1_4_draft_v2.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/._1.3_Stakeholder_Map,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/1_Discovery/._1.3_Stakeholder_Map,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/._1.2_Market_Research,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/1_Discovery/._1.2_Market_Research,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/._1.1_Product_Vision,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/1_Discovery/._1.1_Product_Vision,misc passthrough,moved
+Archive/PLC-Product Life Cycle/1_Discovery/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/1_Discovery/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/5_Development/._5.1_Backend,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/5_Development/._5.1_Backend,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/5_Development/._5.3_Infrastructure,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/5_Development/._5.3_Infrastructure,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/5_Development/._5.2_Frontend,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/5_Development/._5.2_Frontend,misc passthrough,moved
+Archive/PLC-Product Life Cycle/5_Development/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/5_Development/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/5_Development/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/._6.3_Security_Tests,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/6_Testing/._6.3_Security_Tests,misc passthrough,moved
+Archive/PLC-Product Life Cycle/6_Testing/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/6_Testing/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/._6.2_QA_Suites,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/6_Testing/._6.2_QA_Suites,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/._6.1_Test_Plans,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/6_Testing/._6.1_Test_Plans,misc passthrough,moved
+Archive/PLC-Product Life Cycle/Users Manuals/SymK_PLC_reference_manual.docx,docs/90_ARCHIVE/PLC-Product_Life_Cycle/Users_Manuals/SymK_PLC_reference_manual.docx,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/Users Manuals/._SymK_PLC_reference_manual.docx,docs/40_PLAYBOOKS/._SymK_PLC_reference_manual.docx,doc -> PLAYBOOK keywords,moved
+__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/._9.2_Sales_Enablement,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/9_GTM/._9.2_Sales_Enablement,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/._9.1_Positioning,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/9_GTM/._9.1_Positioning,misc passthrough,moved
+Archive/PLC-Product Life Cycle/9_GTM/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/9_GTM/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/._9.3_Pricing,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/9_GTM/._9.3_Pricing,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/._8.3_Performance_Tuning,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/8_Operations/._8.3_Performance_Tuning,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/._8.2_Incident_Response,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/8_Operations/._8.2_Incident_Response,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/._8.1_SRE_Procedures,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/8_Operations/._8.1_SRE_Procedures,misc passthrough,moved
+Archive/PLC-Product Life Cycle/8_Operations/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/8_Operations/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/._10.2_User_Docs,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/10_Documentation/._10.2_User_Docs,misc passthrough,moved
+Archive/PLC-Product Life Cycle/10_Documentation/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/10_Documentation/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/._10.3_Release_Notes,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/10_Documentation/._10.3_Release_Notes,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/._10.1_Technical_Docs,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/10_Documentation/._10.1_Technical_Docs,misc passthrough,moved
+Archive/PLC-Product Life Cycle/2_Architecture/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/2_Architecture/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/._2.1_System_Blueprints,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/2_Architecture/._2.1_System_Blueprints,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/._2.2_Reference_Stacks,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/2_Architecture/._2.2_Reference_Stacks,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/._2.3_Security_Model,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/2_Architecture/._2.3_Security_Model,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/4_Design/._4.3_Design_System,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/4_Design/._4.3_Design_System,misc passthrough,moved
+Archive/PLC-Product Life Cycle/4_Design/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/4_Design/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/4_Design/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/4_Design/._4.1_UX_Flows,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/4_Design/._4.1_UX_Flows,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/4_Design/._4.2_IA_Diagrams,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/4_Design/._4.2_IA_Diagrams,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/._3.2_Release_Trains,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/3_Planning/._3.2_Release_Trains,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/._3.1_Roadmap,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/3_Planning/._3.1_Roadmap,misc passthrough,moved
+Archive/PLC-Product Life Cycle/3_Planning/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/3_Planning/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/._3.3_Scope_Definition,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/3_Planning/._3.3_Scope_Definition,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/._7.1_Runtime_Configs,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/7_Deployment/._7.1_Runtime_Configs,misc passthrough,moved
+__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/._7.2_CICD_Pipelines,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/7_Deployment/._7.2_CICD_Pipelines,misc passthrough,moved
+Archive/PLC-Product Life Cycle/7_Deployment/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/7_Deployment/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/._7.3_Observability,misc/__MACOSX/Archive/PLC-Product_Life_Cycle/7_Deployment/._7.3_Observability,misc passthrough,moved
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/1.6.1_Decision_Framework_Template2.md,docs/90_ARCHIVE/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/1.6.1_Decision_Framework_Template2.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/._1.6.1_Decision_Framework_Template2.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.1_Decision_Framework_Template2.md,doc -> GUIDE default (unclassified),moved
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/1.6.1_Decision_Framework_Template.md,docs/90_ARCHIVE/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/1.6.1_Decision_Framework_Template.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/._1.6.1_Decision_Framework_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.1_Decision_Framework_Template.md,doc -> GUIDE default (unclassified),moved
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/1.6.2_Business_Size_Fit_Template.md,docs/90_ARCHIVE/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/1.6.2_Business_Size_Fit_Template.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/._1.6.2_Business_Size_Fit_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.2_Business_Size_Fit_Template.md,doc -> GUIDE default (unclassified),moved
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/1.6.3_Consulting_Leverage_Template.md,docs/90_ARCHIVE/1_Discovery/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/1.6.3_Consulting_Leverage_Template.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/._1.6.3_Consulting_Leverage_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.3_Consulting_Leverage_Template.md,doc -> GUIDE default (unclassified),moved
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/1.6.4_Career_Leverage_Template.md,docs/90_ARCHIVE/1_Discovery/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/1.6.4_Career_Leverage_Template.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/._1.6.4_Career_Leverage_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.4_Career_Leverage_Template.md,doc -> GUIDE default (unclassified),moved
+Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/1.6.5_Success_Metrics_and_Risks_Template.md,docs/90_ARCHIVE/1_Discovery/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/1.6.5_Success_Metrics_and_Risks_Template.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/._1.6.5_Success_Metrics_and_Risks_Template.md,docs/10_POLICIES/._1.6.5_Success_Metrics_and_Risks_Template.md,doc -> POLICY keywords,moved
+Archive/PLC-Product Life Cycle/1_Discovery/1.3_Stakeholder_Map/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/1_Discovery/1.3_Stakeholder_Map/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/1.3_Stakeholder_Map/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/1_Discovery/1.2_Market_Research/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/1_Discovery/1.2_Market_Research/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/1.2_Market_Research/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/1_Discovery/1.1_Product_Vision/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/1_Discovery/1.1_Product_Vision/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/1.1_Product_Vision/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/5_Development/5.1_Backend/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/5_Development/5.1_Backend/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/5_Development/5.1_Backend/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/5_Development/5.3_Infrastructure/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/5_Development/5.3_Infrastructure/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/5_Development/5.3_Infrastructure/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/5_Development/5.2_Frontend/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/5_Development/5.2_Frontend/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/5_Development/5.2_Frontend/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/6_Testing/6.3_Security_Tests/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/6_Testing/6.3_Security_Tests/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/6.3_Security_Tests/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/6_Testing/6.2_QA_Suites/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/6_Testing/6.2_QA_Suites/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/6.2_QA_Suites/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/6_Testing/6.1_Test_Plans/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/6_Testing/6.1_Test_Plans/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/6.1_Test_Plans/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/9_GTM/9.2_Sales_Enablement/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/9_GTM/9.2_Sales_Enablement/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/9.2_Sales_Enablement/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/9_GTM/9.1_Positioning/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/9_GTM/9.1_Positioning/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/9.1_Positioning/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/9_GTM/9.3_Pricing/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/9_GTM/9.3_Pricing/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/9.3_Pricing/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/8_Operations/8.3_Performance_Tuning/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/8_Operations/8.3_Performance_Tuning/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/8.3_Performance_Tuning/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/8_Operations/8.2_Incident_Response/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/8_Operations/8.2_Incident_Response/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/8.2_Incident_Response/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/8_Operations/8.1_SRE_Procedures/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/8_Operations/8.1_SRE_Procedures/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/8.1_SRE_Procedures/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/10_Documentation/10.2_User_Docs/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/10_Documentation/10.2_User_Docs/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/10.2_User_Docs/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/10_Documentation/10.3_Release_Notes/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/10_Documentation/10.3_Release_Notes/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/10.3_Release_Notes/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/10_Documentation/10.1_Technical_Docs/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/10_Documentation/10.1_Technical_Docs/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/10.1_Technical_Docs/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/2_Architecture/2.1_System_Blueprints/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/2_Architecture/2.1_System_Blueprints/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/2.1_System_Blueprints/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/2_Architecture/2.2_Reference_Stacks/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/2_Architecture/2.2_Reference_Stacks/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/2.2_Reference_Stacks/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/2_Architecture/2.3_Security_Model/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/2_Architecture/2.3_Security_Model/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/2.3_Security_Model/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/4_Design/4.3_Design_System/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/4_Design/4.3_Design_System/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/4_Design/4.3_Design_System/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/4_Design/4.1_UX_Flows/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/4_Design/4.1_UX_Flows/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/4_Design/4.1_UX_Flows/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/4_Design/4.2_IA_Diagrams/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/4_Design/4.2_IA_Diagrams/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/4_Design/4.2_IA_Diagrams/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/3_Planning/3.2_Release_Trains/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/3_Planning/3.2_Release_Trains/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/3.2_Release_Trains/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/3_Planning/3.1_Roadmap/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/3_Planning/3.1_Roadmap/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/3.1_Roadmap/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/3_Planning/3.3_Scope_Definition/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/3_Planning/3.3_Scope_Definition/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/3.3_Scope_Definition/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/7_Deployment/7.1_Runtime_Configs/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/7_Deployment/7.1_Runtime_Configs/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/7.1_Runtime_Configs/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/7_Deployment/7.2_CICD_Pipelines/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/7_Deployment/7.2_CICD_Pipelines/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/7.2_CICD_Pipelines/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/7_Deployment/7.3_Observability/README.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/7_Deployment/7.3_Observability/README.md,Archive docs -> docs/90_ARCHIVE,moved
+__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/7.3_Observability/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+Archive/PLC-Product Life Cycle/1_Discovery/1.1_Product_Vision/1.1_Product_Vision/product_vision.md,docs/90_ARCHIVE/PLC-Product_Life_Cycle/1_Discovery/1.1_Product_Vision/1.1_Product_Vision/product_vision.md,Archive docs -> docs/90_ARCHIVE,moved
+Archive/PLC-Product Life Cycle/1_Discovery/1.1_Product_Vision/1.1_Product_Vision/product_vision.json,docs/90_ARCHIVE/PLC-Product_Life_Cycle/1_Discovery/1.1_Product_Vision/1.1_Product_Vision/product_vision.json,Archive misc -> docs/90_ARCHIVE,moved
+auxiliary_tools/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/auxiliary_tools/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+auxiliary_tools/md2pdf/symk_md2pdf_runner.py,packages/md2pdf/symk_md2pdf_runner.py,auxiliary_tools/md2pdf -> packages/md2pdf,moved
+__MACOSX/auxiliary_tools/md2pdf/._symk_md2pdf_runner.py,misc/__MACOSX/auxiliary_tools/md2pdf/._symk_md2pdf_runner.py,misc passthrough,moved
+auxiliary_tools/md2pdf/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/auxiliary_tools/md2pdf/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+auxiliary_tools/md2pdf/__init__.py,packages/md2pdf/__init__.py,auxiliary_tools/md2pdf -> packages/md2pdf,moved
+auxiliary_tools/md2pdf/symk_md2pdf_runner.textClipping,packages/md2pdf/symk_md2pdf_runner.textClipping,auxiliary_tools/md2pdf -> packages/md2pdf,moved
+__MACOSX/auxiliary_tools/md2pdf/._symk_md2pdf_runner.textClipping,misc/__MACOSX/auxiliary_tools/md2pdf/._symk_md2pdf_runner.textClipping,misc passthrough,moved
+auxiliary_tools/md2pdf/symk_whitebook.css,packages/md2pdf/symk_whitebook.css,auxiliary_tools/md2pdf -> packages/md2pdf,moved
+__MACOSX/auxiliary_tools/md2pdf/._symk_whitebook.css,misc/__MACOSX/auxiliary_tools/md2pdf/._symk_whitebook.css,misc passthrough,moved
+Contracts/sshConnectivity.runtime.schema.yaml,contracts/sshConnectivity.runtime.schema.yaml,Contracts -> contracts/,moved
+Contracts/dev_environment.schema.yaml,contracts/dev_environment.schema.yaml,Contracts -> contracts/,moved
+Contracts/sshMenu.schema.yaml,contracts/sshMenu.schema.yaml,Contracts -> contracts/,moved
+Contracts/sshConnectivity.schema.yaml,contracts/sshConnectivity.schema.yaml,Contracts -> contracts/,moved
+Contracts/services.topology.schema.yaml,contracts/services.topology.schema.yaml,Contracts -> contracts/,moved
+Contracts/services.schema.yaml,contracts/services.schema.yaml,Contracts -> contracts/,moved
+Foundations/Properties_Dictionary.md,docs/50_MODELS/Properties_Dictionary.md,Foundations -> MODEL keywords,moved
+__MACOSX/Foundations/._Properties_Dictionary.md,docs/50_MODELS/._Properties_Dictionary.md,doc -> MODEL keywords,moved
+Foundations/SymK_Philosophy.md,docs/00_AXIOMS/SymK_Philosophy.md,Foundations -> AXIOM keywords,moved
+__MACOSX/Foundations/._SymK_Philosophy.md,docs/00_AXIOMS/._SymK_Philosophy.md,doc -> AXIOM keywords,moved
+Foundations/web_product_architecture_statement_of_truth.md,docs/20_STANDARDS/architecture/web_product_architecture_statement_of_truth.md,Foundations -> STANDARD: architecture,moved
+__MACOSX/Foundations/._web_product_architecture_statement_of_truth.md,docs/20_STANDARDS/architecture/._web_product_architecture_statement_of_truth.md,doc -> STANDARD: architecture,moved
+Foundations/configuration-model-overview.md,docs/50_MODELS/configuration-model-overview.md,Foundations -> MODEL keywords,moved
+__MACOSX/Foundations/._configuration-model-overview.md,docs/50_MODELS/._configuration-model-overview.md,doc -> MODEL keywords,moved
+Foundations/property-dictionary_old.md,docs/50_MODELS/property-dictionary_old.md,Foundations -> MODEL keywords,moved
+__MACOSX/Foundations/._property-dictionary_old.md,docs/50_MODELS/._property-dictionary_old.md,doc -> MODEL keywords,moved
+Guidelines/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/Guidelines/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+Guidelines/SymK_Markdown_Rules.md,docs/20_STANDARDS/documentation/SymK_Markdown_Rules.md,Guidelines -> STANDARD: documentation,moved
+__MACOSX/Guidelines/._SymK_Markdown_Rules.md,docs/20_STANDARDS/documentation/._SymK_Markdown_Rules.md,doc -> STANDARD: documentation,moved
+Guidelines/SymK_FastAPI_Endpoint_Architecture_Guideline.md,docs/20_STANDARDS/architecture/SymK_FastAPI_Endpoint_Architecture_Guideline.md,Guidelines -> STANDARD: architecture,moved
+__MACOSX/Guidelines/._SymK_FastAPI_Endpoint_Architecture_Guideline.md,docs/20_STANDARDS/architecture/._SymK_FastAPI_Endpoint_Architecture_Guideline.md,doc -> STANDARD: architecture,moved
+Guidelines/SymK_API_Online_Documentation_Guidelines.md,docs/20_STANDARDS/architecture/SymK_API_Online_Documentation_Guidelines.md,Guidelines -> STANDARD: architecture,moved
+__MACOSX/Guidelines/._SymK_API_Online_Documentation_Guidelines.md,docs/20_STANDARDS/architecture/._SymK_API_Online_Documentation_Guidelines.md,doc -> STANDARD: architecture,moved
+Marketing Strategies/Ai  Venture Engine.docx,docs/60_PRODUCTS/Marketing_Strategies/Ai__Venture_Engine.docx,Marketing_Strategies -> PRODUCT: marketing,moved
+__MACOSX/Marketing Strategies/._Ai  Venture Engine.docx,docs/60_PRODUCTS/Marketing_Strategies/._Ai__Venture_Engine.docx,doc -> PRODUCT: marketing,moved
+__MACOSX/PLC_META/._1_Discovery,misc/__MACOSX/PLC_META/._1_Discovery,misc passthrough,moved
+PLC_META/How_to_Run_PLC_1_Discovery.md,plc/meta/How_to_Run_PLC_1_Discovery.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/._How_to_Run_PLC_1_Discovery.md,docs/40_PLAYBOOKS/._How_to_Run_PLC_1_Discovery.md,doc -> PLAYBOOK keywords,moved
+PLC_META/SymK_Postgres_JSON_Design_Conversation_2025-12-12.md,plc/meta/SymK_Postgres_JSON_Design_Conversation_2025-12-12.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/._SymK_Postgres_JSON_Design_Conversation_2025-12-12.md,docs/30_GUIDES/_UNCLASSIFIED/._SymK_Postgres_JSON_Design_Conversation_2025-12-12.md,doc -> GUIDE default (unclassified),moved
+PLC_META/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+PLC_META/meta_plc.json,plc/meta/meta_plc.json,PLC_META -> plc/meta/,moved
+PLC_META/Skip to content.docx,plc/meta/Skip_to_content.docx,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/._Skip to content.docx,docs/30_GUIDES/_UNCLASSIFIED/._Skip_to_content.docx,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery.zip,plc/meta/1_Discovery.zip,PLC_META -> plc/meta/,moved
+PLC_META/SymK- supporting architecture.docx,plc/meta/SymK-_supporting_architecture.docx,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/._SymK- supporting architecture.docx,docs/20_STANDARDS/architecture/._SymK-_supporting_architecture.docx,doc -> STANDARD: architecture,moved
+PLC_META/1_Discovery/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery/._1.6_Discovery_Outcomes,misc/__MACOSX/PLC_META/1_Discovery/._1.6_Discovery_Outcomes,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery/._1.2_Market_Research_Template,misc/__MACOSX/PLC_META/1_Discovery/._1.2_Market_Research_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery/._1.4_Discovery_Methodologies_Template,misc/__MACOSX/PLC_META/1_Discovery/._1.4_Discovery_Methodologies_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery/._1.3_Stakeholder_Map_Template,misc/__MACOSX/PLC_META/1_Discovery/._1.3_Stakeholder_Map_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery/._1.1_Product_Vision_Template,misc/__MACOSX/PLC_META/1_Discovery/._1.1_Product_Vision_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery/._1.5_Discovery_Tools_Template,misc/__MACOSX/PLC_META/1_Discovery/._1.5_Discovery_Tools_Template,misc passthrough,moved
+PLC_META/2_Architecture/README.md,plc/meta/2_Architecture/README.md,PLC_META -> plc/meta/,moved
+PLC_META/1_Discovery_old/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery_old/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery_old/._1.6_Discovery_Outcomes,misc/__MACOSX/PLC_META/1_Discovery_old/._1.6_Discovery_Outcomes,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery_old/._1.2_Market_Research_Template,misc/__MACOSX/PLC_META/1_Discovery_old/._1.2_Market_Research_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery_old/._1.4_Discovery_Methodologies_Template,misc/__MACOSX/PLC_META/1_Discovery_old/._1.4_Discovery_Methodologies_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery_old/._1.3_Stakeholder_Map_Template,misc/__MACOSX/PLC_META/1_Discovery_old/._1.3_Stakeholder_Map_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery_old/._1.1_Product_Vision_Template,misc/__MACOSX/PLC_META/1_Discovery_old/._1.1_Product_Vision_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery_old/._1.5_Discovery_Tools_Template,misc/__MACOSX/PLC_META/1_Discovery_old/._1.5_Discovery_Tools_Template,misc passthrough,moved
+PLC_META/3_Planning/README.md,plc/meta/3_Planning/README.md,PLC_META -> plc/meta/,moved
+PLC_META/User_Manuals/SymK_Product_Designers_Manual.md,plc/meta/User_Manuals/SymK_Product_Designers_Manual.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/User_Manuals/._SymK_Product_Designers_Manual.md,docs/40_PLAYBOOKS/._SymK_Product_Designers_Manual.md,doc -> PLAYBOOK keywords,moved
+PLC_META/User_Manuals/SymK_Product_Designers_Manual.pdf,plc/meta/User_Manuals/SymK_Product_Designers_Manual.pdf,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/User_Manuals/._SymK_Product_Designers_Manual.pdf,docs/40_PLAYBOOKS/._SymK_Product_Designers_Manual.pdf,doc -> PLAYBOOK keywords,moved
+PLC_META/User_Manuals/SymK_PLC_reference_manual.md,plc/meta/User_Manuals/SymK_PLC_reference_manual.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/User_Manuals/._SymK_PLC_reference_manual.md,docs/40_PLAYBOOKS/._SymK_PLC_reference_manual.md,doc -> PLAYBOOK keywords,moved
+PLC_META/User_Manuals/SymK_PLC_reference_manual_v2.docx,plc/meta/User_Manuals/SymK_PLC_reference_manual_v2.docx,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/User_Manuals/._SymK_PLC_reference_manual_v2.docx,docs/40_PLAYBOOKS/._SymK_PLC_reference_manual_v2.docx,doc -> PLAYBOOK keywords,moved
+PLC_META/User_Manuals/SymK_Users_Manual.md,plc/meta/User_Manuals/SymK_Users_Manual.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/User_Manuals/._SymK_Users_Manual.md,docs/40_PLAYBOOKS/._SymK_Users_Manual.md,doc -> PLAYBOOK keywords,moved
+PLC_META/User_Manuals/PLC_Chapter_10_Product_Vision.md,plc/meta/User_Manuals/PLC_Chapter_10_Product_Vision.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/User_Manuals/._PLC_Chapter_10_Product_Vision.md,docs/30_GUIDES/_UNCLASSIFIED/._PLC_Chapter_10_Product_Vision.md,doc -> GUIDE default (unclassified),moved
+PLC_META/User_Manuals/PLC_Chapter_10_Product_Vision_Features.md,plc/meta/User_Manuals/PLC_Chapter_10_Product_Vision_Features.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/User_Manuals/._PLC_Chapter_10_Product_Vision_Features.md,docs/30_GUIDES/_UNCLASSIFIED/._PLC_Chapter_10_Product_Vision_Features.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.1_Decision_Framework,misc/__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.1_Decision_Framework,misc passthrough,moved
+PLC_META/1_Discovery/1.6_Discovery_Outcomes/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.2_Business_Size_Fit_Template,misc/__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.2_Business_Size_Fit_Template,misc passthrough,moved
+PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6_Discovery_Outcomes.md,plc/meta/1_Discovery/1.6_Discovery_Outcomes/1.6_Discovery_Outcomes.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6_Discovery_Outcomes.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6_Discovery_Outcomes.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.3_Consulting_Leverage_Template,misc/__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.3_Consulting_Leverage_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.4_Career_Leverage_Template,misc/__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.4_Career_Leverage_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.5_Success_Metrics_and_Risks_Template,misc/__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6.5_Success_Metrics_and_Risks_Template,misc passthrough,moved
+PLC_META/1_Discovery/1.2_Market_Research_Template/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery/1.2_Market_Research_Template/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+PLC_META/1_Discovery/1.2_Market_Research_Template/1.2_Market_Research_Template.md,plc/meta/1_Discovery/1.2_Market_Research_Template/1.2_Market_Research_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.2_Market_Research_Template/._1.2_Market_Research_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.2_Market_Research_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.2_Market_Research_Template/1.2_Market_Research.md,plc/meta/1_Discovery/1.2_Market_Research_Template/1.2_Market_Research.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.2_Market_Research_Template/._1.2_Market_Research.md,docs/30_GUIDES/_UNCLASSIFIED/._1.2_Market_Research.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.4_Discovery_Methodologies_Template/1.4_Discovery_Methodologies_Template.md,plc/meta/1_Discovery/1.4_Discovery_Methodologies_Template/1.4_Discovery_Methodologies_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.4_Discovery_Methodologies_Template/._1.4_Discovery_Methodologies_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.4_Discovery_Methodologies_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.4_Discovery_Methodologies_Template/1.4_Discovery_Methodologies.md,plc/meta/1_Discovery/1.4_Discovery_Methodologies_Template/1.4_Discovery_Methodologies.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.4_Discovery_Methodologies_Template/._1.4_Discovery_Methodologies.md,docs/30_GUIDES/_UNCLASSIFIED/._1.4_Discovery_Methodologies.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.3_Stakeholder_Map_Template/1.3_Stakeholder_Map_Template.md,plc/meta/1_Discovery/1.3_Stakeholder_Map_Template/1.3_Stakeholder_Map_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.3_Stakeholder_Map_Template/._1.3_Stakeholder_Map_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.3_Stakeholder_Map_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.3_Stakeholder_Map_Template/1.3_Stakeholder_Map.md,plc/meta/1_Discovery/1.3_Stakeholder_Map_Template/1.3_Stakeholder_Map.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.3_Stakeholder_Map_Template/._1.3_Stakeholder_Map.md,docs/30_GUIDES/_UNCLASSIFIED/._1.3_Stakeholder_Map.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.1_Product_Vision_Template/1.1_Product_Vision_Template.md,plc/meta/1_Discovery/1.1_Product_Vision_Template/1.1_Product_Vision_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.1_Product_Vision_Template/._1.1_Product_Vision_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.1_Product_Vision_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.1_Product_Vision_Template/1.1_Product_Vision.md,plc/meta/1_Discovery/1.1_Product_Vision_Template/1.1_Product_Vision.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.1_Product_Vision_Template/._1.1_Product_Vision.md,docs/30_GUIDES/_UNCLASSIFIED/._1.1_Product_Vision.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.5_Discovery_Tools_Template/1.5_Discovery_Tools.md,plc/meta/1_Discovery/1.5_Discovery_Tools_Template/1.5_Discovery_Tools.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.5_Discovery_Tools_Template/._1.5_Discovery_Tools.md,docs/30_GUIDES/_UNCLASSIFIED/._1.5_Discovery_Tools.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.5_Discovery_Tools_Template/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery/1.5_Discovery_Tools_Template/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+PLC_META/1_Discovery/1.5_Discovery_Tools_Template/1.5_Discovery_Tools_Catalog.md,plc/meta/1_Discovery/1.5_Discovery_Tools_Template/1.5_Discovery_Tools_Catalog.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.5_Discovery_Tools_Template/._1.5_Discovery_Tools_Catalog.md,docs/30_GUIDES/_UNCLASSIFIED/._1.5_Discovery_Tools_Catalog.md,doc -> GUIDE default (unclassified),moved
+PLC_META/2_Architecture/2.1_System_Blueprints/README.md,plc/meta/2_Architecture/2.1_System_Blueprints/README.md,PLC_META -> plc/meta/,moved
+PLC_META/2_Architecture/2.2_Reference_Stacks/README.md,plc/meta/2_Architecture/2.2_Reference_Stacks/README.md,PLC_META -> plc/meta/,moved
+PLC_META/2_Architecture/2.3_Security_Model/README.md,plc/meta/2_Architecture/2.3_Security_Model/README.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.1_Decision_Framework,misc/__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.1_Decision_Framework,misc passthrough,moved
+PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.2_Business_Size_Fit_Template,misc/__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.2_Business_Size_Fit_Template,misc passthrough,moved
+PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6_Discovery_Outcomes.md,plc/meta/1_Discovery_old/1.6_Discovery_Outcomes/1.6_Discovery_Outcomes.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6_Discovery_Outcomes.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6_Discovery_Outcomes.md,doc -> GUIDE default (unclassified),moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.3_Consulting_Leverage_Template,misc/__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.3_Consulting_Leverage_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.4_Career_Leverage_Template,misc/__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.4_Career_Leverage_Template,misc passthrough,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.5_Success_Metrics_and_Risks_Template,misc/__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6.5_Success_Metrics_and_Risks_Template,misc passthrough,moved
+PLC_META/1_Discovery_old/1.2_Market_Research_Template/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery_old/1.2_Market_Research_Template/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+PLC_META/1_Discovery_old/1.2_Market_Research_Template/1.2_Market_Research_Template.md,plc/meta/1_Discovery_old/1.2_Market_Research_Template/1.2_Market_Research_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.2_Market_Research_Template/._1.2_Market_Research_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.2_Market_Research_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.2_Market_Research_Template/1.2_Market_Research.md,plc/meta/1_Discovery_old/1.2_Market_Research_Template/1.2_Market_Research.md,PLC_META -> plc/meta/,moved
+PLC_META/1_Discovery_old/1.4_Discovery_Methodologies_Template/1.4_Discovery_Methodologies_Template.md,plc/meta/1_Discovery_old/1.4_Discovery_Methodologies_Template/1.4_Discovery_Methodologies_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.4_Discovery_Methodologies_Template/._1.4_Discovery_Methodologies_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.4_Discovery_Methodologies_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.4_Discovery_Methodologies_Template/1.4_Discovery_Methodologies.md,plc/meta/1_Discovery_old/1.4_Discovery_Methodologies_Template/1.4_Discovery_Methodologies.md,PLC_META -> plc/meta/,moved
+PLC_META/1_Discovery_old/1.3_Stakeholder_Map_Template/1.3_Stakeholder_Map_Template.md,plc/meta/1_Discovery_old/1.3_Stakeholder_Map_Template/1.3_Stakeholder_Map_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.3_Stakeholder_Map_Template/._1.3_Stakeholder_Map_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.3_Stakeholder_Map_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.3_Stakeholder_Map_Template/1.3_Stakeholder_Map.md,plc/meta/1_Discovery_old/1.3_Stakeholder_Map_Template/1.3_Stakeholder_Map.md,PLC_META -> plc/meta/,moved
+PLC_META/1_Discovery_old/1.1_Product_Vision_Template/1.1_Product_Vision_Template.md,plc/meta/1_Discovery_old/1.1_Product_Vision_Template/1.1_Product_Vision_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.1_Product_Vision_Template/._1.1_Product_Vision_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.1_Product_Vision_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.1_Product_Vision_Template/1.1_Product_Vision.md,plc/meta/1_Discovery_old/1.1_Product_Vision_Template/1.1_Product_Vision.md,PLC_META -> plc/meta/,moved
+PLC_META/1_Discovery_old/1.5_Discovery_Tools_Template/1.5_Discovery_Tools.md,plc/meta/1_Discovery_old/1.5_Discovery_Tools_Template/1.5_Discovery_Tools.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.5_Discovery_Tools_Template/._1.5_Discovery_Tools.md,docs/30_GUIDES/_UNCLASSIFIED/._1.5_Discovery_Tools.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.5_Discovery_Tools_Template/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/PLC_META/1_Discovery_old/1.5_Discovery_Tools_Template/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+PLC_META/1_Discovery_old/1.5_Discovery_Tools_Template/1.5_Discovery_Tools_Catalog.md,plc/meta/1_Discovery_old/1.5_Discovery_Tools_Template/1.5_Discovery_Tools_Catalog.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.5_Discovery_Tools_Template/._1.5_Discovery_Tools_Catalog.md,docs/30_GUIDES/_UNCLASSIFIED/._1.5_Discovery_Tools_Catalog.md,doc -> GUIDE default (unclassified),moved
+PLC_META/3_Planning/3.2_Release_Trains/README.md,plc/meta/3_Planning/3.2_Release_Trains/README.md,PLC_META -> plc/meta/,moved
+PLC_META/3_Planning/3.1_Roadmap/README.md,plc/meta/3_Planning/3.1_Roadmap/README.md,PLC_META -> plc/meta/,moved
+PLC_META/3_Planning/3.3_Scope_Definition/README.md,plc/meta/3_Planning/3.3_Scope_Definition/README.md,PLC_META -> plc/meta/,moved
+PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/1.6.1_Decision_Framework_Template.md,plc/meta/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/1.6.1_Decision_Framework_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/._1.6.1_Decision_Framework_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.1_Decision_Framework_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/1.6.2_Business_Size_Fit_Template.md,plc/meta/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/1.6.2_Business_Size_Fit_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/._1.6.2_Business_Size_Fit_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.2_Business_Size_Fit_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/1.6.3_Consulting_Leverage_Template.md,plc/meta/1_Discovery/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/1.6.3_Consulting_Leverage_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/._1.6.3_Consulting_Leverage_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.3_Consulting_Leverage_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/1.6.4_Career_Leverage_Template.md,plc/meta/1_Discovery/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/1.6.4_Career_Leverage_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/._1.6.4_Career_Leverage_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.4_Career_Leverage_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/1.6.5_Success_Metrics_and_Risks_Template.md,plc/meta/1_Discovery/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/1.6.5_Success_Metrics_and_Risks_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/._1.6.5_Success_Metrics_and_Risks_Template.md,docs/10_POLICIES/._1.6.5_Success_Metrics_and_Risks_Template.md,doc -> POLICY keywords,moved
+PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/1.6.1_Decision_Framework_Template.md,plc/meta/1_Discovery_old/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/1.6.1_Decision_Framework_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/._1.6.1_Decision_Framework_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.1_Decision_Framework_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/1.6.2_Business_Size_Fit_Template.md,plc/meta/1_Discovery_old/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/1.6.2_Business_Size_Fit_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/._1.6.2_Business_Size_Fit_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.2_Business_Size_Fit_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/1.6.3_Consulting_Leverage_Template.md,plc/meta/1_Discovery_old/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/1.6.3_Consulting_Leverage_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/._1.6.3_Consulting_Leverage_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.3_Consulting_Leverage_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/1.6.4_Career_Leverage_Template.md,plc/meta/1_Discovery_old/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/1.6.4_Career_Leverage_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/._1.6.4_Career_Leverage_Template.md,docs/30_GUIDES/_UNCLASSIFIED/._1.6.4_Career_Leverage_Template.md,doc -> GUIDE default (unclassified),moved
+PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/1.6.5_Success_Metrics_and_Risks_Template.md,plc/meta/1_Discovery_old/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/1.6.5_Success_Metrics_and_Risks_Template.md,PLC_META -> plc/meta/,moved
+__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.5_Success_Metrics_and_Risks_Template/._1.6.5_Success_Metrics_and_Risks_Template.md,docs/10_POLICIES/._1.6.5_Success_Metrics_and_Risks_Template.md,doc -> POLICY keywords,moved
+__MACOSX/._symbiotic_devkit,misc/__MACOSX/._symbiotic_devkit,misc passthrough,moved
+symbiotic_devkit/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/__init__.py,packages/symbiotic_devkit/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/.___init__.py,misc/__MACOSX/symbiotic_devkit/.___init__.py,misc passthrough,moved
+__MACOSX/symbiotic_devkit/._cli,misc/__MACOSX/symbiotic_devkit/._cli,misc passthrough,moved
+__MACOSX/symbiotic_devkit/._templates,misc/__MACOSX/symbiotic_devkit/._templates,misc passthrough,moved
+__MACOSX/symbiotic_devkit/._codemods,misc/__MACOSX/symbiotic_devkit/._codemods,misc passthrough,moved
+symbiotic_devkit/tools/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/tools/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/__init__.py,packages/symbiotic_devkit/tools/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/scaffold_plc.py,packages/symbiotic_devkit/tools/scaffold_plc.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/cli/__init__.py,packages/symbiotic_devkit/cli/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/cli/main.py,packages/symbiotic_devkit/cli/main.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/cli/._main.py,misc/__MACOSX/symbiotic_devkit/cli/._main.py,misc passthrough,moved
+symbiotic_devkit/Human-AI Cooperation Rules/Symbiotic_Development_Protocol_Research_Foundation.md,docs/30_GUIDES/_UNCLASSIFIED/Symbiotic_Development_Protocol_Research_Foundation.md,symbiotic_devkit docs -> GUIDE default (unclassified),moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Symbiotic_Development_Protocol_Research_Foundation.md,docs/30_GUIDES/_UNCLASSIFIED/._Symbiotic_Development_Protocol_Research_Foundation.md,doc -> GUIDE default (unclassified),moved
+symbiotic_devkit/Human-AI Cooperation Rules/Design Rules.docx,docs/20_STANDARDS/architecture/Design_Rules.docx,symbiotic_devkit docs -> STANDARD: architecture,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Design Rules.docx,docs/20_STANDARDS/architecture/._Design_Rules.docx,doc -> STANDARD: architecture,moved
+symbiotic_devkit/Human-AI Cooperation Rules/Coding Rules.docx,docs/20_STANDARDS/coding/Coding_Rules.docx,symbiotic_devkit docs -> STANDARD: coding,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Coding Rules.docx,docs/20_STANDARDS/coding/._Coding_Rules.docx,doc -> STANDARD: coding,moved
+symbiotic_devkit/Human-AI Cooperation Rules/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/Human-AI Cooperation Rules/Compliance_Checklist.docx,docs/10_POLICIES/Compliance_Checklist.docx,symbiotic_devkit docs -> POLICY keywords,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Compliance_Checklist.docx,docs/10_POLICIES/._Compliance_Checklist.docx,doc -> POLICY keywords,moved
+symbiotic_devkit/Human-AI Cooperation Rules/symbiotic.yaml,docs/30_GUIDES/_UNCLASSIFIED/symbiotic.yaml,symbiotic_devkit docs -> GUIDE default (unclassified),moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._symbiotic.yaml,misc/__MACOSX/symbiotic_devkit/Human-AI_Cooperation_Rules/._symbiotic.yaml,misc passthrough,moved
+symbiotic_devkit/Human-AI Cooperation Rules/Technical Install Manual.docx,docs/40_PLAYBOOKS/Technical_Install_Manual.docx,symbiotic_devkit docs -> PLAYBOOK keywords,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Technical Install Manual.docx,docs/40_PLAYBOOKS/._Technical_Install_Manual.docx,doc -> PLAYBOOK keywords,moved
+symbiotic_devkit/Human-AI Cooperation Rules/additional coding rules.md,docs/20_STANDARDS/coding/additional_coding_rules.md,symbiotic_devkit docs -> STANDARD: coding,moved
+symbiotic_devkit/Human-AI Cooperation Rules/session_prompt.md,docs/40_PLAYBOOKS/session_prompt.md,symbiotic_devkit docs -> PLAYBOOK keywords,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._session_prompt.md,docs/40_PLAYBOOKS/._session_prompt.md,doc -> PLAYBOOK keywords,moved
+symbiotic_devkit/Human-AI Cooperation Rules/~$ding Rules.docx,docs/20_STANDARDS/general/~$ding_Rules.docx,symbiotic_devkit docs -> STANDARD: general,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._~$ding Rules.docx,docs/20_STANDARDS/general/._~$ding_Rules.docx,doc -> STANDARD: general,moved
+symbiotic_devkit/Human-AI Cooperation Rules/~$ssion Starter.docx,docs/30_GUIDES/_UNCLASSIFIED/~$ssion_Starter.docx,symbiotic_devkit docs -> GUIDE default (unclassified),moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._~$ssion Starter.docx,docs/30_GUIDES/_UNCLASSIFIED/._~$ssion_Starter.docx,doc -> GUIDE default (unclassified),moved
+symbiotic_devkit/Human-AI Cooperation Rules/purpose.md,docs/00_AXIOMS/purpose.md,symbiotic_devkit docs -> AXIOM keywords,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._purpose.md,docs/00_AXIOMS/._purpose.md,doc -> AXIOM keywords,moved
+symbiotic_devkit/Human-AI Cooperation Rules/Symbiotic_Development_Protocol_v1.0-alpha.md,docs/30_GUIDES/_UNCLASSIFIED/Symbiotic_Development_Protocol_v1.0-alpha.md,symbiotic_devkit docs -> GUIDE default (unclassified),moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Symbiotic_Development_Protocol_v1.0-alpha.md,docs/30_GUIDES/_UNCLASSIFIED/._Symbiotic_Development_Protocol_v1.0-alpha.md,doc -> GUIDE default (unclassified),moved
+symbiotic_devkit/Human-AI Cooperation Rules/Session Starter.docx,docs/40_PLAYBOOKS/Session_Starter.docx,symbiotic_devkit docs -> PLAYBOOK keywords,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Session Starter.docx,docs/40_PLAYBOOKS/._Session_Starter.docx,doc -> PLAYBOOK keywords,moved
+symbiotic_devkit/Human-AI Cooperation Rules/Product Design Rules.docx,docs/20_STANDARDS/architecture/Product_Design_Rules.docx,symbiotic_devkit docs -> STANDARD: architecture,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Product Design Rules.docx,docs/20_STANDARDS/architecture/._Product_Design_Rules.docx,doc -> STANDARD: architecture,moved
+symbiotic_devkit/Human-AI Cooperation Rules/Coding Rules (patched).docx,docs/20_STANDARDS/coding/Coding_Rules_(patched).docx,symbiotic_devkit docs -> STANDARD: coding,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Coding Rules (patched).docx,docs/20_STANDARDS/coding/._Coding_Rules_(patched).docx,doc -> STANDARD: coding,moved
+symbiotic_devkit/Human-AI Cooperation Rules/coding_rules.md,docs/20_STANDARDS/coding/coding_rules.md,symbiotic_devkit docs -> STANDARD: coding,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._coding_rules.md,docs/20_STANDARDS/coding/._coding_rules.md,doc -> STANDARD: coding,moved
+symbiotic_devkit/Human-AI Cooperation Rules/coding_rules (1).md,docs/20_STANDARDS/coding/coding_rules_(1).md,symbiotic_devkit docs -> STANDARD: coding,moved
+__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._coding_rules (1).md,docs/20_STANDARDS/coding/._coding_rules_(1).md,doc -> STANDARD: coding,moved
+symbiotic_devkit/templates/shim_common_result_envelope.py,packages/symbiotic_devkit/templates/shim_common_result_envelope.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/._shim_common_result_envelope.py,misc/__MACOSX/symbiotic_devkit/templates/._shim_common_result_envelope.py,misc passthrough,moved
+__MACOSX/symbiotic_devkit/templates/._plc,misc/__MACOSX/symbiotic_devkit/templates/._plc,misc passthrough,moved
+symbiotic_devkit/templates/python_heading_template.txt,packages/symbiotic_devkit/templates/python_heading_template.txt,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/templates/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/templates/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/templates/symbiotic.yaml,packages/symbiotic_devkit/templates/symbiotic.yaml,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/._symbiotic.yaml,misc/__MACOSX/symbiotic_devkit/templates/._symbiotic.yaml,misc passthrough,moved
+symbiotic_devkit/templates/__init__.py,packages/symbiotic_devkit/templates/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/templates/pre-commit.yaml,packages/symbiotic_devkit/templates/pre-commit.yaml,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/._pre-commit.yaml,misc/__MACOSX/symbiotic_devkit/templates/._pre-commit.yaml,misc passthrough,moved
+symbiotic_devkit/templates/script_spec_template.json,packages/symbiotic_devkit/templates/script_spec_template.json,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/templates/github_action.yml,packages/symbiotic_devkit/templates/github_action.yml,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/._github_action.yml,misc/__MACOSX/symbiotic_devkit/templates/._github_action.yml,misc passthrough,moved
+symbiotic_devkit/codemods/decorate_enforcer.py,packages/symbiotic_devkit/codemods/decorate_enforcer.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/codemods/__init__.py,packages/symbiotic_devkit/codemods/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/codemods/envelope.py,packages/symbiotic_devkit/codemods/envelope.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/codemods/._envelope.py,misc/__MACOSX/symbiotic_devkit/codemods/._envelope.py,misc passthrough,moved
+symbiotic_devkit/codemods/symbiotic_checks.py,packages/symbiotic_devkit/codemods/symbiotic_checks.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/codemods/._symbiotic_checks.py,misc/__MACOSX/symbiotic_devkit/codemods/._symbiotic_checks.py,misc passthrough,moved
+symbiotic_devkit/tools/python_init/python_code_init.py,packages/symbiotic_devkit/tools/python_init/python_code_init.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/python_init/__init__.py,packages/symbiotic_devkit/tools/python_init/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init.zip,packages/symbiotic_devkit/tools/project_init/project_init.zip,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/tools/project_init/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/project_init/pyproject.toml,packages/symbiotic_devkit/tools/project_init/pyproject.toml,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/__init__.py,packages/symbiotic_devkit/tools/project_init/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/README.md,packages/symbiotic_devkit/tools/project_init/README.md,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/__main__.py,packages/symbiotic_devkit/tools/project_init/__main__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/templates/plc/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/templates/plc/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/templates/plc/._meta_plc_v0.1,misc/__MACOSX/symbiotic_devkit/templates/plc/._meta_plc_v0.1,misc passthrough,moved
+symbiotic_devkit/tools/project_init/tools/__init__.py,packages/symbiotic_devkit/tools/project_init/tools/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/tests/test_smoke.py,packages/symbiotic_devkit/tools/project_init/tests/test_smoke.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/symk_project_init.egg-info/PKG-INFO,packages/symbiotic_devkit/tools/project_init/symk_project_init.egg-info/PKG-INFO,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/symk_project_init.egg-info/SOURCES.txt,packages/symbiotic_devkit/tools/project_init/symk_project_init.egg-info/SOURCES.txt,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/symk_project_init.egg-info/entry_points.txt,packages/symbiotic_devkit/tools/project_init/symk_project_init.egg-info/entry_points.txt,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/symk_project_init.egg-info/top_level.txt,packages/symbiotic_devkit/tools/project_init/symk_project_init.egg-info/top_level.txt,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/symk_project_init.egg-info/dependency_links.txt,packages/symbiotic_devkit/tools/project_init/symk_project_init.egg-info/dependency_links.txt,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/cli monilitic.py,packages/symbiotic_devkit/tools/project_init/project_init/cli_monilitic.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/tools/project_init/project_init/._cli monilitic.py,misc/__MACOSX/symbiotic_devkit/tools/project_init/project_init/._cli_monilitic.py,misc passthrough,moved
+symbiotic_devkit/tools/project_init/project_init/cli copy.py,packages/symbiotic_devkit/tools/project_init/project_init/cli_copy.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/tools/project_init/project_init/._cli copy.py,misc/__MACOSX/symbiotic_devkit/tools/project_init/project_init/._cli_copy.py,misc passthrough,moved
+symbiotic_devkit/tools/project_init/project_init/cli_old.py,packages/symbiotic_devkit/tools/project_init/project_init/cli_old.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/pycharm_env.py,packages/symbiotic_devkit/tools/project_init/project_init/pycharm_env.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/__init__.py,packages/symbiotic_devkit/tools/project_init/project_init/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/cli.json,packages/symbiotic_devkit/tools/project_init/project_init/cli.json,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/plc.py,packages/symbiotic_devkit/tools/project_init/project_init/plc.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/templates.py,packages/symbiotic_devkit/tools/project_init/project_init/templates.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/cli.py,packages/symbiotic_devkit/tools/project_init/project_init/cli.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/tools/project_init/project_init/._cli.py,misc/__MACOSX/symbiotic_devkit/tools/project_init/project_init/._cli.py,misc passthrough,moved
+symbiotic_devkit/tools/project_init/project_init/utils.py,packages/symbiotic_devkit/tools/project_init/project_init/utils.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/scaffold.py,packages/symbiotic_devkit/tools/project_init/project_init/scaffold.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/__main__.py,packages/symbiotic_devkit/tools/project_init/project_init/__main__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/._1_Discovery,misc/__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/._1_Discovery,misc passthrough,moved
+symbiotic_devkit/templates/plc/meta_plc_v0.1/.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/._.DS_Store,,IGNORED (cache/venv/idea/etc),ignored
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/._2_Architecture,misc/__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/._2_Architecture,misc passthrough,moved
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/._3_Planning,misc/__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/._3_Planning,misc passthrough,moved
+symbiotic_devkit/tools/project_init/tools/plc_scaffold/__init__.py,packages/symbiotic_devkit/tools/project_init/tools/plc_scaffold/__init__.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/tools/plc_scaffold/plc_scaffold_from_meta.py,packages/symbiotic_devkit/tools/project_init/tools/plc_scaffold/plc_scaffold_from_meta.py,symbiotic_devkit -> packages/symbiotic_devkit,moved
+symbiotic_devkit/tools/project_init/project_init/__pycache__/templates.cpython-311.pyc,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/project_init/project_init/__pycache__/scaffold.cpython-311.pyc,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/project_init/project_init/__pycache__/utils.cpython-311.pyc,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/project_init/project_init/__pycache__/cli.cpython-311.pyc,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/project_init/project_init/__pycache__/pycharm_env.cpython-311.pyc,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/project_init/project_init/__pycache__/plc.cpython-311.pyc,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/project_init/project_init/__pycache__/__init__.cpython-311.pyc,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/tools/project_init/project_init/__pycache__/__main__.cpython-311.pyc,,IGNORED (cache/venv/idea/etc),ignored
+symbiotic_devkit/templates/plc/meta_plc_v0.1/1_Discovery/README.md,packages/symbiotic_devkit/templates/plc/meta_plc_v0.1/1_Discovery/README.md,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/1_Discovery/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+symbiotic_devkit/templates/plc/meta_plc_v0.1/1_Discovery/phase_template.json,packages/symbiotic_devkit/templates/plc/meta_plc_v0.1/1_Discovery/phase_template.json,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/1_Discovery/._phase_template.json,misc/__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/1_Discovery/._phase_template.json,misc passthrough,moved
+symbiotic_devkit/templates/plc/meta_plc_v0.1/2_Architecture/README.md,packages/symbiotic_devkit/templates/plc/meta_plc_v0.1/2_Architecture/README.md,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/2_Architecture/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+symbiotic_devkit/templates/plc/meta_plc_v0.1/2_Architecture/phase_template.json,packages/symbiotic_devkit/templates/plc/meta_plc_v0.1/2_Architecture/phase_template.json,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/2_Architecture/._phase_template.json,misc/__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/2_Architecture/._phase_template.json,misc passthrough,moved
+symbiotic_devkit/templates/plc/meta_plc_v0.1/3_Planning/README.md,packages/symbiotic_devkit/templates/plc/meta_plc_v0.1/3_Planning/README.md,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/3_Planning/._README.md,docs/30_GUIDES/_UNCLASSIFIED/._README.md,doc -> GUIDE default (unclassified),moved
+symbiotic_devkit/templates/plc/meta_plc_v0.1/3_Planning/phase_template.json,packages/symbiotic_devkit/templates/plc/meta_plc_v0.1/3_Planning/phase_template.json,symbiotic_devkit -> packages/symbiotic_devkit,moved
+__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/3_Planning/._phase_template.json,misc/__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/3_Planning/._phase_template.json,misc passthrough,moved
+symk-project-init/__init__.py,packages/symk_project_init/__init__.py,symk-project-init -> packages/symk_project_init,moved

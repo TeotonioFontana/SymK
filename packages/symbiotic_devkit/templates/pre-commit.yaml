@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: symbiotic-check
+        name: symbiotic-check
+        entry: sym-check --config .symbiotic.yaml
+        language: system
+        pass_filenames: false

@@ -1,0 +1,47 @@
+{
+  "kind": "meta",
+  "phase_id": "2_Architecture",
+  "name": "Architecture",
+  "version": "0.1.0",
+  "inputs_schema": [
+    {
+      "ref": "1_Discovery.product_vision",
+      "required": true
+    },
+    {
+      "ref": "1_Discovery.market_research",
+      "required": true
+    },
+    {
+      "ref": "1_Discovery.stakeholder_map",
+      "required": true
+    },
+    {
+      "ref": "1_Discovery.project_model_canvas",
+      "required": false
+    }
+  ],
+  "outputs_schema": [
+    {
+      "id": "system_blueprints",
+      "label": "System Blueprints",
+      "type": "directory",
+      "required": true,
+      "default_path": "2.1_System_Blueprints/"
+    },
+    {
+      "id": "reference_stacks",
+      "label": "Reference Stacks",
+      "type": "directory",
+      "required": true,
+      "default_path": "2.2_Reference_Stacks/"
+    },
+    {
+      "id": "security_model",
+      "label": "Security Model",
+      "type": "document",
+      "required": true,
+      "default_path": "2.3_Security_Model/README.md"
+    }
+  ]
+}

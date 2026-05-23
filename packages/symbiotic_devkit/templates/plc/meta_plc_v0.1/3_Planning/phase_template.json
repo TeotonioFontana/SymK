@@ -1,0 +1,59 @@
+{
+  "kind": "meta",
+  "phase_id": "3_Planning",
+  "name": "Planning",
+  "version": "0.1.0",
+  "inputs_schema": [
+    {
+      "ref": "1_Discovery.product_vision",
+      "required": true
+    },
+    {
+      "ref": "1_Discovery.market_research",
+      "required": true
+    },
+    {
+      "ref": "1_Discovery.stakeholder_map",
+      "required": true
+    },
+    {
+      "ref": "1_Discovery.project_model_canvas",
+      "required": false
+    },
+    {
+      "ref": "2_Architecture.system_blueprints",
+      "required": true
+    },
+    {
+      "ref": "2_Architecture.reference_stacks",
+      "required": true
+    },
+    {
+      "ref": "2_Architecture.security_model",
+      "required": true
+    }
+  ],
+  "outputs_schema": [
+    {
+      "id": "roadmap",
+      "label": "Product Roadmap",
+      "type": "directory",
+      "required": true,
+      "default_path": "3.1_Roadmap/"
+    },
+    {
+      "id": "release_trains",
+      "label": "Release Trains",
+      "type": "directory",
+      "required": true,
+      "default_path": "3.2_Release_Trains/"
+    },
+    {
+      "id": "scope_definition",
+      "label": "Scope Definition",
+      "type": "directory",
+      "required": true,
+      "default_path": "3.3_Scope_Definition/"
+    }
+  ]
+}

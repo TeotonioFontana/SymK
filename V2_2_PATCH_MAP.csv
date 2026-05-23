@@ -1,0 +1,4 @@
+file,change_note
+docs/00_AXIOMS/AXIOM_Symbiotic_Cooperation_Roles.md,Added canonical roles summary header; preserved original narrative below.
+plc/manuals/SymK_Users_Manual.md,Replaced duplicated Human/AI roles section with canonical link to AXIOM doc.
+docs/20_STANDARDS/coding/coding_rules.md,Added canonical roles reference link in coding rules definitions.

@@ -1,0 +1,17 @@
+name: symbiotic-guardrails
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install libcst pyyaml .
+      - run: mkdir -p reports
+      - run: sym-check --config .symbiotic.yaml --out-json reports/symbiotic_report.json --out-report reports/symbiotic_report.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: symbiotic-reports
+          path: reports/*

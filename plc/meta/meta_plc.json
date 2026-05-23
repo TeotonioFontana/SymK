@@ -1,0 +1,714 @@
+{
+  "meta_plc": {
+    "version": "1.0.1",
+    "name": "SymK Product Lifecycle Meta Model",
+    "description": "Canonical reference model for SymK PLC phases 1–3 (Discovery, Architecture, Planning), with leaf-level semantics and AI contracts.",
+    "phases": [
+      {
+        "id": "1",
+        "name": "Discovery",
+        "description": "Understand the problem space, market context and stakeholders before committing to architecture or delivery.",
+        "leaves": [
+          {
+            "id": "1.1",
+            "phase": 1,
+            "name": "Product Vision",
+            "purpose": "Establish a concise, shared understanding of why the product exists, who it serves, and what long-term change it aims to create.",
+            "description": "Captures the core narrative of the product: mission, target users, key problems, value proposition, and success criteria. The vision acts as the north star for all subsequent PLC decisions and should be stable enough to survive multiple delivery waves.",
+            "inputs": [
+              {
+                "type": "external",
+                "ref": "workshops/interviews/vision",
+                "required": false
+              },
+              {
+                "type": "doc",
+                "ref": "PLC/1_Discovery/1.1_Product_Vision/raw_notes.md",
+                "required": false
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/1_Discovery/1.1_Product_Vision/product_vision.md",
+                "required": true
+              },
+              {
+                "type": "data",
+                "ref": "PLC/1_Discovery/1.1_Product_Vision/product_vision.json",
+                "required": false
+              }
+            ],
+            "tools": {
+              "methods": [
+                "Vision workshop",
+                "Product narrative drafting",
+                "Jobs-to-be-Done interviews"
+              ],
+              "tools": [
+                "Markdown editor",
+                "Whiteboard / Miro",
+                "Note-taking tool"
+              ],
+              "templates": [
+                "product_vision_template.md"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "drafting_assistant",
+                "alignment_checker"
+              ],
+              "prompt_ids": [
+                "plc.1.1.draft_vision",
+                "plc.1.1.sync_vision_structured"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/1_Discovery/1.1_Product_Vision/raw_notes.md"
+                ],
+                "data": []
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/1_Discovery/1.1_Product_Vision/product_vision.md"
+                ],
+                "data": [
+                  "PLC/1_Discovery/1.1_Product_Vision/product_vision.json"
+                ]
+              }
+            }
+          },
+          {
+            "id": "1.2",
+            "phase": 1,
+            "name": "Market Research",
+            "purpose": "Understand the market landscape, opportunity size, competition and external forces that influence the product strategy.",
+            "description": "Collects and structures information about customer segments, competitors, benchmarks, and regulatory context. The output informs positioning, scope decisions, and helps avoid building something that is already commoditized or strategically weak.",
+            "inputs": [
+              {
+                "type": "external",
+                "ref": "third_party/market_reports",
+                "required": false
+              },
+              {
+                "type": "external",
+                "ref": "customer_interviews",
+                "required": false
+              },
+              {
+                "type": "leaf",
+                "ref": "1.1",
+                "required": false
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/1_Discovery/1.2_Market_Research/market_overview.md",
+                "required": true
+              },
+              {
+                "type": "doc",
+                "ref": "PLC/1_Discovery/1.2_Market_Research/competitor_matrix.md",
+                "required": false
+              },
+              {
+                "type": "data",
+                "ref": "PLC/1_Discovery/1.2_Market_Research/market_research.json",
+                "required": false
+              }
+            ],
+            "tools": {
+              "methods": [
+                "Desk research",
+                "Competitor analysis",
+                "SWOT analysis",
+                "Segmentation"
+              ],
+              "tools": [
+                "Spreadsheet",
+                "Markdown editor",
+                "Browser"
+              ],
+              "templates": [
+                "competitor_matrix_template.xlsx",
+                "market_overview_template.md"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "summarizer",
+                "pattern_detector",
+                "gap_spotter"
+              ],
+              "prompt_ids": [
+                "plc.1.2.summarize_market",
+                "plc.1.2.extract_differentiators",
+                "plc.1.2.highlight_blindspots"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/1_Discovery/1.2_Market_Research/raw_notes.md",
+                  "PLC/1_Discovery/1.2_Market_Research/links.md"
+                ],
+                "data": []
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/1_Discovery/1.2_Market_Research/market_overview.md",
+                  "PLC/1_Discovery/1.2_Market_Research/competitor_matrix.md"
+                ],
+                "data": [
+                  "PLC/1_Discovery/1.2_Market_Research/market_research.json"
+                ]
+              }
+            }
+          },
+          {
+            "id": "1.3",
+            "phase": 1,
+            "name": "Stakeholder Map",
+            "purpose": "Make explicit who can influence or is affected by the product, how much power they have, and what they care about.",
+            "description": "Builds a structured view of internal and external stakeholders: roles, interests, expectations, influence, and potential conflicts. This leaf underpins realistic decisions about scope, risks and communications.",
+            "inputs": [
+              {
+                "type": "leaf",
+                "ref": "1.1",
+                "required": false
+              },
+              {
+                "type": "external",
+                "ref": "org_chart",
+                "required": false
+              },
+              {
+                "type": "doc",
+                "ref": "PLC/1_Discovery/1.3_Stakeholder_Map/raw_stakeholders.md",
+                "required": false
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/1_Discovery/1.3_Stakeholder_Map/stakeholder_map.md",
+                "required": true
+              },
+              {
+                "type": "data",
+                "ref": "PLC/1_Discovery/1.3_Stakeholder_Map/stakeholders.json",
+                "required": true
+              }
+            ],
+            "tools": {
+              "methods": [
+                "Stakeholder interviews",
+                "RACI mapping",
+                "Influence/interest grid"
+              ],
+              "tools": [
+                "Markdown editor",
+                "Diagram tool",
+                "Spreadsheet"
+              ],
+              "templates": [
+                "stakeholder_map_template.md",
+                "raci_template.xlsx"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "classifier",
+                "conflict_detector",
+                "influence_mapper"
+              ],
+              "prompt_ids": [
+                "plc.1.3.normalize_stakeholders",
+                "plc.1.3.detect_conflicts",
+                "plc.1.3.cluster_by_interest"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/1_Discovery/1.3_Stakeholder_Map/raw_stakeholders.md"
+                ],
+                "data": []
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/1_Discovery/1.3_Stakeholder_Map/stakeholder_map.md"
+                ],
+                "data": [
+                  "PLC/1_Discovery/1.3_Stakeholder_Map/stakeholders.json"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Architecture",
+        "description": "Define the technical, information and security architecture before heavy development investment.",
+        "leaves": [
+          {
+            "id": "2.1",
+            "phase": 2,
+            "name": "System Blueprints",
+            "purpose": "Provide a shared, high-level view of the system context, main components, and core flows.",
+            "description": "Captures context diagrams, component boundaries, major flows and key integration points. Serves as the backbone for technical decisions, planning and risk analysis.",
+            "inputs": [
+              {
+                "type": "leaf",
+                "ref": "1.1",
+                "required": true
+              },
+              {
+                "type": "leaf",
+                "ref": "1.3",
+                "required": false
+              },
+              {
+                "type": "doc",
+                "ref": "PLC/1_Discovery/1.2_Market_Research/market_overview.md",
+                "required": false
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/2_Architecture/2.1_System_Blueprints/system_blueprints.md",
+                "required": true
+              },
+              {
+                "type": "asset",
+                "ref": "PLC/2_Architecture/2.1_System_Blueprints/diagrams/",
+                "required": false
+              },
+              {
+                "type": "data",
+                "ref": "PLC/2_Architecture/2.1_System_Blueprints/architecture_map.json",
+                "required": false
+              }
+            ],
+            "tools": {
+              "methods": [
+                "C4 modeling",
+                "Architecture workshops"
+              ],
+              "tools": [
+                "Diagram tool",
+                "Markdown editor"
+              ],
+              "templates": [
+                "system_blueprints_template.md"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "diagram_explainer",
+                "map_consistency_checker"
+              ],
+              "prompt_ids": [
+                "plc.2.1.describe_architecture_map",
+                "plc.2.1.check_consistency_with_vision"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/2_Architecture/2.1_System_Blueprints/system_blueprints.md",
+                  "PLC/1_Discovery/1.1_Product_Vision/product_vision.md"
+                ],
+                "data": [
+                  "PLC/2_Architecture/2.1_System_Blueprints/architecture_map.json"
+                ]
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/2_Architecture/2.1_System_Blueprints/system_blueprints.md"
+                ],
+                "data": []
+              }
+            }
+          },
+          {
+            "id": "2.2",
+            "phase": 2,
+            "name": "Reference Stacks",
+            "purpose": "Define allowed technology stacks and constraints so teams don’t reinvent the wheel or create unmaintainable setups.",
+            "description": "Documents languages, frameworks, databases, hosting models and supporting services that are approved for this product. Captures constraints (versions, SLAs, support status) and references any organization-wide standards.",
+            "inputs": [
+              {
+                "type": "leaf",
+                "ref": "2.1",
+                "required": false
+              },
+              {
+                "type": "external",
+                "ref": "org/tech_standards",
+                "required": false
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/2_Architecture/2.2_Reference_Stacks/reference_stack.md",
+                "required": true
+              },
+              {
+                "type": "data",
+                "ref": "PLC/2_Architecture/2.2_Reference_Stacks/tech_stack.json",
+                "required": false
+              }
+            ],
+            "tools": {
+              "methods": [
+                "Tech radar review",
+                "Architecture Decision Records (ADR)"
+              ],
+              "tools": [
+                "Markdown editor",
+                "Spreadsheet"
+              ],
+              "templates": [
+                "reference_stack_template.md",
+                "adr_template.md"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "summarizer",
+                "gap_checker"
+              ],
+              "prompt_ids": [
+                "plc.2.2.summarize_tech_stack",
+                "plc.2.2.check_stack_against_requirements"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/2_Architecture/2.2_Reference_Stacks/reference_stack.md"
+                ],
+                "data": [
+                  "PLC/2_Architecture/2.2_Reference_Stacks/tech_stack.json"
+                ]
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/2_Architecture/2.2_Reference_Stacks/reference_stack.md"
+                ],
+                "data": []
+              }
+            }
+          },
+          {
+            "id": "2.3",
+            "phase": 2,
+            "name": "Security Model",
+            "purpose": "Make security requirements, trust boundaries and compliance constraints explicit before building.",
+            "description": "Defines security controls, trust boundaries, data classification, and key threats. Links business risk, architecture decisions and security mechanisms, avoiding “security as an afterthought”.",
+            "inputs": [
+              {
+                "type": "leaf",
+                "ref": "2.1",
+                "required": true
+              },
+              {
+                "type": "leaf",
+                "ref": "1.3",
+                "required": false
+              },
+              {
+                "type": "external",
+                "ref": "org/security_policies",
+                "required": false
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/2_Architecture/2.3_Security_Model/security_model.md",
+                "required": true
+              },
+              {
+                "type": "data",
+                "ref": "PLC/2_Architecture/2.3_Security_Model/security_policies.json",
+                "required": false
+              }
+            ],
+            "tools": {
+              "methods": [
+                "Threat modeling",
+                "STRIDE",
+                "Data classification"
+              ],
+              "tools": [
+                "Diagram tool",
+                "Markdown editor"
+              ],
+              "templates": [
+                "threat_model_template.md",
+                "data_classification_template.md"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "threat_model_summarizer",
+                "control_mapper"
+              ],
+              "prompt_ids": [
+                "plc.2.3.summarize_threat_model",
+                "plc.2.3.map_controls_to_risks"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/2_Architecture/2.3_Security_Model/security_model.md"
+                ],
+                "data": [
+                  "PLC/2_Architecture/2.3_Security_Model/security_policies.json"
+                ]
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/2_Architecture/2.3_Security_Model/security_model.md"
+                ],
+                "data": []
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Planning",
+        "description": "Translate vision and architecture into a realistic roadmap, release strategy and scoped delivery waves.",
+        "leaves": [
+          {
+            "id": "3.1",
+            "phase": 3,
+            "name": "Roadmap",
+            "purpose": "Define major value increments, their sequencing and indicative timelines.",
+            "description": "Captures product milestones, themes and high-level sequencing. The roadmap connects vision, market realities and architecture constraints into a time-based story that stakeholders can understand.",
+            "inputs": [
+              {
+                "type": "leaf",
+                "ref": "1.1",
+                "required": true
+              },
+              {
+                "type": "leaf",
+                "ref": "1.2",
+                "required": true
+              },
+              {
+                "type": "leaf",
+                "ref": "2.1",
+                "required": true
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/3_Planning/3.1_Roadmap/roadmap.md",
+                "required": true
+              },
+              {
+                "type": "data",
+                "ref": "PLC/3_Planning/3.1_Roadmap/roadmap.json",
+                "required": false
+              }
+            ],
+            "tools": {
+              "methods": [
+                "Roadmap workshop",
+                "Prioritization (MoSCoW, Kano)",
+                "Theme-based planning"
+              ],
+              "tools": [
+                "Spreadsheet",
+                "Roadmap tool",
+                "Markdown editor"
+              ],
+              "templates": [
+                "roadmap_template.xlsx",
+                "roadmap_template.md"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "prioritization_assistant",
+                "dependency_checker",
+                "narrative_summarizer"
+              ],
+              "prompt_ids": [
+                "plc.3.1.summarize_roadmap",
+                "plc.3.1.check_roadmap_consistency",
+                "plc.3.1.highlight_timeline_risks"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/3_Planning/3.1_Roadmap/roadmap.md",
+                  "PLC/1_Discovery/1.1_Product_Vision/product_vision.md"
+                ],
+                "data": [
+                  "PLC/3_Planning/3.1_Roadmap/roadmap.json"
+                ]
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/3_Planning/3.1_Roadmap/roadmap.md"
+                ],
+                "data": []
+              }
+            }
+          },
+          {
+            "id": "3.2",
+            "phase": 3,
+            "name": "Release Trains",
+            "purpose": "Define how features move from development to production through structured release cycles.",
+            "description": "Specifies release cadence, environments, branching model and eligibility criteria for features entering each train (e.g., quality gates, required checks). This prevents ad-hoc, chaotic releases.",
+            "inputs": [
+              {
+                "type": "leaf",
+                "ref": "3.1",
+                "required": true
+              },
+              {
+                "type": "external",
+                "ref": "org/release_policies",
+                "required": false
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/3_Planning/3.2_Release_Trains/release_policy.md",
+                "required": true
+              },
+              {
+                "type": "data",
+                "ref": "PLC/3_Planning/3.2_Release_Trains/release_trains.json",
+                "required": false
+              }
+            ],
+            "tools": {
+              "methods": [
+                "Release planning sessions",
+                "Environment mapping",
+                "Change management review"
+              ],
+              "tools": [
+                "Markdown editor",
+                "Diagram tool"
+              ],
+              "templates": [
+                "release_policy_template.md"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "policy_summarizer",
+                "gate_checker"
+              ],
+              "prompt_ids": [
+                "plc.3.2.summarize_release_policy",
+                "plc.3.2.check_gates_coverage"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/3_Planning/3.2_Release_Trains/release_policy.md"
+                ],
+                "data": [
+                  "PLC/3_Planning/3.2_Release_Trains/release_trains.json"
+                ]
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/3_Planning/3.2_Release_Trains/release_policy.md"
+                ],
+                "data": []
+              }
+            }
+          },
+          {
+            "id": "3.3",
+            "phase": 3,
+            "name": "Scope Definition",
+            "purpose": "Clarify what is in scope and out of scope for a given delivery wave, to avoid expectation drift.",
+            "description": "Lists included epics/features, explicit exclusions and non-goals. Ties each scoped item back to the roadmap and vision. Defines boundaries so teams know what NOT to do in this wave.",
+            "inputs": [
+              {
+                "type": "leaf",
+                "ref": "3.1",
+                "required": true
+              },
+              {
+                "type": "leaf",
+                "ref": "1.2",
+                "required": false
+              }
+            ],
+            "outcomes": [
+              {
+                "type": "doc",
+                "ref": "PLC/3_Planning/3.3_Scope_Definition/scope_definition.md",
+                "required": true
+              },
+              {
+                "type": "data",
+                "ref": "PLC/3_Planning/3.3_Scope_Definition/scope_items.json",
+                "required": false
+              }
+            ],
+            "tools": {
+              "methods": [
+                "Scope workshop",
+                "Story mapping",
+                "Impact mapping"
+              ],
+              "tools": [
+                "Markdown editor",
+                "Board / Kanban tool"
+              ],
+              "templates": [
+                "scope_definition_template.md"
+              ]
+            },
+            "ai_contract": {
+              "enabled": true,
+              "roles": [
+                "scope_checker",
+                "risk_spotter"
+              ],
+              "prompt_ids": [
+                "plc.3.3.highlight_scope_risks",
+                "plc.3.3.check_scope_vs_vision"
+              ],
+              "input_spec": {
+                "documents": [
+                  "PLC/3_Planning/3.3_Scope_Definition/scope_definition.md",
+                  "PLC/1_Discovery/1.1_Product_Vision/product_vision.md"
+                ],
+                "data": [
+                  "PLC/3_Planning/3.3_Scope_Definition/scope_items.json"
+                ]
+              },
+              "output_spec": {
+                "documents": [
+                  "PLC/3_Planning/3.3_Scope_Definition/scope_definition.md"
+                ],
+                "data": []
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

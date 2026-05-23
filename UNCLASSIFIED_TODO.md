@@ -1,0 +1,96 @@
+# Unclassified items to review
+
+These items were placed under `docs/30_GUIDES/_UNCLASSIFIED/` because classification was ambiguous.
+
+- `__MACOSX/Archive/PLC-Product Life Cycle/._SymK Full Product Lifecycle Framework v1.docx` → `docs/30_GUIDES/_UNCLASSIFIED/._SymK_Full_Product_Lifecycle_Framework_v1.docx`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6_Discovery_Outcomes2.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6_Discovery_Outcomes2.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/._1.6_Discovery_Outcomes.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6_Discovery_Outcomes.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Outcomes/._PLC_META_1_6_Discovery_Outcomes_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._PLC_META_1_6_Discovery_Outcomes_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Outcomes/._PLC_IaaC_1_6_Discovery_Outcomes.md` → `docs/30_GUIDES/_UNCLASSIFIED/._PLC_IaaC_1_6_Discovery_Outcomes.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.4_Available_Methodologies/._IaaC_discovery_methodologies_PLC_1_4_draft.md` → `docs/30_GUIDES/_UNCLASSIFIED/._IaaC_discovery_methodologies_PLC_1_4_draft.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.4_Available_Methodologies/._IaaC_PLC1_discovery_methodologies_1_4_draft_v2.md` → `docs/30_GUIDES/_UNCLASSIFIED/._IaaC_PLC1_discovery_methodologies_1_4_draft_v2.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/5_Development/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/4_Design/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/._1.6.1_Decision_Framework_Template2.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.1_Decision_Framework_Template2.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/._1.6.1_Decision_Framework_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.1_Decision_Framework_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/._1.6.2_Business_Size_Fit_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.2_Business_Size_Fit_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/._1.6.3_Consulting_Leverage_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.3_Consulting_Leverage_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/1_Discovery/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/._1.6.4_Career_Leverage_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.4_Career_Leverage_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/1.3_Stakeholder_Map/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/1.2_Market_Research/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/1_Discovery/1.1_Product_Vision/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/5_Development/5.1_Backend/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/5_Development/5.3_Infrastructure/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/5_Development/5.2_Frontend/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/6.3_Security_Tests/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/6.2_QA_Suites/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/6_Testing/6.1_Test_Plans/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/9.2_Sales_Enablement/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/9.1_Positioning/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/9_GTM/9.3_Pricing/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/8.3_Performance_Tuning/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/8.2_Incident_Response/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/8_Operations/8.1_SRE_Procedures/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/10.2_User_Docs/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/10.3_Release_Notes/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/10_Documentation/10.1_Technical_Docs/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/2.1_System_Blueprints/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/2.2_Reference_Stacks/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/2_Architecture/2.3_Security_Model/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/4_Design/4.3_Design_System/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/4_Design/4.1_UX_Flows/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/4_Design/4.2_IA_Diagrams/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/3.2_Release_Trains/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/3.1_Roadmap/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/3_Planning/3.3_Scope_Definition/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/7.1_Runtime_Configs/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/7.2_CICD_Pipelines/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/Archive/PLC-Product Life Cycle/7_Deployment/7.3_Observability/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/._SymK_Postgres_JSON_Design_Conversation_2025-12-12.md` → `docs/30_GUIDES/_UNCLASSIFIED/._SymK_Postgres_JSON_Design_Conversation_2025-12-12.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/._Skip to content.docx` → `docs/30_GUIDES/_UNCLASSIFIED/._Skip_to_content.docx`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/User_Manuals/._PLC_Chapter_10_Product_Vision.md` → `docs/30_GUIDES/_UNCLASSIFIED/._PLC_Chapter_10_Product_Vision.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/User_Manuals/._PLC_Chapter_10_Product_Vision_Features.md` → `docs/30_GUIDES/_UNCLASSIFIED/._PLC_Chapter_10_Product_Vision_Features.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/._1.6_Discovery_Outcomes.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6_Discovery_Outcomes.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.2_Market_Research_Template/._1.2_Market_Research_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.2_Market_Research_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.2_Market_Research_Template/._1.2_Market_Research.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.2_Market_Research.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.4_Discovery_Methodologies_Template/._1.4_Discovery_Methodologies_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.4_Discovery_Methodologies_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.4_Discovery_Methodologies_Template/._1.4_Discovery_Methodologies.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.4_Discovery_Methodologies.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.3_Stakeholder_Map_Template/._1.3_Stakeholder_Map_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.3_Stakeholder_Map_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.3_Stakeholder_Map_Template/._1.3_Stakeholder_Map.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.3_Stakeholder_Map.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.1_Product_Vision_Template/._1.1_Product_Vision_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.1_Product_Vision_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.1_Product_Vision_Template/._1.1_Product_Vision.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.1_Product_Vision.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.5_Discovery_Tools_Template/._1.5_Discovery_Tools.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.5_Discovery_Tools.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.5_Discovery_Tools_Template/._1.5_Discovery_Tools_Catalog.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.5_Discovery_Tools_Catalog.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/._1.6_Discovery_Outcomes.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6_Discovery_Outcomes.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.2_Market_Research_Template/._1.2_Market_Research_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.2_Market_Research_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.4_Discovery_Methodologies_Template/._1.4_Discovery_Methodologies_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.4_Discovery_Methodologies_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.3_Stakeholder_Map_Template/._1.3_Stakeholder_Map_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.3_Stakeholder_Map_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.1_Product_Vision_Template/._1.1_Product_Vision_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.1_Product_Vision_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.5_Discovery_Tools_Template/._1.5_Discovery_Tools.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.5_Discovery_Tools.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.5_Discovery_Tools_Template/._1.5_Discovery_Tools_Catalog.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.5_Discovery_Tools_Catalog.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/._1.6.1_Decision_Framework_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.1_Decision_Framework_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/._1.6.2_Business_Size_Fit_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.2_Business_Size_Fit_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/._1.6.3_Consulting_Leverage_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.3_Consulting_Leverage_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/._1.6.4_Career_Leverage_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.4_Career_Leverage_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.1_Decision_Framework/._1.6.1_Decision_Framework_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.1_Decision_Framework_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.2_Business_Size_Fit_Template/._1.6.2_Business_Size_Fit_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.2_Business_Size_Fit_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.3_Consulting_Leverage_Template/._1.6.3_Consulting_Leverage_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.3_Consulting_Leverage_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/PLC_META/1_Discovery_old/1.6_Discovery_Outcomes/1.6.4_Career_Leverage_Template/._1.6.4_Career_Leverage_Template.md` → `docs/30_GUIDES/_UNCLASSIFIED/._1.6.4_Career_Leverage_Template.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `symbiotic_devkit/Human-AI Cooperation Rules/Symbiotic_Development_Protocol_Research_Foundation.md` → `docs/30_GUIDES/_UNCLASSIFIED/Symbiotic_Development_Protocol_Research_Foundation.md`  _(rule: symbiotic_devkit docs -> GUIDE default (unclassified))_
+- `__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Symbiotic_Development_Protocol_Research_Foundation.md` → `docs/30_GUIDES/_UNCLASSIFIED/._Symbiotic_Development_Protocol_Research_Foundation.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `symbiotic_devkit/Human-AI Cooperation Rules/symbiotic.yaml` → `docs/30_GUIDES/_UNCLASSIFIED/symbiotic.yaml`  _(rule: symbiotic_devkit docs -> GUIDE default (unclassified))_
+- `symbiotic_devkit/Human-AI Cooperation Rules/~$ssion Starter.docx` → `docs/30_GUIDES/_UNCLASSIFIED/~$ssion_Starter.docx`  _(rule: symbiotic_devkit docs -> GUIDE default (unclassified))_
+- `__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._~$ssion Starter.docx` → `docs/30_GUIDES/_UNCLASSIFIED/._~$ssion_Starter.docx`  _(rule: doc -> GUIDE default (unclassified))_
+- `symbiotic_devkit/Human-AI Cooperation Rules/Symbiotic_Development_Protocol_v1.0-alpha.md` → `docs/30_GUIDES/_UNCLASSIFIED/Symbiotic_Development_Protocol_v1.0-alpha.md`  _(rule: symbiotic_devkit docs -> GUIDE default (unclassified))_
+- `__MACOSX/symbiotic_devkit/Human-AI Cooperation Rules/._Symbiotic_Development_Protocol_v1.0-alpha.md` → `docs/30_GUIDES/_UNCLASSIFIED/._Symbiotic_Development_Protocol_v1.0-alpha.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/1_Discovery/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/2_Architecture/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_
+- `__MACOSX/symbiotic_devkit/templates/plc/meta_plc_v0.1/3_Planning/._README.md` → `docs/30_GUIDES/_UNCLASSIFIED/._README.md`  _(rule: doc -> GUIDE default (unclassified))_

@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+project_init/__init__.py
+project_init/__main__.py
+project_init/cli.py
+symk_project_init.egg-info/PKG-INFO
+symk_project_init.egg-info/SOURCES.txt
+symk_project_init.egg-info/dependency_links.txt
+symk_project_init.egg-info/entry_points.txt
+symk_project_init.egg-info/top_level.txt
+tests/test_smoke.py

@@ -1,0 +1,47 @@
+"""
+===============================================================================
+ orchestrator.py — IaaC Tools Backup Orchestrator
+===============================================================================
+ Version.............: v0.7.7-alpha
+ Author..............: Teotoniio Fontana — Architect
+ Programmed by.......: Duke (GPT-5, GPT-5.1 Thinking, OpenAI)
+ Project.............: IaaC Tools / Backup Orchestration
+ Layer/Context.......: CLI Orchestrator / Phases 0–N
+ Package.............:
+ Code Path...........:
+-------------------------------------------------------------------------------
+ Description
+ ------------------------------------------------------------------------------
+ Performs complete backup operations for AWS EBS volumes and AMIs.
+ Includes full Phase 0 Global AWS Environment Discovery (Account, CFN,
+ Networking, Compute, Storage), with multi-region aggregation support.
+ Provides colorized execution header, multi-line config reporting,
+ manifest summary, and simulation-safe behavior.
+
+-------------------------------------------------------------------------------
+ Responsibilities
+ ------------------------------------------------------------------------------
+ - Parse CLI + config for backup runs
+ - Orchestrate discovery, snapshotting, full-volume imaging, and S3 manifests
+ - Enforce simulation mode and safety checks before destructive operations
+
+-------------------------------------------------------------------------------
+ Inputs & Outputs
+ ------------------------------------------------------------------------------
+ Inputs:
+   - YAML config file (orchestrator-execute.yaml / orchestrator-simulate.yaml)
+   - CLI flags (profile, regions, mode, run-id, filters)
+
+ Outputs:
+   - Structured logs (console + file)
+   - S3 manifests and metadata per backup run
+   - Exit code signalling success / partial / failure
+
+-------------------------------------------------------------------------------
+ Change Log
+ ------------------------------------------------------------------------------
+ v0.7.7-alpha:
+   • Regex-aware region resolver for --regions flag
+   • Supports: all, *, explicit lists, and regex (e.g., '^us-', '^(us|eu)-')
+===============================================================================
+"""

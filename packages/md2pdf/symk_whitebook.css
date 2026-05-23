@@ -1,0 +1,70 @@
+/* symk_whitebook.css — simple white-paper style for SymK manuals */
+
+@page {
+  margin: 2cm;
+}
+
+body {
+  font-family: "Times New Roman", serif;
+  font-size: 11pt;
+  line-height: 1.4;
+  color: #000;
+}
+
+/* Headings */
+h1 {
+  font-size: 20pt;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 16pt;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 13pt;
+  margin-top: 1.0em;
+  margin-bottom: 0.4em;
+  font-weight: bold;
+}
+
+h4, h5, h6 {
+  font-size: 11pt;
+  margin-top: 0.8em;
+  margin-bottom: 0.3em;
+  font-weight: bold;
+}
+
+/* Paragraphs */
+p {
+  margin: 0 0 0.7em 0;
+}
+
+/* Lists */
+ul, ol {
+  margin-top: 0.1em;
+  margin-bottom: 0.6em;
+  padding-left: 1.2em;
+}
+
+li {
+  margin: 0.15em 0;
+}
+
+/* Code & inline code kept simple */
+code, pre {
+  font-family: "Courier New", monospace;
+  font-size: 10pt;
+}
+
+/* Horizontal rule */
+hr {
+  border: 0;
+  border-top: 1px solid #555;
+  margin: 1.0em 0;
+}

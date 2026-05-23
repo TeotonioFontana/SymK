@@ -1,0 +1,41 @@
+{
+  "module_name": "orchestrator.py",
+  "short_purpose": "IaaC Tools Backup Orchestrator",
+  "version": "v0.7.7-alpha",
+  "author": "Teotoniio Fontana — Architect",
+  "programmed_by": "Duke (GPT-5.1 Thinking, OpenAI)",
+  "project": "IaaC Tools / Backup Orchestration",
+  "layer_context": "CLI Orchestrator / Phases 0–N",
+  "code_path": "Code Full Path",
+  "package_name": "Belongs to the Package",
+  "description": [
+    "Performs complete backup operations for AWS EBS volumes and AMIs.",
+    "Includes full Phase 0 Global AWS Environment Discovery (Account, CFN,",
+    "Networking, Compute, Storage), with multi-region aggregation support.",
+    "Provides colorized execution header, multi-line config reporting,",
+    "manifest summary, and simulation-safe behavior."
+  ],
+  "responsibilities": [
+    "Parse CLI + config for backup runs",
+    "Orchestrate discovery, snapshotting, full-volume imaging, and S3 manifests",
+    "Enforce simulation mode and safety checks before destructive operations"
+  ],
+  "inputs": [
+    "YAML config file (orchestrator-execute.yaml / orchestrator-simulate.yaml)",
+    "CLI flags (profile, regions, mode, run-id, filters)"
+  ],
+  "outputs": [
+    "Structured logs (console + file)",
+    "S3 manifests and metadata per backup run",
+    "Exit code signalling success / partial / failure"
+  ],
+  "change_log": [
+    {
+      "version": "v0.7.7-alpha",
+      "items": [
+        "Regex-aware region resolver for --regions flag",
+        "Supports: all, *, explicit lists, and regex (e.g., '^us-', '^(us|eu)-')"
+      ]
+    }
+  ]
+}

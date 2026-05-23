@@ -1,0 +1,41 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: dev_environment.schema
+type: object
+
+properties:
+  ide:
+    type: string
+
+  ide_version:
+    type: string
+
+  language:
+    type: string
+
+  language_version:
+    type: string
+
+  debugger:
+    type: string
+
+  formatter:
+    type: string
+
+  linter:
+    type: string
+
+  type_checker:
+    type: string
+
+  test_runner:
+    type: string
+
+  build_tools:
+    type: array
+    items:
+      type: string
+
+  container_tools:
+    type: array
+    items:
+      type: string

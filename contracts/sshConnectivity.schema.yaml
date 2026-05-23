@@ -1,0 +1,54 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: sshConnectivity.schema
+type: object
+
+properties:
+  identity_strategy:
+    type: string
+    enum: [agent_or_key, key_only, ssm_only]
+
+  keepalive:
+    type: object
+    properties:
+      server_alive_interval:
+        type: integer
+      server_alive_count_max:
+        type: integer
+
+  timeout:
+    type: object
+    properties:
+      connect:
+        type: integer
+
+  retry_policy:
+    type: object
+
+  tunnels:
+    type: array
+    items:
+      type: object
+      required: [id, local_port, remote_port, protocol]
+
+      properties:
+        id:
+          type: string
+
+        local_port:
+          oneOf:
+            - type: integer
+              minimum: 1
+              maximum: 65535
+            - const: auto
+
+        remote_port:
+          type: integer
+          minimum: 1
+          maximum: 65535
+
+        protocol:
+          type: string
+          enum: [tcp]
+
+        purpose:
+          type: string

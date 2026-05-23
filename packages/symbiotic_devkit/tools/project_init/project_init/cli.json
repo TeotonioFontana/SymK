@@ -1,0 +1,46 @@
+{
+  "module_name": "cli.py",
+  "short_purpose": "Bootstrap a SymK-compliant Python project (PyCharm-aware)",
+  "version": "v0.0.1-alpha",
+  "author": "Teotonio Fontana — Architect",
+  "programmed_by": "Duke (GPT-5.1 Thinking, OpenAI)",
+  "project": "SymK - Human-AI Symbiotic Cooperation Protocol",
+  "layer_context": "CLI / Project initialization",
+  "description": [
+    "Creates the minimal structure and files aligned with the SymK coding rules:",
+    "- Boundaries as functions with @enveloped",
+    "- SQLAlchemy confined to adapters/models",
+    "- purpose.md, .symbiotic.yaml, pyproject.toml, tests, optional pre-commit/CI",
+    "- Validates --dest looks like a PyCharm project unless --skip-ide-check",
+    "- Scaffolds the project-level PLC structure under PLC/"
+  ],
+  "responsibilities": [
+    "Parse command-line options for project name, package name, destination and optional features",
+    "Validate that --dest is a PyCharm project unless --skip-ide-check is used",
+    "Create the Python package layout (common, boundaries, core, adapters, models, optional services)",
+    "Generate baseline configuration and documentation files (purpose.md, .symbiotic.yaml, pyproject.toml, README.md, .gitignore, .editorconfig)",
+    "Scaffold the project Product Lifecycle (PLC) folders and stub README files",
+    "Optionally create tests, pre-commit config, CI workflow and initialize a git repository"
+  ],
+  "inputs": [
+    "CLI flags: --name, --package, --dest, --services, --init-git, --precommit, --ci, --force, --inplace, --skip-ide-check, --ide-report",
+    "Existing PyCharm project structure at --dest (unless --skip-ide-check is provided)"
+  ],
+  "outputs": [
+    "Scaffolded project directory tree with Python packages and PLC folders",
+    "Baseline configuration and documentation files (purpose.md, .symbiotic.yaml, pyproject.toml, README.md, .gitignore, .editorconfig)",
+    "Optional pre-commit and CI configuration files",
+    "Optional initialized git repository with initial commit",
+    "Console summary of created files and suggested next steps"
+  ],
+  "change_log": [
+    {
+      "version": "v0.0.1-alpha",
+      "items": [
+        "Initial implementation of SymK project initialization CLI.",
+        "Scaffolds SymK-compliant Python package, PLC structure and core config files.",
+        "Includes PyCharm project validation and optional pre-commit, CI and git initialization."
+      ]
+    }
+  ]
+}

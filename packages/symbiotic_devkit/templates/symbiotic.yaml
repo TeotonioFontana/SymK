@@ -1,0 +1,11 @@
+pkg_top: "common"
+boundary_name_regex: "(run|execute|perform|backup|restore|handle|process)"
+schema_mode: "hints"
+write_mode: "mirror"
+out_dir: ".sym-mirror"
+copy_others: true
+exclude_dirs: ["tests", ".venv", "venv", "__pycache__"]
+cross_pkg_allow: ["common"]
+bounce_exempt: []
+report_json: "reports/symbiotic_report.json"
+report_md:   "reports/symbiotic_report.md"
