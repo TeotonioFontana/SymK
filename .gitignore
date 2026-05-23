@@ -32,3 +32,28 @@ generated/
 # Temp
 tmp/
 temp/
+
+# macOS junk
+.DS_Store
+__MACOSX/
+._*
+*.textClipping
+
+# JetBrains
+.idea/
+
+# Word temp
+~$*
+
+# Python build
+*.egg-info/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
+
+# Generated artifacts
+artifacts/_macos/
