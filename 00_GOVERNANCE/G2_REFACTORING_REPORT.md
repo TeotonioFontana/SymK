@@ -1,0 +1,1 @@
+Semantic classification performed. Files grouped by governance domain. Filename normalization partially applied; remaining UTF-8 cleanup recommended.

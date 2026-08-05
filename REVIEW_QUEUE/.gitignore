@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+
+# Build
+dist/
+build/
+
+# Node
+node_modules/
+
+# Generated
+generated/
+
+# Temp
+tmp/
+temp/
+
+# macOS junk
+.DS_Store
+__MACOSX/
+._*
+*.textClipping
+
+# JetBrains
+.idea/
+
+# Word temp
+~$*
+
+# Python build
+*.egg-info/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
+
+# Generated artifacts
+artifacts/_macos/

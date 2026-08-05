@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edc17395-1212-469b-906a-a3748e9d0523" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/0_TheoryAndFoundaton/SYMK-CHARTER-001_The_SymK_Charter_v0.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_TheoryAndFoundaton/SYMK-PLAN-001_Architecture_Roadmap_v0.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogos/LB-NOTE-001_Argumentos_Estrategia_Conversa.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/SYMK-RES-001_Literature_Landscape_v0.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/LB-DRAFT-000_Core_Engineering_Standard_v0.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/LB-DRAFT-001_Foundational_Engineering_Principles_v0.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/LB-DRAFT-002_Knowledge_Primitives_Specification_v0.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/LB-DRAFT-003_Knowledge_Attributes_Specification_v0.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-P-001 — Primazia do Conhecimento.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-P-002 — Engenharia antes da Implementação.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-P-003 — Especialização por Camadas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-P-004 — Core Isolation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-P-005 — Organization Isolation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-P-006  Specification-driven evolution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-P-007 — Stable Products, Evolving Standards.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-WP-001_Symbiotic_Intelligence_Working_Draft_v0.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/00_AXIOMS/SYMK-WP-001_Symbiotic_Intelligence_v0.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Incubator/SYMK-NOTE-001_Architectural_Separation_Hypothesis_v0.1.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TeotonioFontana&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TeotonioFontana/SymK.git&quot;,
+    &quot;accountId&quot;: &quot;3551d5fb-7a29-4b8c-a6c5-37f69078c2c8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="38rtQmfwvZvsYsGVZAJf9HeIufz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dialogos" />
+      <recent name="$PROJECT_DIR$/0_TheoryAndFoundaton" />
+      <recent name="$PROJECT_DIR$/Library" />
+      <recent name="$PROJECT_DIR$/docs/Incubator" />
+      <recent name="$PROJECT_DIR$/docs/00_AXIOMS" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edc17395-1212-469b-906a-a3748e9d0523" name="Changes" comment="" />
+      <created>1769569504521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769569504521</updated>
+      <workItem from="1769569505951" duration="2662000" />
+      <workItem from="1769824015854" duration="3633000" />
+      <workItem from="1769899468678" duration="598000" />
+      <workItem from="1770028879999" duration="2513000" />
+      <workItem from="1770258152614" duration="325000" />
+      <workItem from="1772797633594" duration="674000" />
+      <workItem from="1773279753818" duration="711000" />
+      <workItem from="1773356183799" duration="2039000" />
+      <workItem from="1773436044412" duration="1827000" />
+      <workItem from="1773847265766" duration="598000" />
+      <workItem from="1773934152838" duration="579000" />
+      <workItem from="1775185090022" duration="5959000" />
+      <workItem from="1775511648744" duration="598000" />
+      <workItem from="1775558684002" duration="5000" />
+      <workItem from="1775565715270" duration="598000" />
+      <workItem from="1776350363248" duration="597000" />
+      <workItem from="1776580707605" duration="430000" />
+      <workItem from="1776590456009" duration="2415000" />
+      <workItem from="1778169291420" duration="555000" />
+      <workItem from="1778944451360" duration="60000" />
+      <workItem from="1778960845248" duration="5000" />
+      <workItem from="1779272038899" duration="1057000" />
+      <workItem from="1779298880622" duration="3606000" />
+      <workItem from="1779538083630" duration="2224000" />
+      <workItem from="1781750234597" duration="1035000" />
+      <workItem from="1781869432844" duration="462000" />
+      <workItem from="1781876181264" duration="599000" />
+      <workItem from="1783971749273" duration="14963000" />
+      <workItem from="1784562674322" duration="2754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

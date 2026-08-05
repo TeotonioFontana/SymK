@@ -1,0 +1,2 @@
+# White Paper Template
+(Mock)

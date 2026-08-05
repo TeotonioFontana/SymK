@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: symk-project-init
+Version: 0.1.0
+Summary: SymK project initializer (PyCharm-aware)
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+
+# SymK Project Init
+PyCharm-aware initializer.
