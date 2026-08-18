@@ -6,7 +6,7 @@
 
 ## Purpose of this history
 
-SymK 2.x is a controlled change of identity: from a Human–AI development protocol, through a Meta-PLC and knowledge-modeling architecture, toward an epistemically grounded engineering discipline and constitutional framework for cooperation among Intelligences.
+SymK 2.x is the controlled consolidation of SymK from its historical Human–AI, Meta-PLC, and knowledge-modeling formulations into the engineering discipline for creating Domain Intelligence Amplifiers. The Stage-Accepted 2.0 baseline distinguishes Knowledge as medium, cooperation as process, Amplified Intelligence as target capability, and better answers to complex questions as the principal constrained value.
 
 This directory is the historical and governance record of that evolution. It is not itself the canonical SymK corpus. Canonical SymK documents remain under `00_GOVERNANCE/`; this history explains why and how their future versions change.
 
@@ -28,16 +28,27 @@ SymK 2.x Evolution history/
 ├── 01_ROADMAP/
 │   ├── SYMK_2X_ROADMAP.md
 │   └── STAGE_GATES.md
-└── 2.0/
+├── 2.0/
+│   ├── README.md
+│   ├── 2.0.1_Identity_Analysis.md
+│   ├── 2.0.2_Purpose_Analysis.md
+│   ├── 2.0.3_Jurisdiction_Analysis.md
+│   ├── 2.0.4_Layer_Boundary_Analysis.md
+│   ├── 2.0.5_Tension_Register.md
+│   ├── 2.0.6_Consolidated_Baseline.md
+│   ├── DECISION_REGISTER.md
+│   ├── EVIDENCE_REGISTER.md
+│   ├── DEFERRED_QUESTIONS.md
+│   ├── CHANGE_LOG.md
+│   └── Summary.md
+└── 2.1/
     ├── README.md
-    ├── 2.0.1_Identity_Analysis.md
-    ├── 2.0.2_Purpose_Analysis.md
-    ├── 2.0.3_Jurisdiction_Analysis.md
-    ├── 2.0.4_Layer_Boundary_Analysis.md
-    ├── 2.0.5_Tension_Register.md
-    ├── 2.0.6_Consolidated_Baseline.md
+    ├── work packages 2.1.1 through 2.1.11
+    ├── CONCEPT_REGISTER.md
+    ├── FOUNDATION_PAPER_REVISION_LEDGER.md
     ├── DECISION_REGISTER.md
     ├── EVIDENCE_REGISTER.md
+    ├── TENSION_REGISTER.md
     ├── DEFERRED_QUESTIONS.md
     ├── CHANGE_LOG.md
     └── Summary.md
@@ -48,9 +59,9 @@ SymK 2.x Evolution history/
 1. `Overview.md`
 2. `00_CONTROL/EVOLUTION_GOVERNANCE.md`
 3. `01_ROADMAP/SYMK_2X_ROADMAP.md`
-4. `2.0/README.md`
-5. Work packages `2.0.1` through `2.0.6`
-6. Registers and stage summary
+4. `2.0/Summary.md` for the accepted predecessor baseline
+5. `2.1/README.md`
+6. Active 2.1 work package and registers
 
 ## Separation of roles
 
@@ -60,4 +71,3 @@ SymK 2.x Evolution history/
 - Decision records select positions for a stage.
 - Stage summaries record what was accepted without erasing open questions.
 - Git history records file changes but does not replace the reasoning record.
-

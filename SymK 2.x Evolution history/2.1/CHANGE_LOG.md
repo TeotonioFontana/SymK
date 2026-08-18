@@ -1,0 +1,9 @@
+# SymK 2.1 Evolution Change Log
+
+| ID | Date | Change | Type | Authority | Canonical corpus changed? |
+|---|---|---|---|---|---|
+| SYMK-2X-CH-041 | 2026-08-18 | Activated SymK 2.1 as the Foundational Conceptual System stage; created its work-package and register scaffold; carried forward 2.0 deferrals; added the Foundation Paper revision ledger and dedicated v0.2 publication step; updated the evolution overview, roadmap, and directory map | Evolution governance and stage scaffold | Project-steward approval recorded as `SYMK-2X-EV-067` | No; only evolution-history and roadmap artifacts changed |
+| SYMK-2X-CH-042 | 2026-08-18 | Advanced the active baseline to `2.1-dev.2`; completed the substantive 2.1.1 concept-governance analysis; audited the inherited primitive and concept methods; defined admission, disposition, evaluation, dependency, two-lane, status, conflict, Foundation Paper, and axiom-readiness rules; recorded `SYMK-2X-DR-009` as Proposed | Analysis and decision proposal | Controlled 2.1.1 work authorized by `SYMK-2X-EV-068` | No; evolution-history artifacts only |
+| SYMK-2X-CH-043 | 2026-08-18 | Advanced the active baseline to `2.1-dev.3`; Stage-Accepted `SYMK-2X-DR-009` as the governing method for continuation of 2.1; completed 2.1.1 and authorized 2.1.2 to begin while preserving all declared dissent and boundaries | Stage decision | Project-steward acceptance recorded as `SYMK-2X-EV-075` | No; evolution-history artifacts only |
+
+Future entries must distinguish analytical work, decisions, publication changes, and canonical corpus migration.

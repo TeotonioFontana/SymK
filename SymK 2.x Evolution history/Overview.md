@@ -8,8 +8,8 @@ The current baseline is developmental. It is not a final Constitution, and conso
 
 ## Evolution sequence
 
-- **2.0 — Identity and Jurisdiction:** Product Vision, A0, A5, scope, and philosophical boundaries.
-- **2.1 — Foundational Concepts:** Knowledge, Intelligence, cooperation, Education, Training, responsibility, representation, and epistemic conditions.
+- **2.0 — Identity and Jurisdiction:** Product Vision, purpose, jurisdiction, layer boundaries, conflict direction, and governing tensions; former A5 reclassified as Proposed Jurisdiction Article J1.
+- **2.1 — Foundational Conceptual System:** governed meanings, distinctions, dependencies, and boundaries for the concepts required by the SymK identity, value chain, and candidate Constitution; followed by Foundation Papers v0.2 for human communication.
 - **2.2 — Constitutional Axiom Set:** necessity, independence, wording, relationships, tests, and preserved dissent.
 - **2.3 — Constitutional Governance:** statuses, authority, ratification, challenges, exceptions, amendments, and supersession.
 - **2.4 — Legacy Disposition:** explicit treatment of existing axioms, principles, and incompatible terminology.
@@ -22,11 +22,11 @@ The current baseline is developmental. It is not a final Constitution, and conso
 
 ## Current stage
 
-The active stage is **SymK 2.0 — Identity and Jurisdiction**.
+The active stage is **SymK 2.1 — Foundational Conceptual System**. SymK 2.0 — Identity and Jurisdiction was Stage-Accepted on 18 August 2026 through `SYMK-2X-DR-008`.
 
-Its central question is:
+The 2.1 central question is:
 
-> **What is SymK, why does it exist, and where does its authority begin and end?**
+> **What minimum coherent conceptual system must SymK govern so that its identity, value chain, and candidate Constitution can be understood without allowing projects, representations, or implementations to redefine their meaning accidentally?**
 
 ## Control philosophy
 

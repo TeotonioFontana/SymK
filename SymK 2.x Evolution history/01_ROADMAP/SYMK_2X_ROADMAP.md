@@ -3,7 +3,7 @@
 | Version | Consolidation stage | Primary outcome | Explicitly deferred |
 |---|---|---|---|
 | 2.0 | Identity and Jurisdiction | Coherent Product Vision, purpose, scope, and disciplinary boundaries | Complete foundational concepts and final axiom set |
-| 2.1 | Foundational Concepts | Governed conceptual foundations for Knowledge, Intelligence, cooperation, Education, Training, responsibility, representation, and epistemic conditions | Final constitutional selection |
+| 2.1 | Foundational Conceptual System | Stage-Accepted meanings, distinctions, dependencies, and boundaries for the concepts required by the SymK identity, value chain, and candidate Constitution; revised Foundation Papers v0.2 as human communication | Final constitutional selection; final `FC-*`, `FP-*`, and `SYMK-P-*` packages; formal-language and lowering choices |
 | 2.2 | Constitutional Axiom Set | Necessary, independent, interpreted, and tested axioms | Formal ratification mechanics |
 | 2.3 | Constitutional Governance | Authority, statuses, ratification, challenge, exceptions, amendment, supersession | Legacy migration execution |
 | 2.4 | Legacy Disposition | Explicit retention, revision, demotion, supersession, or retirement | Complete primitive reconstruction |
@@ -17,4 +17,3 @@
 ## Roadmap rule
 
 Later-stage evidence may challenge an earlier baseline. The roadmap is sequential for control, not dogmatic dependency. Reopening an earlier decision requires explicit impact analysis and lineage.
-
