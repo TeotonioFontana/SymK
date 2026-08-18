@@ -3,7 +3,7 @@
 **Stage status:** Release candidate under review
 **Target version:** 2.0  
 **Current version form:** `2.0-rc.1`
-**Normative effect:** DR-001–DR-006 have provisional Stage-Accepted program authority; DR-007 and canonical migration remain Proposed
+**Normative effect:** DR-001–DR-007 have provisional Stage-Accepted program authority; canonical migration is authorized and proceeds step-by-step; final 2.0 acceptance remains pending
 
 ## Central question
 

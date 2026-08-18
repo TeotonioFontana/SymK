@@ -49,7 +49,7 @@ The Knowledge paper makes Knowledge an epistemic achievement rather than a stora
 
 ## Relationship with other axioms
 
-A4 realizes the purpose of A0 without violating A1. It operationalizes A2 role governance and A3 formative responsibility. A5 limits its philosophical claims, while A6 carries its constraints into project Engineering Charters.
+A4 realizes the purpose of A0 without violating A1. It operationalizes A2 role governance and A3 formative responsibility. J1 limits its philosophical and engineering claims, while A6 carries its constraints into project Engineering Charters.
 
 ## Authoritative interpretation
 
@@ -95,4 +95,3 @@ Every derived project must define its epistemic objects, lifecycle, validators, 
 
 - **0.1 — 2026-08-16:** Initial skeletal proposal.
 - **0.2 — 2026-08-16:** Expanded exposition; no normative ratification.
-

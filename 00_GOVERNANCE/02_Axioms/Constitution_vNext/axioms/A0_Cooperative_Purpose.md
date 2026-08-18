@@ -49,7 +49,7 @@ The Knowledge paper supplies the shared medium while denying that sharing means 
 
 ## Relationship with other axioms
 
-A0 is the purposive parent of A1–A6. A1 constrains its medium; A2 governs participant roles; A3 addresses cooperative formation; A4 governs engineering; A5 limits philosophical jurisdiction; A6 carries the purpose into derived projects. A0 cannot override their protections in the name of cooperation.
+A0 is the proposed purposive parent of A1–A4 and A6. A1 constrains its medium; A2 governs participant roles; A3 addresses cooperative formation; A4 governs engineering; J1 limits philosophical and engineering jurisdiction; A6 carries the purpose into derived projects. A0 cannot override their protections in the name of cooperation.
 
 ## Authoritative interpretation
 
@@ -95,4 +95,3 @@ Every derived project must state the cooperation it enables, its participants an
 
 - **0.1 — 2026-08-16:** Initial skeletal proposal.
 - **0.2 — 2026-08-16:** Expanded to the canonical axiom anatomy; no normative ratification.
-

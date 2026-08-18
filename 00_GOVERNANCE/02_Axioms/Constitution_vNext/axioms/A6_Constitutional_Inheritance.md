@@ -48,7 +48,7 @@ The SymK Charter distinguishes discipline, Body of Knowledge, and implementation
 
 ## Relationship with other axioms
 
-A6 is the transmission rule for A0–A5. It cannot strengthen project authority above A1 humility or use inheritance to defeat A2 non-privilege. A5 determines which commitments belong at the parent or project level. Conflicts among inherited axioms must use the constitutional challenge protocol.
+A6 is the proposed transmission rule for A0–A4 under J1. It cannot strengthen project authority above A1 humility or use inheritance to defeat A2 non-privilege. J1 determines which commitments belong at the parent, project, organization, deployment, or external-authority level. Conflicts among inherited commitments must use the constitutional challenge protocol.
 
 ## Authoritative interpretation
 
@@ -94,4 +94,3 @@ This axiom is self-applying: every derived project must reproduce its inheritanc
 
 - **0.1 — 2026-08-16:** Initial skeletal proposal.
 - **0.2 — 2026-08-16:** Expanded exposition; no normative ratification.
-

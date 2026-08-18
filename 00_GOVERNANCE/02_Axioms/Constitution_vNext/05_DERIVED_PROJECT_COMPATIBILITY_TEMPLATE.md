@@ -24,7 +24,7 @@
 | A2 Governed Role Allocation | | | | |
 | A3 Cooperative Formation | | | | |
 | A4 Engineering of Epistemic Conditions | | | | |
-| A5 Philosophical Jurisdiction | | | | |
+| J1 Philosophical and Engineering Jurisdiction | | | | |
 | A6 Constitutional Inheritance | | | | |
 
 ## Conflict register
@@ -36,4 +36,3 @@
 ## Declaration
 
 Compatibility means that no known project axiom, engineering obligation, or governing implementation silently contradicts the inherited SymK Constitution. It does not certify philosophical truth, operational correctness, or absence of future conflict.
-

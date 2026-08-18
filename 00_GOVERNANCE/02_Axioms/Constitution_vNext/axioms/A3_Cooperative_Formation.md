@@ -46,7 +46,7 @@ The Intelligence paper establishes that Intelligence does not entail wisdom, rat
 
 ## Relationship with other axioms
 
-A3 supplies the formative condition for A0. A1 requires habits of humility and challenge; A2 requires capacities appropriate to allocated roles; A4 makes formative environments an engineering responsibility. A5 limits the philosophical claim, and A6 requires projects to specify their formative effects.
+A3 supplies the formative condition for A0. A1 requires habits of humility and challenge; A2 requires capacities appropriate to allocated roles; A4 makes formative environments an engineering responsibility. J1 limits the philosophical and engineering claim, and A6 requires projects to specify their formative effects.
 
 ## Authoritative interpretation
 
@@ -93,4 +93,3 @@ Persistent projects must declare which cooperative habits they intentionally cul
 
 - **0.1 — 2026-08-16:** Initial skeletal proposal.
 - **0.2 — 2026-08-16:** Expanded exposition; no normative ratification.
-

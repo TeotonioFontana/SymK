@@ -1,31 +1,41 @@
 # Candidate SymK Constitution
 
-**Status:** Proposed scaffold  
-**Version:** 0.1  
+**Status:** Proposed Constitution under SymK 2.0 migration
+**Version:** 0.2
 **Ratified:** No
 
 ## 1. Constitutional purpose
 
-This Constitution defines the enduring commitments that distinguish SymK-compatible epistemic cooperation from systems that merely exchange, generate, store, or automate representations.
+This Constitution protects the enduring universal commitments of SymK as the engineering discipline for creating Domain Intelligence Amplifiers. It distinguishes SymK-compatible systems from systems that merely exchange, generate, store, retrieve, or automate representations without governed grounds, context, challenge, responsibility, or learning.
 
-The Constitution is intentionally small. It does not replace the SymK Body of Knowledge, foundational concepts, engineering principles, domain constitutions, standards, or reference architectures.
+Its constitutional purpose is to constrain how governed domain Knowledge can mediate cooperation among Intelligences toward Amplified Intelligence and better answers to complex questions. Cooperation is the operating process, not the final objective. Speed and lower cost are valid only as jointly constrained value dimensions: they do not override answer quality, epistemic accountability, responsibility, or observed consequences.
+
+The Constitution is intentionally small. It governs fundamental and universal commitments; it does not define SymK's complete identity or value chain and does not replace the SymK Body of Knowledge, foundational concepts, engineering principles, derived-project constitutions, domain standards, external authority, or reference architectures.
 
 ## 2. Constitutional scope
 
-The Constitution governs:
+Within SymK's bounded jurisdiction, the Constitution governs universal commitments concerning:
 
-- cooperation among Intelligences;
+- the epistemic and Knowledge Engineering conditions necessary for Domain Intelligence Amplifiers;
+- governed domain Knowledge as the cooperative medium;
+- cooperation among Intelligences as an accountable and evolvable process;
+- the minimal account of Amplified Intelligence necessary to identify the target capability without defining complete domain reasoning;
 - the minimal, non-anthropocentric account of Intelligence required to identify and characterize participants;
 - the relation among Knowledge, claims, grounds, and representations;
 - allocation of epistemic roles, authority, authorization, and responsibility;
-- formation for sustained cooperation;
+- Education, Training, habit formation, and continuing challenge capacity where persistent systems shape participants;
 - the object and limits of Knowledge Engineering;
-- SymK's philosophical jurisdiction;
-- and inheritance by derived projects.
+- SymK's bounded philosophical and engineering jurisdiction;
+- inheritance, specialization, explicit incompatibility, and evidence return by derived projects;
+- and the requirement that consequence and operational evidence can challenge governing commitments.
 
-It does not define complete domain ontologies, product logic, technical architecture, or implementation policy.
+The Constitution does not define complete domain Ontologies, domain Logic, substantive domain reasoning, professional standards, answer thresholds, domain purposes, product specifications, technical architecture, organizational authorization, deployment policy, or implementation choices. These belong to derived projects, organizations, deployments, or legitimate external authorities within their respective jurisdictions, subject to applicable inherited constraints and explicit conflict governance.
+
+Constitutional status does not create truth, and constitutional authority must not be confused with epistemic warrant, domain expertise, legal authorization, or implementation fact.
 
 ## 3. Candidate constitutional axioms
+
+The following summaries reproduce the still-Proposed A0–A4 and A6 candidates without substantive migration in this step. Their presence does not imply consistency with sections 1–2. A0 requires separate substantive reconstruction, A6's artifact class remains open, and every candidate remains subject to the axiom-minimality review assigned to SymK 2.2.
 
 ### A0 — Cooperative Purpose
 
@@ -47,15 +57,17 @@ Stable cooperation among Intelligences depends upon their Education for relation
 
 SymK does not engineer Knowledge or truth directly. It engineers accountable and evolvable conditions through which Intelligences can pursue, achieve, express, preserve, share, challenge, apply, and revise Knowledge responsibly within stated scopes.
 
-### A5 — Philosophical Jurisdiction
-
-SymK is centered on Epistemology and necessarily constrained by a minimal, non-anthropocentric account of Intelligence, because epistemic cooperation requires identifiable participants and attributable capacities. A derived project is additionally constrained by a governed domain ontology and logic. These commitments establish disciplinary accountability without claiming exhaustive coverage of the corresponding fields.
-
 ### A6 — Constitutional Inheritance
 
 Every SymK-derived project inherits the SymK Constitution. It may introduce project axioms that specialize inherited commitments for its domain, but it shall not silently contradict, weaken, redefine, or bypass them. Every specialization, exception, and incompatibility must be explicit, justified, scoped, and governed.
 
-## 4. Interpretation clauses
+## 4. Constitutional jurisdiction article
+
+### J1 — Philosophical and Engineering Jurisdiction
+
+J1 allocates and limits authority among SymK, derived projects, organizations, deployments, and external authorities. It governs the scope and interpretation of every candidate axiom and downstream artifact without itself being classified as an axiom. Its complete Proposed text is maintained in `jurisdiction/J1_Philosophical_and_Engineering_Jurisdiction.md`.
+
+## 5. Interpretation clauses
 
 1. **Shared does not mean identical.** It does not require consensus, unrestricted access, or one representation.
 2. **Responsible is not reducible to efficient.** Consequence, affected parties, authority, and repair matter.
@@ -65,6 +77,12 @@ Every SymK-derived project inherits the SymK Constitution. It may introduce proj
 6. **Implementation supplies evidence.** It does not silently define constitutional concepts.
 7. **Foundation papers are sources, not norms by publication alone.** Only explicitly selected and ratified commitments acquire constitutional force.
 
-## 5. Amendment principle
+## 6. Amendment principle
 
 The Constitution is durable but revisable. Amendments require explicit proposals, source lineage, affected-document analysis, cross-domain testing, dissent preservation, ratification, versioning, and migration guidance.
+
+## 7. Version history
+
+- **0.3 — 2026-08-18:** Reclassified A5 as Proposed Constitutional Jurisdiction Article J1 under `SYMK-2X-DR-004`; no substantive axiom Ratified.
+- **0.2 — 2026-08-18:** Migrated constitutional purpose and scope to the Stage-Accepted SymK 2.0 identity, value chain, and jurisdiction under `SYMK-2X-DR-007`; preserved A0–A6 verbatim as Proposed candidates pending their separately governed review.
+- **0.1 — 2026-08-16:** Initial candidate Constitution scaffold.

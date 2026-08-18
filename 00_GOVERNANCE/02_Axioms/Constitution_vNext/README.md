@@ -7,14 +7,14 @@
 
 This package scaffolds a candidate update of the SymK constitutional layer in light of the recent foundational work on Knowledge, Intelligence, Education, Training, Knowledge Engineering, philosophical jurisdiction, and derived-project inheritance.
 
-It does **not** supersede the current effective SymK axiom artifacts. Every A0–A6 statement remains Proposed until reviewed and ratified through explicit SymK governance. The package may nevertheless serve as the canonical location and structure for that review.
+It does **not** supersede the current effective SymK axiom artifacts. A0–A4 and A6 remain Proposed until reviewed and ratified through explicit SymK governance. Former A5 is now Proposed Constitutional Jurisdiction Article J1, not an axiom. The package may nevertheless serve as the canonical location and structure for that review.
 
 ## Objectives
 
 1. Separate constitutional axioms from foundational principles, policies, architectures, and implementation constraints.
 2. Replace fixed Human/AI constitutional roles with governed role allocation among Intelligences.
 3. Make Epistemic Humility, Cooperative Formation, and Engineering of Epistemic Conditions explicit candidates.
-4. Define SymK's philosophical jurisdiction without claiming exhaustive coverage of Epistemology or neighboring fields.
+4. Define SymK's philosophical and engineering jurisdiction without claiming exhaustive coverage of Epistemology or neighboring fields.
 5. Establish constitutional inheritance for LexBrain, sshConnectivity, and future derived projects.
 6. Govern conflict between SymK axioms and project axioms.
 7. Preserve lineage and prevent silent canonical mutation.
@@ -34,8 +34,9 @@ symk-constitutional-update-scaffold/
 │   ├── A2_Governed_Role_Allocation.md
 │   ├── A3_Cooperative_Formation.md
 │   ├── A4_Engineering_Epistemic_Conditions.md
-│   ├── A5_Philosophical_Jurisdiction.md
 │   └── A6_Constitutional_Inheritance.md
+├── jurisdiction/
+│   └── J1_Philosophical_and_Engineering_Jurisdiction.md
 ├── 02_NORMATIVE_HIERARCHY.md
 ├── 03_CONFLICT_AND_CHALLENGE_PROTOCOL.md
 ├── 04_EXISTING_DOCUMENT_DISPOSITION.md
@@ -56,7 +57,7 @@ symk-constitutional-update-scaffold/
 
 1. Review the constitutional-source map and the status of each source.
 2. Review the purpose and normative hierarchy.
-3. Review whether A0–A6 are necessary and independent.
+3. Review whether A0–A4 and A6 are necessary and independent, and whether J1 has adequate constitutional force as a jurisdiction article.
 4. Review each axiom's statement, derivation, defined terms, and interpretation.
 5. Test counterexamples and cross-domain applicability.
 6. Review conflict and inheritance mechanics.

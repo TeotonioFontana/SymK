@@ -13,7 +13,8 @@ One primary SymK identity, a coherent constitutional purpose, explicit philosoph
 
 - [x] One primary identity of SymK is stated consistently through `SYMK-2X-DR-001`.
 - [x] Historical identities have explicit dispositions in 2.0.1.
-- [ ] Product Vision, A0, and A5 do not contradict one another.
+- [x] Product Vision and J1 reflect the accepted identity and jurisdiction baseline.
+- [ ] A0 no longer contradicts the accepted purpose and value chain.
 - [x] SymK’s purpose is distinguishable from methods and implementations through `SYMK-2X-DR-002`.
 - [x] Epistemology’s bounded constitutive role is stated through `SYMK-2X-DR-003`.
 - [x] Intelligence has a justified minimal place in scope through `SYMK-2X-DR-003`.
@@ -35,6 +36,7 @@ One primary SymK identity, a coherent constitutional purpose, explicit philosoph
 - `SYMK-2X-DR-004` — A5 reclassification as a Constitutional Jurisdiction Article and initial axiom-admission rule, Stage-Accepted for continuation of 2.0; not constitutionally Ratified.
 - `SYMK-2X-DR-005` — jurisdiction-qualified layer authority, ownership, interlayer relationships, conflict and feedback direction, and operational maturation condition, Stage-Accepted for continuation of 2.0; not constitutionally Ratified.
 - `SYMK-2X-DR-006` — jurisdiction-proportionate disposition of thirty material tensions through guardrails, project declarations, consequence review, external authority, empirical maturation, explicit non-universalization, preserved dissent, and reopening conditions, Stage-Accepted for continuation of 2.0; not constitutionally Ratified.
+- `SYMK-2X-DR-007` — consolidated `2.0-rc.1` baseline and bounded, stepwise canonical migration plan, Stage-Accepted for migration; not final SymK 2.0 acceptance or constitutional Ratification.
 
 ## Preserved dissent
 

@@ -46,7 +46,7 @@ The Knowledge paper distinguishes Knowledge from claims, assets, representations
 
 ## Relationship with other axioms
 
-A1 constrains the medium named by A0 and the engineering object of A4. It prevents A2 authority from becoming truth and A6 inheritance from becoming infallibility. A5 keeps its epistemological reach bounded.
+A1 constrains the medium named by A0 and the engineering object of A4. It prevents A2 authority from becoming truth and A6 inheritance from becoming infallibility. J1 keeps its epistemological reach bounded.
 
 ## Authoritative interpretation
 
@@ -92,4 +92,3 @@ Projects must identify what their stored objects represent, what status they hav
 
 - **0.1 — 2026-08-16:** Initial skeletal proposal.
 - **0.2 — 2026-08-16:** Expanded exposition; no normative ratification.
-

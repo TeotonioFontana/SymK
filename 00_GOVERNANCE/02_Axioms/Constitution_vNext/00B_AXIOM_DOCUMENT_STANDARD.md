@@ -76,6 +76,6 @@ Every dependent principle, project axiom, Engineering Charter obligation, and st
 
 ## 8. Current baseline status
 
-The A0–A6 version 0.2 files implement this anatomy as a questioning baseline. Their completeness of structure does not imply philosophical completeness or ratification. Stable section-level source citations, final governed concept references, ratifying authority, effective dates, and decisions on preserved open questions remain maturation requirements.
+The A0–A4 and A6 version 0.2 files implement this anatomy as a questioning baseline. Their completeness of structure does not imply philosophical completeness or Ratification. J1 is governed separately as a Constitutional Jurisdiction Article. Stable section-level source citations, final governed concept references, ratifying authority, effective dates, and decisions on preserved open questions remain maturation requirements.
 
 They remain **Proposed**, not Candidate or Ratified.

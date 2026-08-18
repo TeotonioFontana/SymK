@@ -7,12 +7,12 @@
 - Review this package structure.
 - Confirm the meaning of constitutional axiom.
 - Confirm the designated ratification authority.
-- Decide whether A5 and A6 belong in the Constitution.
+- Review whether J1 has adequate constitutional force as a jurisdiction article and decide whether A6 belongs in the Constitution.
 - Approve or revise the Axiom Document Standard before any axiom advances to Candidate.
 
 ## Phase 1 — Axiom maturation
 
-For each A0–A6:
+For each proposed axiom A0–A4 and A6, and separately for jurisdiction article J1:
 
 1. refine governed definitions;
 2. identify philosophical and project sources;

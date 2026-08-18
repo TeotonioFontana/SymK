@@ -39,13 +39,13 @@ Principles, project constitutions, charters, and standards
 
 | Source | Current location/status | Constitutional contribution | Principal targets |
 |---|---|---|---|
-| *Knowledge as the Shared Medium* v0.1 | SymK Product Vision; foundational working paper | Knowledge as epistemic achievement; distinction from claims, assets, and representations; scoped responsible reliance; challengeability | A0, A1, A4, A5; `FC-006 Knowledge` |
-| *Intelligence Beyond the Human* v0.1 | SymK Product Vision; foundational working paper | Non-anthropocentric Intelligence; bearer/substrate/capability/performance distinctions; non-privilege; scoped attribution | A0, A1, A2, A3, A4, A5; `FC-005 Intelligence` |
-| *Properties and Projections* v0.1 | Foundation output; working paper | Representation and classification as purpose-dependent projections; metadata and evidence discipline | A1, A4, A5; classification principles |
+| *Knowledge as the Shared Medium* v0.1 | SymK Product Vision; foundational working paper | Knowledge as epistemic achievement; distinction from claims, assets, and representations; scoped responsible reliance; challengeability | A0, A1, A4, J1; `FC-006 Knowledge` |
+| *Intelligence Beyond the Human* v0.1 | SymK Product Vision; foundational working paper | Non-anthropocentric Intelligence; bearer/substrate/capability/performance distinctions; non-privilege; scoped attribution | A0, A1, A2, A3, A4, J1; `FC-005 Intelligence` |
+| *Properties and Projections* v0.1 | Foundation output; working paper | Representation and classification as purpose-dependent projections; metadata and evidence discipline | A1, A4, J1; classification principles |
 | *Education for Cooperation* v0.1 | Candidate output; not yet in canonical SymK corpus | Education for relationship; Training and habituation; formation of individual, collective, and hybrid cooperation | A0, A2, A3, A4 |
-| *Engineering the Conditions for Knowledge* v0.1 | Candidate output; not yet in canonical SymK corpus | Conditions interpretation of Knowledge Engineering; acquisition as construction; lifecycle, validation, consequence | A1, A4, A5 |
+| *Engineering the Conditions for Knowledge* v0.1 | Candidate output; not yet in canonical SymK corpus | Conditions interpretation of Knowledge Engineering; acquisition as construction; lifecycle, validation, consequence | A1, A4, J1 |
 | Original Symbiotic Development Protocol and role narrative | Canonical/legacy mixed document | Cooperation, dialogue, challenge, memory, traceability; historical Human/AI role assumptions | A0, A2, A3; historical lineage |
-| Draft SymK Charter | Review queue | Reality before models; engineering before implementation; evidence-based evolution; disciplinary boundary | A4, A5, A6; principles |
+| Draft SymK Charter | Review queue | Reality before models; engineering before implementation; evidence-based evolution; disciplinary boundary | A4, J1, A6; principles |
 | Recent epistemic-labor discussions | Conversation-derived evidence; not a governed source artifact yet | Separation of capability, role, authority, authorization, responsibility, and authorship | A2, A6 |
 
 ## 4. Required source metadata
@@ -78,7 +78,7 @@ The paper contributes:
 - Intelligence does not entail authority, wisdom, consciousness, responsibility, or moral status;
 - and Knowledge and Intelligence are distinct but reciprocal.
 
-Its working definition should mature through `FC-005 Intelligence`. Its selected constitutional conclusions should be incorporated into A0, A1, A2, A3, A4, and A5 expositions.
+Its working definition should mature through `FC-005 Intelligence`. Its selected constitutional conclusions should be incorporated into A0, A1, A2, A3, A4, and J1 expositions.
 
 ## 6. Knowledge as a constitutional source
 
@@ -101,4 +101,3 @@ Its working definition should mature through `FC-006 Knowledge` rather than bein
 - When a source paper changes, does every dependent axiom require review?
 - Which source passages are interpretively authoritative after ratification?
 - How should minority or dissenting reasoning be preserved?
-
