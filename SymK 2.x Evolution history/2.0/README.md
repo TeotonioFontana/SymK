@@ -1,9 +1,10 @@
 # SymK 2.0 — Identity and Jurisdiction
 
-**Stage status:** Release candidate under review
+**Stage status:** Stage-Accepted
 **Target version:** 2.0  
-**Current version form:** `2.0-rc.1`
-**Normative effect:** DR-001–DR-007 have provisional Stage-Accepted program authority; canonical migration is authorized and proceeds step-by-step; final 2.0 acceptance remains pending
+**Current version:** `2.0`
+**Promoted from:** `2.0-rc.1`
+**Normative effect:** DR-001–DR-008 form the Stage-Accepted Identity and Jurisdiction program baseline; no candidate constitutional artifact is Ratified by this stage acceptance
 
 ## Central question
 
@@ -55,6 +56,8 @@ The stage reviews together:
 4. `2.0.4_Layer_Boundary_Analysis.md`
 5. `2.0.5_Tension_Register.md`
 6. `2.0.6_Consolidated_Baseline.md`
+7. `2.0.6.1_Cross_Document_Consistency_Audit.md`
+8. `2.0.6.2_Final_Stage_Acceptance.md`
 
 ## Out of scope
 

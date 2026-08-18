@@ -7,7 +7,7 @@
 | SYMK-2X-DQ-003 | What distinguishes cooperation from coordination, compliance, and collusion? | 2.1 | Full relational concept exceeds identity stage | Failure cases needed for A0 |
 | SYMK-2X-DQ-004 | How do Education and Training apply across human, artificial, collective, and hybrid Intelligences? | 2.1 | Full formation theory is outside 2.0 | A3 relevance to purpose must be acknowledged |
 | SYMK-2X-DQ-005 | What is responsibility when agency, authority, causation, and legal personality diverge? | 2.1/2.2 | Requires concept and axiom analysis | “Responsible” in A0 requires minimum interpretation |
-| SYMK-2X-DQ-006 | Are A0–A6 necessary and independent? | 2.2 | Depends on consolidated concepts | 2.0 reviews only A0 and A5 orientation |
+| SYMK-2X-DQ-006 | Which of A0–A4 and A6 are necessary and independent, and does J1 have the appropriate non-axiomatic constitutional force? | 2.2/2.3 | Depends on consolidated concepts and governance mechanics after A5's reclassification | 2.0 preserves all as Proposed and establishes J1's jurisdiction-article direction |
 | SYMK-2X-DQ-007 | Who ratifies the SymK Constitution? | 2.3 | Formal governance stage | 2.0 decisions remain Stage-Accepted at most |
 | SYMK-2X-DQ-008 | What is the disposition of every legacy axiom and principle? | 2.4 | Requires settled Constitution and governance | 2.0 records identity impacts only |
 | SYMK-2X-DQ-009 | What are the final `FC-*`, `FP-*`, and `SYMK-P-*` structures? | 2.5 | Must be derived after constitutional consolidation | Avoid ontology-first preemption |

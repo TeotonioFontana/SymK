@@ -5,7 +5,7 @@
 **Version:** 0.3
 **Scope:** SymK, derived projects, organizations, deployments, and external-authority boundaries
 **Ratified:** No
-**Predecessor:** `axioms/A5_Philosophical_Jurisdiction.md` v0.2
+**Predecessor:** A5 — Philosophical Jurisdiction v0.2, formerly located at `axioms/A5_Philosophical_Jurisdiction.md` and preserved through version-control and evolution lineage
 
 ## Normative statement
 

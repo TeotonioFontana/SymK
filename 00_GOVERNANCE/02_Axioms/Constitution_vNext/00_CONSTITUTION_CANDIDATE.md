@@ -1,7 +1,7 @@
 # Candidate SymK Constitution
 
-**Status:** Proposed Constitution under SymK 2.0 migration
-**Version:** 0.2
+**Status:** Proposed Constitution under the Stage-Accepted SymK 2.0 orientation
+**Version:** 0.4
 **Ratified:** No
 
 ## 1. Constitutional purpose
@@ -83,6 +83,7 @@ The Constitution is durable but revisable. Amendments require explicit proposals
 
 ## 7. Version history
 
+- **0.4 — 2026-08-18:** Recorded `SYMK-2X-DR-008` final stage acceptance as controlling program orientation; all constitutional content remains Proposed and unratified.
 - **0.3 — 2026-08-18:** Reclassified A5 as Proposed Constitutional Jurisdiction Article J1 under `SYMK-2X-DR-004`; no substantive axiom Ratified.
 - **0.2 — 2026-08-18:** Migrated constitutional purpose and scope to the Stage-Accepted SymK 2.0 identity, value chain, and jurisdiction under `SYMK-2X-DR-007`; preserved A0–A6 verbatim as Proposed candidates pending their separately governed review.
 - **0.1 — 2026-08-16:** Initial candidate Constitution scaffold.

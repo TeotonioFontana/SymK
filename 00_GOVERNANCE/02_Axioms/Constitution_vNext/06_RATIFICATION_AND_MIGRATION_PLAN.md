@@ -27,7 +27,7 @@ No axiom advances to Candidate until its Constitutional Sources and Derivation s
 
 ## Phase 2 — Corpus impact analysis
 
-- Resolve the canonical registry count.
+- Preserve the registry count and classification verified during SymK 2.0 migration step 7; reverify it after every constitutional reclassification.
 - Find every reference to current axioms and unsafe language.
 - Classify dependent documents by normative level.
 - Produce a reference migration map.

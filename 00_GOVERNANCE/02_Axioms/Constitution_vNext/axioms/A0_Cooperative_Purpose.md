@@ -1,9 +1,11 @@
 # A0 — Cooperative Purpose
 
 **Status:** Proposed  
-**Version:** 0.2  
+**Version:** 0.3
 **Scope:** Universal SymK  
 **Ratified:** No
+
+**SymK 2.0 consistency notice:** The statement below predates `SYMK-2X-DR-002` and conflicts with the Stage-Accepted purpose by treating cooperation as the objective. It is preserved unchanged as a Proposed axiom candidate for the necessity, minimality, and reconstruction review assigned to SymK 2.2. It must not be cited as the current SymK identity, purpose, or a Ratified commitment.
 
 ## Normative statement
 
@@ -93,5 +95,6 @@ Every derived project must state the cooperation it enables, its participants an
 
 ## Version and ratification history
 
+- **0.3 — 2026-08-18:** Added an explicit `SYMK-2X-DR-002` consistency notice while preserving the Proposed statement unchanged for SymK 2.2 review; no Ratification.
 - **0.1 — 2026-08-16:** Initial skeletal proposal.
 - **0.2 — 2026-08-16:** Expanded to the canonical axiom anatomy; no normative ratification.

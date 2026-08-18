@@ -1,7 +1,7 @@
 # SymK Product Vision
 
-**Status:** Canonical SymK 2.0 migration baseline
-**Version:** 0.2
+**Status:** Canonical SymK 2.0 Product Vision baseline
+**Version:** 0.3
 **Date:** 18 August 2026
 **Normative effect:** Governs the direction of constitutional and foundational work; does not ratify axioms or implementation requirements
 
@@ -167,5 +167,6 @@ The Product Vision should be stable enough to orient multiple generations of wor
 
 ## Version history
 
+- **0.3 — 2026-08-18:** Promoted from migration baseline to the canonical Stage-Accepted SymK 2.0 Product Vision orientation through `SYMK-2X-DR-008`; no constitutional artifact Ratified.
 - **0.2 — 2026-08-18:** Migrated the Stage-Accepted SymK 2.0 identity, purpose, complete value chain, bounded jurisdiction, success and failure conditions, and governing-tension structure into the canonical Product Vision under `SYMK-2X-DR-007`; no axiom or constitutional provision Ratified.
 - **0.1 — 2026-08-17:** First explicit SymK Product Vision baseline, synthesized from the draft SymK Charter, legacy SymK philosophy, Foundation Papers, and Constitution vNext.
