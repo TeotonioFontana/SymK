@@ -1,10 +1,10 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — 2.1.1 and `SYMK-2X-DR-009` Stage-Accepted; 2.1.2 ready to begin  
+**Stage status:** Active — 2.1.1 and 2.1.2 Stage-Accepted; pause checkpoint established before 2.1.3
 **Target version:** `2.1`  
-**Current version:** `2.1-dev.3`  
+**Current version:** `2.1-dev.5`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
-**Normative effect:** None beyond inherited 2.0 program authority; no concept, axiom, Foundation Paper conclusion, or representation is Ratified by this scaffold
+**Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009` and `SYMK-2X-DR-010`; no axiom, Foundation Paper conclusion, final concept package, or representation is Ratified
 
 ## Central question
 
@@ -36,7 +36,7 @@ A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constit
     - `2.1.11.1_Cross_Document_Consistency_Audit.md`
     - `2.1.11.2_Final_Stage_Acceptance.md`
 
-2.1.1 is complete and its governing decision is Stage-Accepted for continuation of 2.1. Work package 2.1.2 is ready to begin but remains Planned until instructed. Every later package remains Planned until the preceding review has been accepted or an explicit sequencing decision permits overlap.
+2.1.1 and 2.1.2 are complete for progression purposes, and their governing decisions are Stage-Accepted. Work package 2.1.3 remains Planned and explicitly not started at the M0 pause checkpoint. Every later package remains Planned until the preceding review has been accepted or an explicit sequencing decision permits overlap.
 
 ## Concept disposition classes
 
@@ -85,9 +85,20 @@ After a provisional integrated conceptual baseline exists in 2.1.9, work package
 
 1. preserve every v0.1 Markdown and PDF edition;
 2. revise the governed Markdown sources as new v0.2 editions;
-3. regenerate and visually verify the v0.2 PDFs;
-4. preserve argument, dissent, source integrity, and open questions;
-5. distinguish explanatory authority from constitutional normativity.
+3. conduct complete human-readability review rather than relying on automated inspection alone;
+4. regenerate and visually verify the v0.2 PDFs;
+5. preserve argument, dissent, source integrity, and open questions;
+6. distinguish explanatory authority from constitutional normativity.
+
+## Pause boundary after 2.1.2
+
+The governed pause checkpoint is `M0_PAUSE_CHECKPOINT_2026-08-18.md`. At that boundary:
+
+- `SYMK-2X-DR-009` and `SYMK-2X-DR-010` are Stage-Accepted;
+- 2.1.3 and `SYMK-2X-DR-011` have not started;
+- the next question is preserved in the 2.1.3 scaffold and the checkpoint;
+- observations arising during the pause belong in `MATURATION_NOTES_2.1.2_PAUSE.md` with Observed status only; and
+- resumption requires review of the checkpoint and maturation observations before DR-011 is opened.
 
 ## Out of scope
 
@@ -120,9 +131,9 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 
 Program identifiers continue from 2.0:
 
-- current decision lineage: `SYMK-2X-DR-009` Stage-Accepted; next available decision: `SYMK-2X-DR-010`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-075`; next available evidence: `SYMK-2X-EV-076`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-043`; next available change: `SYMK-2X-CH-044`;
+- current decision lineage: `SYMK-2X-DR-009` and `SYMK-2X-DR-010` Stage-Accepted; next available decision: `SYMK-2X-DR-011`;
+- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-082`; next available evidence: `SYMK-2X-EV-083`;
+- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-045`; next available change: `SYMK-2X-CH-046`;
 - next new tension: `SYMK-2X-TN-031`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 

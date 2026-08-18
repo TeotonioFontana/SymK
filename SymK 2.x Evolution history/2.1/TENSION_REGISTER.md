@@ -15,3 +15,7 @@ The thirty Stage-Accepted 2.0 tensions (`SYMK-2X-TN-001` through `SYMK-2X-TN-030
 | Responsible value | 2.1.8 | Quality, speed, cost, uncertainty, prevention of harm, and affected-party consequences may conflict |
 
 The next available identifier for a genuinely new tension is `SYMK-2X-TN-031`. A new identifier requires a distinct tension, not a restatement of an inherited one.
+
+## 2.1.2 tension disposition
+
+The Stage-Accepted structural baseline creates no new tension identifier and resolves none of the inherited tensions. Its principal risks remain governed by TN-005 (universal concepts/domain specificity), TN-006 (formal rigor/suppressed dimensions), TN-007 (philosophical rigor/engineering usability), TN-020 (standardization/experimentation), TN-027 (primary owner/overlapping authority), and TN-028 (practice/implementation-defined meaning). The dissent preserved under DR-010 remains capable of reopening an individual disposition through the DR-009 method.

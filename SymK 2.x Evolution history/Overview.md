@@ -22,7 +22,9 @@ The current baseline is developmental. It is not a final Constitution, and conso
 
 ## Current stage
 
-The active stage is **SymK 2.1 — Foundational Conceptual System**. SymK 2.0 — Identity and Jurisdiction was Stage-Accepted on 18 August 2026 through `SYMK-2X-DR-008`.
+The active stage is **SymK 2.1 — Foundational Conceptual System**. SymK 2.0 — Identity and Jurisdiction was Stage-Accepted on 18 August 2026 through `SYMK-2X-DR-008`. Within 2.1, `SYMK-2X-DR-009` and `SYMK-2X-DR-010` are Stage-Accepted for continuation. The current working baseline is `2.1-dev.5` at a governed pause after 2.1.2; 2.1.3 and `SYMK-2X-DR-011` are explicitly not started.
+
+The detailed continuation and recovery proposal is registered as `01_ROADMAP/SYMK-2X-PLAN-002_Migration_and_Consolidation_Plan_v0.1.md`. It is **Proposed**, preserves the accepted 2.0 and 2.1 decisions, and has no independent normative effect until project-steward approval.
 
 The 2.1 central question is:
 

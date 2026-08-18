@@ -17,3 +17,9 @@
 ## Roadmap rule
 
 Later-stage evidence may challenge an earlier baseline. The roadmap is sequential for control, not dogmatic dependency. Reopening an earlier decision requires explicit impact analysis and lineage.
+
+## Registered detailed migration plan
+
+`SYMK-2X-PLAN-002_Migration_and_Consolidation_Plan_v0.1.md` is the registered detailed migration and recovery plan for the remaining 2.x program.
+
+Its current status is **Proposed**. It preserves the accepted 2.0, 2.1.1, and 2.1.2 baselines; adds an M0 status-and-evidence control point; and makes corpus integrity a continuous workstream culminating in 2.8. Registration makes the proposal recoverable and reviewable. It does not supersede this roadmap or grant Stage-Acceptance until the project steward approves it explicitly.

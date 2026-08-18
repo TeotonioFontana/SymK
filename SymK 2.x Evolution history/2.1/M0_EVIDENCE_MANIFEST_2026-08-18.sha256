@@ -1,0 +1,38 @@
+# SymK M0 evidence manifest — 18 August 2026
+# Algorithm: SHA-256
+# Scope: live 2.1 package, controlling roadmap/registry surfaces, and preserved archive checkpoints
+# Excludes: this manifest, Git metadata, REVIEW_QUEUE contents other than named archives, and the two unrelated untracked standards files
+# The Git commit containing this manifest is the closure recovery anchor.
+1ac156d6db81267fd79ea1f4415242e26d9385e1e59964fcc9150abee801f4d9  SymK 2.x Evolution history/2.1/2.1.2_Concept_Inventory_and_Structural_Boundaries.md
+0c52d96e9ef74b428f33af56d467eadfe0d7d94649fb8cb7fbeb5d8b3bd3310f  SymK 2.x Evolution history/2.1/DEFERRED_QUESTIONS.md
+21d01ffd05aca2c088e318a00b18258d12bb485c674e0cf038c25ead4a9514e9  SymK 2.x Evolution history/2.1/2.1.1_Stage_Frame_and_Concept_Governance.md
+203bc5bbc4a25c8509cb33ba1175a7bff4fa0c3f9bc1378bbb13553ae9502e9b  SymK 2.x Evolution history/2.1/MATURATION_NOTES_2.1.2_PAUSE.md
+7a156ea826a5f7306bb0e317599bca186bb22816853a49379a23d0675ab4f225  SymK 2.x Evolution history/2.1/2.1.4_Knowledge_Engineering_Epistemic_Conditions_and_Representation.md
+b27e210c6582432dfa233fc05e437f37fdc3ebfa1c9d3c328fa8aa9f820dfdcc  SymK 2.x Evolution history/2.1/Summary.md
+426144b5dd370b4f003a1826f89ded142d11ea64154b5b9f03033d9a0d158a53  SymK 2.x Evolution history/2.1/2.1.11.2_Final_Stage_Acceptance.md
+71e59af85b2b7ece26ce88fdee054a7c08a44f93b865cf346bda4048d8c64264  SymK 2.x Evolution history/2.1/2.1.5_Cooperation_and_Cooperative_Formation.md
+74301331885edfaae375fa692b43e5360b73850ccf8ca70ceed2fb9d50285bcc  SymK 2.x Evolution history/2.1/2.1.11.1_Cross_Document_Consistency_Audit.md
+934506bddc60941e58cba399d48c2bc00ca8bdefd32eb3dce7559a7234fb214b  SymK 2.x Evolution history/2.1/TENSION_REGISTER.md
+ebe1d084682dcaacf41474e659c450d55a9a4e93263621119f68d7202bca1e82  SymK 2.x Evolution history/2.1/DECISION_REGISTER.md
+58aaf084246422138f9257c40d7067f370154364569bb3356b88168ef93bb55d  SymK 2.x Evolution history/2.1/CHANGE_LOG.md
+2bf697e1a19b276d6b5064d000a07e4b4ca27f66ed963347449e73c0b0ec7b89  SymK 2.x Evolution history/2.1/2.1.10_Foundation_Papers_v0.2_and_Human_Communication.md
+a86469ba7c5376c9097cb639ab9f0eb823a55194bec6aa2e2c439b3003485aeb  SymK 2.x Evolution history/2.1/README.md
+6a00f67d83464b700d527675de2cbaf031d1370580ebd55bb230b73f68b12a32  SymK 2.x Evolution history/2.1/2.1.7_Amplified_Intelligence_and_Domain_Intelligence_Amplifiers.md
+dbaa17ff31e51577baafee36d7622672b6bcbbeac9bd7de4840ef2ca62bb9aed  SymK 2.x Evolution history/2.1/2.1.3_Knowledge_and_Intelligence_Reciprocal_Core.md
+32ae3a508a09bc809383c95b5d2b93463bb7facea04d43c2b8aa8ad3e934ef91  SymK 2.x Evolution history/2.1/2.1.8_Reasoning_Answers_Value_and_Feedback.md
+3ebd62c62ef84d2e7938f1309285a35589d7bf2897f5d4b0a832d4dea2af4319  SymK 2.x Evolution history/2.1/M0_PAUSE_CHECKPOINT_2026-08-18.md
+81d919962a6ba1be3a0025f0b0511c07237b9af167e02584d5dd27bbb9be6381  SymK 2.x Evolution history/2.1/CONCEPT_REGISTER.md
+946b2b4d9b4836d0fb3fa98000be76ceb5e11997fc922f7b0524cab26ec59267  SymK 2.x Evolution history/2.1/2.1.9_Integrated_Conceptual_Baseline_Candidate.md
+4cb4cc305dc7fd68713f9ee8e78c1b40f42aa7506906a585e4e734be948508d4  SymK 2.x Evolution history/2.1/2.1.6_Responsibility_Agency_and_Authority.md
+31d7cc966016a81cfab886cbbff63a3ce248105b0c50f6c75fe7ab2efe1f4e64  SymK 2.x Evolution history/2.1/FOUNDATION_PAPER_REVISION_LEDGER.md
+33a288a09e03e1c3a4d9380e095f450cbd591b5937905d64cab57cbc686145e5  SymK 2.x Evolution history/2.1/2.1.11_Final_Consistency_Audit_and_Stage_Acceptance.md
+17c83ed1c79cf646aa9165ae02637e584c172c48235795f34ee4fa99ee095485  SymK 2.x Evolution history/2.1/EVIDENCE_REGISTER.md
+ab342ad66ca8ee0a1ea332e878f73d3bf5e3494d0a30818bd4bd3075189355cb  00_GOVERNANCE/DOCUMENT_REGISTRY.md
+efb1f60d88c7e9c7ad7ac2d395bccc76242f65cd939df476ba3750bb0cb0f08a  SymK 2.x Evolution history/Overview.md
+01b8b8a95dfb92d6c695889a3850edf741c72070c4396cbaad3df18d75c4f508  SymK 2.x Evolution history/01_ROADMAP/SYMK_2X_ROADMAP.md
+49a995a9dac427d396a224dc3523241134fbb1bb13af7d5b58602753d8b35590  SymK 2.x Evolution history/01_ROADMAP/STAGE_GATES.md
+ee9e076255b5df09ec93ecf449e75036b69fab723ac600dd43c070c41c67625a  SymK 2.x Evolution history/01_ROADMAP/SYMK-2X-PLAN-002_Migration_and_Consolidation_Plan_v0.1.md
+26d0dc6c6ffc729049067c6d4fb7571ecc1f374a91672f4152c049f73d4cd50b  00_GOVERNANCE.zip
+e8ac2cc410af4a122b6099e46a5883a34de16d2387d3e4e07d91b2024d371799  SymK 2.x Evolution history/2.1.zip
+d6532bc951a246a44ec1fd524e878d60af1902503e64f760675dd28bfa9d63f9  REVIEW_QUEUE/1_Discovery.zip
+5b15a9c55583ca7622da47c7bcc593a689eded024fae4fe66ed8560460fb43a9  REVIEW_QUEUE/project_init.zip

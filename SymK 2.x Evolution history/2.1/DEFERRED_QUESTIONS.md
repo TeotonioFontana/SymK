@@ -15,7 +15,7 @@ This docket carries the 2.0 questions assigned wholly or partly to 2.1. It does 
 | SYMK-2X-DQ-014 | How should answer quality, speed, and total cost be measured and traded off? | Define the dimensions and prohibited conflations in 2.1.8 | Metrics, thresholds, and trade-offs in 2.6–2.7 | Active — split destination |
 | SYMK-2X-DQ-016 | Must every Domain Intelligence Amplifier include artificial Intelligence? | Full conceptual treatment in 2.1.7 | Empirical project evidence in 2.7 if needed | Active |
 | SYMK-2X-DQ-017 | What minimum ethical commitments are universal to SymK responsibility? | Define the minimum conceptual responsibility and ethical boundary in 2.1.6 | Constitutional selection in 2.2 | Active — split destination |
-| SYMK-2X-DQ-018 | What minimum Ontology and Logic must SymK itself contain? | Define the minimum conceptual necessity and jurisdictional boundary in 2.1.2–2.1.4 | Artifact reconstruction in 2.5 | Active — split destination |
+| SYMK-2X-DQ-018 | What minimum Ontology and Logic must SymK itself contain? | Structural semantic minimum Stage-Accepted through DR-010 in 2.1.2; epistemic and representational boundary remains for 2.1.3–2.1.4 | Artifact reconstruction in 2.5 | Active — structural portion Stage-Accepted; split destination remains |
 | SYMK-2X-DQ-019 | Is Education constitutive to every persistent Domain Intelligence Amplifier? | Conduct the conceptual test in 2.1.5 and 2.1.7 | Constitutional force in 2.2 | Active — split destination |
 | SYMK-2X-DQ-022 | What is the mature anatomy of a dual-lane Canonical Concept Package and its alignment contract? | Establish semantic preservation obligations and human/machine lane boundary in 2.1.1 and 2.1.4 | Final package anatomy in 2.5 | Active — split destination |
 

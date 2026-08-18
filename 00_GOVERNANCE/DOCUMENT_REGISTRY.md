@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.4
+**Version:** 0.6
 **Date:** 18 August 2026
 
 ## 1. Registry summary
@@ -15,6 +15,8 @@
 | Current legacy axiom/philosophy artifacts | 4 | Existing canonical artifacts pending explicit constitutional disposition |
 | Constitutional Working Baseline | 1 package | Canonical review location; six Proposed axiom expositions plus one Proposed jurisdiction article |
 | SymK 2.0 evolution baseline | 1 stage package | `2.0` Stage-Accepted through DR-008; promoted from `2.0-rc.1`; no constitutional Ratification |
+| SymK 2.1 active evolution package | 1 stage package | `2.1-dev.5`; DR-009 and DR-010 Stage-Accepted for continuation; governed pause before 2.1.3; no final 2.1 Stage-Acceptance |
+| SymK 2.x migration plan | 1 | `SYMK-2X-PLAN-002` v0.1 registered as Proposed; detailed recovery and continuation plan, with no independent normative effect |
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
 | Policies | 0 | Category exists; population pending |
@@ -42,6 +44,8 @@ The canonical series is maintained under `01_Product_Vision/01_FOUNDATION/`:
 4. Knowledge Engineering.
 
 Markdown is the governed source; PDF is its publication projection. Foundation Papers are constitutional sources and epistemic evidence, not constitutional norms by publication or location.
+
+The four v0.1 Markdown/PDF pairs are scheduled for conceptual, cross-paper, human-readability, and publication review under SymK 2.1.10 after the integrated 2.1.9 baseline. Human review is mandatory; automated inspection alone cannot pass checkpoint 2.1.10H. Accepted revisions will create preserved v0.2 editions rather than overwrite v0.1 history.
 
 ## 4. Constitutional Working Baseline
 
@@ -99,7 +103,21 @@ Registration does not pre-judge whether they will be retained, revised, supersed
 | 8 | Cross-document consistency verification | Completed; passed with explicit governed deferrals |
 | 9 | Stage summary and explicit final decision | Completed; DR-008 accepted by project steward on 18 August 2026 |
 
-## 7. Known unresolved status
+## 7. SymK 2.1 active evolution package
+
+**Governed package:** `../SymK 2.x Evolution history/2.1/`
+
+**Current development version:** `2.1-dev.5`
+
+**Stage status:** Active; not finally Stage-Accepted.
+
+**Accepted continuation authority:** `SYMK-2X-DR-009` governs the concept-evaluation method and `SYMK-2X-DR-010` governs the minimum structural semantic kernel. Both were Stage-Accepted by the project steward on 18 August 2026. Neither is constitutionally Ratified.
+
+**Pause boundary:** `M0_PAUSE_CHECKPOINT_2026-08-18.md` records the governed stop after 2.1.2. Work package 2.1.3 and `SYMK-2X-DR-011` are explicitly not started. Observations arising during the pause remain evidence-only under `MATURATION_NOTES_2.1.2_PAUSE.md` until governed review.
+
+DR-010 makes Identity, Context, Scope, Domain, and Representation foundational for the 2.x program baseline; governs Relationship, Applicability, Bearer, and Projection as supporting distinctions; imports System as support; and removes Entity from foundational status while preserving it as a possible 2.5 engineering/meta-model construct. No final `FC-*` package or canonical concept artifact was created or migrated by acceptance.
+
+## 8. Known unresolved status
 
 - A0 remains Proposed and conflicts with the accepted purpose by calling cooperation the objective; substantive axiom review belongs to SymK 2.2.
 - A6 remains Proposed and its final artifact class is unresolved.
@@ -110,7 +128,7 @@ Registration does not pre-judge whether they will be retained, revised, supersed
 
 These items are governed uncertainty. They must not be hidden by the Stage-Accepted version label.
 
-## 8. Registration rules
+## 9. Registration rules
 
 1. Canonical location, normative force, epistemic authority, and implementation fact are distinct.
 2. Every registered governed artifact must state status, version, owner or authority, and scope.
@@ -119,8 +137,22 @@ These items are governed uncertainty. They must not be hidden by the Stage-Accep
 5. Counts must be updated when artifact classification changes.
 6. Material conflicts and deferrals remain visible until governed disposition.
 
-## 9. Version history
+## 10. SymK 2.x migration plan
 
+**Registered artifact:** `../SymK 2.x Evolution history/01_ROADMAP/SYMK-2X-PLAN-002_Migration_and_Consolidation_Plan_v0.1.md`
+
+**Identifier/version:** `SYMK-2X-PLAN-002` v0.1
+
+**Current status:** Proposed — awaiting project-steward review.
+
+The plan reconstructs the 2.0–3.0 sequence, preserves the Stage-Accepted 2.0, 2.1.1, and 2.1.2 decisions, introduces an M0 status-and-evidence control point, and begins corpus-integrity work in parallel with the semantic sequence. It elaborates the active consolidation roadmap but does not supersede the roadmap or authorize repository migration merely by being registered.
+
+Its lineage includes the historical `SYMK-PLAN-001_Architecture_Roadmap_v0.1.md` held under `Knowledge/Architectural_Decisions/Sources/`, the live SymK 2.x roadmap, the Stage-Accepted 2.0 package, and the active 2.1 package.
+
+## 11. Version history
+
+- **0.6 — 2026-08-18:** Registered the active `2.1-dev.5` package, Stage-Accepted DR-010, and the governed M0 pause boundary before 2.1.3; no final 2.1 Stage-Acceptance, canonical concept migration, or Ratification implied.
+- **0.5 — 2026-08-18:** Registered `SYMK-2X-PLAN-002` v0.1 as the Proposed detailed SymK 2.x migration and recovery plan and made the 2.1.10 human Foundation Paper review checkpoint explicit; no Stage-Acceptance or Ratification implied.
 - **0.4 — 2026-08-18:** Registered Product Vision v0.3, DR-008, promotion to Stage-Accepted SymK 2.0, completion of step 9, and progression to 2.1; no constitutional Ratification.
 - **0.3 — 2026-08-18:** Recorded successful cross-document verification, A0 v0.3 consistency notice, and completion of migration step 8; final stage decision remains pending.
 - **0.2 — 2026-08-18:** Registered Product Vision v0.2, six Proposed axioms plus J1, `2.0-rc.1`, DR-001–DR-007 authority, migration progress, and unresolved status; corrected stale counts and classifications.
