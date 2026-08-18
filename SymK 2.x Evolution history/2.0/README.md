@@ -1,9 +1,9 @@
 # SymK 2.0 — Identity and Jurisdiction
 
-**Stage status:** Proposed scaffold  
+**Stage status:** Release candidate under review
 **Target version:** 2.0  
-**Current version form:** `2.0-dev.1`  
-**Normative effect:** None; this package controls inquiry and records proposed decisions
+**Current version form:** `2.0-rc.1`
+**Normative effect:** DR-001–DR-006 have provisional Stage-Accepted program authority; DR-007 and canonical migration remain Proposed
 
 ## Central question
 
@@ -74,4 +74,3 @@ These questions may be examined only far enough to establish identity and jurisd
 ## Acceptance principle
 
 Completion means that remaining uncertainty is explicit, bounded, traceable, and assigned to the correct stage. It does not mean philosophical consensus or finality.
-
