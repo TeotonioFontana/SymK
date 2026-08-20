@@ -1,0 +1,107 @@
+alignment_profile: symk.semantic-alignment-candidate.v0_1
+package_id: symk.semantic.document
+package_version: 0.1.0-proposed
+status: proposed
+normative_effect: none
+
+claims:
+  - machine_source: semantics/package.yaml
+    machine_path: definitions[id=symk.document].specializes
+    human_claims:
+      - source: definitions/document.md
+        claim_id: DOC-001
+      - source: definitions/document.md
+        claim_id: DOC-002
+    relation: partial_projection
+    omissions:
+      - governed knowledge-bearing meaning
+      - documentary-whole interpretation
+      - rationale for rejecting KnowledgeObject inheritance
+
+  - machine_source: semantics/package.yaml
+    machine_path: definitions[id=symk.document].identity_notes
+    human_claims:
+      - source: definitions/document.md
+        claim_id: DOC-003
+      - source: definitions/document.md
+        claim_id: DOC-004
+    relation: partial_projection
+    omissions:
+      - file segmentation boundary case
+
+  - machine_source: semantics/package.yaml
+    machine_path: definitions[id=symk.document_type]
+    human_claims:
+      - source: definitions/document-type.md
+        claim_id: DTYPE-001
+      - source: definitions/document-type.md
+        claim_id: DTYPE-002
+      - source: definitions/document-type.md
+        claim_id: DTYPE-003
+      - source: definitions/document-type.md
+        claim_id: DTYPE-004
+    relation: partial_projection
+    omissions:
+      - explanatory account of label and concept identity
+      - rationale for purpose dependence
+
+  - machine_source: semantics/properties/classified-as-type.yaml
+    machine_path: property_definition
+    human_claims:
+      - source: definitions/properties/classified-as-type.md
+        claim_id: DCLASS-001
+      - source: definitions/properties/classified-as-type.md
+        claim_id: DCLASS-002
+      - source: definitions/properties/classified-as-type.md
+        claim_id: DCLASS-003
+      - source: definitions/properties/classified-as-type.md
+        claim_id: DCLASS-004
+      - source: definitions/properties/classified-as-type.md
+        claim_id: DCLASS-005
+      - source: definitions/properties/classified-as-type.md
+        claim_id: DCLASS-006
+      - source: definitions/properties/classified-as-type.md
+        claim_id: DCLASS-007
+    relation: partial_projection
+    omissions:
+      - full interpretation of conditional materiality
+      - institutional meaning of authorization
+      - explanation of absence states
+
+  - machine_source: semantics/profiles/document-core-properties.yaml
+    machine_path: profile
+    human_claims:
+      - source: definitions/document-property-profile.md
+        claim_id: DPROFILE-001
+      - source: definitions/document-property-profile.md
+        claim_id: DPROFILE-002
+      - source: definitions/document-property-profile.md
+        claim_id: DPROFILE-003
+      - source: definitions/document-property-profile.md
+        claim_id: DPROFILE-004
+      - source: definitions/document-property-profile.md
+        claim_id: DPROFILE-005
+      - source: definitions/document-property-profile.md
+        claim_id: DPROFILE-006
+      - source: definitions/document-property-profile.md
+        claim_id: DPROFILE-007
+    relation: partial_projection
+    omissions:
+      - full rationale for separating definition, applicability, and assertion
+      - examples and interpretive explanation of bearer separation
+      - complete evolution impact analysis
+
+mismatch_policy:
+  silent_override_allowed: false
+  classifications:
+    - ambiguity
+    - omission
+    - strengthening
+    - distortion
+    - version_conflict
+    - source_defect
+  required_action: Qualify alignment and route the mismatch to the nearest adequate owner.
+
+verification:
+  status: not_performed
+  evidence: []

@@ -1,0 +1,65 @@
+projection_profile: symk.property-definition.candidate.v0_1
+source_package: symk.semantic.document
+source_package_version: 0.1.0-proposed
+source_definition: definitions/properties/classified-as-type.md
+status: proposed
+normative_effect: none
+
+property_definition:
+  id: symk.document.classified_as_type
+  conforms_to:
+    package_id: symk.semantic.property
+    package_version: 0.1.0-proposed
+    definition_id: symk.property_definition
+    package_digest: unresolved-candidate
+
+  property_form: qualified_relation
+  subject:
+    definition_id: symk.document
+  value:
+    family: concept_reference
+    concept_role: symk.document_type
+    authority: declared_domain
+
+  applicability:
+    declared_by_profile: symk.document.core_properties
+    domain_reach: any_declared_compatible_domain
+
+  assertion_requirements:
+    required:
+      - assertion_id
+      - subject
+      - property_definition_reference
+      - property_definition_version_or_digest
+      - value.concept_id
+      - value.scheme_id
+      - value.scheme_version
+      - domain_id
+      - assertion_status
+      - provenance
+    conditional:
+      - evidence
+      - context
+      - scope
+      - effective_time
+      - confidence
+      - authorization
+      - purpose
+
+  constraints:
+    universal_single_value: false
+    assertion_history_preserved: true
+    accepted_status_requires_declared_authority: true
+    filename_is_evidence_only: true
+    repository_projection_is_authoritative_record: false
+    primary_value_is_projection: true
+    absent_assertion_has_no_default_epistemic_meaning: true
+
+declared_omissions:
+  - Formal cardinality and constraint languages have not been selected.
+  - A universal assertion-status vocabulary has not been accepted.
+  - Domain-scheme compatibility and authorization protocols are not defined here.
+  - No storage schema, API model, Python type, or repository mapping is selected.
+
+known_semantic_loss:
+  - This projection does not reproduce the full rationale, examples, counterexamples, uncertainty, or interpretive discussion of the human-semantic definition.

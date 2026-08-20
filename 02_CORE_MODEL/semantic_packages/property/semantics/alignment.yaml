@@ -1,0 +1,119 @@
+alignment_profile: symk.semantic-alignment-candidate.v0_1
+package_id: symk.semantic.property
+package_version: 0.1.0-proposed
+status: proposed
+normative_effect: none
+
+claims:
+  - machine_source: semantics/package.yaml
+    machine_path: definitions[id=symk.property]
+    human_claims:
+      - source: definitions/property.md
+        claim_id: PROP-001
+      - source: definitions/property.md
+        claim_id: PROP-002
+      - source: definitions/property.md
+        claim_id: PROP-003
+      - source: definitions/property.md
+        claim_id: PROP-004
+      - source: definitions/property.md
+        claim_id: PROP-005
+    relation: partial_projection
+    omissions:
+      - full explanation of attribution and representation boundaries
+      - identity-change rationale
+
+  - machine_source: semantics/package.yaml
+    machine_path: definitions[id=symk.property_definition]
+    human_claims:
+      - source: definitions/property-definition.md
+        claim_id: PDEF-001
+      - source: definitions/property-definition.md
+        claim_id: PDEF-002
+      - source: definitions/property-definition.md
+        claim_id: PDEF-003
+      - source: definitions/property-definition.md
+        claim_id: PDEF-004
+      - source: definitions/property-definition.md
+        claim_id: PDEF-005
+      - source: definitions/property-definition.md
+        claim_id: PDEF-006
+    relation: partial_projection
+    omissions:
+      - full authority and semantic-change rationale
+      - interpretation of formal-claim authority
+
+  - machine_source: semantics/package.yaml
+    machine_path: definitions[id=symk.property_applicability_profile]
+    human_claims:
+      - source: definitions/property-applicability-profile.md
+        claim_id: PAP-001
+      - source: definitions/property-applicability-profile.md
+        claim_id: PAP-002
+      - source: definitions/property-applicability-profile.md
+        claim_id: PAP-003
+      - source: definitions/property-applicability-profile.md
+        claim_id: PAP-004
+      - source: definitions/property-applicability-profile.md
+        claim_id: PAP-005
+      - source: definitions/property-applicability-profile.md
+        claim_id: PAP-006
+    relation: partial_projection
+    omissions:
+      - full extension and incompatibility rationale
+      - evolution impact explanation
+
+  - machine_source: semantics/package.yaml
+    machine_path: definitions[id=symk.property_assertion]
+    human_claims:
+      - source: definitions/property-assertion.md
+        claim_id: PAST-001
+      - source: definitions/property-assertion.md
+        claim_id: PAST-002
+      - source: definitions/property-assertion.md
+        claim_id: PAST-003
+      - source: definitions/property-assertion.md
+        claim_id: PAST-004
+      - source: definitions/property-assertion.md
+        claim_id: PAST-005
+      - source: definitions/property-assertion.md
+        claim_id: PAST-006
+      - source: definitions/property-assertion.md
+        claim_id: PAST-007
+    relation: partial_projection
+    omissions:
+      - full epistemic interpretation of status and absence
+      - institutional meaning of authorization and reliance
+
+  - machine_source: semantics/package.yaml
+    machine_path: definitions[id=symk.property_value]
+    human_claims:
+      - source: definitions/property-value.md
+        claim_id: PVAL-001
+      - source: definitions/property-value.md
+        claim_id: PVAL-002
+      - source: definitions/property-value.md
+        claim_id: PVAL-003
+      - source: definitions/property-value.md
+        claim_id: PVAL-004
+      - source: definitions/property-value.md
+        claim_id: PVAL-005
+    relation: partial_projection
+    omissions:
+      - full interpretation of literal qualification
+      - multiplicity rationale
+
+mismatch_policy:
+  silent_override_allowed: false
+  classifications:
+    - ambiguity
+    - omission
+    - strengthening
+    - distortion
+    - version_conflict
+    - source_defect
+  required_action: Qualify alignment and route the mismatch to the nearest adequate owner.
+
+verification:
+  status: not_performed
+  evidence: []

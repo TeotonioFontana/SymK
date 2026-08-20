@@ -1,0 +1,97 @@
+manifest_profile: symk.semantic-package-manifest.candidate.v0_1
+
+package:
+  id: symk.semantic.property
+  version: 0.1.0-proposed
+  title: SymK Property Semantics
+  status: proposed
+  normative_effect: none
+  primary_owner: SymK
+  primary_layer: S2
+  jurisdiction: cross-project minimum property semantics
+  target_stages:
+    - "2.1.4"
+    - "2.5"
+
+authority:
+  decision_status: not_submitted
+  approval_required: true
+  statements:
+    - Repository placement does not grant canonical or normative authority.
+    - The package is evidence for later concept and package decisions.
+    - Engineering schemas and runtime stores may project but may not define these meanings silently.
+
+lineage:
+  governing_inputs:
+    - id: SYMK-2X-DR-009
+      role: working Property distinction, concept governance, and two-lane semantic obligations
+    - id: SYMK-2X-DR-010
+      role: Context, Scope, Bearer, Applicability, Relationship, Representation, and Projection boundaries
+  routed_questions:
+    - id: SYMK-2X-DQ-022
+      role: final Canonical Concept Package anatomy and alignment contract
+  design_origin:
+    - Document-property vertical-slice and applicability-profile challenge
+
+contents:
+  package_control:
+    - path: manifest.yaml
+      authority_role: package_control
+      responsibility: Declare package identity, status, ownership, jurisdiction, contents, lineage, dependencies, and release state.
+    - path: README.md
+      authority_role: human_orientation
+      responsibility: Explain the package purpose, dependency direction, boundaries, and candidate definition inventory.
+  human_semantic:
+    - path: definitions/property.md
+      definition_id: symk.property
+      authority_role: human_semantic_nucleus
+      responsibility: Define the candidate meaning, forms, attribution boundary, identity, and prohibited reductions of Property.
+    - path: definitions/property-definition.md
+      definition_id: symk.property_definition
+      authority_role: human_semantic_nucleus
+      responsibility: Define the governed semantic representation, identity, authority, version, and required content of a PropertyDefinition.
+    - path: definitions/property-applicability-profile.md
+      definition_id: symk.property_applicability_profile
+      authority_role: human_semantic_nucleus
+      responsibility: Define how property definitions are related to eligible Bearers under declared conditions without asserting runtime values.
+    - path: definitions/property-assertion.md
+      definition_id: symk.property_assertion
+      authority_role: human_semantic_nucleus
+      responsibility: Define the runtime claim, status, provenance, revision, absence, and projection boundaries of PropertyAssertion.
+    - path: definitions/property-value.md
+      definition_id: symk.property_value
+      authority_role: human_semantic_nucleus
+      responsibility: Define the value role, permitted value families, identity references, and interpretation boundary of PropertyValue.
+  machine_semantic:
+    - path: semantics/package.yaml
+      authority_role: machine_semantic_projection
+      responsibility: Make selected candidate identities, roles, relations, constraints, and declared omissions mechanically inspectable.
+      expressive_scope: generic property semantic model
+    - path: semantics/alignment.yaml
+      authority_role: alignment_control
+      responsibility: Map machine claims to human claims and record omissions, mismatch policy, semantic loss, and verification evidence.
+      expressive_scope: alignment and declared semantic loss
+  fixtures:
+    - path: examples/valid-property-model.yaml
+      authority_role: positive_fixture
+      responsibility: Demonstrate the intended distinction among definition, applicability, assertion, and value without representing production data.
+    - path: examples/counterexamples.yaml
+      authority_role: negative_fixture
+      responsibility: Expose reductions, conflations, and invalid inferences prohibited by the candidate property semantics.
+  history:
+    - path: CHANGELOG.md
+      authority_role: revision_history
+      responsibility: Preserve the package revision narrative without substituting for a decision record.
+
+declared_deferrals:
+  - Final concept disposition and admission belong to the governed 2.1 process.
+  - Final package anatomy, identifier rules, and declaration-language choice belong to SymK 2.5.
+  - Derived-profile adoption and compatibility mechanics belong to SymK 2.6.
+  - Runtime contracts, schemas, storage, and lowering belong to SymK 2.9 and project engineering.
+
+generated_artifacts: []
+
+release:
+  immutable: false
+  package_digest: null
+  reason: Candidate package format, identity, and hashing rules remain unresolved.

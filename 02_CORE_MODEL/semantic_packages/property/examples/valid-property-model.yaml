@@ -1,0 +1,44 @@
+fixture_profile: symk.property-model-examples.candidate.v0_1
+status: illustrative
+production_authority: none
+
+example:
+  property_definition:
+    id: example.document.classified_as_type
+    represents_property_form: qualified_relation
+    bearer_kind: example.document
+    value_family: concept_reference
+    status: proposed
+
+  applicability_profile:
+    id: example.document.core_properties
+    bearer_kind: example.document
+    members:
+      - property_definition_id: example.document.classified_as_type
+        applicability: permitted
+        assertion_requirement: not_universally_required
+
+  property_assertion:
+    assertion_id: example-assertion-001
+    subject:
+      kind: example.document
+      id: example-document-001
+    property_definition:
+      id: example.document.classified_as_type
+      version: 0.1.0-proposed
+    value:
+      family: concept_reference
+      concept_id: example.domain.document_type.alpha
+      scheme_id: example.domain.document_types
+      scheme_version: 0.1.0
+      domain_id: example.domain
+      source_authority: example-domain-owner
+    assertion_status: proposed
+    provenance:
+      method: illustrative_fixture
+      activity_id: example-activity-001
+
+interpretation:
+  - The definition exists independently of the assertion.
+  - Profile membership makes the property eligible for the bearer but does not create an assertion.
+  - Proposed status records governance treatment and does not establish truth.

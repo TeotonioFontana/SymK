@@ -1,0 +1,134 @@
+projection_profile: symk.machine-semantic-candidate.v0_1
+source_package: symk.semantic.property
+source_package_version: 0.1.0-proposed
+status: proposed
+normative_effect: none
+purpose: Make selected candidate property identities, roles, relations, and constraints mechanically inspectable.
+
+definitions:
+  - id: symk.property
+    kind: semantic_concept
+    status: proposed
+    attributable_forms:
+      - quality
+      - state
+      - unary_predicate
+      - relation
+      - qualified_relation
+    requires_interpretation_of:
+      - bearer
+      - scope_when_material
+      - context_when_material
+      - applicability
+    distinct_from:
+      - property_definition
+      - property_assertion
+      - programming_attribute
+      - database_column
+      - serialized_field
+      - repository_metadata_field
+
+  - id: symk.property_definition
+    kind: governed_semantic_representation
+    status: proposed
+    represents: symk.property
+    exists_independently_of_runtime_assertion: true
+    minimum_dimensions:
+      - definition_id
+      - human_semantic_meaning
+      - bearer_boundary
+      - value_or_predicate_form
+      - applicability
+      - qualifiers
+      - constraints
+      - owner
+      - jurisdiction
+      - status
+      - version
+      - lineage
+      - known_omissions
+      - projection_boundary
+
+  - id: symk.property_applicability_profile
+    kind: governed_applicability_declaration
+    status: proposed
+    relates:
+      bearer_class: required
+      property_definition_references: one_or_more
+    contains_runtime_values: false
+    membership_does_not_imply_assertion_presence: true
+    candidate_applicability_modes:
+      - permitted
+      - required
+      - conditional
+      - prohibited
+      - not_applicable
+
+  - id: symk.property_assertion
+    kind: governed_claim
+    status: proposed
+    semantic_roles:
+      subject_or_bearer: required
+      property_definition_reference: required
+      value_target_or_predicate_state: determined_by_property_definition
+      domain: when_material
+      scope: when_material
+      context: when_material
+      effective_time: when_material
+      assertion_status: required
+      provenance: required
+      evidence: when_material
+      confidence: when_material
+      authorization: when_material
+      purpose: when_material
+    assertion_status_entails_truth: false
+    absence_has_default_epistemic_meaning: false
+    history_preservation_required: true
+    effective_view_is_projection: true
+
+  - id: symk.property_value
+    kind: semantic_role
+    status: proposed
+    allowed_family_determined_by: symk.property_definition
+    candidate_families:
+      - concept_reference
+      - subject_reference
+      - qualified_literal
+      - structured_value
+      - predicate_state
+    concept_reference_dimensions:
+      - concept_id
+      - scheme_id
+      - scheme_version
+      - domain_id
+      - source_authority
+
+relationships:
+  - subject: symk.property_definition
+    relation: represents
+    object: symk.property
+  - subject: symk.property_applicability_profile
+    relation: declares_applicability_of
+    object: symk.property_definition
+  - subject: symk.property_applicability_profile
+    relation: for_bearer_class
+    object: governed_bearer_reference
+  - subject: symk.property_assertion
+    relation: applies
+    object: symk.property_definition
+  - subject: symk.property_assertion
+    relation: to_bearer
+    object: governed_subject_reference
+  - subject: symk.property_assertion
+    relation: may_have_value
+    object: symk.property_value
+
+declared_omissions:
+  - Final concept dispositions and identifiers have not been accepted.
+  - A final declaration language, constraint vocabulary, and schema have not been selected.
+  - A universal assertion-status vocabulary has not been accepted.
+  - Runtime identity, revision, storage, API, and transaction models are not defined here.
+  - Domain authorization and reliance policies remain outside this package.
+
+known_semantic_loss:
+  - This projection does not reproduce the full rationale, examples, counterexamples, uncertainty, or interpretive boundaries of the human-semantic files.

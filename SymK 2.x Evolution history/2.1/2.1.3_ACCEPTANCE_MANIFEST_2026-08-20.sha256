@@ -1,0 +1,8 @@
+# SymK 2.1.3 and DR-011 acceptance manifest — 20 August 2026
+# Algorithm: SHA-256
+# Scope: immutable acceptance record, accepted proposal, reconciliation analysis, and reconciliation manifest
+# Excludes: this self-referential file and mutable registers/status surfaces
+0b181135aa4048aff12093492e594d73af64d5752bcc628d05e2a168aef9bff6  SymK 2.x Evolution history/2.1/2.1.3_ACCEPTANCE_RECORD_2026-08-20.md
+91234d9d42a839a0760fe8c9dca543d762f779b39363265d75f96f6854a72aea  SymK 2.x Evolution history/2.1/2.1.3J_REVISED_PROPOSED_DR-011_KNOWLEDGE_INTELLIGENCE_RECIPROCAL_CORE.md
+a3f8b8ec8f9d9a97c42cf82ddc2ad938a69f7a3eb1d3369b1fb61454a1e91f18  SymK 2.x Evolution history/2.1/2.1.3I_MULTIDIMENSIONAL_INTELLIGENCE_RECONCILIATION_ANALYSIS.md
+85287684b33bd8cea327cb590a19c6b620f468b67d5b568d0c52d4b5f032a6c5  SymK 2.x Evolution history/2.1/2.1.3_RECONCILIATION_MANIFEST_2026-08-20.sha256

@@ -1,0 +1,125 @@
+manifest_profile: symk.semantic-package-manifest.candidate.v0_1
+
+package:
+  id: symk.semantic.document
+  version: 0.1.0-proposed
+  title: SymK Document Semantics
+  status: proposed
+  normative_effect: none
+  primary_owner: SymK
+  primary_layer: S2
+  jurisdiction: cross-project minimum document semantics
+  target_stage: "2.5"
+
+authority:
+  decision_status: not_submitted
+  approval_required: true
+  approval_checkpoint: SymK 2.5
+  statements:
+    - Repository placement does not grant canonical or normative authority.
+    - Each definition retains its declared individual status.
+    - Domain-owned document types and runtime assertions remain outside this package.
+
+lineage:
+  governing_inputs:
+    - id: SYMK-2X-DR-009
+      role: concept-governance and two-lane semantic obligations
+    - id: SYMK-2X-DR-010
+      role: Representation, Domain, Context, Scope, Bearer, Relationship, and Projection boundaries
+  routed_questions:
+    - id: SYMK-2X-DQ-022
+      role: final Canonical Concept Package anatomy and alignment contract
+  design_origin:
+    - SPServices document-discovery property vertical-slice discussion
+
+package_dependencies:
+  - package_id: symk.semantic.property
+    package_version: 0.1.0-proposed
+    package_digest: unresolved-candidate
+    relationship: depends_on
+    required_definitions:
+      - symk.property
+      - symk.property_definition
+      - symk.property_applicability_profile
+      - symk.property_assertion
+      - symk.property_value
+    reason: Document property definitions, profiles, and assertion examples specialize the generic Property semantic model.
+
+semantic_dependencies:
+  - term: Representation
+    authority_reference: SYMK-2X-DR-010
+  - term: Domain
+    authority_reference: SYMK-2X-DR-010
+  - term: Context
+    authority_reference: SYMK-2X-DR-010
+  - term: Scope
+    authority_reference: SYMK-2X-DR-010
+  - term: Bearer
+    authority_reference: SYMK-2X-DR-010
+  - term: Relationship
+    authority_reference: SYMK-2X-DR-010
+  - term: Projection
+    authority_reference: SYMK-2X-DR-010
+
+contents:
+  package_control:
+    - path: manifest.yaml
+      authority_role: package_control
+      responsibility: Declare package identity, version, ownership, status, jurisdiction, contents, dependencies, authority, and release state.
+    - path: README.md
+      authority_role: human_orientation
+      responsibility: Explain package purpose, boundaries, navigation, and review questions without creating independent semantic authority.
+  human_semantic:
+    - path: definitions/document.md
+      definition_id: symk.document
+      authority_role: human_semantic_nucleus
+      responsibility: Define the proposed meaning, identity boundary, distinctions, examples, and open questions of Document.
+    - path: definitions/document-type.md
+      definition_id: symk.document_type
+      authority_role: human_semantic_nucleus
+      responsibility: Define the proposed generic meaning, concept identity, purpose dependence, and domain-ownership boundary of DocumentType.
+    - path: definitions/properties/classified-as-type.md
+      definition_id: symk.document.classified_as_type
+      authority_role: human_semantic_nucleus
+      responsibility: Define the proposed classification relation, its generic-property conformance, qualifiers, multiplicity, assertion boundary, invariants, and prohibited interpretations.
+    - path: definitions/document-property-profile.md
+      profile_id: symk.document.core_properties
+      authority_role: human_semantic_nucleus
+      responsibility: Define the proposed set of properties applicable to Document and distinguish property applicability from assertion presence.
+  machine_semantic:
+    - path: semantics/package.yaml
+      authority_role: machine_semantic_projection
+      responsibility: Make selected candidate identities, relations, qualifiers, and constraints mechanically inspectable within declared expressive scope.
+      expressive_scope: candidate identities, relations, qualifiers, and constraints
+    - path: semantics/alignment.yaml
+      authority_role: alignment_control
+      responsibility: Map machine claims to human claims and record omissions, mismatch policy, semantic loss, and verification evidence.
+      expressive_scope: alignment and declared semantic-loss record
+    - path: semantics/properties/classified-as-type.yaml
+      definition_id: symk.document.classified_as_type
+      authority_role: machine_semantic_projection
+      responsibility: Project the classification PropertyDefinition and declare its conformance to the generic Property semantic model.
+      expressive_scope: document-type classification relation, value role, assertion requirements, and constraints
+    - path: semantics/profiles/document-core-properties.yaml
+      profile_id: symk.document.core_properties
+      authority_role: machine_semantic_projection
+      responsibility: Make the candidate Document bearer, property membership, applicability, multiplicity, and extension boundary mechanically inspectable.
+      expressive_scope: Document property applicability and derived-profile boundary
+  fixtures:
+    - path: examples/valid-assertions.yaml
+      authority_role: positive_fixture
+      responsibility: Demonstrate intended assertion shapes without representing production data or granting authority to illustrative domain concepts.
+    - path: examples/counterexamples.yaml
+      authority_role: negative_fixture
+      responsibility: Expose prohibited interpretations, boundary failures, and category errors for review and validation.
+  history:
+    - path: CHANGELOG.md
+      authority_role: revision_history
+      responsibility: Preserve the package revision narrative without substituting for the decision record that authorizes semantic change.
+
+generated_artifacts: []
+
+release:
+  immutable: false
+  package_digest: null
+  reason: Candidate package format and hashing rules remain unresolved for SymK 2.5 and 2.9.

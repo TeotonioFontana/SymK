@@ -1,0 +1,39 @@
+fixture_profile: symk.semantic-counterexamples.candidate.v0_1
+status: illustrative
+production_authority: none
+
+counterexamples:
+  - id: counterexample-001
+    title: MIME type used as DocumentType
+    invalid_claim: A PDF file is classified as medical.document_type.prescription because its MIME type is application/pdf.
+    failure: MIME type identifies a technical representation format, not a domain DocumentType.
+
+  - id: counterexample-002
+    title: Repository type treated as canonical
+    invalid_claim: The SharePoint Content Type is copied as the canonical assertion without a governed mapping or provenance.
+    failure: Repository metadata is a provider-specific projection and may omit or transform the canonical assertion.
+
+  - id: counterexample-003
+    title: Filename creates accepted status
+    invalid_claim: A file named recurso_final.pdf receives an accepted Legal appeal classification without an authorized assertion transition.
+    failure: A filename is evidence for a candidate, not authority for acceptance.
+
+  - id: counterexample-004
+    title: Domain-boundary contamination
+    invalid_claim: A Legal concept is silently installed and accepted inside a corpus declared homogeneous for the Medical domain.
+    failure: The mismatch must be reported or quarantined; it cannot silently alter the declared domain.
+
+  - id: counterexample-005
+    title: History overwritten
+    invalid_claim: A later classification replaces the prior row so that the earlier accepted or rejected assertion is no longer recoverable.
+    failure: Assertion history and status transitions must remain distinguishable.
+
+  - id: counterexample-006
+    title: File bundle mistaken for one typed Document
+    invalid_claim: One scanned file containing a prescription and an examination request is necessarily one Document with one primary type.
+    failure: File occurrence and Document identity are distinct; segmentation must be considered before classification.
+
+  - id: counterexample-007
+    title: Missing assertion interpreted as unknown
+    invalid_claim: Because no classification assertion exists, the system records that the DocumentType is unknown.
+    failure: Absence may mean not collected, not applicable, rejected, unavailable, or simply no assertion; the intended state must be explicit.

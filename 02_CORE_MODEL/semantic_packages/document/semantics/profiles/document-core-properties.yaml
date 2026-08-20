@@ -1,0 +1,64 @@
+projection_profile: symk.property-applicability-profile.candidate.v0_1
+source_package: symk.semantic.document
+source_package_version: 0.1.0-proposed
+status: proposed
+normative_effect: none
+purpose: Make the candidate set of SymK-owned properties applicable to Document mechanically inspectable.
+
+profile:
+  id: symk.document.core_properties
+  kind: property_applicability_profile
+  status: proposed
+  owner: SymK
+  layer: S2
+  conforms_to:
+    package_id: symk.semantic.property
+    package_version: 0.1.0-proposed
+    definition_id: symk.property_applicability_profile
+    package_digest: unresolved-candidate
+
+  bearer:
+    definition_id: symk.document
+
+  members:
+    - property:
+        definition_id: symk.document.classified_as_type
+        package_id: symk.semantic.document
+        package_version: 0.1.0-proposed
+      applicability: permitted
+      assertion_requirement: not_universally_required
+      multiplicity: multiple_qualified_assignments_permitted
+      preserves_property_constraints: true
+      structured_definition: semantics/properties/classified-as-type.yaml
+
+extension_boundary:
+  derived_profiles_may:
+    - add domain-owned properties within declared jurisdiction
+    - strengthen constraints within declared Domain and Scope
+    - add domain validation and authorization requirements
+  derived_profiles_must:
+    - pin the adopted parent package version and digest
+    - preserve parent definition identities and meanings
+    - declare additions, strengthenings, omissions, and conflicts
+    - preserve ownership of domain additions in the derived project
+  derived_profiles_must_not:
+    - redefine a SymK identifier
+    - weaken a parent invariant while claiming unqualified conformance
+    - present a domain property as SymK-owned
+    - treat a runtime assertion or repository column as a property definition
+
+bearer_separation:
+  excluded_from_this_profile:
+    - FileOccurrence properties
+    - RepositoryBinding properties
+    - Knowledge claim properties
+    - person or organization properties
+
+declared_omissions:
+  - The complete set of cross-project Document properties has not been established.
+  - A final cardinality and constraint language has not been selected.
+  - Final derived-profile adoption and compatibility mechanics remain for SymK 2.6.
+  - Runtime assertion schemas and storage mappings remain engineering projections.
+
+known_semantic_loss:
+  - The structured profile does not reproduce the full rationale, distinctions, examples, uncertainty, or evolution discussion in the human-semantic profile.

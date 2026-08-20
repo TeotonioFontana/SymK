@@ -1,0 +1,54 @@
+fixture_profile: symk.semantic-assertion-examples.candidate.v0_1
+status: illustrative
+production_authority: none
+
+examples:
+  - name: Medical prescription accepted after human review
+    assertion_id: example-medical-001
+    subject:
+      kind: symk.document
+      id: document-42
+    property_definition:
+      id: symk.document.classified_as_type
+      definition_version: 0.1.0-proposed
+      package_digest: unresolved-candidate
+    value:
+      kind: concept_reference
+      concept_id: medical.document_type.prescription
+      scheme_id: medical.document_types
+      scheme_version: 1.2.0
+    domain_id: medical
+    assertion_status: accepted
+    provenance:
+      method: human_review
+      asserted_by: example-reviewer
+      activity_id: example-review-100
+    evidence:
+      - kind: extracted_text_span
+        reference: example-only
+    purpose: clinical-document-discovery
+
+  - name: Legal appeal proposed by a classifier
+    assertion_id: example-legal-001
+    subject:
+      kind: symk.document
+      id: document-77
+    property_definition:
+      id: symk.document.classified_as_type
+      definition_version: 0.1.0-proposed
+      package_digest: unresolved-candidate
+    value:
+      kind: concept_reference
+      concept_id: legal.document_type.appeal
+      scheme_id: legal.document_types
+      scheme_version: 2.0.0
+    domain_id: legal
+    assertion_status: proposed
+    provenance:
+      method: automated_classifier
+      asserted_by: example-classifier
+      activity_id: example-run-200
+    confidence:
+      value: 0.87
+      scale: probability_candidate
+    purpose: legal-document-discovery

@@ -1,0 +1,7 @@
+# SymK M0 acceptance-state manifest — 20 August 2026
+# Algorithm: SHA-256
+# Scope: immutable acceptance authority and M0 checkpoint boundary artifacts
+# Excludes: this self-referential checksum file, evolving stage-status surfaces, Git metadata, and corpus artifacts governed by the proposal manifest
+4bab63461512a5b33d263aa0389d9c0f2beae31ca3542e306216a229dfcc736c  SymK 2.x Evolution history/2.1/M0_ACCEPTANCE_RECORD_2026-08-20.md
+eeaa156ccdd0e700a7e174be39364c352d29bfefc00191a61f9c7467d8c8f378  SymK 2.x Evolution history/2.1/M0_CORPUS_CONTROL_MANIFEST_2026-08-20.sha256
+6b117e3b73df69d0a532f81d0a00f3537917f1c20b19588fa41c6e86d40e8fad  SymK 2.x Evolution history/2.1/M0_PAUSE_CHECKPOINT_2026-08-18.md

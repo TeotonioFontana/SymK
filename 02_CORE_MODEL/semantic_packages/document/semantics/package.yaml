@@ -1,0 +1,55 @@
+projection_profile: symk.machine-semantic-candidate.v0_1
+source_package: symk.semantic.document
+source_package_version: 0.1.0-proposed
+status: proposed
+normative_effect: none
+purpose: Make selected identities, relations, qualifiers, and constraints mechanically inspectable.
+
+definitions:
+  - id: symk.document
+    kind: concept
+    status: proposed
+    specializes:
+      - concept_term: Representation
+        authority_reference: SYMK-2X-DR-010
+        identifier_status: unresolved_pending_2_5
+    identity_notes:
+      - Identity is not reducible to a repository key, path, file hash, or file occurrence.
+    distinct_from:
+      - KnowledgeObject
+      - FileOccurrence
+      - RepositoryBinding
+      - DocumentType
+
+  - id: symk.document_type
+    kind: classification_concept_role
+    status: proposed
+    governed_minimum_owner: SymK
+    concrete_concept_owner: declared_domain
+    required_reference_dimensions:
+      - concept_id
+      - scheme_id
+      - scheme_version
+      - domain_id
+    distinct_from:
+      - technical.mime_type
+      - technical.file_extension
+      - repository.content_type
+      - Domain
+      - document.lifecycle_status
+
+structured_members:
+  property_definitions:
+    - id: symk.document.classified_as_type
+      path: semantics/properties/classified-as-type.yaml
+  applicability_profiles:
+    - id: symk.document.core_properties
+      path: semantics/profiles/document-core-properties.yaml
+
+declared_omissions:
+  - Document identity criteria are not complete.
+  - Property-specific constraints and omissions are declared in their dedicated structured files.
+  - No storage schema, API model, Python type, or repository mapping is selected by this package entry point.
+
+known_semantic_loss:
+  - The structured projection does not reproduce the full rationale, examples, counterexamples, uncertainty, or interpretive discussion in the human-semantic files.

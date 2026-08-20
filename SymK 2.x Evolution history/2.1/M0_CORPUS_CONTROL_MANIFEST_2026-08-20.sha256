@@ -1,0 +1,8 @@
+# SymK M0 corpus-control completion manifest — 20 August 2026
+# Algorithm: SHA-256
+# Scope: immutable proposal artifacts reviewed at the M0 approval checkpoint
+# Excludes: this self-referential checksum file, later acceptance/status records, Git metadata, and corpus artifacts represented row-by-row in the CSV manifest
+7b31345322726aaaf40c274548d9305819fedc3569fd1ef85e2ac81d56170ebb  SymK 2.x Evolution history/2.1/M0_CORPUS_MANIFEST_2026-08-20.csv
+8fa1006f6e956f7f00712b0c0ea0c085c52b88aeae3988c090489597bc9ced55  SymK 2.x Evolution history/2.1/M0_CORPUS_MANIFEST_SUMMARY_2026-08-20.json
+afb562a33d93ca29260b8da970f17e98f266326e90b0978e5d77ffdd1bdd86ac  SymK 2.x Evolution history/2.1/M0_ARCHIVE_CLASSIFICATION_2026-08-20.md
+73a4d796b3ed6d2e549bbedda641b9682318961b759adc8bc4248d29aa706cb3  SymK 2.x Evolution history/2.1/M0_CORPUS_CONTROL_COMPLETION_2026-08-20.md

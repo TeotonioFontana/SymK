@@ -1,0 +1,39 @@
+fixture_profile: symk.property-counterexamples.candidate.v0_1
+status: illustrative
+production_authority: none
+
+counterexamples:
+  - id: property-counterexample-001
+    title: Database field defines the Property
+    invalid_claim: A column named document_type is the semantic definition because the application uses it successfully.
+    failure: A database column is an implementation projection and cannot silently acquire semantic authority.
+
+  - id: property-counterexample-002
+    title: Applicability implies presence
+    invalid_claim: Because a property belongs to a bearer profile, every bearer necessarily has an asserted value.
+    failure: Eligibility, requirement, assertion presence, and absence meaning are distinct.
+
+  - id: property-counterexample-003
+    title: Profile duplicates and changes meaning
+    invalid_claim: A profile references a property but silently changes its value kind and bearer.
+    failure: A profile governs applicability and profile-level constraints; incompatible redefinition requires a new property or declared challenge.
+
+  - id: property-counterexample-004
+    title: Accepted means true
+    invalid_claim: An accepted assertion is necessarily true and authorized for every use.
+    failure: Governance status, truth, confidence, and permission to rely are distinct.
+
+  - id: property-counterexample-005
+    title: Missing assertion means unknown
+    invalid_claim: No stored assertion proves that the value is unknown.
+    failure: Absence may mean not collected, unavailable, not applicable, rejected, or no assertion; the intended state must be explicit.
+
+  - id: property-counterexample-006
+    title: Display label used as concept identity
+    invalid_claim: The string Appeal is a stable concept-valued assertion without scheme, version, Domain, or authority.
+    failure: A concept reference requires governed identity and source dimensions; a label alone is insufficient.
+
+  - id: property-counterexample-007
+    title: Repository projection becomes authoritative
+    invalid_claim: A SharePoint column or S3 tag is the complete assertion because it is searchable.
+    failure: Search utility does not erase omitted provenance, evidence, Context, Scope, status history, or projection loss.
