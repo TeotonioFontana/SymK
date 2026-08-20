@@ -191,11 +191,15 @@ A numbered stage is complete only when its acceptance record covers:
 
 **Pause-closure state — 18 August 2026:** The DR-010 status reconciliation, Git/evidence checkpoint, explicit non-opening of 2.1.3, preserved next question, and Observed-only maturation channel are complete. The full corpus manifest and archive-classification portions of M0 remain pending and must be completed before DR-011 is opened; they do not prevent the two- or three-day pause.
 
+**Return state — 20 August 2026:** The repository-wide corpus manifest, explicit classification of all four archives, reversible recovery/semantic-disposition boundary, and maturation routing are complete as a Proposed M0 completion under `M0_CORPUS_CONTROL_COMPLETION_2026-08-20.md`. Project-steward confirmation remains pending. No 2.1.3 analysis or DR-011 content has been opened.
+
+**Acceptance state — 20 August 2026:** The project steward approved the M0 corpus-control completion through `M0_ACCEPTANCE_RECORD_2026-08-20.md`. M0 is closed and its dependency preceding 2.1.3 is satisfied. This checkpoint does not accept this migration plan as a whole or create DR-011 content.
+
 ---
 
 ### 2.1 — Foundational Conceptual System
 
-**Current state:** 2.1.1 and 2.1.2 are Stage-Accepted. A governed pause checkpoint is active; 2.1.3 and DR-011 are explicitly not started.
+**Current state:** 2.1.1 through 2.1.4 are Stage-Accepted and M0 is accepted. Revised `SYMK-2X-DR-012` closes 2.1.4 for progression with a recursive epistemic lifecycle, typed epistemic/governance distinctions, an anti-reification boundary, and coordinated Human, Scientific, and Engineering views. Readability, formal expression, and machine inspectability are cross-view capabilities; semantic/constitutional, corpus-integrity, and grounding/verification remain separate program-work lanes. The complete accepted proposal is registered as 2.1.4H and its exact selected source lineage is preserved independently of conversation recovery. 2.1.5 is ready but not substantively opened.
 
 #### 2.1.3 — Knowledge and Intelligence
 
@@ -204,6 +208,8 @@ Resolve the reciprocal boundary between Knowledge and Intelligence. At minimum:
 - define what each term does for SymK;
 - identify possible bearers and the conditions for attribution;
 - distinguish capability, competence, skill, performance, and adaptation;
+- determine whether Intelligence is constitutively multidimensional and distinguish capability dimension, specialization, actual configuration, attributed profile, and score or classification Projection;
+- distinguish the universal concept from a particular actual Bearer and from a fallible attribution identifying a proposed Bearer;
 - separate an intelligence attribution from a representation of performance;
 - state the roles of substrate, organized system, Context, Scope, Domain, and Applicability;
 - keep agency, autonomy, rationality, and consciousness distinct unless evidence requires a dependency; and
@@ -575,16 +581,16 @@ Until their governing checkpoints, do not:
 
 ## 13. Immediate next work package
 
-On return from the governed pause, the next work is **completion of the remaining M0 controls, followed by 2.1.3**:
+The next work is **controlled opening of 2.1.5 — Cooperation and Cooperative Formation**:
 
-1. review the accepted DR-010 baseline, the pause checkpoint, and any Observed maturation notes;
-2. complete and verify the corpus manifest and archive classification required by M0;
-3. open DR-011 for the Knowledge–Intelligence boundary;
-4. evaluate the full 2.1.3 cluster under DR-009 and DR-010;
-5. collect early LexBrain and sshConnectivity counterexamples without granting them decision authority; and
-6. present the proposed 2.1.3 decision to the project steward before proceeding to 2.1.4.
+1. review Stage-Accepted DR-011 and DR-012 constraints relevant to Bearer, multidimensional Intelligence, epistemic lifecycle, disagreement, reliance, and three-view alignment;
+2. establish the authority-ranked evidence boundary and integrity record;
+3. route overlap with responsibility (2.1.6), amplification (2.1.7), and value/consequence (2.1.8);
+4. define hazards and counterexamples for coordination, compliance, consensus, coercion, collusion, Training, Education, formation, and challenge;
+5. preserve derived-project observations as evidence rather than authority; and
+6. identify the next decision target before substantive analysis.
 
-The critical immediate decision is therefore not whether to rediscover the old roadmap. It has been recovered. DR-010's approval record is now repaired. The next decision, after the pause and remaining M0 controls, is whether the proposed operating model should govern DR-011 and the rest of the 2.x migration.
+DR-012 acceptance makes 2.1.5 ready; it does not open it automatically or accept the complete migration plan.
 
 ---
 

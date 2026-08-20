@@ -1,8 +1,8 @@
 # SymK 2.1 Stage Summary
 
 **Stage:** Foundational Conceptual System  
-**Current version:** `2.1-dev.5`
-**Status:** Active — DR-009 and DR-010 Stage-Accepted; governed pause checkpoint established before 2.1.3
+**Current version:** `2.1-dev.25`
+**Status:** Active — DR-009 through DR-012 Stage-Accepted; 2.1.4 complete for progression; 2.1.5 ready but not opened
 **Predecessor authority:** SymK 2.0 Stage-Accepted through `SYMK-2X-DR-008`
 
 ## Current state
@@ -13,14 +13,16 @@ The 2.1.1 concept-governance method and the 2.1.2 minimum structural semantic ke
 
 - `SYMK-2X-DR-009` — jurisdiction-first, purpose-led, evidence- and counterexample-tested concept governance; six dispositions; separation of foundationality, maturity, and artifact form; typed reciprocal dependencies; two-lane semantic authority and mismatch control. Stage-Accepted by the project steward on 18 August 2026 for continuation of 2.1; not constitutionally Ratified.
 - `SYMK-2X-DR-010` — minimum structural semantic kernel; Identity, Context, Scope, Domain, and Representation foundational; Relationship, Applicability, Bearer, and Projection governed supporting distinctions; System imported support; Entity retained only as an engineering/meta-model candidate. Stage-Accepted by the project steward on 18 August 2026 for continuation of 2.1; dissent and reopening conditions preserved; not constitutionally Ratified.
+- `SYMK-2X-DR-011` — Knowledge and Intelligence as distinct foundational concepts; actual Intelligence as substrate-realized and multidimensional; universal concept, dimension, specialization, actual configuration, attributed profile, and Projection separated; Bearer retained as supporting role; Attribution and reciprocal links governed as typed relationship families. Stage-Accepted by the project steward on 20 August 2026 for continuation of 2.1; twenty questions and all reopening conditions preserved; not constitutionally Ratified.
+- `SYMK-2X-DR-012` — Knowledge Engineering foundational; Epistemic Condition supporting; recursive lifecycle and typed claim/Ground/Evidence/Provenance/status/reliance distinctions; `KnowledgeObject` not foundational; Human, Scientific, and Engineering semantic views with cross-view capabilities, triangular alignment, and declared loss; minimum Ontology/Logic boundary without formalism selection. Stage-Accepted by the project steward on 20 August 2026 for continuation of 2.1; dissent and reopening conditions preserved; not constitutionally Ratified.
 
 ## Active work
 
-No conceptual package is active during the pause. Work package 2.1.3 and `SYMK-2X-DR-011` are explicitly not started. The next preserved question is: “What minimum concepts of Knowledge and Intelligence does SymK require, and how can their reciprocal relationship be expressed without making either concept a hidden definition of the other?”
+Work package 2.1.4 completed Streams A–E and the project-steward lane/view reconciliation. Revised DR-012 was Stage-Accepted through `SYMK-2X-EV-105`. Source recovery under `SYMK-2X-EV-106` established 2.1.4H as the complete accepted proposal and retained 2.1.4G as the compressed first registration. The accepted model distinguishes semantic views, cross-view capabilities, and broader program-work lanes: Human, Scientific, and Engineering are the views; readability, formal expression, and machine inspectability cross them; semantic/constitutional, corpus-integrity, and grounding/verification remain separate program lanes. The exact selected analytical, challenge, proposal, and acceptance messages are now held in the project rather than depending on conversation recovery. 2.1.5 is ready but requires a separate opening instruction.
 
 ## Pause and maturation status
 
-The pause is governed by `M0_PAUSE_CHECKPOINT_2026-08-18.md`. Any insight arising during the pause is evidence with Observed status only and belongs in `MATURATION_NOTES_2.1.2_PAUSE.md`; it does not reopen or amend DR-010 without a later governed decision.
+The pause, return, and acceptance are governed by `M0_PAUSE_CHECKPOINT_2026-08-18.md`, `M0_CORPUS_CONTROL_COMPLETION_2026-08-20.md`, and `M0_ACCEPTANCE_RECORD_2026-08-20.md`. Pause insights remain Observed evidence after routing; none reopens or amends DR-010.
 
 ## Gate result
 

@@ -1,8 +1,8 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.6
-**Date:** 18 August 2026
+**Version:** 0.20
+**Date:** 20 August 2026
 
 ## 1. Registry summary
 
@@ -15,7 +15,8 @@
 | Current legacy axiom/philosophy artifacts | 4 | Existing canonical artifacts pending explicit constitutional disposition |
 | Constitutional Working Baseline | 1 package | Canonical review location; six Proposed axiom expositions plus one Proposed jurisdiction article |
 | SymK 2.0 evolution baseline | 1 stage package | `2.0` Stage-Accepted through DR-008; promoted from `2.0-rc.1`; no constitutional Ratification |
-| SymK 2.1 active evolution package | 1 stage package | `2.1-dev.5`; DR-009 and DR-010 Stage-Accepted for continuation; governed pause before 2.1.3; no final 2.1 Stage-Acceptance |
+| SymK 2.1 active evolution package | 1 stage package | `2.1-dev.25`; DR-009 through DR-012 Stage-Accepted; complete 2.1.4 source/decision lineage recovered; 2.1.5 ready but not opened; no final 2.1 Stage-Acceptance |
+| M0 corpus-control package | 1 control package | Accepted by the project steward on 20 August 2026; manifest, archive classification, recovery boundary, routing, and integrity records preserved |
 | SymK 2.x migration plan | 1 | `SYMK-2X-PLAN-002` v0.1 registered as Proposed; detailed recovery and continuation plan, with no independent normative effect |
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
@@ -46,6 +47,8 @@ The canonical series is maintained under `01_Product_Vision/01_FOUNDATION/`:
 Markdown is the governed source; PDF is its publication projection. Foundation Papers are constitutional sources and epistemic evidence, not constitutional norms by publication or location.
 
 The four v0.1 Markdown/PDF pairs are scheduled for conceptual, cross-paper, human-readability, and publication review under SymK 2.1.10 after the integrated 2.1.9 baseline. Human review is mandatory; automated inspection alone cannot pass checkpoint 2.1.10H. Accepted revisions will create preserved v0.2 editions rather than overwrite v0.1 history.
+
+The Intelligence G/H review drafts and the H PDF maintained in the 2.1 evolution history are registered as early non-canonical review lineage only. They exposed wording, Bearer, and multidimensional-specialization challenges that entered provisional program semantics through Stage-Accepted DR-011. The review artifacts themselves are not part of the canonical Foundation Paper series or the future accepted v0.2 publication set unless reconciled and expressly accepted through 2.1.10.
 
 ## 4. Constitutional Working Baseline
 
@@ -107,13 +110,15 @@ Registration does not pre-judge whether they will be retained, revised, supersed
 
 **Governed package:** `../SymK 2.x Evolution history/2.1/`
 
-**Current development version:** `2.1-dev.5`
+**Current development version:** `2.1-dev.25`
 
 **Stage status:** Active; not finally Stage-Accepted.
 
-**Accepted continuation authority:** `SYMK-2X-DR-009` governs the concept-evaluation method and `SYMK-2X-DR-010` governs the minimum structural semantic kernel. Both were Stage-Accepted by the project steward on 18 August 2026. Neither is constitutionally Ratified.
+**Accepted continuation authority:** `SYMK-2X-DR-009` governs concept evaluation, `SYMK-2X-DR-010` the structural semantic kernel, `SYMK-2X-DR-011` the Knowledge–Intelligence reciprocal core, and `SYMK-2X-DR-012` Knowledge Engineering, epistemic lifecycle/distinctions, and Human/Scientific/Engineering view alignment. DR-009 and DR-010 were Stage-Accepted on 18 August 2026; revised DR-011 and DR-012 on 20 August 2026. None is constitutionally Ratified.
 
-**Pause boundary:** `M0_PAUSE_CHECKPOINT_2026-08-18.md` records the governed stop after 2.1.2. Work package 2.1.3 and `SYMK-2X-DR-011` are explicitly not started. Observations arising during the pause remain evidence-only under `MATURATION_NOTES_2.1.2_PAUSE.md` until governed review.
+**Pause, return, acceptance, and resumption boundary:** `M0_PAUSE_CHECKPOINT_2026-08-18.md`, `M0_CORPUS_CONTROL_COMPLETION_2026-08-20.md`, and `M0_ACCEPTANCE_RECORD_2026-08-20.md` govern M0. `2.1.3_OPENING_AND_EVIDENCE_CONTROL_2026-08-20.md` and `2.1.3_ACCEPTANCE_RECORD_2026-08-20.md` govern DR-011. `2.1.4_OPENING_AND_EVIDENCE_CONTROL_2026-08-20.md`, the source-recovery bundle, A–H lineage, original acceptance record, and corrective acceptance record govern revised DR-012 and completion of 2.1.4 for progression.
+
+**Current 2.1.4 result:** Revised DR-012 is Stage-Accepted through `SYMK-2X-EV-105`. `SYMK-2X-EV-106` preserves its exact selected source lineage and corrects the accepted-object locator to the complete 2.1.4H proposal; 2.1.4G and the original acceptance record remain the compressed historical registration. DR-012 makes Knowledge Engineering foundational; governs Epistemic Condition, recursive lifecycle, and typed epistemic/status/reliance distinctions; rejects foundational `KnowledgeObject`; and establishes Human, Scientific, and Engineering views with cross-view capabilities, triangular alignment, and declared loss. DR-009’s human/machine boundary remains a minimum, while program-work lanes remain a separate classification. No package, paper, formalism, implementation, or derived project changed. 2.1.5 is ready but not opened.
 
 DR-010 makes Identity, Context, Scope, Domain, and Representation foundational for the 2.x program baseline; governs Relationship, Applicability, Bearer, and Projection as supporting distinctions; imports System as support; and removes Entity from foundational status while preserving it as a possible 2.5 engineering/meta-model construct. No final `FC-*` package or canonical concept artifact was created or migrated by acceptance.
 
@@ -145,12 +150,26 @@ These items are governed uncertainty. They must not be hidden by the Stage-Accep
 
 **Current status:** Proposed — awaiting project-steward review.
 
-The plan reconstructs the 2.0–3.0 sequence, preserves the Stage-Accepted 2.0, 2.1.1, and 2.1.2 decisions, introduces an M0 status-and-evidence control point, and begins corpus-integrity work in parallel with the semantic sequence. It elaborates the active consolidation roadmap but does not supersede the roadmap or authorize repository migration merely by being registered.
+The plan reconstructs the 2.0–3.0 sequence, preserves the Stage-Accepted 2.0 and 2.1.1–2.1.4 decisions, introduces an M0 status-and-evidence control point, and begins corpus-integrity work in parallel with the semantic sequence. It elaborates the active consolidation roadmap but does not supersede the roadmap or authorize repository migration merely by being registered.
 
 Its lineage includes the historical `SYMK-PLAN-001_Architecture_Roadmap_v0.1.md` held under `Knowledge/Architectural_Decisions/Sources/`, the live SymK 2.x roadmap, the Stage-Accepted 2.0 package, and the active 2.1 package.
 
 ## 11. Version history
 
+- **0.20 — 2026-08-20:** Registered `2.1-dev.25`, the exact selected 2.1.4 source-recovery bundle, complete accepted revised DR-012 as 2.1.4H, the corrective accepted-object locator, expanded full disposition registration, and integrity manifests; preserved 2.1.4G and the original acceptance record as the compressed historical registration; made no new semantic decision and did not open 2.1.5 or change a final package, paper, formalism, implementation, or derived project.
+- **0.19 — 2026-08-20:** Registered `2.1-dev.24`, the recovered 2.1.4B–E analytical lineage, the project-steward correction from an exhaustive two-lane reading to Human/Scientific/Engineering views, revised DR-012, its separate Stage-Acceptance record and integrity manifest, completion of 2.1.4 for progression, and readiness of 2.1.5 without opening it; no final package, paper, formalism, implementation, or derived project changed.
+- **0.18 — 2026-08-20:** Registered `2.1-dev.19`, formal opening and evidence control for 2.1.4, and completion of Stream A as analytical working results; no DR-012, semantic package, Foundation Paper, formalism, implementation, or derived-project change was accepted.
+- **0.17 — 2026-08-20:** Registered `2.1-dev.17`, project-steward Stage-Acceptance of revised DR-011, the separate 2.1.3 acceptance record and integrity manifest, completion of 2.1.3 for progression, and readiness of 2.1.4 without substantive opening; no named specialization, canonical paper, final package, or implementation was accepted.
+- **0.16 — 2026-08-20:** Registered `2.1-dev.16`, the passed multidimensional Intelligence reconciliation in 2.1.3I, and 2.1.3J as the active revised Proposed DR-011; 2.1.3F remains preserved proposal lineage, no concept or named specialization is accepted, and 2.1.4 remains unopened.
+- **0.15 — 2026-08-20:** Registered `2.1-dev.14` and Proposed DR-011 after completion of 2.1.3A–E; no concept accepted and 2.1.4 remains unopened.
+- **0.14 — 2026-08-20:** Registered `2.1-dev.13` and the passed consolidated 2.1.3 stress-test gate; proposal preparation only was authorized.
+- **0.13 — 2026-08-20:** Registered `2.1-dev.12` and the analytical reciprocal Knowledge–Intelligence relationship model; no DR-011 or concept authority accepted.
+- **0.12 — 2026-08-20:** Registered `2.1-dev.11` and the analytical joint Bearer/attribution model; actual bearing, claims, assessments, and records are distinguished; no DR-011 or concept authority accepted.
+- **0.11 — 2026-08-20:** Registered `2.1-dev.10` and the analytical independent Intelligence anchor; no DR-011 or concept authority accepted.
+- **0.10 — 2026-08-20:** Registered `2.1-dev.9` and the analytical independent Knowledge anchor; no DR-011 or concept authority accepted.
+- **0.9 — 2026-08-20:** Registered `2.1-dev.8`, the formal opening of 2.1.3, and its evidence-control package; no substantive DR-011 content accepted.
+- **0.8 — 2026-08-20:** Recorded project-steward acceptance of the M0 corpus-control completion, closure of M0, and progression readiness for 2.1.3; no concept, Foundation Paper, migration-plan remainder, or DR-011 content accepted.
+- **0.7 — 2026-08-20:** Registered the `2.1-dev.6` M0 corpus-control completion proposal, repository-wide manifest, archive classification, recovery/semantic-disposition boundary, and maturation routing; M0 confirmation, 2.1.3 opening, and DR-011 remain pending.
 - **0.6 — 2026-08-18:** Registered the active `2.1-dev.5` package, Stage-Accepted DR-010, and the governed M0 pause boundary before 2.1.3; no final 2.1 Stage-Acceptance, canonical concept migration, or Ratification implied.
 - **0.5 — 2026-08-18:** Registered `SYMK-2X-PLAN-002` v0.1 as the Proposed detailed SymK 2.x migration and recovery plan and made the 2.1.10 human Foundation Paper review checkpoint explicit; no Stage-Acceptance or Ratification implied.
 - **0.4 — 2026-08-18:** Registered Product Vision v0.3, DR-008, promotion to Stage-Accepted SymK 2.0, completion of step 9, and progression to 2.1; no constitutional Ratification.

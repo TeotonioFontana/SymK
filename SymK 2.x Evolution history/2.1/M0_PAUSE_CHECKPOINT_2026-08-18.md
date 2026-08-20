@@ -83,3 +83,21 @@ These remaining controls do not require conceptual work during the pause.
 4. Complete the remaining M0 corpus-control work or record an explicit sequencing decision.
 5. Confirm that the 2.1.3 opening question remains correctly framed.
 6. Only then begin analysis toward a Proposed DR-011.
+
+## 9. Return update — 20 August 2026
+
+The project steward instructed that M0 be completed before returning to 2.1.3. The resulting corpus-control package is recorded in:
+
+- `M0_CORPUS_CONTROL_COMPLETION_2026-08-20.md`;
+- `M0_CORPUS_MANIFEST_2026-08-20.csv`;
+- `M0_CORPUS_MANIFEST_SUMMARY_2026-08-20.json`;
+- `M0_ARCHIVE_CLASSIFICATION_2026-08-20.md`; and
+- `M0_CORPUS_CONTROL_MANIFEST_2026-08-20.sha256`.
+
+The required manifest, archive classification, reversible-recovery boundary, and maturation routing are complete as a **Proposed M0 completion**. Project-steward confirmation remains pending. Work package 2.1.3 and DR-011 remain unopened until that confirmation.
+
+## 10. M0 acceptance — 20 August 2026
+
+The project steward approved the M0 corpus-control completion. The separate acceptance record is `M0_ACCEPTANCE_RECORD_2026-08-20.md`.
+
+M0 is closed. Its dependency on 2.1.3 is satisfied. This acceptance does not decide Knowledge or Intelligence, approve the complete migration plan, or create content or authority for DR-011.

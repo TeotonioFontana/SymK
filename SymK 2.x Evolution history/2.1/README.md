@@ -1,10 +1,10 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — 2.1.1 and 2.1.2 Stage-Accepted; pause checkpoint established before 2.1.3
+**Stage status:** Active — 2.1.1 through 2.1.4 Stage-Accepted; 2.1.5 ready but not opened
 **Target version:** `2.1`  
-**Current version:** `2.1-dev.5`
+**Current version:** `2.1-dev.25`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
-**Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009` and `SYMK-2X-DR-010`; no axiom, Foundation Paper conclusion, final concept package, or representation is Ratified
+**Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009`–`012`; no axiom, Foundation Paper conclusion, final concept package, formalism, or representation is Ratified
 
 ## Central question
 
@@ -36,7 +36,7 @@ A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constit
     - `2.1.11.1_Cross_Document_Consistency_Audit.md`
     - `2.1.11.2_Final_Stage_Acceptance.md`
 
-2.1.1 and 2.1.2 are complete for progression purposes, and their governing decisions are Stage-Accepted. Work package 2.1.3 remains Planned and explicitly not started at the M0 pause checkpoint. Every later package remains Planned until the preceding review has been accepted or an explicit sequencing decision permits overlap.
+2.1.1 through 2.1.4 are complete for progression and DR-009 through DR-012 are Stage-Accepted. Revised DR-012 establishes Knowledge Engineering, Epistemic Condition, the recursive lifecycle, typed epistemic/governance distinctions, the anti-reification boundary, and Human/Scientific/Engineering views with cross-view capabilities and triangular alignment. It preserves DR-009’s human/machine minimum without treating it as an exhaustive view count and keeps program-work lanes distinct. The complete accepted 2.1.4 source and decision lineage is now preserved in `2.1.4_SOURCE_RECOVERY_2026-08-20/`, 2.1.4H, and the corrective acceptance record; 2.1.4G remains a compressed historical reconstruction. Final package anatomy remains 2.5; formalism remains 2.9. 2.1.5 is ready but not opened.
 
 ## Concept disposition classes
 
@@ -68,14 +68,17 @@ Each material concept or concept cluster must record:
 11. consequences for the Product Vision, candidate Constitution, axioms, and derived projects;
 12. dissent, confidence, open questions, and reopening conditions.
 
-## Two-lane boundary
+## View, capability, and program-lane boundary
 
-2.1 governs the meaning that must survive both lanes. It may define semantic preservation obligations, but it does not select first-order logic, OWL, SHACL, rule languages, schemas, APIs, programming languages, persistence structures, or lowering mechanisms.
+DR-009's human/machine rule remains a minimum preservation obligation: governed meaning must remain interpretable by people and materially inspectable in declared machine-semantic expressions. DR-012 establishes that this is not an exhaustive count of semantic views.
 
-- The **human-semantic lane** carries meaning, purpose, scope, distinctions, examples, counterexamples, dissent, uncertainty, and interpretation.
-- The **machine-semantic lane** must be capable of preserving identity, typed relationships, scope, applicability, constraints, dependency, lineage, and declared semantic loss.
+- The **Human View** preserves purpose, meaning, Context, Scope, explanation, alternatives, dissent, consequences, and limits.
+- The **Scientific View** preserves questions, methods, Grounds, Evidence, counterevidence, models, uncertainty, competing accounts, robustness, and conditions of defeat.
+- The **Engineering View** preserves specifications, constraints, interfaces, formal profiles, implementations, validation, runtime records, failure handling, migration, and operational Projections.
 
-Final `FC-*`, `FP-*`, and `SYMK-P-*` package design belongs to 2.5. Formal-language selection and operational lowering belong to 2.5 and 2.9 as routed by the 2.0 deferrals.
+Human readability, formal expression, and machine inspectability are cross-view capabilities; format does not determine view. Semantic/constitutional work, corpus integrity, and grounding/verification are separate program-work lanes; they organize work and evidence flow, not semantic meaning.
+
+2.1 may define semantic preservation obligations, but it does not select first-order logic, OWL, SHACL, rule languages, schemas, APIs, programming languages, persistence structures, or lowering mechanisms. Final `FC-*`, `FP-*`, and `SYMK-P-*` package design belongs to 2.5. Formal-language selection and operational lowering belong to 2.5 and 2.9 as routed by the 2.0 deferrals.
 
 ## Foundation Paper publication rule
 
@@ -100,6 +103,8 @@ The governed pause checkpoint is `M0_PAUSE_CHECKPOINT_2026-08-18.md`. At that bo
 - observations arising during the pause belong in `MATURATION_NOTES_2.1.2_PAUSE.md` with Observed status only; and
 - resumption requires review of the checkpoint and maturation observations before DR-011 is opened.
 
+The 20 August return produced the full corpus manifest, explicit archive classification, reversible-recovery boundary, and maturation routing under `M0_CORPUS_CONTROL_COMPLETION_2026-08-20.md`. The project steward accepted that completion through `M0_ACCEPTANCE_RECORD_2026-08-20.md`. M0 is closed. The later instruction recorded as `SYMK-2X-EV-086` opened 2.1.3 for analysis; neither action creates DR-011 content or authority.
+
 ## Out of scope
 
 SymK 2.1 will not finalize:
@@ -123,7 +128,7 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 - neighboring concepts remain distinguishable under counterexamples;
 - the complete 2.0 value chain can be interpreted without silent substitution;
 - the conceptual baseline is sufficient to test candidate axioms in 2.2;
-- dual-lane obligations preserve meaning without choosing a formal language prematurely;
+- three-view alignment and the DR-009 human/machine minimum preserve meaning without choosing a formal language prematurely;
 - Foundation Papers v0.2 are mutually consistent, human-readable, traceable to v0.1, and visually verified;
 - every unresolved remainder has a destination and does not destroy stage coherence.
 
@@ -131,9 +136,9 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 
 Program identifiers continue from 2.0:
 
-- current decision lineage: `SYMK-2X-DR-009` and `SYMK-2X-DR-010` Stage-Accepted; next available decision: `SYMK-2X-DR-011`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-082`; next available evidence: `SYMK-2X-EV-083`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-045`; next available change: `SYMK-2X-CH-046`;
+- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-012` Stage-Accepted; next available decision: `SYMK-2X-DR-013`;
+- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-106`; next available evidence: `SYMK-2X-EV-107`;
+- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-065`; next available change: `SYMK-2X-CH-066`;
 - next new tension: `SYMK-2X-TN-031`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 
