@@ -199,7 +199,7 @@ A numbered stage is complete only when its acceptance record covers:
 
 ### 2.1 — Foundational Conceptual System
 
-**Current state:** 2.1.1 through 2.1.4 are Stage-Accepted and M0 is accepted. Revised `SYMK-2X-DR-012` closes 2.1.4 for progression with a recursive epistemic lifecycle, typed epistemic/governance distinctions, an anti-reification boundary, and coordinated Human, Scientific, and Engineering views. Readability, formal expression, and machine inspectability are cross-view capabilities; semantic/constitutional, corpus-integrity, and grounding/verification remain separate program-work lanes. The complete accepted proposal is registered as 2.1.4H and its exact selected source lineage is preserved independently of conversation recovery. 2.1.5 is ready but not substantively opened.
+**Current state:** 2.1.1 through 2.1.5 are Stage-Accepted and M0 is accepted. Revised `SYMK-2X-DR-012` closes 2.1.4 for progression with a recursive epistemic lifecycle, typed epistemic/governance distinctions, an anti-reification boundary, and coordinated Human, Scientific, and Engineering views. Its complete accepted proposal and exact selected source lineage remain independently preserved. `SYMK-2X-DR-013` closes 2.1.5 for progression with Cooperation and Formation as foundational concepts and the relational, formative, Power/challenge, temporal, memory, and system-Learning system governed through supporting or narrower dispositions. Its exact accepted proposal, seven-stream lineage, dissent, reopening conditions, and non-effects are preserved in the 2.1.5 acceptance record and manifest. Responsibility remains for 2.1.6, which is ready but not substantively opened.
 
 #### 2.1.3 — Knowledge and Intelligence
 
@@ -581,16 +581,17 @@ Until their governing checkpoints, do not:
 
 ## 13. Immediate next work package
 
-The next work is **controlled opening of 2.1.5 — Cooperation and Cooperative Formation**:
+The active next checkpoint is a **separate project-steward instruction to open 2.1.6 — Responsibility, Agency, and Authority**. DR-013 Stage-Acceptance through `SYMK-2X-EV-116` satisfies its predecessor dependency and supplies the accepted Participant, Contribution, Power, challenge, affected-party, Persistence, replacement, and succession interfaces.
 
-1. review Stage-Accepted DR-011 and DR-012 constraints relevant to Bearer, multidimensional Intelligence, epistemic lifecycle, disagreement, reliance, and three-view alignment;
-2. establish the authority-ranked evidence boundary and integrity record;
-3. route overlap with responsibility (2.1.6), amplification (2.1.7), and value/consequence (2.1.8);
-4. define hazards and counterexamples for coordination, compliance, consensus, coercion, collusion, Training, Education, formation, and challenge;
-5. preserve derived-project observations as evidence rather than authority; and
-6. identify the next decision target before substantive analysis.
+Opening 2.1.6 must separately establish:
 
-DR-012 acceptance makes 2.1.5 ready; it does not open it automatically or accept the complete migration plan.
+1. its authority-ranked evidence boundary and integrity control;
+2. inherited DR-009 through DR-013 obligations and reopening interfaces;
+3. ownership boundaries among agency, causal Contribution, control, role, authority, authorization, consent, duty, responsibility, accountability, answerability, remedy, liability, legal personality, moral standing, representation, and affected-party standing;
+4. mandatory counterexamples, three-view obligations, constitutional and Foundation Paper consequences, and downstream routing; and
+5. its own analysis sequence and DR-014 proposal checkpoint.
+
+DR-013 acceptance does not accept the complete migration plan, A0–A4/J1, a responsibility or authority allocation, final DQ closure beyond its stated universal semantic components, a final package, paper revision, formalism, implementation, project change, or substantive 2.1.6 opening.
 
 ---
 

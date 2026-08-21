@@ -1,10 +1,10 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — 2.1.1 through 2.1.4 Stage-Accepted; 2.1.5 ready but not opened
+**Stage status:** Active — 2.1.1 through 2.1.5 Stage-Accepted; 2.1.6 ready but not opened
 **Target version:** `2.1`  
-**Current version:** `2.1-dev.25`
+**Current version:** `2.1-dev.34`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
-**Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009`–`012`; no axiom, Foundation Paper conclusion, final concept package, formalism, or representation is Ratified
+**Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009`–`013`; no axiom, Foundation Paper conclusion, final concept package, formalism, or representation is Ratified
 
 ## Central question
 
@@ -36,7 +36,7 @@ A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constit
     - `2.1.11.1_Cross_Document_Consistency_Audit.md`
     - `2.1.11.2_Final_Stage_Acceptance.md`
 
-2.1.1 through 2.1.4 are complete for progression and DR-009 through DR-012 are Stage-Accepted. Revised DR-012 establishes Knowledge Engineering, Epistemic Condition, the recursive lifecycle, typed epistemic/governance distinctions, the anti-reification boundary, and Human/Scientific/Engineering views with cross-view capabilities and triangular alignment. It preserves DR-009’s human/machine minimum without treating it as an exhaustive view count and keeps program-work lanes distinct. The complete accepted 2.1.4 source and decision lineage is now preserved in `2.1.4_SOURCE_RECOVERY_2026-08-20/`, 2.1.4H, and the corrective acceptance record; 2.1.4G remains a compressed historical reconstruction. Final package anatomy remains 2.5; formalism remains 2.9. 2.1.5 is ready but not opened.
+2.1.1 through 2.1.5 are complete for progression and DR-009 through DR-013 are Stage-Accepted. Revised DR-012 establishes Knowledge Engineering, Epistemic Condition, the recursive lifecycle, typed epistemic/governance distinctions, the anti-reification boundary, and Human/Scientific/Engineering views with cross-view capabilities and triangular alignment. The complete accepted 2.1.4 source and decision lineage is preserved independently of conversation recovery. Under `SYMK-2X-EV-107`–`116`, 2.1.5 establishes Cooperation and Formation as foundational concepts; governs the participant/contribution, adjacent-relation, formative, Power/challenge, temporal, memory, and system-Learning system; passes all 24 mandatory cases; and preserves every predecessor, three-view, constitutional-candidate, Foundation Paper, downstream, dissent, reopening, and non-effect control. The exact accepted proposal and Streams A–F lineage are preserved in the 2.1.5 acceptance record and manifest. Responsibility remains for 2.1.6, which is ready but not opened. Final package anatomy remains 2.5; formalism remains 2.9.
 
 ## Concept disposition classes
 
@@ -136,9 +136,9 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 
 Program identifiers continue from 2.0:
 
-- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-012` Stage-Accepted; next available decision: `SYMK-2X-DR-013`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-106`; next available evidence: `SYMK-2X-EV-107`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-065`; next available change: `SYMK-2X-CH-066`;
+- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-013` Stage-Accepted; next unreserved decision: `SYMK-2X-DR-014`;
+- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-116`; next available evidence: `SYMK-2X-EV-117`;
+- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-074`; next available change: `SYMK-2X-CH-075`;
 - next new tension: `SYMK-2X-TN-031`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 
