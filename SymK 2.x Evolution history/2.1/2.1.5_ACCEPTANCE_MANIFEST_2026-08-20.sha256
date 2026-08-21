@@ -1,0 +1,14 @@
+# SymK 2.1.5 and DR-013 acceptance manifest — 20 August 2026
+# Algorithm: SHA-256
+# Scope: immutable acceptance record, exact accepted proposal, analytical Streams A–F, opening record, and opening evidence manifest
+# Excludes: this self-referential file and mutable registers/status surfaces
+c46ac2b7ab0a21ebd44c2f874f348303b0484952a96d04c53b6b2f7055fd827f  SymK 2.x Evolution history/2.1/2.1.5_ACCEPTANCE_RECORD_2026-08-20.md
+82badea4efd95955aed476fc8d593153d1b0f0953b3b419174eb41150ba95ee7  SymK 2.x Evolution history/2.1/2.1.5G_PROPOSED_DR-013_COOPERATION_AND_FORMATION.md
+a697be7febb9180a68f91f184c826fa3b47aa69c9dbb7f0302c28fced1609031  SymK 2.x Evolution history/2.1/2.1.5F_CONSOLIDATED_STRESS_TEST_AND_CONSEQUENCES.md
+51a802b5157c897aaee74170bc50586b14774f25275e6c3e9a3530790a6878c5  SymK 2.x Evolution history/2.1/2.1.5E_PERSISTENCE_RECIPROCAL_FORMATION_AND_SYSTEM_LEARNING.md
+10b8413da34a3237c16e616e671dd75b51cf297d83df9c979f288c3ceaf0e3ff  SymK 2.x Evolution history/2.1/2.1.5D_POWER_CONFLICT_COERCION_AND_CHALLENGE_SYSTEM.md
+68175769f895fdf6aa89333621fc5cba23c605f0d09d5999b7a903289bbb13eb  SymK 2.x Evolution history/2.1/2.1.5C_FORMATION_CONCEPT_SYSTEM.md
+8b53e0efb60f42fd0836ed57bad8804d354de1e077b1fe5a93e8a52a96fe102e  SymK 2.x Evolution history/2.1/2.1.5B_PARTICIPANT_CONTRIBUTION_AND_RELATIONAL_BEARER_MODEL.md
+fc38ae8faa8c24fe706636ff805de6ad349503891a58451118d34338f2437ffb  SymK 2.x Evolution history/2.1/2.1.5A_COOPERATION_AND_ADJACENT_RELATION_BOUNDARY_ANALYSIS.md
+ab54fb9b4c54b2b223c645bfe49f1dce200daf8744507ddf6652df78de7281c2  SymK 2.x Evolution history/2.1/2.1.5_OPENING_AND_EVIDENCE_CONTROL_2026-08-20.md
+44d7d135403c1e8c324331ebd5fca3494c01f8cc955e7f82c3385afc48a87cb2  SymK 2.x Evolution history/2.1/2.1.5_EVIDENCE_MANIFEST_2026-08-20.sha256

@@ -199,7 +199,7 @@ A numbered stage is complete only when its acceptance record covers:
 
 ### 2.1 — Foundational Conceptual System
 
-**Current state:** 2.1.1 through 2.1.5 are Stage-Accepted and M0 is accepted. Revised `SYMK-2X-DR-012` closes 2.1.4 for progression with a recursive epistemic lifecycle, typed epistemic/governance distinctions, an anti-reification boundary, and coordinated Human, Scientific, and Engineering views. Its complete accepted proposal and exact selected source lineage remain independently preserved. `SYMK-2X-DR-013` closes 2.1.5 for progression with Cooperation and Formation as foundational concepts and the relational, formative, Power/challenge, temporal, memory, and system-Learning system governed through supporting or narrower dispositions. Its exact accepted proposal, seven-stream lineage, dissent, reopening conditions, and non-effects are preserved in the 2.1.5 acceptance record and manifest. Responsibility remains for 2.1.6, which is ready but not substantively opened.
+**Current state:** 2.1.1 through 2.1.6 are Stage-Accepted and M0 is accepted. Revised `SYMK-2X-DR-012`, `SYMK-2X-DR-013`, and `SYMK-2X-DR-014` close 2.1.4, 2.1.5, and 2.1.6 for progression with their complete lineages preserved. Under `SYMK-2X-EV-117`–`126`, 2.1.6 establishes Responsibility as the sole new Foundational concept and the complete factual/agency/control, governance, Responsibility-phase, allocation/level, affected-subject/consent/challenge/response, external/Domain, and Engineering disposition system. The exact complete proposal and opening/Streams A–G lineage are fixed by the 2.1.6 acceptance record and checksum manifest. The universal conceptual components of DQ-005 and DQ-017 are Stage-Accepted, while all constitutional, substantive, Domain, project, grounding, procedural, package, formalization, and external-authority remainders continue. Sixty dissent questions and thirty reopening conditions remain active. No actual Responsibility or legitimate Authority is allocated; no complete ethical/legal rule, right/duty/standing/remedy grant, consent requirement, moral/legal status, bearer/gap conclusion, constitutional change, paper revision, package, formalism, implementation, or project change follows. Work package 2.1.7 is ready but remains unopened pending a separate project-steward instruction.
 
 #### 2.1.3 — Knowledge and Intelligence
 
@@ -581,17 +581,11 @@ Until their governing checkpoints, do not:
 
 ## 13. Immediate next work package
 
-The active next checkpoint is a **separate project-steward instruction to open 2.1.6 — Responsibility, Agency, and Authority**. DR-013 Stage-Acceptance through `SYMK-2X-EV-116` satisfies its predecessor dependency and supplies the accepted Participant, Contribution, Power, challenge, affected-party, Persistence, replacement, and succession interfaces.
+The next work package is **2.1.7 — Amplified Intelligence and Domain Intelligence Amplifiers**. DR-014 was Stage-Accepted through `SYMK-2X-EV-126`, so its dependency is satisfied; 2.1.7 is ready but remains unopened.
 
-Opening 2.1.6 must separately establish:
+A separate project-steward instruction is required to open 2.1.7. Its opening record must fix the inherited DR-009 through DR-014 obligations, authority-ranked evidence, overlap routing, required counterexamples, Human/Scientific/Engineering View obligations, stream sequence, and decision checkpoint before substantive work begins.
 
-1. its authority-ranked evidence boundary and integrity control;
-2. inherited DR-009 through DR-013 obligations and reopening interfaces;
-3. ownership boundaries among agency, causal Contribution, control, role, authority, authorization, consent, duty, responsibility, accountability, answerability, remedy, liability, legal personality, moral standing, representation, and affected-party standing;
-4. mandatory counterexamples, three-view obligations, constitutional and Foundation Paper consequences, and downstream routing; and
-5. its own analysis sequence and DR-014 proposal checkpoint.
-
-DR-013 acceptance does not accept the complete migration plan, A0–A4/J1, a responsibility or authority allocation, final DQ closure beyond its stated universal semantic components, a final package, paper revision, formalism, implementation, project change, or substantive 2.1.6 opening.
+DR-014 acceptance does not accept the complete migration plan, A0–A4/A6/J1, any actual legitimate-Authority or Responsibility allocation, a complete ethical/legal rule, affected-party legal standing, consent-validity rule, concrete right/duty/remedy, moral/legal status, final package, paper revision, formalism, implementation, or project change. It does not grant constitutional force, substantively open 2.1.7, or authorize a commit.
 
 ---
 
