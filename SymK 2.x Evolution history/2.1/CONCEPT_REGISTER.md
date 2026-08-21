@@ -1,6 +1,6 @@
 # SymK 2.1 Concept Register
 
-**Status:** Complete routed inventory; DR-009 through DR-014 Stage-Accepted for continuation of 2.1
+**Status:** Complete routed inventory; DR-009 through DR-015 Stage-Accepted for continuation of 2.1
 **Authority:** Evolution-control docket only
 
 ## Disposition classes
@@ -24,7 +24,7 @@
 | Relational | Cooperation, participant, participation, contributor, contribution, actor, resource, source, beneficiary, affected party, cooperative unit, shared undertaking, mutual orientation, coordination, communication, aggregation, compliance, consensus, competition, coercion, collusion, exchange, alliance, coexistence, Power, constraint, influence, authority, authorization, dependence, vulnerability, asymmetry, domination, manipulation, suppression, agenda control, exploitation, difference, disagreement, dissent, conflict, opposition, refusal, challenge, encounter, interaction, cooperative episode, repeated interaction, recurring pattern, continuing relation, Persistence, dormancy, suspension, breakdown, termination | 2.1.5 | Stage-Accepted through DR-013 — Cooperation foundational; the required participant/contribution, adjacent-relation, Power/challenge, and temporal semantics governed as supporting roles, distinctions, or relationship families; responsibility-bearing content remains for 2.1.6 |
 | Formative | developmental change, Formation, formative condition/environment/activity/effect, Learning, Learner, Instruction, Training, Education, socialization, adaptation, conditioning, habit/disposition, reflection, feedback, uptake, correction, repair, recovery, resilience, adaptability, decay, loss, drift, deskilling, unlearning, integration, assimilation, hidden curriculum, formative power, reciprocal formation, system Learning, trace, retention, retrieval, current context, procedural retention, institutional memory, distributed memory, developmental history, version, succession, fork, merge, reconstitution | 2.1.5 | Stage-Accepted through DR-013 — Formation foundational; the formative, Learner, memory, system-Learning, change, and succession semantics governed as supporting roles, distinctions, attributions, or relationship families; operational realization remains later |
 | Responsibility | condition, event, output, behavior, execution, action, omission, causal Contribution, agency, agent, control, influence, autonomy, role, authority, authorization, mandate, permission, decision, delegation, supervision, prospective responsibility, duty, obligation, retrospective responsibility, answerability, accountability, blame, culpability, sanction, punishment, liability, legal personality, remedy, repair, correction, responsibility allocation, shared responsibility, joint responsibility, collective responsibility, institutional responsibility, distributed responsibility, hybrid responsibility, retained responsibility, responsibility gap, moral standing, affected subject/party/interest, standing, consent, notice, understanding, voluntariness, practical refusal, representation, challenge, review, appeal, prevention, containment, redress, residual harm, emergency, duty conflict, ethical compatibility | 2.1.6 | Stage-Accepted through `SYMK-2X-DR-014` / `SYMK-2X-EV-126` — Responsibility is the sole new Foundational concept; remaining candidates are individually governed as supporting, external/Domain, or Engineering material under the accepted boundaries; no actual allocation, complete ethical/legal rule, right/duty/standing/remedy grant, consent requirement, moral/legal status, or object-specific gap conclusion is created |
-| Amplification | Amplification, augmentation, automation, substitution, Amplified Intelligence, Domain Intelligence Amplifier | 2.1.7 | Unclassified |
+| Amplification | Amplification, augmentation, automation, substitution, replacement, Amplified Intelligence, Domain Intelligence Amplifier, integration mechanism, dependency, fragility, lock-in, responsible amplification, professional transformation, retained capability, deskilling, displacement, capability continuity | 2.1.7 | Stage-Accepted through DR-015 and `SYMK-2X-EV-136`: Amplification and DIA Foundational relationship and specific System class; Amplified Intelligence governed compound; every other family individually routed; no actual attribution/classification, Responsibility allocation, policy, package, or implementation follows |
 | Operational value chain | Complex question, inquiry, reasoning, inference, judgment, answer, recommendation, action, domain outcome, feedback, better, faster, lower total cost | 2.1.8 | Unclassified |
 
 ## 2.1.6 Stream A analytical directions — no dispositions
@@ -155,6 +155,170 @@ All entries in this section are analytical candidates. The Stream E re-test does
 | Role catalogues, responsibility matrices, scores, workflows, permissions, logs, audits, consent fields, complaint/remedy systems | Engineering Representations and Projections | Must declare purpose, source, Scope, method, authority, uncertainty, omitted dimensions, status, and Evidence route |
 
 These directions pass the full Stream F consolidated gate and are sufficient for a separately instructed complete Proposed DR-014. They are not accepted dispositions. Stream F does not answer DQ-005 or DQ-017 authoritatively, allocate any actual Responsibility, establish an ethical or legal rule, grant standing or another right, require consent, settle moral/legal status or a gap, or create DR-014 proposal content or status.
+
+## 2.1.7 Stream A analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-129` | Unresolved destination |
+|---|---|---|
+| Amplification | Comparative, scoped, temporal, and evidenced relationship candidate connecting an identified intervention or arrangement to an increase in an identified subject's relevant effective capability relative to a materially comparable baseline | Re-test Bearer, profile, DIA-class, integration, lifecycle, Responsibility, and professional consequences through Streams B–F before DR-015 |
+| Amplifier | Candidate intervention/resource/relation/arrangement role in a causal amplification claim, not a substance, status, product label, or automatic system class | Exact relation to DIA and whether one component or organized whole may occupy the role remain for Streams B–D |
+| Amplified subject / Bearer | Required identified subject and level whose capability is claimed to increase; no gain transfer across component, participant, team, institution, configured system, profession, or successor | Stream B owns the substantive Bearer, Identity-continuity, integration, and attribution analysis |
+| Amplified Intelligence | Candidate target capability-change qualification, not a new substance, output, score, artifact, AI presence, value judgment, or Authority status | Final meaning and disposition depend on Stream B profile analysis and Streams C–F |
+| Domain Intelligence Amplifier | Candidate system-class destination, not established by tool use, amplification alone, AI presence, automation, architecture, product label, or successful output | Stream C owns minimum and non-conditions; DQ-011/DQ-016 and grounding remain open |
+| Assistance / enablement | Support and possibility families that may contribute to, expose, or coexist with amplification without establishing it | Exact boundary with accessibility, previously impossible action, and concurrent capability remains open |
+| Augmentation | Added resource, function, reach, or available-capacity family that may or may not become integrated capability increase | Stream B integration and Bearer tests; Engineering realization later |
+| Acceleration / scaling / optimization | Time, volume/reach, and selected-criterion performance-change families | Domain target profiles, trade-offs, thresholds, and measures remain external/derived/Engineering matters |
+| Automation | Transferred or mechanized execution family distinct from capability increase, agency, Authorization, Responsibility, lower total cost, and value | Streams D–E and 2.1.8 own lifecycle, labor, cost, responsibility, and professional consequences |
+| Substitution | Replacement of one contribution, activity, function, role occupancy, or pathway by another without automatic capability transfer | Streams D–E own dependency, displacement, retained capability, and future-expert consequences |
+| Replacement / succession | Temporal component, participant, role, or system change requiring Identity, version, continuity, baseline, and reattribution controls | Streams B, D, and E own Bearer continuity, lifecycle, responsibility, and professional effects |
+| Concurrent / retained / configured-system-level / developmental gain | Candidate temporal and level qualifications preventing dependence or lack of unaided retention from deciding every amplification claim | Stream B must determine which subject may bear each qualification; Streams D–E govern lifecycle and formation consequences |
+| Baseline / comparator / target capability profile | Required claim structure preserving materially comparable subject, resources, assistance, Domain, Scope, Context, time, variation, dimensions, gains, losses, and alternatives | Scientific, Domain, professional, project, and external authorities own actual constructs and thresholds; Stream B owns semantic minimum |
+| Capability profiles, scores, benchmarks, dashboards, system cards, dependency maps, removal tests | Engineering Representations, Projections, and evidence instruments only | Must declare purpose, method, authority, uncertainty, omissions, trade-offs, boundary, time, status, and Evidence route |
+
+All entries in this section are analytical candidates. They create no disposition, accepted Amplification or DIA definition, amplified-Bearer attribution, metric, threshold, deferred-question answer, Foundation Paper revision, professional policy, or Proposed DR-015 content/status.
+
+## 2.1.7 Stream B analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-130` | Unresolved destination |
+|---|---|---|
+| Amplification | Provisionally passes all six DR-009 eligibility tests for Foundational consideration | Streams C–F and Proposed DR-015 must confirm or defeat the direction |
+| Amplified Intelligence | Governed compound capability-change attribution or qualification applying Amplification to Intelligence, not a new substance or automatically independent foundation | Exact disposition and whether a distinct concept record is needed remain for Streams F–G |
+| Amplified Bearer | Governed scoped attribution role occupied by the subject of one qualified claim | Package anatomy later; no actual subject is classified |
+| Amplifier | Intervention/resource/relation/arrangement role in the amplification explanation, distinct from amplified Bearer | Relation to DIA and system membership remains for Streams C–D |
+| Lowest adequate organized level | Working attribution rule: select the lowest subject level that explains the capability without omitting constitutive integration | Re-test against DIA boundary, lifecycle, responsibility, professional consequences, and grounding |
+| Multiple separately evidenced attributions | Individual, component, team, institution, configured-system, distributed, hybrid, role/service, profession, and successor claims may coexist when independently scoped and evidenced | No universal precedence among levels; conflict/status handling remains later |
+| Support-conditioned individual capability | Individual-level qualification requiring declared support, integration, availability, dependency, and removal conditions | Exact minimum integration and accessibility-sensitive treatment remain open |
+| Unaided retained capability | Temporal/resource qualification distinct from concurrent support-conditioned capability | Stream D/E lifecycle, resilience, and professional treatment; thresholds later |
+| Externally produced performance | Performance/use/reliance condition that does not establish the visible individual's relevant Intelligence capability | Stream D responsibility/control and 2.1.8 answer/action treatment |
+| Configured-system Bearer candidate | Stable organized configuration whose capability depends on constitutive integration and is not adequately assigned to one component | Stream C system class and Stream D integration/dependency tests |
+| Relation, team, institution, distributed, and hybrid patterns | Level-qualified Bearer candidates requiring their own Identity, boundary, organization, integration, continuity, variation, and Evidence | No pattern is admitted universally; project grounding remains later |
+| Role, service, profession, and successor | No abstract-Bearer shortcut; require an identified organized subject and Identity/lineage discipline | Stream D lifecycle and Stream E professional analysis |
+| Actual configuration / attributed profile / Projection | Actual capability organization, fallible multidimensional claim, and reductive representation remain distinct | Final package, status, profile, and formalization work later |
+| Dimension-, specialization-, and configuration-level amplification | Increasingly demanding scoped claim ladder; a lower level does not establish a higher one | Domain specializations, target profiles, and evidence methods remain downstream |
+| Gain / loss / unchanged / unknown / new or lost integration | Required non-scalar profile-change distinctions | Materiality, target authority, aggregation, and operational representation remain open |
+| Supported / mixed / indeterminate / contradicted / expired / superseded | Possible human-semantic assessment qualifications only | Stream F/G and 2.5 status-system decision; no vocabulary accepted |
+| Target capability profile | Purpose- and often value-bearing comparison structure requiring declared source, authority, jurisdiction, affected-subject relation, challenge, and intended use | Domain/scientific/professional/project or external-authority content remains downstream |
+| Bearer/profile scores, matrices, dashboards, system cards, boundary and dependency graphs | Engineering Representations, Projections, and evidence instruments only | Must preserve actual/claim/status distinction, uncertainty, omissions, time, loss, and lineage |
+
+All entries in this section are analytical candidates. They create no disposition, accepted Amplification or Amplified Intelligence definition, actual Bearer attribution, target profile, status vocabulary, DQ answer, DIA system class, Foundation Paper revision, professional policy, or Proposed DR-015 content/status.
+
+## 2.1.7 Stream C analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-131` | Unresolved destination |
+|---|---|---|
+| Domain Intelligence Amplifier | Candidate Foundational specific System class; provisionally passes all six DR-009 tests | Streams D–F and Proposed DR-015 must confirm, revise, or defeat the direction |
+| DIA constitutive minimum | Identified organized System; Domain purpose/complex-question class; plural qualified Intelligence participants; actual Cooperation; governed Domain Knowledge; explicit amplified-Bearer/profile target; evidenced repeatable Amplification capability | Mechanism, lifecycle, Responsibility, professional, and consolidated tests remain |
+| Amplification | Candidate Foundational relationship retained with provisional six-test pass | Streams D–F and Proposed DR-015 |
+| Amplified Intelligence | Governed compound capability-change attribution retained | Exact record/disposition remains for Streams F–G |
+| DIA system / Amplifier / amplified Bearer / Intelligence-bearing system | Required non-substitutable roles; one subject may occupy several only with independent Evidence | Stream D interfaces and package anatomy later |
+| System class / candidate system / actual membership / operational episode / class claim-assessment / governance status-record | Required semantic and governance levels | Stream F/G and 2.5 status/package decision |
+| Domain purpose | Project-governed purpose attached to the universal class minimum | Derived-project specialization, constitutional review, and grounding |
+| Complex-question class | Required orientation beyond one direct lookup/output; exact criteria remain Domain-owned and 2.1.8-bound | 2.1.8 and 2.6–2.7 |
+| Participant-Intelligence condition | At least two distinguishable subjects independently satisfying DR-011 at their own levels | Re-test plural requirement in Streams D–F and grounding |
+| Cooperation condition | Actual DR-013 process among participant Intelligences; connection/workflow/coordination insufficient | Stream D Power/lifecycle and project Evidence |
+| Governed Domain Knowledge condition | Required epistemic medium through lifecycle-governed claims, grounds, methods, assets, Representations, challenge, consequence, and revision—not stored Knowledge substance | Stream D mechanisms and 2.5–2.9 realization |
+| System-capability proposition / amplification proposition | Distinct evidence requirements for actual membership | Stream F consolidation and 2.7 validation |
+| Artificial Intelligence | Optional participant/component/resource/tool/amplifier/Bearer/assessor; neither sufficient nor universally necessary | DQ-016 proposal/decision and project composition later |
+| Human/professional participation | Central common pattern but not universal class condition | Stream E and Domain/professional governance |
+| Architecture/product/project/platform/workflow/tool/label/certificate | Realization, container, resource, adjacent artifact, claim, status, Representation, or Projection—not a class definition | Engineering/project/external authority |
+| Responsible DIA / SymK-compatible DIA | Possible separate qualification; not a synonym for descriptive system capability or actual membership | Stream D, 2.2–2.3, and 2.5–2.7 |
+| Candidate/degraded/suspended/historical/expired/superseded membership | Possible analytical lifecycle/status distinctions only | Stream D/F/G and 2.5; no vocabulary accepted |
+
+All entries in this section are analytical candidates. They create no disposition, accepted DIA/Amplification/Amplified Intelligence definition, actual class or Bearer attribution, project AI rule, status vocabulary, DQ answer, responsible/SymK-compatible qualification, Foundation Paper revision, or Proposed DR-015 content/status.
+
+## 2.1.7 Stream D analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-132` | Unresolved destination |
+|---|---|---|
+| Integration mechanism | Open family of processes, relations, interfaces, role arrangements, or facilities through which material DIA conditions may be organized; no named mechanism is universal | Stream F and 2.5–2.7 realization/validation |
+| Condition / mechanism / operation / effect / Evidence | Required non-substitutable analytical layers | Package and evidence implementation later |
+| Mechanism families | Coordination, mediation, Representation/Projection, access/retrieval, interpretation/translation, reasoning support, orchestration/allocation, validation/challenge, decision/Authorization, execution/automation, feedback/correction, memory/persistence, Learning/adaptation, supervision/oversight, infrastructure/access, and social/institutional organization are open candidates | None is universally necessary or sufficient by label |
+| Integration | Context-, purpose-, and level-qualified organization relation preserving distinguishable subjects, Contributions, dependencies, conflicts, and predicates | Exact disposition, representation, and thresholds remain for Stream F and later stages |
+| Material integration dimensions | Purpose/task, epistemic, semantic/representational, capability, cooperative/relational, operational, temporal/lifecycle, governance/responsibility, and infrastructure/dependency diagnostics | Materiality and evidence are Domain-owned and 2.7-bound |
+| Mechanism bundle | Versioned actual arrangement supporting material class conditions | Project architecture and validation later |
+| Dependency | Scoped relation in which capability, operation, claim, status, response, or lifecycle materially relies on another subject, component, resource, condition, authority, environment, or relation | Stream E and 2.5–2.8 |
+| Constitutive/enabling/operational/epistemic/governance/economic/formative/infrastructural dependency | Typed analytical families without automatic membership consequence | Package, Domain, scientific, professional, and external treatment later |
+| External provider boundary | Provider/source can be indispensable without automatic DIA membership, Participation, Bearer status, sole Amplifier status, or sole Responsibility | Stream E and project/provider governance later |
+| Fragility and lock-in | Dependency-, Power-, cost-, outage-, alternative-, and succession-sensitive qualifications; not automatic class disqualifiers | Stream E, 2.1.8, and Domain governance |
+| Provider/deployer/operator/user/participant/amplified Bearer/DIA/beneficiary/affected subject/authority/responsible subject | Required non-substitutable roles | Package and actual allocation later |
+| Responsible amplification | Actual Amplification plus independent scoped DR-014 Responsibility-compatibility assessment; not a capability dimension | Stream F, 2.2–2.3, and 2.5–2.7 |
+| SymK-compatible DIA | Possible broader governance qualification distinct from class membership and Authorization | Stream F and 2.2–2.5; no status accepted |
+| Lifecycle phases | Purpose, design/sourcing, procurement, integration, validation, Authorization/deployment, operation, monitoring/challenge, response/repair, update, suspension/retirement, and succession | Domain workflows remain later |
+| Material-change revalidation | Independently reassess Identity, seven DIA conditions, Bearer/baseline, capability, dependencies, authority, Responsibility, Authorization, and qualification | Stream F, 2.5, and operational governance |
+| Outage/degradation/fallback | Separate operation, membership, retained capability, historical status, Authorization, responsibility, and affected-consequence results | Status anatomy and project procedures later |
+| Replacement/retirement/succession | Predecessor/successor Identity, capability, record, authority, responsibility, challenge, remedy, and history remain explicit; no automatic inheritance | Stream E and later governance |
+| Genuine/manufactured/representational/governance/jurisdictional/coverage gap | Typed gap diagnosis; complexity, contract, automation, or record does not establish or cure a gap | 2.2–2.3 and external authority |
+| Candidate/active/degraded/suspended/expired/superseded/retired/historical and qualification/Authorization statuses | Possible independent analytical lifecycle/status distinctions | Stream F/G and 2.5; no vocabulary accepted |
+
+All entries in this section are analytical candidates. They create no concept disposition, universal mechanism, accepted Integration/dependency/responsible-amplification definition, actual system/dependency/provider/affected/responsible-subject classification, Responsibility allocation, status vocabulary, DQ answer, professional policy, Foundation Paper revision, or Proposed DR-015 content/status.
+
+## 2.1.7 Stream E analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-133` | Unresolved destination |
+|---|---|---|
+| Professional amplification | Ordinary Amplification claim applied to an identified practitioner/team/institution/configured-system or other organized Bearer | Stream F and Proposed DR-015 |
+| Professional/practitioner | Scoped practice/role qualification, not a new Foundational concept or automatic Bearer selector | Domain/professional/external authority |
+| Practitioner/role/task/team/institution/configured system/service/profession/output/beneficiary/affected/future entrant | Required non-substitutable levels and objects | Package, project, and external realization |
+| Profession/professional community | Population, field, distribution, or organized-Bearer candidate only with explicit Identity/boundary/organization Evidence | Scientific/professional/project authority |
+| Service output / service performance / service capacity / professional capability / access / value | Required non-substitutable claims | 2.1.8 and 2.6–2.7 |
+| Professional transformation | Supporting multi-level, non-scalar, value-neutral change-profile candidate | Stream F, 2.1.8, and project governance |
+| Task/function | Bounded work distinction, not a Bearer or complete role | Domain professional task models |
+| Automation / substitution / replacement | Mechanism and object-/function-specific relations; no automatic Amplification or professional replacement | Stream F and later packages |
+| Task/role/employment/capability/formation/geographic-institutional displacement | Distinct change and consequence relations requiring separate causation and Evidence | Professional/economic/legal/project authority |
+| Role recomposition | Changed function, discretion, Authority, dependency, and responsibility configuration | Domain governance |
+| Professional capability profile | Open Domain-owned dimensions across framing, judgment, evidence, challenge, intervention, relationship, supervision, recovery, Learning, and formation | 2.6–2.7 |
+| Retained capability | Same-Bearer temporal/support-change qualification; not universally necessary for Amplification | Stream F and 2.5–2.7 |
+| Execution/framing/evaluative/challenge/intervention/fallback/recovery/Learning/formation capability | Required non-substitutable qualifications where material | Domain evidence and responsibility |
+| Deskilling | Bearer-level capability reduction or nondevelopment candidate; not inferred from task removal, lower frequency, or head count | Stream F and professional grounding |
+| Reskilling/upskilling/new specialization | Program labels unless actual capability gain is evidenced; do not net losses automatically | Domain projects |
+| Tacit/practical Knowledge | Scoped representational-adequacy and competence claim; no Human-exclusivity, ineffability, correctness, or impossibility entailment | DR-012 package and Domain evidence |
+| Concentration | Capability/Knowledge/provider/Authority/evidence/formation/response Power and dependency qualification; not automatic disqualifier | 2.1.8 and project/external governance |
+| Capability-renewal pipeline | Diagnostic Formation/succession map; not a universal sequence or curriculum | Project/professional/education authority |
+| Capability-continuity path | Plural maintenance/renewal/replenishment/substitution/recovery/succession paths or explicit gap where responsible/evolvable operation materially depends on vulnerable capability | Stream F, 2.2–2.3, and 2.5–2.7 |
+| Future expert | Prospective trajectory/population, not a present Bearer, guaranteed role, or universal internal requirement | Professional/education/labor/policy authority |
+| Responsible/evolvable persistent DIA | Possible conditional capability-continuity qualification; Education remains non-universal | Stream F and 2.2–2.5 |
+
+All entries in this section are analytical candidates. They create no concept disposition, accepted professional-transformation/retained-capability/deskilling/displacement/tacit-Knowledge/capability-continuity definition, actual capability or work attribution, Responsibility allocation, status, labor/professional/education policy, authoritative DQ answer, Foundation Paper revision, or Proposed DR-015 content/status.
+
+## 2.1.7 Stream F consolidated analytical directions — no dispositions
+
+| Candidate or cluster | Consolidated direction through `SYMK-2X-EV-134` | Authority boundary |
+|---|---|---|
+| Amplification | Candidate Foundational comparative, scoped, temporal, evidenced relationship over an identified Bearer's effective capability | Passes all six DR-009 tests; no disposition until DR-015 acceptance |
+| Domain Intelligence Amplifier | Candidate Foundational specific organized-System class with seven conditions | Passes all six DR-009 tests; no class disposition or actual membership accepted |
+| Amplified Intelligence | Governed compound attribution: Intelligence of an identified Bearer qualified through valid Amplification | Not a substance, transferable property, output label, DIA synonym, or automatically independent foundation |
+| Amplification claim envelope / baseline / gain-loss / relevant variation / support and retention | Governed supporting comparative, attribution, and qualification distinctions | Exact dimensions, thresholds, metrics, target profiles, and methods remain Domain/scientific/project-owned |
+| Lowest adequate organized level / multiple claims / no-transfer / stable boundary / revalidation | Governed supporting Bearer, Attribution, Identity, and lifecycle rules | No actual Bearer or successor claim accepted |
+| DIA/Amplifier/amplified Bearer/participant/resource/provider/beneficiary/affected subject | Governed non-substitutable roles | Role does not create capability, Authority, Responsibility, value, or membership |
+| Candidate instance/membership/episode/claim/assessment/status/record | Governed supporting semantic and governance levels | Package/status vocabulary remains 2.5 |
+| Integration/dependency/provider/fragility/lock-in/lifecycle/outage/replacement/succession | Governed supporting relationship and qualification families | No universal mechanism, boundary, provider rule, fallback, or status vocabulary accepted |
+| Responsible amplification / possible SymK-compatible DIA | Governed qualification system applying DR-014 and later constitutional force | Not descriptive synonyms or complete ethical/legal adequacy |
+| Professional transformation/substitution/replacement/displacement/deskilling/retention/capability continuity | Governed supporting and diagnostic distinctions with Domain/external specialization | No labor, professional, education, credential, or continuity policy accepted |
+| Domain capabilities/questions/professions/tasks/curricula/duties/remedies/policy | Derived-project, constitutional, Domain, professional, scientific, legal, organizational, or external specialization | Must preserve the universal minimum and return challenge evidence |
+| Profiles/graphs/scores/system cards/audits/certificates/workflows/architectures | Engineering Representations or Projections | No artifact creates its represented predicate |
+| Universal AI requirement; output-, automation-, label-, architecture-, or certification-only membership | Excluded interpretations | Artificial Intelligence remains optional and non-sufficient |
+
+These directions pass the consolidated analytical gate and may be placed into a complete Proposed DR-015 only after a separate Stream G instruction. They are not accepted dispositions, do not answer a DQ authoritatively, classify an actual subject or System, revise a Foundation Paper, allocate Responsibility, establish policy, or create DR-015 content/status.
+
+## Stage-Accepted 2.1.7 dispositions — DR-015
+
+| Candidate or cluster | Accepted DR-015 disposition | Authority boundary |
+|---|---|---|
+| Amplification | Foundational comparative, scoped, temporal, evidenced relationship over an identified Bearer's effective capability | Stage-Accepted; final package and identifier remain 2.5 |
+| Domain Intelligence Amplifier | Foundational seven-condition specific organized-System class | Stage-Accepted; no actual System membership follows |
+| Amplified Intelligence | Governed supporting compound attribution or qualification | Intelligence of the same identified Bearer qualified by valid Amplification; not independent substance |
+| Baseline/comparator/counterfactual, profile, variation, gain/loss/unknown, support/retention | Governed supporting comparison, attribution, and qualification distinctions | Exact dimensions, profiles, thresholds, metrics, and methods specialized later |
+| Lowest adequate organized level, multiple claims, no-transfer, stable boundary, revalidation | Governed supporting Bearer, Attribution, Identity, and lifecycle rules | No actual Bearer or successor claim accepted |
+| DIA/Amplifier/amplified Bearer/Participant/resource/provider/user/beneficiary/affected subject | Governed non-substitutable roles | Role creates no capability, Authority, Responsibility, value, or membership |
+| Concept/candidate/membership/episode/claim/assessment/status/record | Governed supporting semantic and governance levels | Package/status vocabulary remains 2.5 |
+| Integration/dependency/provider/fragility/lock-in/lifecycle/outage/replacement/succession | Governed supporting relationship and qualification families | No universal mechanism, boundary, provider, fallback, or status vocabulary |
+| Responsible amplification / SymK-compatible DIA | Governed qualification system applying DR-014 and later constitutional force | Not descriptive synonyms or complete ethical/legal adequacy |
+| Professional transformation/substitution/replacement/displacement/deskilling/retention/capability continuity | Governed supporting and diagnostic distinctions with Domain/external specialization | No labor, professional, education, credential, or continuity policy |
+| Domain capabilities/questions/professions/tasks/curricula/duties/remedies/policy | Derived-project, constitutional, Domain, professional, scientific, legal, organizational, or external specialization | Preserve universal minimum and return challenge Evidence |
+| Profiles/graphs/scores/system cards/audits/certificates/workflows/architectures | Engineering Representations or Projections | No artifact creates its represented predicate |
+| Universal AI requirement; output-, automation-, label-, architecture-, or certification-only membership | Excluded interpretations | AI remains optional and non-sufficient |
+
+Every row is Stage-Accepted through `SYMK-2X-EV-136` and the separate acceptance record, with the exact DR-015 boundaries governing over this compact summary. No actual attribution, classification, allocation, policy, package, Foundation Paper revision, implementation, or later-stage opening follows from acceptance.
 
 ## Stage-Accepted 2.1.6 dispositions — DR-014
 

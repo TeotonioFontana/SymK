@@ -1,10 +1,10 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — 2.1.1 through 2.1.6 Stage-Accepted; 2.1.7 ready but unopened
+**Stage status:** Active — 2.1.1 through 2.1.7 Stage-Accepted; 2.1.8 ready but unopened
 **Target version:** `2.1`  
-**Current version:** `2.1-dev.43`
+**Current version:** `2.1-dev.52`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
-**Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009`–`014`; no axiom, Foundation Paper conclusion, final concept package, formalism, actual allocation, or representation is Ratified
+**Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009`–`015`; no axiom, Foundation Paper conclusion, final concept package, formalism, actual attribution or allocation, or representation is Ratified
 
 ## Central question
 
@@ -36,7 +36,7 @@ A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constit
     - `2.1.11.1_Cross_Document_Consistency_Audit.md`
     - `2.1.11.2_Final_Stage_Acceptance.md`
 
-2.1.1 through 2.1.6 are complete for progression and DR-009 through DR-014 are Stage-Accepted. Revised DR-012 establishes Knowledge Engineering, Epistemic Condition, the recursive lifecycle, typed epistemic/governance distinctions, the anti-reification boundary, and Human/Scientific/Engineering views with cross-view capabilities and triangular alignment. The complete accepted 2.1.4 source and decision lineage is preserved independently of conversation recovery. Under `SYMK-2X-EV-107`–`116`, 2.1.5 establishes Cooperation and Formation as foundational concepts and its supporting system. Under `SYMK-2X-EV-117`–`126`, 2.1.6 establishes Responsibility as the sole new Foundational concept and governs the complete factual/agency/control, governance, Responsibility-phase, allocation/level, affected-subject/consent/challenge/response, external/Domain, and Engineering disposition system. The exact DR-014 proposal and opening/Streams A–G lineage are preserved by the acceptance record and checksum manifest. The universal conceptual components of DQ-005 and DQ-017 are Stage-Accepted while constitutional, substantive, Domain, project, grounding, procedural, package, formalization, and external-authority remainders remain active. All sixty dissent questions, thirty reopening conditions, non-effects, and downstream ownership boundaries continue. No actual allocation, complete ethical/legal rule, right/duty/standing/remedy grant, consent requirement, moral/legal status, object-specific gap conclusion, constitutional or Foundation Paper change, final package, formalism, implementation, or derived-project change follows. Work package 2.1.7 is ready but unopened. Final package anatomy remains 2.5; formalism remains 2.9.
+2.1.1 through 2.1.7 are complete for progression and DR-009 through DR-015 are Stage-Accepted. Revised DR-012 establishes Knowledge Engineering, Epistemic Condition, the recursive lifecycle, typed epistemic/governance distinctions, the anti-reification boundary, and Human/Scientific/Engineering Views. Under `SYMK-2X-EV-107`–`126`, 2.1.5 and 2.1.6 establish Cooperation, Formation, and Responsibility with their supporting systems. Under `SYMK-2X-EV-127`–`135`, 2.1.7 Streams A–G establish the comparative Amplification relation, level-qualified Bearer/profile model, seven-condition DIA class, integration/dependency/Power/Responsibility/lifecycle boundaries, professional-transformation/retained-capability/formation system, and complete DR-015 disposition map. Project-steward acceptance `SYMK-2X-EV-136` makes Amplification and DIA Foundational, Amplified Intelligence a governed compound attribution, and the universal conceptual components of DQ-011/DQ-012/DQ-013/DQ-016/DQ-019 authoritative for continuation. The acceptance record and manifest preserve the exact 808-line proposal and full lineage. All sixty dissent questions, thirty reopening conditions, cases, prohibited entailments, and non-effects remain active. No actual attribution/classification, Responsibility allocation, project AI rule, professional policy, constitutional or paper revision, package, formalism, implementation, or substantive 2.1.8 opening follows. Final package anatomy remains 2.5; formalism remains 2.9.
 
 ## Concept disposition classes
 
@@ -136,9 +136,9 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 
 Program identifiers continue from 2.0:
 
-- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-014` Stage-Accepted; next unreserved decision: `SYMK-2X-DR-015`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-126`; next available evidence: `SYMK-2X-EV-127`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-083`; next available change: `SYMK-2X-CH-084`;
+- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-015` Stage-Accepted; next unreserved decision: `SYMK-2X-DR-016`;
+- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-136`; next available evidence: `SYMK-2X-EV-137`;
+- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-092`; next available change: `SYMK-2X-CH-093`;
 - next new tension: `SYMK-2X-TN-031`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 
