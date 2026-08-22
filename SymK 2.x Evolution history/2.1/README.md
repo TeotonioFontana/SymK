@@ -1,8 +1,8 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — 2.1.1 through 2.1.7 Stage-Accepted; 2.1.8 ready but unopened
+**Stage status:** Active — 2.1.1 through 2.1.7 Stage-Accepted; 2.1.8 Streams A–G complete; DR-016 Proposed
 **Target version:** `2.1`  
-**Current version:** `2.1-dev.52`
+**Current version:** `2.1-dev.60`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
 **Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009`–`015`; no axiom, Foundation Paper conclusion, final concept package, formalism, actual attribution or allocation, or representation is Ratified
 
@@ -36,7 +36,7 @@ A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constit
     - `2.1.11.1_Cross_Document_Consistency_Audit.md`
     - `2.1.11.2_Final_Stage_Acceptance.md`
 
-2.1.1 through 2.1.7 are complete for progression and DR-009 through DR-015 are Stage-Accepted. Revised DR-012 establishes Knowledge Engineering, Epistemic Condition, the recursive lifecycle, typed epistemic/governance distinctions, the anti-reification boundary, and Human/Scientific/Engineering Views. Under `SYMK-2X-EV-107`–`126`, 2.1.5 and 2.1.6 establish Cooperation, Formation, and Responsibility with their supporting systems. Under `SYMK-2X-EV-127`–`135`, 2.1.7 Streams A–G establish the comparative Amplification relation, level-qualified Bearer/profile model, seven-condition DIA class, integration/dependency/Power/Responsibility/lifecycle boundaries, professional-transformation/retained-capability/formation system, and complete DR-015 disposition map. Project-steward acceptance `SYMK-2X-EV-136` makes Amplification and DIA Foundational, Amplified Intelligence a governed compound attribution, and the universal conceptual components of DQ-011/DQ-012/DQ-013/DQ-016/DQ-019 authoritative for continuation. The acceptance record and manifest preserve the exact 808-line proposal and full lineage. All sixty dissent questions, thirty reopening conditions, cases, prohibited entailments, and non-effects remain active. No actual attribution/classification, Responsibility allocation, project AI rule, professional policy, constitutional or paper revision, package, formalism, implementation, or substantive 2.1.8 opening follows. Final package anatomy remains 2.5; formalism remains 2.9.
+2.1.1 through 2.1.7 are complete for progression and DR-009 through DR-015 are Stage-Accepted. Under `SYMK-2X-EV-137`–`138`, 2.1.8 is formally open with its inherited constraints, authority-ranked sources, seven Streams A–G, twenty-four mandatory counterexamples, three-view obligations, overlap routes, and non-effects fixed. Streams A–F evidence `SYMK-2X-EV-139`–`144` establishes and consolidates the complete Question/Reasoning/Answer/quality/time/cost/Value/outcome/consequence/feedback/correction/Learning system. Stream G evidence `SYMK-2X-EV-145` creates the complete 978-line Proposed DR-016: Question, Reasoning, Answer, and Value are proposed Foundational concepts; Complex Question is a proposed supporting relational qualification; profiles and adjacent families are individually routed; DR-013 dispositions are retained; and the proposal incorporates nine planes, sixty envelope fields, 180 prohibited entailments, eighteen alternatives, twenty-four mandatory cases, twenty negative controls, 60 dissent questions, thirty reopening conditions, and the proposed universal DQ-014 conceptual answer. DR-016 awaits project-steward review and has no normative authority. Final package anatomy remains 2.5; formalism remains 2.9.
 
 ## Concept disposition classes
 
@@ -136,9 +136,9 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 
 Program identifiers continue from 2.0:
 
-- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-015` Stage-Accepted; next unreserved decision: `SYMK-2X-DR-016`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-136`; next available evidence: `SYMK-2X-EV-137`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-092`; next available change: `SYMK-2X-CH-093`;
+- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-015` Stage-Accepted; `SYMK-2X-DR-016` Proposed awaiting project-steward review; next unreserved decision: `SYMK-2X-DR-017`;
+- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-145`; next available evidence: `SYMK-2X-EV-146`;
+- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-100`; next available change: `SYMK-2X-CH-101`;
 - next new tension: `SYMK-2X-TN-031`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 

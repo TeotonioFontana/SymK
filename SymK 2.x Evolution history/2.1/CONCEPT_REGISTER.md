@@ -25,7 +25,178 @@
 | Formative | developmental change, Formation, formative condition/environment/activity/effect, Learning, Learner, Instruction, Training, Education, socialization, adaptation, conditioning, habit/disposition, reflection, feedback, uptake, correction, repair, recovery, resilience, adaptability, decay, loss, drift, deskilling, unlearning, integration, assimilation, hidden curriculum, formative power, reciprocal formation, system Learning, trace, retention, retrieval, current context, procedural retention, institutional memory, distributed memory, developmental history, version, succession, fork, merge, reconstitution | 2.1.5 | Stage-Accepted through DR-013 — Formation foundational; the formative, Learner, memory, system-Learning, change, and succession semantics governed as supporting roles, distinctions, attributions, or relationship families; operational realization remains later |
 | Responsibility | condition, event, output, behavior, execution, action, omission, causal Contribution, agency, agent, control, influence, autonomy, role, authority, authorization, mandate, permission, decision, delegation, supervision, prospective responsibility, duty, obligation, retrospective responsibility, answerability, accountability, blame, culpability, sanction, punishment, liability, legal personality, remedy, repair, correction, responsibility allocation, shared responsibility, joint responsibility, collective responsibility, institutional responsibility, distributed responsibility, hybrid responsibility, retained responsibility, responsibility gap, moral standing, affected subject/party/interest, standing, consent, notice, understanding, voluntariness, practical refusal, representation, challenge, review, appeal, prevention, containment, redress, residual harm, emergency, duty conflict, ethical compatibility | 2.1.6 | Stage-Accepted through `SYMK-2X-DR-014` / `SYMK-2X-EV-126` — Responsibility is the sole new Foundational concept; remaining candidates are individually governed as supporting, external/Domain, or Engineering material under the accepted boundaries; no actual allocation, complete ethical/legal rule, right/duty/standing/remedy grant, consent requirement, moral/legal status, or object-specific gap conclusion is created |
 | Amplification | Amplification, augmentation, automation, substitution, replacement, Amplified Intelligence, Domain Intelligence Amplifier, integration mechanism, dependency, fragility, lock-in, responsible amplification, professional transformation, retained capability, deskilling, displacement, capability continuity | 2.1.7 | Stage-Accepted through DR-015 and `SYMK-2X-EV-136`: Amplification and DIA Foundational relationship and specific System class; Amplified Intelligence governed compound; every other family individually routed; no actual attribution/classification, Responsibility allocation, policy, package, or implementation follows |
-| Operational value chain | Complex question, inquiry, reasoning, inference, judgment, answer, recommendation, action, domain outcome, feedback, better, faster, lower total cost | 2.1.8 | Unclassified |
+| Operational value chain | Complex question, problem framing, prompt, task instruction, inquiry, reasoning, inference, computation, retrieval, judgment, explanation, answer, output, recommendation, decision, action, domain outcome, consequence, feedback, correction, Learning, quality, epistemic adequacy, practical usefulness, speed, latency, total cost, value, benefit, utility, trade-off | 2.1.8 | Streams A–G complete through `SYMK-2X-EV-145`; complete Proposed DR-016 records Question/Reasoning/Answer/Value Foundational dispositions, Complex-Question supporting qualification, full individual routing, and the proposed DQ-014 conceptual answer; all new dispositions and the DQ answer remain Proposed without authority pending project-steward review |
+
+## 2.1.8 Stream A analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-139` | Unresolved destination |
+|---|---|---|
+| Question | Scoped and challengeable inquiry-object candidate relating identified subject matter to what is sought under a material Domain, Scope, Context, purpose, assumptions, stakeholders, uncertainty, and answer obligation | Foundational/supporting disposition after Streams B–F; final package in 2.5 |
+| Complex Question | Evidence-bearing relational qualification involving material interaction, uncertainty, contest, distribution, change, cross-level/cross-jurisdictional dependence, consequence, reflexivity, or non-decomposability | Candidate Foundational or supporting direction; DR-009 admission and final disposition in Stream F; Domain thresholds later |
+| Domain situation / Domain Problem | Actual or represented Domain condition separated from the problem claim and its purpose, standard, Evidence, affected horizon, and challenge | Exact universal supporting interface versus Domain-owned specialization remains for Stream F and 2.6 |
+| Problem Frame / Problem Framing | Selected boundary/purpose/concept/assumption/stakeholder/constraint/alternative/consequence structure and the activity producing it | Relation to Question, agency, Authority, Responsibility, challenge, and package form remains later |
+| Question Identity / version / lineage | Material answering-obligation preservation plus explicit re-expression, clarification, correction, refinement, restriction, expansion, decomposition, reformulation, reframing, replacement, withdrawal, and succession relations | Exact identity criteria are Domain-sensitive; final relation vocabulary in 2.5 and formalization in 2.9 |
+| Decomposition / recomposition | Supporting relation-family candidate requiring parent coverage, dependencies, interactions, shared assumptions, residual obligations, and evidence of whole-question recomposition | Domain methods and formal composition remain later |
+| Formulation / translation / lowering | Representation and relation family with declared semantic preservation, transformation, omission, approximation, and loss | Human/Scientific/Engineering contracts and formal lowering remain 2.5/2.9 |
+| Prompt / request / task / search query / test item / ticket / form | Social, procedural, assessment, or Engineering Representations and operations that may encode, combine, narrow, distort, or replace questions | Cannot receive Question identity or semantic authority automatically |
+| Decision Problem | Choice-situation candidate involving options, constraints, uncertainty, consequences, Authority, and decision requirement, distinct from epistemic Question, answer, recommendation, decision, and action | Streams C–E and later governance |
+| Inquiry | Organized, scoped, revisable pursuit of an answer, qualified no-answer, or warranted reframing | Relation to reasoning and answer in Streams B–C; final disposition in Stream F |
+| Search / retrieval / observation / measurement / experiment / investigation / computation / modeling / dialogue / reasoning / deliberation / workflow | Neighboring inquiry operations or Domain specializations | Stream B owns reasoning boundaries; substantive methods remain Domain/scientific/project-owned |
+| Answer form / answerability / qualified no-answer | Supporting answer-obligation distinctions preserving conditional, plural, probabilistic, contested, abstaining, clarification, suspension, and reframing outcomes | Full answer boundary in Stream C; quality in Stream D |
+| Complexity score / checklist / dashboard | Engineering or assessment Projection only | Domain method may use one; no universal threshold or scalar is accepted |
+
+All entries in this section are analytical candidates. They do not change the accepted concept baseline, classify an actual question or inquiry, answer DQ-014, create DR-016 content/status, or authorize later work.
+
+## 2.1.8 Stream B analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-140` | Unresolved destination |
+|---|---|---|
+| Reasoning | Candidate scoped, temporally situated, consideration-sensitive process in which an identified subject or organized arrangement relates, transforms, weighs, tests, or coordinates material considerations through challengeable moves under methods, norms, rules, models, competencies, or practices | Provisionally passes all six DR-009 tests; final disposition after Streams C–F |
+| reasoning episode / process pattern | Bounded occurrence separated from recurring or modeled organization across episodes | Episode Identity, continuation, revision, successor, reuse, and package realization remain later |
+| reasoner / reasoning Bearer or arrangement | Lowest adequate organized level explaining the material process without omitting constitutive integration; separately evidenced multi-level claims permitted | Thresholds for individual, artificial, collective, institutional, distributed, and hybrid cases remain Domain/grounding matters |
+| reasoning capacity / competence | Capability family under Intelligence requiring evidence across relevant variation | Cannot follow from one episode or answer; exact dimensions and thresholds remain later |
+| inference | Supporting plural, regime-relative support relation or operation family | Semantic consequence, licensed move, occurrence, claim, derivation, and assessment remain separated; Domain regimes later |
+| derivation / proof | Representation with formal- or Domain-sensitive conformity/status claims | Does not establish premise truth, actual process, applicability, warrant, or Knowledge |
+| computation / calculation | Rule-, algorithm-, mechanism-, or learned-procedure-governed state transformation | May instantiate or support inference without establishing reasoning or question adequacy |
+| search / retrieval | Inquiry-operation families for exploration and access | Source reasoning, retriever reasoning, applicability, and answer correspondence remain distinct |
+| association / pattern recognition / simulation / generation | Supporting operation families that may supply candidates or model-conditioned results | Do not establish evaluation, real-world fit, truth, reasoning, or novelty by themselves |
+| deliberation | Activity family considering alternatives, reasons, constraints, goals, values, uncertainty, and consequences | Does not establish balanced participation, decision, Authority, or correctness |
+| judgment | Situated assessment, conclusion, classification, or selection under relevant standards and uncertainty | Does not automatically become decision, status, truth, or Authority |
+| explanation / justification / rationale | Object-, purpose-, standard-, and audience-relative relation or Representation families | Causal explanation, epistemic support, process account, and decision rationale remain non-substitutable |
+| reasoning trace / log | Engineering Projection with episode link, generation method, coverage, selection, compression, redaction, integrity, and fidelity claims | No universal verbatim internal-chain requirement; trace does not become actual process |
+| premise / assumption / Evidence / rule / model / constraint / conclusion / defeater | Contextual supporting roles within a reasoning episode | No object receives one role permanently; exact formal vocabulary remains 2.5/2.9 |
+| validity / soundness / warrant / truth / relevance / completeness / calibration / robustness / applicability / responsible use | Non-scalar assessment dimensions or statuses | Meaning, method, assessor, authority, Scope, and thresholds remain explicit and mostly Domain-owned |
+| process Evidence / conclusion Evidence | Independently governed evidence roles | Process occurrence cannot manufacture conclusion truth and conclusion correctness cannot manufacture process quality |
+| process inspectability / protected assurance | Consequence-proportional governance qualification compatible with privacy, privilege, confidentiality, security, and equivalent review | Restricted access cannot create an unchallengeable claim; exact mechanisms remain later |
+
+All entries in this section are analytical candidates. They do not change the accepted concept baseline, classify an actual reasoner, process, inference, trace, answer, or project, answer DQ-014, select a reasoning theory or trace requirement, create DR-016 content/status, or authorize later work.
+
+## 2.1.8 Stream C analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-141` | Unresolved destination |
+|---|---|---|
+| Answer | Candidate scoped and challengeable content-to-question relation in which content is presented as satisfying all or a declared part of an identified question version's answer obligation | Provisionally passes all six DR-009 tests; exact Foundational-versus-governed-compound disposition after Streams D–F |
+| answer content / occurrence / Representation | Semantic or practical material; bounded presentation against a question; and form carrying content with declared transformation/loss | Seven-layer separation must survive quality, value, package, observability, and formalization work |
+| answer claim / assessment / status / use / record | Assertion, evidence-bearing evaluation, governed position, adoption/reliance/use, and durable lineage remain distinct | Exact status vocabulary, assessment profiles, and package placement remain later |
+| question correspondence / answer obligation | Supporting relation between content and identified question version/declared part | Thin correspondence must remain distinct from relevance/correctness/completeness in Stream D |
+| response / reply / acknowledgment | Supporting communicative or operational occurrence families | May carry, defer, refuse, challenge, or omit answer content |
+| output | Engineering or operation-boundary artifact/state/event family | Process-relative output does not receive answer semantics automatically |
+| interpretation / explanation | Supporting or Domain relation families that may answer matching question kinds | Meaning, causal account, justification, process explanation, and answer remain separately assessed |
+| partial / composite / plural / conditional / scenario answer | Answer qualifications preserving coverage, dependencies, conditions, alternatives, and residual obligations | Quality, comparison, and operational representation remain Streams D–F and later stages |
+| negative answer / qualified no-answer / abstention / refusal / silence | Non-substitutable content, inquiry-result, decision/response, and absence/convention families | Exact statuses, Authority, and responsible-use treatment remain later |
+| recommendation / proposal / decision support | Supporting advisory, candidate, and intended-contribution families | May answer decision questions without creating adoption, decision, Authorization, or Responsibility |
+| plan / strategy / instruction / commitment | Supporting or external/Domain future-conduct families | Adoption, Authority, feasibility, execution, and outcome remain separate |
+| decision / selection / adoption / approval / Ratification | Existing DR-014 governance relations applied without disposition reopening | Relation to answer is clarified; actual Authority and decision remain unallocated |
+| execution / action / omission | Existing DR-014 occurrence families | May carry demonstrative answer content under separate claims but do not validate it |
+| outcome / consequence | Supporting Domain and causal-effect families | Full time/cost/value/outcome treatment remains Stream E |
+| answer source / author / Contributor / responder / assessor | Separately attributed roles at the lowest adequate organized level | Origin, visibility, ownership, Authority, and Responsibility do not transfer automatically |
+| answer Identity / version / lineage | Question-version, content, Scope, conditions, coverage, occurrence, revision, fork/merge, expiry, and supersession relations | Exact identity criteria remain Domain-sensitive; package/formal realization later |
+| answer record / score / dashboard / status field | Engineering Projection | Cannot own answer correspondence, quality, Authority, or use meaning |
+
+All entries in this section are analytical candidates. They do not change the accepted concept baseline, classify an actual answer, source, recommendation, decision, action, Authority, or Responsibility, answer DQ-014, select a quality profile, create DR-016 content/status, or begin Stream D.
+
+## 2.1.8 Stream D analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-142` | Unresolved destination |
+|---|---|---|
+| Answer | Retains Stream C's scoped content-to-question relation and provisionally passes all six DR-009 tests after quality analysis | Exact Foundational-versus-governed-compound disposition after Streams E–F |
+| Answer Quality | Scoped multidimensional evidence-bearing assessment-profile family, not one intrinsic scalar property | Provisionally governed compound; final route in Stream F and DR-016 |
+| quality dimension / construct / applicability | Declared aspect, meaning, exclusions, and scoped applicability relation | Supporting family; substantive inventories and standards remain Domain/external-authority owned |
+| quality observation / Evidence / assessment / profile | Evidence, bounded evaluation, dimension result, and structured plurality of results/unknowns/conflicts/distributions remain separate | Package, methods, validation, observability, and formalization remain 2.5–2.9 |
+| epistemic adequacy | Governed compound linking answer obligation to material truth/correctness, relevance, coverage, support, uncertainty, robustness, currency, and defeater assessments | Exact Domain methods and thresholds remain 2.6–2.7 |
+| practical usefulness | Scoped relation among answer, identified user or organized subject, purpose, capability, constraints, Context, and time | Full value, benefit, cost, and distribution treatment in Stream E |
+| responsible-answer profile | Governed compound preserving epistemic, practical, affected-subject, safety, fairness, legality, privacy, security, Authority, challenge, correction, and lineage conditions | No universal certification; constitutional, Domain, external-authority, and project force later |
+| correctness / accuracy / truth | Distinct Domain and epistemic assessment families | No complete truth theory or universal evaluation method selected |
+| relevance / responsiveness / completeness / coverage / precision | Distinct answer-obligation and content assessment families | Exact answer-kind and Domain criteria remain later |
+| support / warrant / provenance / reasoning adequacy / explanation | DR-011/DR-012 and Stream B epistemic/process/Representation families applied without substitution | Process access, protected Evidence, method, and assessment detail remain Domain-sensitive |
+| calibration / uncertainty / robustness / sensitivity / transfer / currency | Distinct qualifications and assessment dimensions | Reference classes, variation sets, measures, and revalidation triggers remain later |
+| actionability / usability / accessibility / feasibility | Identified-user, purpose, constraint, setting, and time relations | Do not create correctness, Authorization, benefit, or value |
+| safety / harm / security / privacy / fairness / legality / compliance | Domain, external-authority, and governed supporting families under a universal claim grammar | Substantive theories, laws, standards, duties, thresholds, and actual conclusions remain outside Stream D |
+| assessor / competence / independence / method | Object-, dimension-, standard-, Evidence-, Context-, time-, and conflict-qualified assessment roles or relations | Exact competence tests, review procedures, and actual authority in 2.6–2.7 or external authority |
+| threshold / weight / priority / trade-off / aggregation / ranking | Purpose- and authority-bound policy or supporting relations | Full speed/cost/value treatment in Stream E; actual rules in 2.6–2.7 |
+| unknown / not assessed / not applicable / disputed / failed | Non-substitutable result states | Exact status vocabulary and representation in 2.5/2.8/2.9 |
+| distribution / non-compensable condition | Required anti-erasure relations preserving subjects, groups, tails, vetoes, severe loss, and missingness | Substantive authority, rights, duties, values, and thresholds remain later |
+| score / benchmark / dashboard / badge / certification field | Instrument or Engineering Projection | Cannot own construct meaning, quality, Authorization, responsible-use status, or outcome |
+| correction / expiry / revalidation / supersession | Separate answer, profile, status, use, and consequence lifecycle relations with preserved lineage | Feedback and Learning consolidation in Stream F; realization later |
+| value / benefit / speed / cost / outcome / consequence | Preserved non-substitutable interfaces | Full conceptual analysis belongs to Stream E |
+
+All entries in this section are analytical candidates. They do not change the accepted concept baseline, classify an actual answer, assessment, profile, assessor, quality, responsible-use status, Authority, metric, benchmark, value, or outcome, answer DQ-014, select a dimension inventory, threshold, weight, optimization, or trade-off, create DR-016 content/status, or begin Stream E.
+
+## 2.1.8 Stream E analytical directions — no dispositions
+
+| Candidate or cluster | Analytical direction through `SYMK-2X-EV-143` | Unresolved destination |
+|---|---|---|
+| Answer | Retains Stream C's relation and provisionally passes all six DR-009 tests after quality/value analysis | Exact Foundational-versus-governed-compound disposition in Stream F |
+| Value | Scoped evaluative relation connecting object/state/change/alternative to claimant, beneficiary, affected subject, purpose, criteria, authority, counterfactual, horizon, uncertainty, and distribution | Provisionally passes all six DR-009 tests; exact Foundational-versus-governed-compound route in Stream F |
+| temporal event / interval / profile | Start/end/phase/waiting/concurrency/deadline/horizon relations | Supporting relation and profile family |
+| speed / faster | Stable-boundary comparison among identified temporal relations | Supporting assessment relation; actual measures in 2.6–2.8 |
+| immediate latency / inquiry / verification / coordination / decision / action / correction / lifecycle time | Non-substitutable temporal phases and subject-specific clocks | Exact event vocabularies, instruments, and thresholds later |
+| time to responsible answer | Answer-quality-use-authority temporal compound | Governed compound; no universal workflow or timestamp |
+| cost | Scoped burden/resource/sacrifice/exposure/foregone-alternative attribution | Supporting relation family; substantive recognition and valuation Domain-owned |
+| total-cost profile | Bounded material-completeness claim over cost objects, families, Bearers, boundaries, counterfactuals, horizons, uncertainty, transfer, externalization, distribution, and residuals | Governed compound; economic methods and actual boundaries later |
+| price / payment / budget / resource use | Distinct economic, governance, and factual families | Cannot receive total-cost or value semantics automatically |
+| direct / indirect / fixed / variable / contingent / opportunity / lifecycle / dependency / capability / correction / residual cost | Candidate material cost families without a universal taxonomy | Domain/project/external accounting and Evidence remain later |
+| utility / preference / goal attainment / satisfaction | Domain, decision-model, and Human evaluative relations | No universal function, stakeholder set, priority, or authority |
+| usefulness | Stream D's subject-purpose-capability-constraint relation | Supporting practical relation; not benefit or value automatically |
+| benefit / harm / avoided harm / preserved capability | Counterfactual affected-subject relations | Supporting causal/evaluative families; actual criteria and evidence later |
+| epistemic / professional / economic / public / moral / market value | Non-substitutable value-kind families | Domain/external-authority semantics within universal claim grammar |
+| compatibility | Conformity with identified constraints, commitments, standards, or interfaces | Not benefit, value, legality, or SymK compatibility by implication |
+| target / objective / expected / intended outcome | Distinct reference, authority, forecast, and intention families | Supporting governance and Domain relations |
+| actual outcome | Realized Domain-relevant state/change relative to target, baseline, expectation, or counterfactual | Supporting Domain relation; no output, value, or causality substitution |
+| consequence / side effect / residual effect | Scoped causal/practical effect family over subjects, boundaries, and time | Supporting lifecycle relation; observation and feedback in Stream F |
+| causal Contribution / attribution / counterfactual | DR-014 and epistemic causal families applied without property or Responsibility transfer | Methods and actual conclusions remain downstream |
+| trade-off | Scoped comparative gain/loss/constraint/alternative relation preserving avoidability, Authority, distribution, non-compensation, uncertainty, and remedy | Supporting governance relation; actual choices Domain/external-authority owned |
+| constrained-value profile | Compound preserving quality, time, cost, plural value, distribution, authority, outcomes, consequences, uncertainty, and revision | Governed compound; no universal scalar or utility function |
+| price model / cost model / utility function / outcome metric / KPI / dashboard / optimizer | Domain instrument or Engineering Projection | Cannot own concepts, value, total cost, causality, authority, or outcome |
+
+All entries in this section are analytical candidates. They do not change the accepted concept baseline, classify an actual time, cost, value, benefit, harm, outcome, consequence, causal claim, trade-off, payer, beneficiary, cost Bearer, affected subject, Authority, or project, answer DQ-014, select a metric, price, model, threshold, weight, benchmark, objective, optimization, policy, or trade-off, create DR-016 content/status, or begin Stream F.
+
+## 2.1.8 Stream F consolidated analytical directions — no dispositions
+
+| Candidate or cluster | Proposal-ready analytical direction through `SYMK-2X-EV-144` | Destination or retained authority |
+|---|---|---|
+| Question | Foundational concept: scoped, challengeable inquiry object relating identified subject matter to what is sought under Domain, Scope, Context, purpose, assumptions, affected horizon, uncertainty, and answer obligation | Complete Proposed DR-016 after separate Stream G instruction |
+| Complex Question | Governed supporting relational qualification of Question involving material interaction, uncertainty, contest, distribution, change, cross-level/cross-jurisdictional dependence, consequence, reflexivity, or non-decomposability | Domain criteria and thresholds remain 2.6–2.7 |
+| Reasoning | Foundational concept: scoped, temporally situated, consideration-sensitive process separated from episode Representation, product, trace, assessment, and status | No universal reasoning theory, mechanism, or trace form; proposal wording in Stream G |
+| Answer | Foundational relational concept: scoped, challengeable content-to-Question relation independently identifiable from response, output, assessment, adoption, decision, action, outcome, and record | Complete Proposed DR-016 after separate Stream G instruction |
+| Value | Foundational relational concept: scoped evaluative relation among object/state/change/alternative, claimants, beneficiaries, affected subjects, purposes, commitments, criteria, authorities, counterfactuals, horizons, uncertainty, and distributions | No universal value function, scale, stakeholder set, or aggregation |
+| Answer Quality / responsible-answer profile | Governed multidimensional compound profile preserving dimensions, Evidence, uncertainty, disagreement, failure, distribution, non-compensation, assessor, Authority, use, and lineage | Measures, thresholds, weights, validation, and operation later |
+| speed / temporal profile / time to responsible answer | Governed supporting comparison and compound-profile families with separate response, inquiry, verification, coordination, decision, action, correction, recovery, and lifecycle clocks | Metrics and targets in 2.6–2.8 |
+| cost / total-cost profile | Governed supporting relation and bounded material-completeness compound across objects, families, Bearers, boundaries, counterfactuals, horizons, uncertainty, transfer, externalization, distribution, and residuals | Accounting/economic recognition and valuation remain Domain/external/project matters |
+| constrained-value profile / trade-off | Governed compound comparison and decision-support structures preserving alternatives, gains/losses, avoidability, Authority, distribution, non-compensation, uncertainty, reversibility, correction, repair, and lineage | Actual weights, thresholds, optimization, and choices later |
+| observation / signal / measurement / Evidence / counterevidence | Separate event, Representation, epistemic-role, and assessment structures | DR-012 and 2.7 remain authoritative for Evidence and validation |
+| Feedback / Uptake / Correction / Learning | Retain DR-013 Stage-Accepted supporting dispositions; feedback is a scoped information-or-consequence return relation; correction preserves defect/proposal/authority/action/changed-state/verification/repair/remedy/recurrence lineage; Learning retains stable-Learner conditions | No reclassification in DR-016; realization in 2.5–2.9 |
+| Formation | Retain DR-013 Stage-Accepted Foundational disposition | Not reopened by 2.1.8 |
+| update / adaptation / behavior change / capability change / improvement | Individually governed supporting change and assessment families without automatic Learning or value entailment | Operationalization and validation later |
+| consequence-to-governance return | Recursive validation, Responsibility, policy, concept, and constitutional challenge paths without automatic promotion | Procedures and authority in 2.2–2.8 |
+| DQ-014 | Complete proposal-ready universal conceptual answer using separate quality, temporal, and total-cost profiles and governed trade-off claims with feedback/correction/Learning revision | Acceptance only through DR-016; measures, thresholds, models, and actual trade-offs remain later |
+
+These directions pass the full consolidated Stream F gate and are sufficient for a separately instructed complete Proposed DR-016. They are not accepted dispositions. Stream F does not reopen DR-013, answer DQ-014 authoritatively, classify an actual subject or object, revise a Foundation Paper, create DR-016 content/status, begin Stream G, or authorize a commit.
+
+## 2.1.8 Stream G Proposed DR-016 dispositions — no acceptance
+
+| Candidate or cluster | Proposed disposition through `SYMK-2X-EV-145` | Authority boundary |
+|---|---|---|
+| Question | Foundational concept | Proposed only; exact decision in DR-016 awaits project-steward review |
+| Reasoning | Foundational concept | Proposed only; no universal reasoning theory, mechanism, or trace mandate |
+| Answer | Foundational relational concept | Proposed only; response/output/recommendation/decision/action remain separate |
+| Value | Foundational relational concept | Proposed only; no universal value function, scale, stakeholder set, or aggregation |
+| Complex Question | Governed supporting relational qualification | Proposed only; Domain criteria and thresholds remain later |
+| framing / inquiry / decomposition / reformulation | Governed supporting object, process, and relation families | Proposed only; Domain methods later |
+| inference / computation / retrieval / generation / deliberation / judgment | Individually governed supporting operations or process families | Proposed only; no automatic Reasoning promotion |
+| explanation / justification / rationale / trace | Governed supporting relations or Representations | Proposed only; process Evidence and protected-inspectability controls apply |
+| Answer Quality / epistemic adequacy / practical usefulness / responsible-answer profile | Governed multidimensional compound and supporting profiles | Proposed only; dimensions, metrics, thresholds, and use decisions later |
+| temporal profile / speed / time to responsible Answer | Governed supporting comparison and compound-profile families | Proposed only; instruments and targets later |
+| cost / total-cost profile | Governed supporting attribution and compound material-completeness profile | Proposed only; accounting/economic methods remain Domain/external/project matters |
+| constrained-value profile / trade-off | Governed compound comparison and supporting governance relations | Proposed only; actual weights, objectives, and decisions later |
+| outcome / consequence / causal Contribution | Governed supporting Domain, effect, and epistemic relations | Proposed only; DR-014 and Domain causal authority retained |
+| Feedback / Uptake / Correction / Learning | Retain DR-013 Stage-Accepted supporting dispositions | DR-016 proposes no reclassification or additional current authority |
+| Formation | Retain DR-013 Stage-Accepted Foundational disposition | Not reopened by DR-016 |
+| observation / signal / measurement / Evidence / challenge / response / update / behavior / capability / improvement | Individually governed supporting event, epistemic, response, change, and assessment families | Proposed routing only; realization and validation later |
+| recursive governance return | Governed supporting challenge and revision architecture | Proposed only; validation, Responsibility, policy, concept, and constitutional authorities remain separate |
+| DQ-014 | Universal conceptual answer proposed | No authority until DR-016 Stage-Acceptance; concrete measures/models/trade-offs remain downstream |
+
+The complete governing wording is `2.1.8G_PROPOSED_DR-016_QUESTIONS_REASONING_ANSWERS_VALUE_AND_FEEDBACK.md`. Proposal status does not accept any new disposition, close DQ-014, classify an actual case, revise a Foundation Paper, open 2.1.9, or authorize a commit.
 
 ## 2.1.6 Stream A analytical directions — no dispositions
 
