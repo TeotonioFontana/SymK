@@ -1,6 +1,6 @@
 # SymK 2.1 Tension Register
 
-The thirty Stage-Accepted 2.0 tensions (`SYMK-2X-TN-001` through `SYMK-2X-TN-030`) remain active by reference. 2.1 does not renumber or duplicate them.
+The thirty Stage-Accepted 2.0 tensions (`SYMK-2X-TN-001` through `SYMK-2X-TN-030`) remain active by reference. Stage 2.1 adds one genuinely new identity tension, `SYMK-2X-TN-031`; it does not renumber or duplicate the inherited set.
 
 ## 2.1 tension lenses
 
@@ -13,8 +13,21 @@ The thirty Stage-Accepted 2.0 tensions (`SYMK-2X-TN-001` through `SYMK-2X-TN-030
 | Distributed responsibility | 2.1.6 | Agency, causation, authority, authorization, accountability, and liability may diverge among participants |
 | Amplification and professional transformation | 2.1.7 | Amplification may include automation, displacement, dependency, deskilling, concentration, and changed formation pathways |
 | Responsible value | 2.1.8 | Quality, speed, cost, uncertainty, prevention of harm, and affected-party consequences may conflict |
+| Identity center of gravity | 2.1 cross-package / DR-017 | DIA-centered operational focus may conflict with the broader Knowledge Engineering framework revealed by Stage 2.1; actor de-centering may clarify governance while risking mission expansion or erasure of legitimate Human standing and Authority |
 
-The next available identifier for a genuinely new tension is `SYMK-2X-TN-031`. A new identifier requires a distinct tension, not a restatement of an inherited one.
+The next available identifier for a genuinely new tension is `SYMK-2X-TN-032`. A new identifier requires a distinct tension, not a restatement of an inherited one.
+
+## SYMK-2X-TN-031 — DIA-centered identity and operational focus ↔ broader Knowledge Engineering framework and governed-undertaking center
+
+| ID | Tension | Why it is material | Principal source and current disposition |
+|---|---|---|---|
+| SYMK-2X-TN-031 | DIA-centered identity and operational focus ↔ broader Knowledge Engineering framework and governed-undertaking center | The accepted DIA identity gives SymK a testable engineering target and guards against unbounded philosophical expansion. The cumulative 2.1 system governs epistemic, cooperative, responsibility, representation, value, consequence, correction, and learning conditions that precede and may exceed one completed DIA. Treating DIA as exhaustive may compress the discovery; broadening the identity may cause mission drift, weaken operational focus, or obscure legitimate subject, Authority, and Responsibility relations. | Project-steward reflection `SYMK-2X-EV-146` and Stage-Accepted DR-017 through `SYMK-2X-EV-147`. The tension remains active. DR-017 provisionally governs the layered identity with DIA as principal but non-exhaustive realization and a governed-undertaking center; all dissent and reopening conditions remain. |
+
+This tension is distinct from TN-005's universal/Domain boundary, TN-007's rigor/usability balance, TN-017's system capability/responsibility relation, and TN-027's overlapping-authority concern. Those remain active and constrain its eventual disposition.
+
+### Stage-Accepted DR-017 disposition
+
+Acceptance through `SYMK-2X-EV-147` provisionally selects the layered identity and governed-undertaking center while preserving DIA as principal realization and retaining bounded jurisdiction, operational focus, Human standing, external Authority, separate Responsibility, all twenty-five dissent questions, and all fifteen reopening conditions. TN-031 is not resolved or closed by acceptance; 2.1.9 integration, Product Vision revision, Foundation Paper review, constitutional analysis, derived-project grounding, and operational evidence may reopen the affected clauses. DR-016 is now separately Stage-Accepted through `SYMK-2X-EV-148`, completing 2.1.8 for progression; 2.1.9 remains closed pending separate instruction.
 
 ## 2.1.2 tension disposition
 
@@ -135,3 +148,7 @@ Stream F through `SYMK-2X-EV-144` creates no new tension identifier and resolves
 ## 2.1.8 Stream G Proposed DR-016 disposition
 
 Stream G through `SYMK-2X-EV-145` creates no new tension identifier and resolves none of the inherited tensions. Complete Proposed DR-016 selects Question, Reasoning, Answer, and Value as proposed Foundational concepts; Complex Question as proposed supporting relational qualification; multidimensional quality, responsible-answer, time, total-cost, constrained-value, and trade-off profiles as proposed governed compounds/supporting structures; and complete individual routing for adjacent operations, outcomes, feedback, correction, change, and Learning. It preserves DR-013 dispositions and incorporates all 180 prohibited entailments, twenty-four mandatory cases, twenty negative controls, eighteen alternatives, sixty dissent questions, thirty reopening conditions, three-View obligations, jurisdiction, DQ-014 answer, correction lineage, and recursive governance return. TN-005, TN-006, TN-007, TN-020, TN-021, TN-027, and TN-028 remain fully active, especially universal/Domain scope, scalar and metric loss, usable complexity, premature standardization, overlapping authority, affected distribution, public/objective Value, total-cost completeness, protected inspectability, System attribution, and implementation-owned meaning. DR-016 remains Proposed; no tension, disposition, DQ answer, actual classification/allocation, paper revision, 2.1.9 opening, final-stage decision, Ratification, or commit follows.
+
+## 2.1.8 and DR-016 Stage-Accepted disposition
+
+Acceptance through `SYMK-2X-EV-148` creates no new tension identifier and resolves none of the inherited or new tensions. It provisionally selects Question, Reasoning, Answer, and Value as Foundational concepts; Complex Question as a governed supporting relational qualification; the complete multidimensional quality, responsible-answer, temporal, total-cost, constrained-value, trade-off, outcome, consequence, feedback, correction, Learning, and recursive-return routing; and the universal DQ-014 conceptual answer. TN-005, TN-006, TN-007, TN-020, TN-021, TN-027, TN-028, and TN-031 remain active, together with all sixty DR-016 dissent questions, thirty reopening conditions, twenty-five DR-017 dissent questions, and fifteen DR-017 reopening conditions. Acceptance completes 2.1.8 for progression but creates no actual classification or allocation, metric, model, policy, paper revision, 2.1.9 opening, final-stage decision, Ratification, or commit.

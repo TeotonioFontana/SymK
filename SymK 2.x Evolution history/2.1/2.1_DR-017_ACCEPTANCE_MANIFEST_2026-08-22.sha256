@@ -1,0 +1,6 @@
+# SymK Stage 2.1 cross-package DR-017 acceptance manifest — 22 August 2026
+# Algorithm: SHA-256
+# Scope: immutable acceptance record and exact accepted DR-017 proposal
+# Excludes: this self-referential file and mutable registers/status surfaces
+a893039970568cee6f7b9cacd0631f81718c9dd4e57d577c468ea213cdc94506  SymK 2.x Evolution history/2.1/2.1_DR-017_ACCEPTANCE_RECORD_2026-08-22.md
+998082fbf05dd696108ad97fb7426ce6c7f767a48925e3f19215cfea0fff9d2a  SymK 2.x Evolution history/2.1/2.1_PROPOSED_DR-017_SYMK_IDENTITY_TRANSITION_AND_COPERNICAN_CENTER_OF_GRAVITY.md

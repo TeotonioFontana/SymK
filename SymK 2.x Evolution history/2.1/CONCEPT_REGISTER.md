@@ -1,6 +1,6 @@
 # SymK 2.1 Concept Register
 
-**Status:** Complete routed inventory; DR-009 through DR-015 Stage-Accepted for continuation of 2.1
+**Status:** Complete routed inventory; DR-009 through DR-017 Stage-Accepted for continuation of 2.1
 **Authority:** Evolution-control docket only
 
 ## Disposition classes
@@ -25,7 +25,7 @@
 | Formative | developmental change, Formation, formative condition/environment/activity/effect, Learning, Learner, Instruction, Training, Education, socialization, adaptation, conditioning, habit/disposition, reflection, feedback, uptake, correction, repair, recovery, resilience, adaptability, decay, loss, drift, deskilling, unlearning, integration, assimilation, hidden curriculum, formative power, reciprocal formation, system Learning, trace, retention, retrieval, current context, procedural retention, institutional memory, distributed memory, developmental history, version, succession, fork, merge, reconstitution | 2.1.5 | Stage-Accepted through DR-013 — Formation foundational; the formative, Learner, memory, system-Learning, change, and succession semantics governed as supporting roles, distinctions, attributions, or relationship families; operational realization remains later |
 | Responsibility | condition, event, output, behavior, execution, action, omission, causal Contribution, agency, agent, control, influence, autonomy, role, authority, authorization, mandate, permission, decision, delegation, supervision, prospective responsibility, duty, obligation, retrospective responsibility, answerability, accountability, blame, culpability, sanction, punishment, liability, legal personality, remedy, repair, correction, responsibility allocation, shared responsibility, joint responsibility, collective responsibility, institutional responsibility, distributed responsibility, hybrid responsibility, retained responsibility, responsibility gap, moral standing, affected subject/party/interest, standing, consent, notice, understanding, voluntariness, practical refusal, representation, challenge, review, appeal, prevention, containment, redress, residual harm, emergency, duty conflict, ethical compatibility | 2.1.6 | Stage-Accepted through `SYMK-2X-DR-014` / `SYMK-2X-EV-126` — Responsibility is the sole new Foundational concept; remaining candidates are individually governed as supporting, external/Domain, or Engineering material under the accepted boundaries; no actual allocation, complete ethical/legal rule, right/duty/standing/remedy grant, consent requirement, moral/legal status, or object-specific gap conclusion is created |
 | Amplification | Amplification, augmentation, automation, substitution, replacement, Amplified Intelligence, Domain Intelligence Amplifier, integration mechanism, dependency, fragility, lock-in, responsible amplification, professional transformation, retained capability, deskilling, displacement, capability continuity | 2.1.7 | Stage-Accepted through DR-015 and `SYMK-2X-EV-136`: Amplification and DIA Foundational relationship and specific System class; Amplified Intelligence governed compound; every other family individually routed; no actual attribution/classification, Responsibility allocation, policy, package, or implementation follows |
-| Operational value chain | Complex question, problem framing, prompt, task instruction, inquiry, reasoning, inference, computation, retrieval, judgment, explanation, answer, output, recommendation, decision, action, domain outcome, consequence, feedback, correction, Learning, quality, epistemic adequacy, practical usefulness, speed, latency, total cost, value, benefit, utility, trade-off | 2.1.8 | Streams A–G complete through `SYMK-2X-EV-145`; complete Proposed DR-016 records Question/Reasoning/Answer/Value Foundational dispositions, Complex-Question supporting qualification, full individual routing, and the proposed DQ-014 conceptual answer; all new dispositions and the DQ answer remain Proposed without authority pending project-steward review |
+| Operational value chain | Complex question, problem framing, prompt, task instruction, inquiry, reasoning, inference, computation, retrieval, judgment, explanation, answer, output, recommendation, decision, action, domain outcome, consequence, feedback, correction, Learning, quality, epistemic adequacy, practical usefulness, speed, latency, total cost, value, benefit, utility, trade-off | 2.1.8 | Stage-Accepted through DR-016 and `SYMK-2X-EV-148`: Question, Reasoning, Answer, and Value Foundational; Complex Question a governed supporting relational qualification; complete individual routing and universal DQ-014 conceptual answer govern continuation; concrete dimensions, measures, metrics, models, thresholds, weights, objectives, optimization, policy, actual classifications, and implementation remain later or external |
 
 ## 2.1.8 Stream A analytical directions — no dispositions
 
@@ -173,30 +173,30 @@ All entries in this section are analytical candidates. They do not change the ac
 
 These directions pass the full consolidated Stream F gate and are sufficient for a separately instructed complete Proposed DR-016. They are not accepted dispositions. Stream F does not reopen DR-013, answer DQ-014 authoritatively, classify an actual subject or object, revise a Foundation Paper, create DR-016 content/status, begin Stream G, or authorize a commit.
 
-## 2.1.8 Stream G Proposed DR-016 dispositions — no acceptance
+## 2.1.8 Stage-Accepted DR-016 dispositions
 
-| Candidate or cluster | Proposed disposition through `SYMK-2X-EV-145` | Authority boundary |
+| Candidate or cluster | Stage-Accepted disposition through `SYMK-2X-EV-148` | Authority boundary |
 |---|---|---|
-| Question | Foundational concept | Proposed only; exact decision in DR-016 awaits project-steward review |
-| Reasoning | Foundational concept | Proposed only; no universal reasoning theory, mechanism, or trace mandate |
-| Answer | Foundational relational concept | Proposed only; response/output/recommendation/decision/action remain separate |
-| Value | Foundational relational concept | Proposed only; no universal value function, scale, stakeholder set, or aggregation |
-| Complex Question | Governed supporting relational qualification | Proposed only; Domain criteria and thresholds remain later |
-| framing / inquiry / decomposition / reformulation | Governed supporting object, process, and relation families | Proposed only; Domain methods later |
-| inference / computation / retrieval / generation / deliberation / judgment | Individually governed supporting operations or process families | Proposed only; no automatic Reasoning promotion |
-| explanation / justification / rationale / trace | Governed supporting relations or Representations | Proposed only; process Evidence and protected-inspectability controls apply |
-| Answer Quality / epistemic adequacy / practical usefulness / responsible-answer profile | Governed multidimensional compound and supporting profiles | Proposed only; dimensions, metrics, thresholds, and use decisions later |
-| temporal profile / speed / time to responsible Answer | Governed supporting comparison and compound-profile families | Proposed only; instruments and targets later |
-| cost / total-cost profile | Governed supporting attribution and compound material-completeness profile | Proposed only; accounting/economic methods remain Domain/external/project matters |
-| constrained-value profile / trade-off | Governed compound comparison and supporting governance relations | Proposed only; actual weights, objectives, and decisions later |
-| outcome / consequence / causal Contribution | Governed supporting Domain, effect, and epistemic relations | Proposed only; DR-014 and Domain causal authority retained |
-| Feedback / Uptake / Correction / Learning | Retain DR-013 Stage-Accepted supporting dispositions | DR-016 proposes no reclassification or additional current authority |
+| Question | Foundational concept | Exact accepted wording governs; final identifier and package anatomy remain 2.5 |
+| Reasoning | Foundational concept | No universal reasoning theory, mechanism, or trace mandate |
+| Answer | Foundational relational concept | Response/output/recommendation/decision/action remain separate |
+| Value | Foundational relational concept | No universal value function, scale, stakeholder set, or aggregation |
+| Complex Question | Governed supporting relational qualification | Domain criteria and thresholds remain later |
+| framing / inquiry / decomposition / reformulation | Governed supporting object, process, and relation families | Domain methods remain later |
+| inference / computation / retrieval / generation / deliberation / judgment | Individually governed supporting operations or process families | No automatic Reasoning promotion |
+| explanation / justification / rationale / trace | Governed supporting relations or Representations | Process Evidence and protected-inspectability controls apply |
+| Answer Quality / epistemic adequacy / practical usefulness / responsible-answer profile | Governed multidimensional compound and supporting profiles | Dimensions, metrics, thresholds, and use decisions remain later |
+| temporal profile / speed / time to responsible Answer | Governed supporting comparison and compound-profile families | Instruments and targets remain later |
+| cost / total-cost profile | Governed supporting attribution and compound material-completeness profile | Accounting/economic methods remain Domain/external/project matters |
+| constrained-value profile / trade-off | Governed compound comparison and supporting governance relations | Actual weights, objectives, and decisions remain later |
+| outcome / consequence / causal Contribution | Governed supporting Domain, effect, and epistemic relations | DR-014 and Domain causal authority retained |
+| Feedback / Uptake / Correction / Learning | Retain DR-013 Stage-Accepted supporting dispositions | DR-016 adds governing semantic boundaries without reclassification |
 | Formation | Retain DR-013 Stage-Accepted Foundational disposition | Not reopened by DR-016 |
-| observation / signal / measurement / Evidence / challenge / response / update / behavior / capability / improvement | Individually governed supporting event, epistemic, response, change, and assessment families | Proposed routing only; realization and validation later |
-| recursive governance return | Governed supporting challenge and revision architecture | Proposed only; validation, Responsibility, policy, concept, and constitutional authorities remain separate |
-| DQ-014 | Universal conceptual answer proposed | No authority until DR-016 Stage-Acceptance; concrete measures/models/trade-offs remain downstream |
+| observation / signal / measurement / Evidence / challenge / response / update / behavior / capability / improvement | Individually governed supporting event, epistemic, response, change, and assessment families | Realization and validation remain later |
+| recursive governance return | Governed supporting challenge and revision architecture | Validation, Responsibility, policy, concept, and constitutional authorities remain separate |
+| DQ-014 | Universal conceptual answer Stage-Accepted | Concrete measures, models, thresholds, and actual trade-offs remain downstream |
 
-The complete governing wording is `2.1.8G_PROPOSED_DR-016_QUESTIONS_REASONING_ANSWERS_VALUE_AND_FEEDBACK.md`. Proposal status does not accept any new disposition, close DQ-014, classify an actual case, revise a Foundation Paper, open 2.1.9, or authorize a commit.
+The complete governing wording is `2.1.8G_PROPOSED_DR-016_QUESTIONS_REASONING_ANSWERS_VALUE_AND_FEEDBACK.md`, preserved and Stage-Accepted through `2.1.8_ACCEPTANCE_RECORD_2026-08-22.md` and `SYMK-2X-EV-148`. Acceptance establishes the dispositions and universal DQ-014 conceptual answer above but does not classify an actual case, select concrete measures or models, revise a Foundation Paper, open 2.1.9, Ratify a constitutional norm, or authorize a commit.
 
 ## 2.1.6 Stream A analytical directions — no dispositions
 
