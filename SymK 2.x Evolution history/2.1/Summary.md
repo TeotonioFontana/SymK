@@ -1,13 +1,19 @@
 # SymK 2.1 Stage Summary
 
 **Stage:** Foundational Conceptual System  
-**Current version:** `2.1-dev.69`
-**Status:** Active — DR-009 through DR-017 Stage-Accepted; 2.1.1–2.1.8 complete for progression; 2.1.9 open, Streams A through E complete analytically, Stream F not started
+**Current version:** `2.1-rc.1`
+**Status:** Active — DR-009 through DR-018 Stage-Accepted; 2.1.1–2.1.9 complete for progression; `2.1-rc.1` created; 2.1.10 open, Stream A not started
 **Predecessor authority:** SymK 2.0 Stage-Accepted through `SYMK-2X-DR-008`
 
 ## Current state
 
 The 2.1.1 concept-governance method and the 2.1.2 minimum structural semantic kernel are Stage-Accepted for continuation of 2.1. Identity, Context, Scope, Domain, and Representation are the accepted foundational structural concepts; Relationship, Applicability, Bearer, and Projection are accepted governed supporting distinctions; System is imported support; Entity is removed from foundational status and preserved as a 2.5 engineering/meta-model candidate. No Foundation Paper, canonical concept package, axiom, or implementation artifact has been migrated.
+
+At the Stream F checkpoint, evidence `SYMK-2X-EV-156` completes the affected-artifact/migration map, the coordinated four-Foundation-Paper v0.2 revision plan, and bounded read-only derived-project translation probes. All eighteen integration tests, eighteen mandatory cases, and thirty negative controls pass provisionally. LexBrain and SSHConnectivity lack substantive project artifacts and the available IaaC material is historical/noncanonical, so the result establishes translation feasibility rather than actual compatibility or validation. No accepted decision, tension, DQ, source, project, DR-018 status, or `2.1-rc.1` changes at that checkpoint.
+
+Stream G evidence `SYMK-2X-EV-157` creates the complete Proposed DR-018 and fully represents the `2.1-rc.1` conceptual-baseline candidate. It preserves the exact DR-009–017 lineage, seventeen-anchor system, supporting/artifact routing, dependency and Three-View controls, all tensions/DQs/dissent/reopening conditions, constitutional-readiness result, migration map and four-paper plan. The exact proposal passes eighteen integration tests, eighteen mandatory cases and thirty negative controls. DR-018 remains Proposed, `2.1-rc.1` remains uncreated, 2.1.9 remains open pending review, and 2.1.10 remains closed.
+
+Acceptance evidence `SYMK-2X-EV-158` Stage-Accepts exact DR-018, creates `2.1-rc.1` and completes 2.1.9. The previously separate 2.1.10 authorization is recorded as `SYMK-2X-EV-159`; opening control and source manifest evidence `SYMK-2X-EV-160` opens 2.1.10 with eight Streams A–H, ten publication gates, immutable v0.1 inputs, new-edition-only v0.2 rules and a mandatory Human review checkpoint. Stream A has not started and no paper or PDF has changed.
 
 ## Accepted 2.1 decisions
 

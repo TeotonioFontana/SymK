@@ -200,7 +200,11 @@ The complete governing wording is `2.1.8G_PROPOSED_DR-016_QUESTIONS_REASONING_AN
 
 ## 2.1.9 opening control — no new dispositions
 
-Opening evidence `SYMK-2X-EV-149`–`150` authorizes integration analysis of every Stage-Accepted DR-009–017 concept and distinction under one dependency, reciprocal-dependency, non-substitution, three-View, tension, deferred-question, jurisdiction, affected-artifact, and migration audit. DR-018 is reserved for a possible integrated `2.1-rc.1` baseline checkpoint after Streams A–F pass. Opening does not add, remove, merge, split, redefine, reclassify, package, formalize, or implement any concept; does not decide whether the governed knowledge undertaking requires a disposition; and does not begin Stream A.
+Opening evidence `SYMK-2X-EV-149`–`150` authorized integration analysis. Streams A–G completed through `SYMK-2X-EV-157`; exact DR-018 was Stage-Accepted through `SYMK-2X-EV-158`, creating `2.1-rc.1` and completing 2.1.9. Acceptance retains exactly seventeen Foundational anchors and changes no predecessor disposition. Separate evidence `SYMK-2X-EV-159`–`160` opens 2.1.10 without creating or revising a Foundation Paper; Stream A has not started.
+
+## 2.1.10 opening control — publication work, no concept change
+
+The 2.1.10 opening freezes the four v0.1 Markdown/PDF pairs and the accepted DR-018/`2.1-rc.1` baseline for conceptual, cross-paper, human-communication and publication review. Its Streams A–H may improve explanation and publication while preserving exact semantic authority. No paper wording, review finding, diagram, citation, PDF, terminology harmonization or Human preference may add, remove, merge, split, redefine or reclassify a concept outside competent decision procedure. Stream A has not started.
 
 ## 2.1.9 Stream A normalized inventory — no new dispositions
 
