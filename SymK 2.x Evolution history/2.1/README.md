@@ -1,8 +1,8 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — 2.1.1 through 2.1.8 and DR-009 through DR-017 Stage-Accepted; 2.1.9 ready but not open
+**Stage status:** Active — 2.1.1 through 2.1.8 and DR-009 through DR-017 Stage-Accepted; 2.1.9 open, Streams A through D complete analytically, Stream E not started
 **Target version:** `2.1`  
-**Current version:** `2.1-dev.63`
+**Current version:** `2.1-dev.68`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
 **Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009`–`017`; no axiom, Foundation Paper conclusion, final concept package, formalism, actual attribution or allocation, or representation is Ratified
 
@@ -31,6 +31,12 @@ A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constit
 7. `2.1.7_Amplified_Intelligence_and_Domain_Intelligence_Amplifiers.md`
 8. `2.1.8_Reasoning_Answers_Value_and_Feedback.md`
 9. `2.1.9_Integrated_Conceptual_Baseline_Candidate.md`
+    - `2.1.9_OPENING_AND_EVIDENCE_CONTROL_2026-08-22.md`
+    - `2.1.9_EVIDENCE_MANIFEST_2026-08-22.sha256`
+    - `2.1.9A_ACCEPTED_DECISION_AND_CONCEPT_NORMALIZATION.md`
+    - `2.1.9B_DEPENDENCY_RECIPROCITY_CIRCULARITY_AND_STRUCTURAL_INTEGRITY.md`
+    - `2.1.9C_CROSS_CLUSTER_BOUNDARY_VALUE_CHAIN_AND_NON_SUBSTITUTION_INTEGRATION.md`
+    - `2.1.9D_THREE_VIEW_REPRESENTATION_PROJECTION_AND_SEMANTIC_ALIGNMENT_AUDIT.md`
 10. `2.1.10_Foundation_Papers_v0.2_and_Human_Communication.md`
 11. `2.1.11_Final_Consistency_Audit_and_Stage_Acceptance.md`
     - `2.1.11.1_Cross_Document_Consistency_Audit.md`
@@ -38,7 +44,9 @@ A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constit
 
 2.1.1 through 2.1.8 are complete for progression and DR-009 through DR-017 are Stage-Accepted. Under `SYMK-2X-EV-137`–`138`, 2.1.8 formally opened with its inherited constraints, authority-ranked sources, seven Streams A–G, twenty-four mandatory counterexamples, three-view obligations, overlap routes, and non-effects fixed. Streams A–F evidence `SYMK-2X-EV-139`–`144` establishes and consolidates the complete Question/Reasoning/Answer/quality/time/cost/Value/outcome/consequence/feedback/correction/Learning system. Stream G evidence `SYMK-2X-EV-145` creates the exact 978-line DR-016 proposal. Project-steward evidence `SYMK-2X-EV-148` and the 2.1.8 acceptance record and manifest Stage-Accept that object: Question, Reasoning, Answer, and Value are Foundational concepts; Complex Question is a governed supporting relational qualification; profiles and adjacent families are individually routed; DR-013 dispositions are retained; and the accepted object incorporates nine planes, sixty envelope fields, 180 prohibited entailments, eighteen alternatives, twenty-four mandatory cases, twenty negative controls, 60 dissent questions, thirty reopening conditions, and the universal DQ-014 conceptual answer.
 
-After the DR-016 lineage was committed and pushed, project-steward evidence `SYMK-2X-EV-146` paused the usual acceptance sequence and created complete Proposed DR-017 as a distinct Stage 2.1 cross-package identity decision. Explicit project-steward evidence `SYMK-2X-EV-147` Stage-Accepts that exact proposal. DR-017 governs provisionally the layered transition from the historical Human–AI symbiotic protocol, through the accepted DIA-centered 2.0 orientation, to the broader identity as the engineering discipline and general framework for responsible Knowledge Engineering through governed cooperation among heterogeneous Intelligence Bearers. It Stage-Accepts the attributional and Knowledge Engineering Copernican corrections, the governed knowledge undertaking as organizing center, DIA as principal but non-exhaustive realization, bounded jurisdiction, and Human/Authority/Responsibility anti-erasure. `SYMK-2X-EV-148` subsequently Stage-Accepts exact DR-016 under that higher-order context and completes 2.1.8 for progression. `SYMK-2X-TN-031`, all DR-016 and DR-017 dissent questions, and all reopening conditions remain active. 2.1.9 is ready but not open. Final package anatomy remains 2.5; formalism remains 2.9.
+After the DR-016 lineage was committed and pushed, project-steward evidence `SYMK-2X-EV-146` paused the usual acceptance sequence and created complete Proposed DR-017 as a distinct Stage 2.1 cross-package identity decision. Explicit project-steward evidence `SYMK-2X-EV-147` Stage-Accepts that exact proposal. DR-017 governs provisionally the layered transition from the historical Human–AI symbiotic protocol, through the accepted DIA-centered 2.0 orientation, to the broader identity as the engineering discipline and general framework for responsible Knowledge Engineering through governed cooperation among heterogeneous Intelligence Bearers. It Stage-Accepts the attributional and Knowledge Engineering Copernican corrections, the governed knowledge undertaking as organizing center, DIA as principal but non-exhaustive realization, bounded jurisdiction, and Human/Authority/Responsibility anti-erasure. `SYMK-2X-EV-148` subsequently Stage-Accepts exact DR-016 under that higher-order context and completes 2.1.8 for progression. `SYMK-2X-TN-031`, all DR-016 and DR-017 dissent questions, and all reopening conditions remain active. Final package anatomy remains 2.5; formalism remains 2.9.
+
+Project-steward authority `SYMK-2X-EV-149` formally opens 2.1.9 after commit `21424bce255df733289e955f8b7ee24f8cebe046`. Opening control `SYMK-2X-EV-150` fixes the accepted source state by SHA-256 and defines the integrated concept/dependency object, eighteen required tests, seven Streams A–G, eighteen mandatory cross-package counterexamples, evidence rules, and non-effects. Stream A evidence `SYMK-2X-EV-151` completes normalization. Stream B evidence `SYMK-2X-EV-152` constructs the noncanonical forty-seven-node, 107-edge typed graph. Stream C evidence `SYMK-2X-EV-153` integrates seven substantive clusters through twenty-four guarded interfaces and sixteen invariants; retains Capability as nine typed claim families and the governed knowledge undertaking as a non-reifying integration label; reconstructs the Product Vision as branching and recursive; and establishes DR-016/DR-017 coherence. Stream D evidence `SYMK-2X-EV-154` maps all forty-seven nodes, nineteen relation kinds, nine Capability families, the undertaking expansion and twenty Product Vision gates across Human, Scientific and Engineering Views; confirms those three as the adequate current universal minimum; defines seven directional routes, twenty-four loss families, five reversibility classes and thirty interoperability capabilities; passes eighteen mandatory cases plus twenty-four View-specific negative controls; and finds no direct irreparable DR-009–017 contradiction or blocker. TN-031 and all dissent remain active; the Product Vision issue and actual formalization remain later obligations. DR-018 remains reserved for the possible integrated `2.1-rc.1` checkpoint after Streams A–F pass; no canonical baseline, new disposition, source revision, axiom-readiness result, Foundation Paper plan, 2.1.10 opening, final decision, Ratification, or commit follows.
 
 ## Concept disposition classes
 
@@ -138,9 +146,9 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 
 Program identifiers continue from 2.0:
 
-- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-017` Stage-Accepted; next unreserved decision: `SYMK-2X-DR-018`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-148`; next available evidence: `SYMK-2X-EV-149`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-103`; next available change: `SYMK-2X-CH-104`;
+- current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-017` Stage-Accepted; `SYMK-2X-DR-018` reserved without proposal content/status; next unreserved decision: `SYMK-2X-DR-019`;
+- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-154`; next available evidence: `SYMK-2X-EV-155`;
+- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-108`; next available change: `SYMK-2X-CH-109`;
 - current tension lineage adds `SYMK-2X-TN-031`; next new tension: `SYMK-2X-TN-032`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 

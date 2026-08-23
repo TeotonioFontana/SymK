@@ -198,6 +198,49 @@ These directions pass the full consolidated Stream F gate and are sufficient for
 
 The complete governing wording is `2.1.8G_PROPOSED_DR-016_QUESTIONS_REASONING_ANSWERS_VALUE_AND_FEEDBACK.md`, preserved and Stage-Accepted through `2.1.8_ACCEPTANCE_RECORD_2026-08-22.md` and `SYMK-2X-EV-148`. Acceptance establishes the dispositions and universal DQ-014 conceptual answer above but does not classify an actual case, select concrete measures or models, revise a Foundation Paper, open 2.1.9, Ratify a constitutional norm, or authorize a commit.
 
+## 2.1.9 opening control — no new dispositions
+
+Opening evidence `SYMK-2X-EV-149`–`150` authorizes integration analysis of every Stage-Accepted DR-009–017 concept and distinction under one dependency, reciprocal-dependency, non-substitution, three-View, tension, deferred-question, jurisdiction, affected-artifact, and migration audit. DR-018 is reserved for a possible integrated `2.1-rc.1` baseline checkpoint after Streams A–F pass. Opening does not add, remove, merge, split, redefine, reclassify, package, formalize, or implement any concept; does not decide whether the governed knowledge undertaking requires a disposition; and does not begin Stream A.
+
+## 2.1.9 Stream A normalized inventory — no new dispositions
+
+Stream A evidence `SYMK-2X-EV-151` records the first authority-ranked cross-package normalization of DR-009–017. It identifies the following **seventeen** Stage-Accepted Foundational anchors without changing their exact accepted wording or future artifact form:
+
+| Source | Foundational anchors preserved |
+|---|---|
+| DR-010 | Identity; Context; Scope; Domain; Representation |
+| DR-011 | Knowledge; Intelligence |
+| DR-012 | Knowledge Engineering |
+| DR-013 | Cooperation; Formation |
+| DR-014 | Responsibility |
+| DR-015 | Amplification as a Foundational relationship; Domain Intelligence Amplifier as a Foundational specific System class |
+| DR-016 | Question; Reasoning; Answer; Value |
+| DR-009 / DR-017 | Governing method and layered identity direction respectively; neither adds a Foundational concept |
+
+The same evidence preserves the complete supporting, compound, imported, derived, Engineering Representation/Projection, excluded, and deferred routing; establishes lexical controls; exposes cross-package collisions; and records unresolved gaps without promoting them. Capability, Time, the common claim/assessment/status/record pattern, relation-kind vocabulary, subject/object/level references, cross-package challenge routes, View transformations, recursive-return authority, and the governed knowledge undertaking remain analytical questions rather than new dispositions. The governed knowledge undertaking is Stage-Accepted as DR-017's organizing-center direction but remains a working label, not a Foundational concept, System, DIA, shared-undertaking synonym, workflow, legal object, or package.
+
+Stream A finds no direct accepted-decision contradiction at normalization level and passes provisionally to separately instructed Stream B. Exact accepted decisions govern over the compact inventory. No concept is added, removed, merged, split, redefined, reclassified, packaged, formalized, implemented, or assigned a final identifier; no DQ or tension changes; and DR-018 and `2.1-rc.1` remain uncreated.
+
+## 2.1.9 Stream B typed analytical graph — no new dispositions
+
+Stream B evidence `SYMK-2X-EV-152` represents the accepted system through forty-seven local analytical nodes and 107 material typed edges. The nodes preserve all seventeen Stage-Accepted Foundational anchors and add thirty explicitly bounded supporting, identity, historical, imported, Engineering, or analytical graph carriers. The nineteen working relation kinds separate constitutive, necessary-interpretive, specialization, attribution, comparison, enabling, constraining, causal, evidentiary, assessment, governance, qualification, representation, Projection, temporal, recursive-return, realization, lineage, and prohibited-entailment relations.
+
+These node and edge identifiers are noncanonical and do not establish a concept count, package anatomy, universal parent, final relation taxonomy, Ontology, formal language, or implementation. Capability, claim, assessment, status, record, time/version, purpose/criterion/standard, authority/challenge, affected horizon, and organization/Integration remain typed analytical carriers only. The governed knowledge undertaking remains an unclassified Stage-Accepted organizing-center label and the open high-risk integration object. Stream B finds no need to add or change a disposition and no direct irreparable contradiction among DR-009–017; Stream C must stress-test the cross-cluster use of the Capability carrier and governed-undertaking boundary.
+
+## 2.1.9 Stream C cross-cluster integration — no new dispositions
+
+Stream C evidence `SYMK-2X-EV-153` integrates the seven substantive cluster groups through twenty-four guarded interfaces and sixteen stable-boundary invariants. It finds no direct irreparable DR-009–017 contradiction and no need for an additional relation kind or concept disposition.
+
+Capability remains an analytical index over nine predicate-specific claim families: Intelligence capacity, Reasoning capacity, Agency capacity, Control capacity, effective capability for Amplification, DIA enabling/support capability, professional or retained capability, developmental capability change, and Learning-related capability change. Their shared envelope controls claims; it does not create one transferable property or common semantic substance.
+
+The governed knowledge undertaking remains DR-017's working organizing-center label. Stream C treats it as a semantically eliminable non-reifying expansion over accepted concepts and typed relations, not as a Foundational or supporting concept, System, Bearer, actor, workflow, project, package, legal object, or universal parent. The framework supplies the accepted rules that interpret an undertaking bundle; no undertaking instance defines the framework. DIA remains the principal but non-exhaustive realization. The branching map, interface counts, Capability codes, gates, invariants, and non-substitution families are analytical only and create no new disposition.
+
+## 2.1.9 Stream D Three-View alignment — no new dispositions
+
+Stream D evidence `SYMK-2X-EV-154` maps all forty-seven analytical nodes, nineteen working relation kinds, nine Capability families, the governed-undertaking expansion, and twenty Product Vision gates across Human, Scientific, and Engineering Views. Every accepted concept and material supporting family admits an expression in each View without making format, institution, actor, artifact or jurisdiction determine View identity. Governance, constitutional, legal, ethical, professional, organizational, economic, educational, political, affected-subject and operational concerns remain cross-view jurisdictions or dimensions rather than additional Views.
+
+Capability remains a nine-family analytical index and the governed knowledge undertaking remains a non-reifying relation bundle. The seven transformation routes, twenty-four loss families, five reversibility classes, ten test families, thirty interoperability capabilities, local identifiers and twenty-field analytical envelope are audit devices only. They do not amend DR-012, create a fourth View, promote a concept, establish package anatomy, select a formal language or schema, or classify an actual artifact as aligned or conformant. Exact Stage-Accepted decisions remain authoritative; no concept disposition changes.
+
 ## 2.1.6 Stream A analytical directions — no dispositions
 
 | Candidate or cluster | Analytical direction through `SYMK-2X-EV-119` | Unresolved destination |
