@@ -1,8 +1,8 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — 2.1.1 through 2.1.8 and DR-009 through DR-017 Stage-Accepted; 2.1.9 open, Streams A through D complete analytically, Stream E not started
+**Stage status:** Active — 2.1.1 through 2.1.8 and DR-009 through DR-017 Stage-Accepted; 2.1.9 open, Streams A through E complete analytically, Stream F not started
 **Target version:** `2.1`  
-**Current version:** `2.1-dev.68`
+**Current version:** `2.1-dev.69`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
 **Normative effect:** Provisional program authority through Stage-Accepted `SYMK-2X-DR-009`–`017`; no axiom, Foundation Paper conclusion, final concept package, formalism, actual attribution or allocation, or representation is Ratified
 
@@ -147,8 +147,8 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 Program identifiers continue from 2.0:
 
 - current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-017` Stage-Accepted; `SYMK-2X-DR-018` reserved without proposal content/status; next unreserved decision: `SYMK-2X-DR-019`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-154`; next available evidence: `SYMK-2X-EV-155`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-108`; next available change: `SYMK-2X-CH-109`;
+- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-155`; next available evidence: `SYMK-2X-EV-156`;
+- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-109`; next available change: `SYMK-2X-CH-110`;
 - current tension lineage adds `SYMK-2X-TN-031`; next new tension: `SYMK-2X-TN-032`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 

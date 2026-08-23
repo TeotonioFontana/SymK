@@ -1,8 +1,8 @@
 # SymK 2.1 Stage Summary
 
 **Stage:** Foundational Conceptual System  
-**Current version:** `2.1-dev.68`
-**Status:** Active — DR-009 through DR-017 Stage-Accepted; 2.1.1–2.1.8 complete for progression; 2.1.9 open, Streams A through D complete analytically, Stream E not started
+**Current version:** `2.1-dev.69`
+**Status:** Active — DR-009 through DR-017 Stage-Accepted; 2.1.1–2.1.8 complete for progression; 2.1.9 open, Streams A through E complete analytically, Stream F not started
 **Predecessor authority:** SymK 2.0 Stage-Accepted through `SYMK-2X-DR-008`
 
 ## Current state
