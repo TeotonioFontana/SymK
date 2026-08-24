@@ -9,6 +9,7 @@ This governance prevents the 2.x consolidation from becoming a sequence of silen
 A material evolution item is any proposal that changes:
 
 - SymK identity, purpose, or jurisdiction;
+- the project/framework name, historical expansion, release identity, or canonical namespace when the change affects meaning, lineage, discoverability, compatibility, or authority;
 - a constitutional statement or authoritative interpretation;
 - a governed concept or its scope;
 - a normative hierarchy or inheritance relation;
@@ -71,3 +72,8 @@ A stage may discover questions belonging to later stages. Such questions go to `
 
 Renaming, relocating, merging, or reclassifying an artifact can change perceived authority. Such changes require a recorded disposition when they affect meaning, lineage, or discoverability.
 
+## 10. Project-name and identity continuity
+
+A decision about the project/framework name is a semantic identity decision, not editorial cleanup. It must compare the current name and historical expansion with the accepted identity, engineered object, jurisdiction, newcomer interpretation, continuity and migration consequences.
+
+Semantic decision and physical migration are separate controlled acts. A decision to retain, retire an expansion, reinterpret or replace a name does not itself rename files, identifiers, repositories, packages or derived projects. Every later physical change requires source-to-target lineage, aliases where needed, affected-artifact/project analysis, authority/status verification and post-migration checks.

@@ -1,0 +1,29 @@
+source,identifier,verification_authority,result,v0.2_action
+"Burkart, Schubiger, and van Schaik (2017)",10.1017/S0140525X16000959,publisher/DOI,Verified author/title/venue/volume/e195 and cautious cross-species use,RETAIN
+Carroll (1993),10.1017/CBO9780511571312,Cambridge University Press,"Verified title, author, first publication year, factor-analytic survey and three-stratum scope",RETAIN
+Cattell (1943),10.1037/h0059973,APA/DOI,Verified metadata and fluid/crystallized historical context,RETAIN
+Chollet (2019),arXiv:1911.01547,arXiv primary manuscript,"Verified title, author, version, priors/experience/generalization/skill-acquisition claims",RETAIN
+Clark and Chalmers (1998),10.1111/1467-8284.00096,Wiley/OUP publisher record,"Verified title, authors, Analysis 58(1), 7–19 and active-externalism scope",RETAIN
+Fodor (1974),10.1007/BF00485230,Springer/DOI,"Verified title, Synthese 28(2), 97–115 and multiple-realizability relevance",RETAIN
+Gardner (1983),Frames of Mind,Basic Books/publisher catalogue,"Verified author, title, original year and multiple-intelligences scope; not treated as validated natural kinds",RETAIN_QUALIFIED
+Gottfredson (1997),10.1016/S0160-2896(97)90011-8,Elsevier/DOI,"Verified title, venue, volume, pages and functional-definition context",RETAIN_QUALIFIED
+Hutchins (1995),ISBN 9780262082310,MIT Press,"Verified hardcover 1995, author/title and distributed ship-navigation/system-level cognition scope",RETAIN
+Legg and Hutter (2007),arXiv:0712.3329,arXiv primary manuscript,"Verified authors/title, journal reference, pages and formal goal-achievement scope",RETAIN
+Marr (1982/2010),ISBN 9780262514620,MIT Press,Verified author/title and levels-of-analysis relevance,RETAIN
+"Mayer, Salovey, and Caruso (2004)",UNH repository 375,author institutional repository,Verified title/authors/venue/pages and ability-model distinction,ADD_FROM_H_LINEAGE
+Newell and Simon (1976),10.1145/360018.360022,ACM Digital Library,Verified title/authors/venue/pages and physical-symbol-system hypothesis context,RETAIN
+Ng (2025),arXiv:2507.22423,arXiv primary manuscript,Verified author/title/date and category-relative formal proposal; retained only as recent research input,RETAIN_QUALIFIED
+Piaget (1952),10.1037/11494-000,APA/DOI,Verified translated-book metadata and developmental/adaptation scope,RETAIN
+Putnam (1967),Psychological Predicates,bibliographic cross-check,"Verified chapter title, editors, book and later reprint title; no direct stable publisher link supplied",RETAIN
+Russell and Norvig (2020),AIMA 4th US edition,official book site,"Verified authors, fourth edition and rational-agent framing",RETAIN
+Salovey and Mayer (1990),10.2190/DUGG-P24E-52WK-6CDG,publisher/DOI,Verified title/authors/venue/volume/pages and original construct context,RETAIN
+Searle (1980),10.1017/S0140525X00005756,Cambridge University Press,Verified title/author/venue/pages and Chinese Room/understanding dispute context,RETAIN
+Spearman (1904),10.2307/1412107,JSTOR/DOI,Verified title/author/venue/volume/pages and general-factor history,RETAIN
+Sternberg (1985),Beyond IQ,Cambridge University Press,Verified author/title/first publication year and triarchic-theory scope,RETAIN
+Thurstone (1938),Primary Mental Abilities,WorldCat/University of Chicago Press,Verified author/title/year/publisher,RETAIN
+Turing (1950),10.1093/mind/LIX.236.433,Oxford University Press,"Verified title/author/Mind 59(236), 433–460 and imitation-game context",RETAIN
+"Varela, Thompson, and Rosch (1991)",ISBN 9780262720212,MIT Press,Verified authors/title and embodied/enactive scope,RETAIN
+"Visser, Ashton, and Vernon (2006)",10.1016/j.intell.2006.02.004,Elsevier/DOI,Verified title/authors/venue/pages and empirical multiple-intelligences test,ADD_FROM_H_LINEAGE
+Vygotsky (1978),Mind in Society,Harvard University Press catalogue/bibliographic cross-check,"Verified editors/authorship attribution, title, year and publisher; cited at broad sociocultural scope",RETAIN_QUALIFIED
+Wechsler (1944),"The Measurement of Adult Intelligence, 3rd ed.",publisher/library bibliographic cross-check,Verified author/title/edition/year/publisher,RETAIN
+Woolley et al. (2010),10.1126/science.1193147,Science/DOI,Verified title/authors/venue/volume/pages and group-performance-factor result,RETAIN_QUALIFIED

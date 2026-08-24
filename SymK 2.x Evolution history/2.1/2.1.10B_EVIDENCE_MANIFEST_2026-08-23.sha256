@@ -1,0 +1,14 @@
+# SymK 2.1.10 Stream B evidence manifest — 23 August 2026
+# Algorithm: SHA-256
+# Scope: Knowledge v0.2 review draft, Stream B review/disposition/citation records, immutable v0.1 pair, Stream A evidence control, and principal accepted semantic sources
+# Excludes: this self-referential file, mutable registers/status surfaces, future PDF/publication artifacts, other Foundation Paper sources and Human-review records
+4ed1095c9b3533787e6da7d4511d4b5609a4b611296da279d37617254ae10b54  00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge/SymK_Foundation_Paper_Knowledge_v0.2.md
+105f3c67c2e797bda8176dde07a9590bd343ee17edb71eb81b4d8c69d4185e25  SymK 2.x Evolution history/2.1/2.1.10B_KNOWLEDGE_FOUNDATION_PAPER_REVIEW_AND_V0.2_RECONSTRUCTION.md
+c7aa483994412ad3bffd622573881e5b7e236b39ce93cdeaf5b75eb73499d2ac  SymK 2.x Evolution history/2.1/2.1.10B_KNOWLEDGE_CLAIM_DISPOSITION_2026-08-23.csv
+0efeae59cfe9b7f411024ed19ed786c02b2ec1173bac1988f168790ca70dc48a  SymK 2.x Evolution history/2.1/2.1.10B_KNOWLEDGE_CITATION_VERIFICATION_2026-08-23.csv
+13f5a1c08e03e30e01241fb6274f66c757d393f71d2dce6c2de3fd09a19d45e7  00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge/SymK_Foundation_Paper_Knowledge_v0.1.md
+fe234c0fe09709954f49303cdbab60091483aaa5be42265d30e7a76b3e1f7d45  00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge/SymK_Foundation_Paper_Knowledge_v0.1.pdf
+9c9a33b884048b5ca9473367a8c64195769dd334b5a9017d87bf93eb0e422903  SymK 2.x Evolution history/2.1/2.1.10A_EVIDENCE_MANIFEST_2026-08-23.sha256
+91234d9d42a839a0760fe8c9dca543d762f779b39363265d75f96f6854a72aea  SymK 2.x Evolution history/2.1/2.1.3J_REVISED_PROPOSED_DR-011_KNOWLEDGE_INTELLIGENCE_RECIPROCAL_CORE.md
+8554a8cab24dd95244fa42a20e5e3ca3626fe8e7652351d25bd776d86a2fdc4d  SymK 2.x Evolution history/2.1/2.1.4H_RECOVERED_FULL_REVISED_PROPOSED_DR-012_KNOWLEDGE_ENGINEERING_EPISTEMIC_CONDITIONS_AND_THREE_VIEW_REPRESENTATION.md
+000bc3568c81f0b39c42eca214fe09614412a3c42bcc079a82172cce15fd333d  SymK 2.x Evolution history/2.1/2.1.9G_PROPOSED_DR-018_INTEGRATED_CONCEPTUAL_BASELINE_AND_2.1-RC.1_CHECKPOINT.md

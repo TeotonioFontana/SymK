@@ -1,0 +1,9 @@
+# Preserve exact bytes for hash-bound generated CSV evidence artifacts.
+"/SymK 2.x Evolution history/2.1/2.1.10A_CITATION_AND_VISUAL_INVENTORY_2026-08-23.csv" -text
+"/SymK 2.x Evolution history/2.1/2.1.10A_MATERIAL_CLAIM_INVENTORY_v1_2026-08-23.csv" -text
+"/SymK 2.x Evolution history/2.1/2.1.10A_SECTION_INVENTORY_2026-08-23.csv" -text
+"/SymK 2.x Evolution history/2.1/2.1.10B_KNOWLEDGE_CLAIM_DISPOSITION_2026-08-23.csv" -text
+"/SymK 2.x Evolution history/2.1/2.1.10C_INTELLIGENCE_CITATION_VERIFICATION_2026-08-23.csv" -text
+"/SymK 2.x Evolution history/2.1/2.1.10C_INTELLIGENCE_CLAIM_DISPOSITION_2026-08-23.csv" -text
+"/SymK 2.x Evolution history/2.1/2.1.10D_EDUCATION_AND_TRAINING_CLAIM_DISPOSITION_2026-08-23.csv" -text
+"/SymK 2.x Evolution history/2.1/2.1.10G_PDF_VISUAL_AND_ACCESSIBILITY_VERIFICATION_2026-08-23.csv" -text

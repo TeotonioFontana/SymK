@@ -2,7 +2,7 @@
 
 **Stage:** Foundational Conceptual System  
 **Current version:** `2.1-rc.1`
-**Status:** Active — DR-009 through DR-018 Stage-Accepted; 2.1.1–2.1.9 complete for progression; `2.1-rc.1` created; 2.1.10 open, Stream A not started
+**Status:** Active — DR-009 through DR-018 Stage-Accepted; 2.1.1–2.1.9 complete for progression; `2.1-rc.1` created; 2.1.10 open, Streams A–G complete, Stream H open with Human review pending
 **Predecessor authority:** SymK 2.0 Stage-Accepted through `SYMK-2X-DR-008`
 
 ## Current state
@@ -13,7 +13,7 @@ At the Stream F checkpoint, evidence `SYMK-2X-EV-156` completes the affected-art
 
 Stream G evidence `SYMK-2X-EV-157` creates the complete Proposed DR-018 and fully represents the `2.1-rc.1` conceptual-baseline candidate. It preserves the exact DR-009–017 lineage, seventeen-anchor system, supporting/artifact routing, dependency and Three-View controls, all tensions/DQs/dissent/reopening conditions, constitutional-readiness result, migration map and four-paper plan. The exact proposal passes eighteen integration tests, eighteen mandatory cases and thirty negative controls. DR-018 remains Proposed, `2.1-rc.1` remains uncreated, 2.1.9 remains open pending review, and 2.1.10 remains closed.
 
-Acceptance evidence `SYMK-2X-EV-158` Stage-Accepts exact DR-018, creates `2.1-rc.1` and completes 2.1.9. The previously separate 2.1.10 authorization is recorded as `SYMK-2X-EV-159`; opening control and source manifest evidence `SYMK-2X-EV-160` opens 2.1.10 with eight Streams A–H, ten publication gates, immutable v0.1 inputs, new-edition-only v0.2 rules and a mandatory Human review checkpoint. Stream A has not started and no paper or PDF has changed.
+Acceptance evidence `SYMK-2X-EV-158` Stage-Accepts exact DR-018, creates `2.1-rc.1` and completes 2.1.9. Opening authority/control `SYMK-2X-EV-159`–`160` open 2.1.10 with immutable v0.1 inputs and mandatory Human review. Streams A–F evidence `SYMK-2X-EV-161`–`166` verifies, reconstructs and cross-paper integrates all four governed v0.2 Markdown review drafts. Stream G evidence `SYMK-2X-EV-167` creates four tagged, declared PDF/UA-1 A4 review projections through a controlled reproducible toolchain while retaining the exact Stream F Markdown hashes. All sixty-three pages, 201 bookmarks, sixty-four governed links, embedded fonts, selectable text, metadata, language, headings, diagrams, source coverage and rendering verify; eleven wide tables use stacked header-labelled projections preserving every source cell. Explicit project-steward instruction “H AUTHORIZED,” confirming the earlier shorthand authorization, opens Stream H through `SYMK-2X-EV-168`; its protocol fixes exact review objects, complete-reading declarations, finding classes, dispositions and checkpoint prerequisites. Historical v0.1 artifacts remain unchanged; no accepted decision, tension or deferred question changes; no Human reading, finding disposition, assistive-technology acceptance, publication acceptance or 2.1.10H decision is claimed.
 
 ## Accepted 2.1 decisions
 

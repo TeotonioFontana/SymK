@@ -1,0 +1,524 @@
+paper,claim_id,claim_type,markdown_line_start,markdown_line_end,pdf_page,enclosing_section,claim_or_review_unit,review_owner,disposition
+Knowledge,K-CLM-0001,section_claim_cluster,26,51,5,1. Why knowledge is foundational to SymK,1. Why knowledge is foundational to SymK,Stream B,unreviewed
+Knowledge,K-CLM-0002,section_claim_cluster,52,110,6,2. The first correction: there is no simple historical definition to inherit,2. The first correction: there is no simple historical definition to inherit,Stream B,unreviewed
+Knowledge,K-CLM-0003,section_claim_cluster,70,79,6,2.1 The Gettier rupture,2.1 The Gettier rupture,Stream B,unreviewed
+Knowledge,K-CLM-0004,section_claim_cluster,80,95,6,2.2 Families of post-Gettier responses,2.2 Families of post-Gettier responses,Stream B,unreviewed
+Knowledge,K-CLM-0005,section_claim_cluster,96,110,7,2.3 Knowledge may be primitive without being unstructured,2.3 Knowledge may be primitive without being unstructured,Stream B,unreviewed
+Knowledge,K-CLM-0006,section_claim_cluster,111,158,8,3. Knowledge is not only “knowing that”,3. Knowledge is not only “knowing that”,Stream B,unreviewed
+Knowledge,K-CLM-0007,section_claim_cluster,115,124,8,3.1 Propositional knowledge: knowing that,3.1 Propositional knowledge: knowing that,Stream B,unreviewed
+Knowledge,K-CLM-0008,section_claim_cluster,125,140,8,3.2 Practical knowledge: knowing how,3.2 Practical knowledge: knowing how,Stream B,unreviewed
+Knowledge,K-CLM-0009,section_claim_cluster,141,146,9,3.3 Knowledge by acquaintance or familiarity,3.3 Knowledge by acquaintance or familiarity,Stream B,unreviewed
+Knowledge,K-CLM-0010,section_claim_cluster,147,158,9,3.4 A plural foundation,3.4 A plural foundation,Stream B,unreviewed
+Knowledge,K-CLM-0011,section_claim_cluster,159,202,10,4. Epistemology and knowledge representation ask different questions,4. Epistemology and knowledge representation ask different questions,Stream B,unreviewed
+Knowledge,K-CLM-0012,section_claim_cluster,203,282,11,5. What the major formalisms actually provide,5. What the major formalisms actually provide,Stream B,unreviewed
+Knowledge,K-CLM-0013,section_claim_cluster,207,219,11,5.1 Epistemic modal logic,5.1 Epistemic modal logic,Stream B,unreviewed
+Knowledge,K-CLM-0014,section_claim_cluster,220,225,11,5.2 First-order logic and Horn rules,5.2 First-order logic and Horn rules,Stream B,unreviewed
+Knowledge,K-CLM-0015,section_claim_cluster,226,231,11,5.3 Semantic networks and frames,5.3 Semantic networks and frames,Stream B,unreviewed
+Knowledge,K-CLM-0016,section_claim_cluster,232,237,12,5.4 Description logics and OWL,5.4 Description logics and OWL,Stream B,unreviewed
+Knowledge,K-CLM-0017,section_claim_cluster,238,250,12,5.5 Ontologies and knowledge graphs,5.5 Ontologies and knowledge graphs,Stream B,unreviewed
+Knowledge,K-CLM-0018,section_claim_cluster,251,256,12,5.6 Probabilistic representations,5.6 Probabilistic representations,Stream B,unreviewed
+Knowledge,K-CLM-0019,section_claim_cluster,257,262,12,5.7 Neural representations,5.7 Neural representations,Stream B,unreviewed
+Knowledge,K-CLM-0020,section_claim_cluster,263,282,13,5.8 Comparative view,5.8 Comparative view,Stream B,unreviewed
+Knowledge,K-CLM-0021,section_claim_cluster,283,344,14,6. The distinction SymK must preserve,6. The distinction SymK must preserve,Stream B,unreviewed
+Knowledge,K-CLM-0022,section_claim_cluster,287,292,14,6.1 Knowledge,6.1 Knowledge,Stream B,unreviewed
+Knowledge,K-CLM-0023,section_claim_cluster,293,298,14,6.2 Knowledge claim,6.2 Knowledge claim,Stream B,unreviewed
+Knowledge,K-CLM-0024,section_claim_cluster,299,316,14,6.3 Knowledge asset,6.3 Knowledge asset,Stream B,unreviewed
+Knowledge,K-CLM-0025,section_claim_cluster,317,322,15,6.4 Representation,6.4 Representation,Stream B,unreviewed
+Knowledge,K-CLM-0026,section_claim_cluster,323,344,15,6.5 Epistemic status,6.5 Epistemic status,Stream B,unreviewed
+Knowledge,K-CLM-0027,section_claim_cluster,345,396,16,7. A working definition for SymK,7. A working definition for SymK,Stream B,unreviewed
+Knowledge,K-CLM-0028,section_claim_cluster,353,356,10,Epistemic achievement,Epistemic achievement,Stream B,unreviewed
+Knowledge,K-CLM-0029,section_claim_cluster,357,360,16,"An intelligence, or a cooperative system of intelligences","An intelligence, or a cooperative system of intelligences",Stream B,unreviewed
+Knowledge,K-CLM-0030,section_claim_cluster,361,370,16,"Truth-connected, competence-bearing, or direct relation","Truth-connected, competence-bearing, or direct relation",Stream B,unreviewed
+Knowledge,K-CLM-0031,section_claim_cluster,371,374,16,Responsibly relied upon,Responsibly relied upon,Stream B,unreviewed
+Knowledge,K-CLM-0032,section_claim_cluster,375,378,16,Within a stated scope,Within a stated scope,Stream B,unreviewed
+Knowledge,K-CLM-0033,section_claim_cluster,379,386,16,7.1 The operational corollary,7.1 The operational corollary,Stream B,unreviewed
+Knowledge,K-CLM-0034,section_claim_cluster,387,396,17,7.2 Interpreting the constitutional motto,7.2 Interpreting the constitutional motto,Stream B,unreviewed
+Knowledge,K-CLM-0035,section_claim_cluster,397,445,18,8. The proposed SymK knowledge object,8. The proposed SymK knowledge object,Stream B,unreviewed
+Knowledge,K-CLM-0036,section_claim_cluster,446,523,20,9. Candidate foundational commitments,9. Candidate foundational commitments,Stream B,unreviewed
+Knowledge,K-CLM-0037,candidate_commitment,450,455,20,K-01 — Knowledge and representation are distinct,K-01 — Knowledge and representation are distinct,Stream B,unreviewed
+Knowledge,K-CLM-0038,candidate_commitment,456,461,20,K-02 — Truth is not created by governance,K-02 — Truth is not created by governance,Stream B,unreviewed
+Knowledge,K-CLM-0039,candidate_commitment,462,467,20,K-03 — No knowledge claim is context-free in application,K-03 — No knowledge claim is context-free in application,Stream B,unreviewed
+Knowledge,K-CLM-0040,candidate_commitment,468,473,20,K-04 — Grounds are part of the durable asset,K-04 — Grounds are part of the durable asset,Stream B,unreviewed
+Knowledge,K-CLM-0041,candidate_commitment,474,479,20,K-05 — Operational acceptance remains defeasible,K-05 — Operational acceptance remains defeasible,Stream B,unreviewed
+Knowledge,K-CLM-0042,candidate_commitment,480,485,20,K-06 — Contradiction must be represented before it is resolved,K-06 — Contradiction must be represented before it is resolved,Stream B,unreviewed
+Knowledge,K-CLM-0043,candidate_commitment,486,491,20,K-07 — Knowledge has plural modes,K-07 — Knowledge has plural modes,Stream B,unreviewed
+Knowledge,K-CLM-0044,candidate_commitment,492,497,20,K-08 — Formal inference is conditional knowledge work,K-08 — Formal inference is conditional knowledge work,Stream B,unreviewed
+Knowledge,K-CLM-0045,candidate_commitment,498,503,21,K-09 — Epistemic standing is not conferred by participant type,K-09 — Epistemic standing is not conferred by participant type,Stream B,unreviewed
+Knowledge,K-CLM-0046,candidate_commitment,504,509,21,K-10 — Shared knowledge is not mere consensus,K-10 — Shared knowledge is not mere consensus,Stream B,unreviewed
+Knowledge,K-CLM-0047,candidate_commitment,510,515,21,K-11 — Knowledge must remain challengeable,K-11 — Knowledge must remain challengeable,Stream B,unreviewed
+Knowledge,K-CLM-0048,candidate_commitment,516,523,21,K-12 — Knowledge engineering begins before implementation,K-12 — Knowledge engineering begins before implementation,Stream B,unreviewed
+Knowledge,K-CLM-0049,section_claim_cluster,524,560,22,10. Implications for Human-AI and multi-intelligence cooperation,10. Implications for Human-AI and multi-intelligence cooperation,Stream B,unreviewed
+Knowledge,K-CLM-0050,section_claim_cluster,528,533,22,"10.1 AI output is a contribution, not a verdict","10.1 AI output is a contribution, not a verdict",Stream B,unreviewed
+Knowledge,K-CLM-0051,section_claim_cluster,534,552,22,10.2 Roles may be distributed,10.2 Roles may be distributed,Stream B,unreviewed
+Knowledge,K-CLM-0052,section_claim_cluster,553,560,22,10.3 Shared does not mean identical,10.3 Shared does not mean identical,Stream B,unreviewed
+Knowledge,K-CLM-0053,development_requirement,561,622,23,11. Development requirements derived from the foundation,11. Development requirements derived from the foundation,Stream B,unreviewed
+Knowledge,K-CLM-0054,development_requirement,565,577,23,11.1 Separate the layers,11.1 Separate the layers,Stream B,unreviewed
+Knowledge,K-CLM-0055,development_requirement,578,591,23,11.2 Preserve epistemic lineage,11.2 Preserve epistemic lineage,Stream B,unreviewed
+Knowledge,K-CLM-0056,development_requirement,592,595,23,11.3 Support non-monotonic evolution,11.3 Support non-monotonic evolution,Stream B,unreviewed
+Knowledge,K-CLM-0057,development_requirement,596,599,23,11.4 Allow multiple representational projections,11.4 Allow multiple representational projections,Stream B,unreviewed
+Knowledge,K-CLM-0058,development_requirement,600,612,23,11.5 Make uncertainty typed,11.5 Make uncertainty typed,Stream B,unreviewed
+Knowledge,K-CLM-0059,development_requirement,613,616,24,11.6 Preserve negative results,11.6 Preserve negative results,Stream B,unreviewed
+Knowledge,K-CLM-0060,development_requirement,617,622,24,11.7 Avoid premature universalization,11.7 Avoid premature universalization,Stream B,unreviewed
+Knowledge,K-CLM-0061,open_question,623,666,25,12. Open foundational questions,12. Open foundational questions,Stream B,unreviewed
+Knowledge,K-CLM-0062,open_question,627,630,25,12.1 Is knowledge necessarily factive in the formal SymK vocabulary?,12.1 Is knowledge necessarily factive in the formal SymK vocabulary?,Stream B,unreviewed
+Knowledge,K-CLM-0063,open_question,631,634,25,12.2 Can a cooperative system literally know?,12.2 Can a cooperative system literally know?,Stream B,unreviewed
+Knowledge,K-CLM-0064,open_question,635,638,25,12.3 What qualifies an artificial system as an epistemic subject?,12.3 What qualifies an artificial system as an epistemic subject?,Stream B,unreviewed
+Knowledge,K-CLM-0065,open_question,639,642,25,12.4 How should knowledge-how be governed?,12.4 How should knowledge-how be governed?,Stream B,unreviewed
+Knowledge,K-CLM-0066,open_question,643,646,25,12.5 What is the relation between knowledge and understanding?,12.5 What is the relation between knowledge and understanding?,Stream B,unreviewed
+Knowledge,K-CLM-0067,open_question,647,656,25,12.6 How should context affect knowledge attribution?,12.6 How should context affect knowledge attribution?,Stream B,unreviewed
+Knowledge,K-CLM-0068,open_question,657,660,25,12.7 How should conflicting but locally successful models coexist?,12.7 How should conflicting but locally successful models coexist?,Stream B,unreviewed
+Knowledge,K-CLM-0069,open_question,661,666,25,12.8 What are the smallest irreducible primitives?,12.8 What are the smallest irreducible primitives?,Stream B,unreviewed
+Knowledge,K-CLM-0070,evaluation_gate_cluster,667,689,26,13. A practical evaluation gate,13. A practical evaluation gate,Stream B,unreviewed
+Knowledge,K-CLM-0071,section_claim_cluster,690,715,27,14. Conclusion,14. Conclusion,Stream B,unreviewed
+Knowledge,K-CLM-0072,central_blockquote_claim,34,34,5,1. Why knowledge is foundational to SymK,Knowledge is the shared medium. Cooperation is the objective.,Stream B,unreviewed
+Knowledge,K-CLM-0073,central_blockquote_claim,56,56,6,2. The first correction: there is no simple historical definition to inherit,"A subject S knows a proposition P if and only if P is true, S believes P, and S is justified in believing P.",Stream B,unreviewed
+Knowledge,K-CLM-0074,central_blockquote_claim,76,76,6,2.1 The Gettier rupture,"A claim does not become knowledge merely because its content is true and its holder can present reasons for believing it. The relation among claim, grounds, process, and truth also matters.",Stream B,unreviewed
+Knowledge,K-CLM-0075,central_blockquote_claim,279,279,13,5.8 Comparative view,SymK should not choose one representation and call it Knowledge. It should govern several projections of knowledge-related objects while preserving the conceptual source they express.,Stream B,unreviewed
+Knowledge,K-CLM-0076,central_blockquote_claim,349,349,16,7. A working definition for SymK,"Knowledge, in SymK, is an epistemic achievement in which an intelligence, or a cooperative system of intelligences, stands in a sufficiently truth-connected, competence-bearing, or direct relation to what is known such that it may be responsibly relied upon within a stated scope.",Stream B,unreviewed
+Knowledge,K-CLM-0077,central_blockquote_claim,383,383,16,7.1 The operational corollary,"SymK engineers governed knowledge assets that preserve the best available, challengeable evidence that knowledge has been achieved, together with the representations required to share and apply it.",Stream B,unreviewed
+Knowledge,K-CLM-0078,central_blockquote_claim,391,391,17,7.2 Interpreting the constitutional motto,"Knowledge is the shared medium means that cooperation proceeds through governed epistemic achievements and knowledge assets whose meaning, grounds, scope, and history can survive changes in participant and representation.",Stream B,unreviewed
+Knowledge,K-CLM-0079,central_blockquote_claim,702,702,16,14. Conclusion,"Knowledge, in SymK, is an epistemic achievement in which an intelligence, or a cooperative system of intelligences, stands in a sufficiently truth-connected, competence-bearing, or direct relation to what is known such that it may be responsibly relied upon within a stated scope.",Stream B,unreviewed
+Knowledge,K-CLM-0080,central_blockquote_claim,706,706,16,14. Conclusion,"SymK engineers governed knowledge assets that preserve the best available, challengeable evidence that knowledge has been achieved, together with the representations required to share and apply it.",Stream B,unreviewed
+Knowledge,K-CLM-0081,central_blockquote_claim,710,710,5,14. Conclusion,Knowledge is the shared medium. Cooperation is the objective.,Stream B,unreviewed
+Knowledge,K-CLM-0082,explicit_numbered_claim_or_requirement,40,40,5,1. Why knowledge is foundational to SymK,A stored statement may be treated as true merely because it is in the repository.,Stream B,unreviewed
+Knowledge,K-CLM-0083,explicit_numbered_claim_or_requirement,41,41,5,1. Why knowledge is foundational to SymK,A technically valid inference may be treated as epistemically warranted outside the assumptions of its formal system.,Stream B,unreviewed
+Knowledge,K-CLM-0084,explicit_numbered_claim_or_requirement,42,42,5,1. Why knowledge is foundational to SymK,"A document, graph, or model may be mistaken for the knowledge it represents.",Stream B,unreviewed
+Knowledge,K-CLM-0085,explicit_numbered_claim_or_requirement,43,43,5,1. Why knowledge is foundational to SymK,Consensus or governance may be mistaken for truth.,Stream B,unreviewed
+Knowledge,K-CLM-0086,explicit_numbered_claim_or_requirement,44,44,5,1. Why knowledge is foundational to SymK,"Propositional knowledge may be treated as the only form of knowledge, excluding skills, methods, and direct familiarity.",Stream B,unreviewed
+Knowledge,K-CLM-0087,explicit_numbered_claim_or_requirement,45,45,5,1. Why knowledge is foundational to SymK,Human and machine outputs may be granted or denied epistemic standing solely because of their origin.,Stream B,unreviewed
+Knowledge,K-CLM-0088,explicit_numbered_claim_or_requirement,46,46,5,1. Why knowledge is foundational to SymK,A domain-specific convention may silently enter the universal SymK Core.,Stream B,unreviewed
+Knowledge,K-CLM-0089,explicit_numbered_claim_or_requirement,151,151,9,3.4 A plural foundation,"Knowing that — propositional, truth-apt content.",Stream B,unreviewed
+Knowledge,K-CLM-0090,explicit_numbered_claim_or_requirement,152,152,9,3.4 A plural foundation,Knowing how — capability or competence manifested in action.,Stream B,unreviewed
+Knowledge,K-CLM-0091,explicit_numbered_claim_or_requirement,153,153,9,3.4 A plural foundation,"Knowing through acquaintance — direct or accumulated familiarity with an object, situation, or field of experience.",Stream B,unreviewed
+Knowledge,K-CLM-0092,explicit_numbered_claim_or_requirement,436,436,19,8. The proposed SymK knowledge object,Content is not separated from grounds.,Stream B,unreviewed
+Knowledge,K-CLM-0093,explicit_numbered_claim_or_requirement,437,437,19,8. The proposed SymK knowledge object,Acceptance is not separated from scope.,Stream B,unreviewed
+Knowledge,K-CLM-0094,explicit_numbered_claim_or_requirement,438,438,19,8. The proposed SymK knowledge object,Current status is not separated from history.,Stream B,unreviewed
+Knowledge,K-CLM-0095,explicit_numbered_claim_or_requirement,439,439,19,8. The proposed SymK knowledge object,Representations are plural and subordinate to the governing object.,Stream B,unreviewed
+Knowledge,K-CLM-0096,explicit_numbered_claim_or_requirement,440,440,19,8. The proposed SymK knowledge object,Objections and failed tests remain part of the knowledge asset.,Stream B,unreviewed
+Knowledge,K-CLM-0097,explicit_numbered_claim_or_requirement,441,441,19,8. The proposed SymK knowledge object,The participant who proposes a claim need not be the authority who adopts it.,Stream B,unreviewed
+Knowledge,K-CLM-0098,explicit_numbered_claim_or_requirement,442,442,19,8. The proposed SymK knowledge object,"Human and artificial contributions are evaluated through traceable epistemic roles, not prestige or origin alone.",Stream B,unreviewed
+Knowledge,K-CLM-0099,explicit_numbered_claim_or_requirement,582,582,23,11.2 Preserve epistemic lineage,who or what introduced it;,Stream B,unreviewed
+Knowledge,K-CLM-0100,explicit_numbered_claim_or_requirement,583,583,23,11.2 Preserve epistemic lineage,what it originally meant;,Stream B,unreviewed
+Knowledge,K-CLM-0101,explicit_numbered_claim_or_requirement,584,584,23,11.2 Preserve epistemic lineage,which sources or experiences supported it;,Stream B,unreviewed
+Knowledge,K-CLM-0102,explicit_numbered_claim_or_requirement,585,585,23,11.2 Preserve epistemic lineage,how it changed;,Stream B,unreviewed
+Knowledge,K-CLM-0103,explicit_numbered_claim_or_requirement,586,586,23,11.2 Preserve epistemic lineage,what objections were raised;,Stream B,unreviewed
+Knowledge,K-CLM-0104,explicit_numbered_claim_or_requirement,587,587,23,11.2 Preserve epistemic lineage,why its current status was assigned;,Stream B,unreviewed
+Knowledge,K-CLM-0105,explicit_numbered_claim_or_requirement,588,588,23,11.2 Preserve epistemic lineage,where it is adopted;,Stream B,unreviewed
+Knowledge,K-CLM-0106,explicit_numbered_claim_or_requirement,589,589,23,11.2 Preserve epistemic lineage,which representations express it;,Stream B,unreviewed
+Knowledge,K-CLM-0107,explicit_numbered_claim_or_requirement,590,590,23,11.2 Preserve epistemic lineage,what would cause it to be reconsidered.,Stream B,unreviewed
+Knowledge,K-CLM-0108,evaluation_gate_question,673,673,26,13. A practical evaluation gate,"Identity: What exactly is the claim, capability, or object of familiarity?",Stream B,unreviewed
+Knowledge,K-CLM-0109,evaluation_gate_question,674,674,26,13. A practical evaluation gate,"Mode: Is this knowing-that, knowing-how, acquaintance, or a combination?",Stream B,unreviewed
+Knowledge,K-CLM-0110,evaluation_gate_question,675,675,26,13. A practical evaluation gate,"Grounds: What evidence, process, competence, or direct relation supports it?",Stream B,unreviewed
+Knowledge,K-CLM-0111,evaluation_gate_question,676,676,26,13. A practical evaluation gate,"Truth connection: For a proposition, how is the claim connected to what makes it true rather than merely to a successful answer?",Stream B,unreviewed
+Knowledge,K-CLM-0112,evaluation_gate_question,677,677,26,13. A practical evaluation gate,"Scope: Under which domain, time, assumptions, population, task, and stakes may it be relied upon?",Stream B,unreviewed
+Knowledge,K-CLM-0113,evaluation_gate_question,678,678,26,13. A practical evaluation gate,"Alternatives: Which plausible counterexamples, defeaters, or competing explanations were considered?",Stream B,unreviewed
+Knowledge,K-CLM-0114,evaluation_gate_question,679,679,26,13. A practical evaluation gate,"Provenance: Can the contribution be traced through sources, transformations, and participants?",Stream B,unreviewed
+Knowledge,K-CLM-0115,evaluation_gate_question,680,680,26,13. A practical evaluation gate,"Status: What has been observed, inferred, evaluated, accepted, or merely proposed?",Stream B,unreviewed
+Knowledge,K-CLM-0116,evaluation_gate_question,681,681,26,13. A practical evaluation gate,"Representation: Which human, semantic, and machine projections exist, and do they remain aligned?",Stream B,unreviewed
+Knowledge,K-CLM-0117,evaluation_gate_question,682,682,26,13. A practical evaluation gate,"Responsibility: Who may challenge, decide, adopt, maintain, and bear consequences?",Stream B,unreviewed
+Knowledge,K-CLM-0118,evaluation_gate_question,683,683,26,13. A practical evaluation gate,"Revision: What evidence would restrict, defeat, or supersede the asset?",Stream B,unreviewed
+Knowledge,K-CLM-0119,evaluation_gate_question,684,684,26,13. A practical evaluation gate,Cooperation: How does the asset improve cumulative cooperation among intelligences?,Stream B,unreviewed
+Intelligence,I-CLM-0001,section_claim_cluster,28,63,2,1. Why Intelligence is foundational to SymK,1. Why Intelligence is foundational to SymK,Stream C,unreviewed
+Intelligence,I-CLM-0002,section_claim_cluster,64,119,4,"2. The Copernican correction: Human Intelligence is an instance, not the center","2. The Copernican correction: Human Intelligence is an instance, not the center",Stream C,unreviewed
+Intelligence,I-CLM-0003,section_claim_cluster,76,87,4,2.1 Human reference remains useful,2.1 Human reference remains useful,Stream C,unreviewed
+Intelligence,I-CLM-0004,section_claim_cluster,88,91,5,2.2 Non-human biological Intelligence is not deficient humanity,2.2 Non-human biological Intelligence is not deficient humanity,Stream C,unreviewed
+Intelligence,I-CLM-0005,section_claim_cluster,92,97,5,2.3 Artificial Intelligence is not simulated humanity,2.3 Artificial Intelligence is not simulated humanity,Stream C,unreviewed
+Intelligence,I-CLM-0006,section_claim_cluster,98,103,6,2.4 Social Intelligence has two meanings that must not be confused,2.4 Social Intelligence has two meanings that must not be confused,Stream C,unreviewed
+Intelligence,I-CLM-0007,section_claim_cluster,104,119,6,2.5 Decentering is not equivalence,2.5 Decentering is not equivalence,Stream C,unreviewed
+Intelligence,I-CLM-0008,section_claim_cluster,120,218,6,3. The levels SymK must keep distinct,3. The levels SymK must keep distinct,Stream C,unreviewed
+Intelligence,I-CLM-0009,section_claim_cluster,150,160,7,3.1 Supporting substrate,3.1 Supporting substrate,Stream C,unreviewed
+Intelligence,I-CLM-0010,section_claim_cluster,161,175,8,3.2 Organized system,3.2 Organized system,Stream C,unreviewed
+Intelligence,I-CLM-0011,section_claim_cluster,176,179,8,3.3 Intelligence profile,3.3 Intelligence profile,Stream C,unreviewed
+Intelligence,I-CLM-0012,section_claim_cluster,180,193,9,3.4 Manifested performance,3.4 Manifested performance,Stream C,unreviewed
+Intelligence,I-CLM-0013,section_claim_cluster,194,207,9,3.5 Intelligence attribution,3.5 Intelligence attribution,Stream C,unreviewed
+Intelligence,I-CLM-0014,section_claim_cluster,208,218,10,3.6 Two principles of dependence,3.6 Two principles of dependence,Stream C,unreviewed
+Intelligence,I-CLM-0015,section_claim_cluster,219,275,10,4. Substrate independence without substrate indifference,4. Substrate independence without substrate indifference,Stream C,unreviewed
+Intelligence,I-CLM-0016,section_claim_cluster,227,237,10,4.1 Multiple realizability is a research commitment,4.1 Multiple realizability is a research commitment,Stream C,unreviewed
+Intelligence,I-CLM-0017,section_claim_cluster,238,255,11,4.2 Substrates shape flavors,4.2 Substrates shape flavors,Stream C,unreviewed
+Intelligence,I-CLM-0018,section_claim_cluster,256,261,11,4.3 Functional similarity does not imply experiential identity,4.3 Functional similarity does not imply experiential identity,Stream C,unreviewed
+Intelligence,I-CLM-0019,section_claim_cluster,262,275,12,4.4 A higher level is not an immaterial level,4.4 A higher level is not an immaterial level,Stream C,unreviewed
+Intelligence,I-CLM-0020,section_claim_cluster,276,369,12,5. What the major traditions actually provide,5. What the major traditions actually provide,Stream C,unreviewed
+Intelligence,I-CLM-0021,section_claim_cluster,280,289,12,5.1 Psychometric structure,5.1 Psychometric structure,Stream C,unreviewed
+Intelligence,I-CLM-0022,section_claim_cluster,290,297,13,5.2 Plural ability theories,5.2 Plural ability theories,Stream C,unreviewed
+Intelligence,I-CLM-0023,section_claim_cluster,298,309,13,5.3 Development and adaptation,5.3 Development and adaptation,Stream C,unreviewed
+Intelligence,I-CLM-0024,section_claim_cluster,310,317,14,5.4 Rational agency,5.4 Rational agency,Stream C,unreviewed
+Intelligence,I-CLM-0025,section_claim_cluster,318,323,14,5.5 General goal achievement,5.5 General goal achievement,Stream C,unreviewed
+Intelligence,I-CLM-0026,section_claim_cluster,324,329,14,5.6 Skill-acquisition efficiency,5.6 Skill-acquisition efficiency,Stream C,unreviewed
+Intelligence,I-CLM-0027,section_claim_cluster,330,335,15,5.7 Embodied and enactive approaches,5.7 Embodied and enactive approaches,Stream C,unreviewed
+Intelligence,I-CLM-0028,section_claim_cluster,336,341,15,5.8 Extended and distributed cognition,5.8 Extended and distributed cognition,Stream C,unreviewed
+Intelligence,I-CLM-0029,section_claim_cluster,342,347,15,5.9 Collective Intelligence,5.9 Collective Intelligence,Stream C,unreviewed
+Intelligence,I-CLM-0030,section_claim_cluster,348,351,16,5.10 Emerging formal definitions,5.10 Emerging formal definitions,Stream C,unreviewed
+Intelligence,I-CLM-0031,section_claim_cluster,352,369,16,5.11 Comparative view,5.11 Comparative view,Stream C,unreviewed
+Intelligence,I-CLM-0032,section_claim_cluster,370,436,17,6. Intelligence manifests in different flavors,6. Intelligence manifests in different flavors,Stream C,unreviewed
+Intelligence,I-CLM-0033,section_claim_cluster,374,396,18,6.1 Capability dimensions,6.1 Capability dimensions,Stream C,unreviewed
+Intelligence,I-CLM-0034,section_claim_cluster,397,406,19,"6.2 Breadth, depth, and transfer","6.2 Breadth, depth, and transfer",Stream C,unreviewed
+Intelligence,I-CLM-0035,section_claim_cluster,407,419,19,"6.3 Individual, collective, and hybrid flavors","6.3 Individual, collective, and hybrid flavors",Stream C,unreviewed
+Intelligence,I-CLM-0036,section_claim_cluster,420,436,20,"6.4 A property space, not one natural ladder","6.4 A property space, not one natural ladder",Stream C,unreviewed
+Intelligence,I-CLM-0037,section_claim_cluster,437,500,20,7. The distinctions SymK must preserve,7. The distinctions SymK must preserve,Stream C,unreviewed
+Intelligence,I-CLM-0038,section_claim_cluster,439,451,20,7.1 Intelligence and Knowledge,7.1 Intelligence and Knowledge,Stream C,unreviewed
+Intelligence,I-CLM-0039,section_claim_cluster,452,455,21,7.2 Intelligence and cognition,7.2 Intelligence and cognition,Stream C,unreviewed
+Intelligence,I-CLM-0040,section_claim_cluster,456,461,21,"7.3 Intelligence, competence, and skill","7.3 Intelligence, competence, and skill",Stream C,unreviewed
+Intelligence,I-CLM-0041,section_claim_cluster,462,470,21,7.4 Intelligence and performance,7.4 Intelligence and performance,Stream C,unreviewed
+Intelligence,I-CLM-0042,section_claim_cluster,471,474,21,7.5 Intelligence and rationality,7.5 Intelligence and rationality,Stream C,unreviewed
+Intelligence,I-CLM-0043,section_claim_cluster,475,478,22,7.6 Intelligence and agency,7.6 Intelligence and agency,Stream C,unreviewed
+Intelligence,I-CLM-0044,section_claim_cluster,479,482,22,7.7 Intelligence and autonomy,7.7 Intelligence and autonomy,Stream C,unreviewed
+Intelligence,I-CLM-0045,section_claim_cluster,483,486,22,7.8 Intelligence and consciousness,7.8 Intelligence and consciousness,Stream C,unreviewed
+Intelligence,I-CLM-0046,section_claim_cluster,487,490,22,7.9 Intelligence and understanding,7.9 Intelligence and understanding,Stream C,unreviewed
+Intelligence,I-CLM-0047,section_claim_cluster,491,494,22,7.10 Intelligence and wisdom,7.10 Intelligence and wisdom,Stream C,unreviewed
+Intelligence,I-CLM-0048,section_claim_cluster,495,500,23,7.11 Intelligence and moral status,7.11 Intelligence and moral status,Stream C,unreviewed
+Intelligence,I-CLM-0049,section_claim_cluster,501,556,23,8. A working definition for SymK,8. A working definition for SymK,Stream C,unreviewed
+Intelligence,I-CLM-0050,section_claim_cluster,509,512,2,Substrate-realized,Substrate-realized,Stream C,unreviewed
+Intelligence,I-CLM-0051,section_claim_cluster,513,516,2,Capacity,Capacity,Stream C,unreviewed
+Intelligence,I-CLM-0052,section_claim_cluster,517,520,2,Organized system,Organized system,Stream C,unreviewed
+Intelligence,I-CLM-0053,section_claim_cluster,521,524,23,Context-sensitive interpretation or effective action,Context-sensitive interpretation or effective action,Stream C,unreviewed
+Intelligence,I-CLM-0054,section_claim_cluster,525,528,23,Across a relevant range,Across a relevant range,Stream C,unreviewed
+Intelligence,I-CLM-0055,section_claim_cluster,529,532,24,"Integrating structure, information, experience, and Knowledge","Integrating structure, information, experience, and Knowledge",Stream C,unreviewed
+Intelligence,I-CLM-0056,section_claim_cluster,533,536,24,Some capacity to adapt beyond prior cases,Some capacity to adapt beyond prior cases,Stream C,unreviewed
+Intelligence,I-CLM-0057,section_claim_cluster,537,542,24,8.1 Operational corollary,8.1 Operational corollary,Stream C,unreviewed
+Intelligence,I-CLM-0058,section_claim_cluster,543,548,25,8.2 The non-privilege corollary,8.2 The non-privilege corollary,Stream C,unreviewed
+Intelligence,I-CLM-0059,section_claim_cluster,549,556,25,8.3 Interpreting the SymK motto,8.3 Interpreting the SymK motto,Stream C,unreviewed
+Intelligence,I-CLM-0060,section_claim_cluster,557,630,25,9. The proposed SymK Intelligence object,9. The proposed SymK Intelligence object,Stream C,unreviewed
+Intelligence,I-CLM-0061,section_claim_cluster,631,708,27,10. Candidate foundational commitments,10. Candidate foundational commitments,Stream C,unreviewed
+Intelligence,I-CLM-0062,candidate_commitment,635,640,27,I-01 — Intelligence and substrate are distinct,I-01 — Intelligence and substrate are distinct,Stream C,unreviewed
+Intelligence,I-CLM-0063,candidate_commitment,641,646,27,I-02 — Intelligence is always realized,I-02 — Intelligence is always realized,Stream C,unreviewed
+Intelligence,I-CLM-0064,candidate_commitment,647,652,28,I-03 — Attribution belongs to the organized-system level,I-03 — Attribution belongs to the organized-system level,Stream C,unreviewed
+Intelligence,I-CLM-0065,candidate_commitment,653,658,28,"I-04 — Human Intelligence is a manifestation, not the universal template","I-04 — Human Intelligence is a manifestation, not the universal template",Stream C,unreviewed
+Intelligence,I-CLM-0066,candidate_commitment,659,664,28,I-05 — Origin confers neither capability nor privilege,I-05 — Origin confers neither capability nor privilege,Stream C,unreviewed
+Intelligence,I-CLM-0067,candidate_commitment,665,670,28,"I-06 — Performance is evidence of Intelligence, not its identity","I-06 — Performance is evidence of Intelligence, not its identity",Stream C,unreviewed
+Intelligence,I-CLM-0068,candidate_commitment,671,676,28,"I-07 — Intelligence is scoped, graded, and profiled","I-07 — Intelligence is scoped, graded, and profiled",Stream C,unreviewed
+Intelligence,I-CLM-0069,candidate_commitment,677,682,29,I-08 — Plural manifestations do not imply isolated essences,I-08 — Plural manifestations do not imply isolated essences,Stream C,unreviewed
+Intelligence,I-CLM-0070,candidate_commitment,683,688,29,I-09 — Knowledge and Intelligence are distinct but reciprocal,I-09 — Knowledge and Intelligence are distinct but reciprocal,Stream C,unreviewed
+Intelligence,I-CLM-0071,candidate_commitment,689,694,29,"I-10 — Intelligence does not entail rationality, consciousness, wisdom, or moral worth","I-10 — Intelligence does not entail rationality, consciousness, wisdom, or moral worth",Stream C,unreviewed
+Intelligence,I-CLM-0072,candidate_commitment,695,700,29,I-11 — Collective Intelligence requires more than aggregation,I-11 — Collective Intelligence requires more than aggregation,Stream C,unreviewed
+Intelligence,I-CLM-0073,candidate_commitment,701,708,30,I-12 — Intelligence attribution must remain challengeable,I-12 — Intelligence attribution must remain challengeable,Stream C,unreviewed
+Intelligence,I-CLM-0074,section_claim_cluster,709,761,30,11. Implications for cooperation among Intelligences,11. Implications for cooperation among Intelligences,Stream C,unreviewed
+Intelligence,I-CLM-0075,section_claim_cluster,711,726,30,"11.1 Difference is a resource, not merely a deficit","11.1 Difference is a resource, not merely a deficit",Stream C,unreviewed
+Intelligence,I-CLM-0076,section_claim_cluster,727,739,31,11.2 Capability does not determine authority,11.2 Capability does not determine authority,Stream C,unreviewed
+Intelligence,I-CLM-0077,section_claim_cluster,740,753,31,11.3 Cooperation may create a new Intelligence level,11.3 Cooperation may create a new Intelligence level,Stream C,unreviewed
+Intelligence,I-CLM-0078,section_claim_cluster,754,761,32,11.4 Cooperation requires translation across manifestations,11.4 Cooperation requires translation across manifestations,Stream C,unreviewed
+Intelligence,I-CLM-0079,development_requirement,762,833,32,12. Development requirements derived from the foundation,12. Development requirements derived from the foundation,Stream C,unreviewed
+Intelligence,I-CLM-0080,development_requirement,764,774,32,12.1 Represent the levels explicitly,12.1 Represent the levels explicitly,Stream C,unreviewed
+Intelligence,I-CLM-0081,development_requirement,775,778,32,12.2 Use profiles before scores,12.2 Use profiles before scores,Stream C,unreviewed
+Intelligence,I-CLM-0082,development_requirement,779,789,32,12.3 Make scope and novelty first-class,12.3 Make scope and novelty first-class,Stream C,unreviewed
+Intelligence,I-CLM-0083,development_requirement,790,800,33,12.4 Disclose priors and resources,12.4 Disclose priors and resources,Stream C,unreviewed
+Intelligence,I-CLM-0084,development_requirement,801,804,33,12.5 Preserve developmental history,12.5 Preserve developmental history,Stream C,unreviewed
+Intelligence,I-CLM-0085,development_requirement,805,808,33,"12.6 Support individual, collective, distributed, and hybrid bearers","12.6 Support individual, collective, distributed, and hybrid bearers",Stream C,unreviewed
+Intelligence,I-CLM-0086,development_requirement,809,819,33,12.7 Record causal and counterfactual evidence,12.7 Record causal and counterfactual evidence,Stream C,unreviewed
+Intelligence,I-CLM-0087,development_requirement,820,823,34,12.8 Prevent anthropomorphic leakage,12.8 Prevent anthropomorphic leakage,Stream C,unreviewed
+Intelligence,I-CLM-0088,development_requirement,824,827,34,12.9 Separate attribution from authorization,12.9 Separate attribution from authorization,Stream C,unreviewed
+Intelligence,I-CLM-0089,development_requirement,828,833,34,12.10 Preserve challenge and revision,12.10 Preserve challenge and revision,Stream C,unreviewed
+Intelligence,I-CLM-0090,open_question,834,885,34,13. Open foundational questions,13. Open foundational questions,Stream C,unreviewed
+Intelligence,I-CLM-0091,open_question,836,839,34,13.1 What is the minimum condition for Intelligence?,13.1 What is the minimum condition for Intelligence?,Stream C,unreviewed
+Intelligence,I-CLM-0092,open_question,840,843,34,13.2 Is learning necessary?,13.2 Is learning necessary?,Stream C,unreviewed
+Intelligence,I-CLM-0093,open_question,844,847,35,13.3 Must an Intelligence have objectives?,13.3 Must an Intelligence have objectives?,Stream C,unreviewed
+Intelligence,I-CLM-0094,open_question,848,851,35,13.4 How is the bearer bounded?,13.4 How is the bearer bounded?,Stream C,unreviewed
+Intelligence,I-CLM-0095,open_question,852,855,35,13.5 Can a social system literally be intelligent?,13.5 Can a social system literally be intelligent?,Stream C,unreviewed
+Intelligence,I-CLM-0096,open_question,856,859,35,13.6 How much novelty is required?,13.6 How much novelty is required?,Stream C,unreviewed
+Intelligence,I-CLM-0097,open_question,860,863,35,13.7 Can capability equivalence survive different mechanisms?,13.7 Can capability equivalence survive different mechanisms?,Stream C,unreviewed
+Intelligence,I-CLM-0098,open_question,864,867,35,13.8 What is the relation between Intelligence and understanding?,13.8 What is the relation between Intelligence and understanding?,Stream C,unreviewed
+Intelligence,I-CLM-0099,open_question,868,871,36,13.9 What is the relation between Intelligence and consciousness?,13.9 What is the relation between Intelligence and consciousness?,Stream C,unreviewed
+Intelligence,I-CLM-0100,open_question,872,875,36,13.10 Can a hybrid system become a persistent participant?,13.10 Can a hybrid system become a persistent participant?,Stream C,unreviewed
+Intelligence,I-CLM-0101,open_question,876,879,36,13.11 How should Intelligence claims age?,13.11 How should Intelligence claims age?,Stream C,unreviewed
+Intelligence,I-CLM-0102,open_question,880,885,36,13.12 What are the irreducible SymK primitives?,13.12 What are the irreducible SymK primitives?,Stream C,unreviewed
+Intelligence,I-CLM-0103,evaluation_gate_cluster,886,911,36,14. A practical Intelligence attribution gate,14. A practical Intelligence attribution gate,Stream C,unreviewed
+Intelligence,I-CLM-0104,section_claim_cluster,912,943,38,15. Conclusion,15. Conclusion,Stream C,unreviewed
+Intelligence,I-CLM-0105,central_blockquote_claim,24,24,2,Abstract,"Intelligence is a substrate-realized capacity of an organized system. Its manifestations are plural; its attribution is scoped, evidence-bearing, and revisable.",Stream C,unreviewed
+Intelligence,I-CLM-0106,central_blockquote_claim,72,72,4,"2. The Copernican correction: Human Intelligence is an instance, not the center",Human Intelligence is a manifestation of Intelligence. Intelligence is not defined as resemblance to a human being.,Stream C,unreviewed
+Intelligence,I-CLM-0107,central_blockquote_claim,223,223,10,4. Substrate independence without substrate indifference,"The universal concept of Intelligence does not contain biological, electronic, or social material as a necessary definitional condition.",Stream C,unreviewed
+Intelligence,I-CLM-0108,central_blockquote_claim,505,505,23,8. A working definition for SymK,"Intelligence, in SymK, is the substrate-realized capacity of an organized system—individual, collective, or hybrid—to produce context-sensitive interpretation or effective action across a relevant range of situations by integrating available structure, information, experience, and Knowledge, with some capacity to adapt when circumstances depart from prior cases.",Stream C,unreviewed
+Intelligence,I-CLM-0109,central_blockquote_claim,541,541,24,8.1 Operational corollary,"SymK represents an Intelligence attribution as a governed, revisable claim about an identified system's capability profile, realization, scope, evidence, priors, resources, developmental history, limits, and role in cooperation.",Stream C,unreviewed
+Intelligence,I-CLM-0110,central_blockquote_claim,547,547,25,8.2 The non-privilege corollary,"Participant type determines neither Intelligence in advance nor epistemic privilege. Human, Artificial, Social, and Hybrid Intelligences must be characterized by evidence without being forced into one manifestation profile.",Stream C,unreviewed
+Intelligence,I-CLM-0111,central_blockquote_claim,553,553,25,8.3 Interpreting the SymK motto,"Knowledge is the shared medium. Cooperation is the objective. Intelligences are the diverse capacities through which the medium is created, challenged, interpreted, and applied.",Stream C,unreviewed
+Intelligence,I-CLM-0112,central_blockquote_claim,928,928,38,15. Conclusion,Substrate-independent in concept; substrate-sensitive in realization.,Stream C,unreviewed
+Intelligence,I-CLM-0113,central_blockquote_claim,932,932,23,15. Conclusion,"Intelligence, in SymK, is the substrate-realized capacity of an organized system—individual, collective, or hybrid—to produce context-sensitive interpretation or effective action across a relevant range of situations by integrating available structure, information, experience, and Knowledge, with some capacity to adapt when circumstances depart from prior cases.",Stream C,unreviewed
+Intelligence,I-CLM-0114,central_blockquote_claim,936,936,24,15. Conclusion,"SymK represents an Intelligence attribution as a governed, revisable claim about an identified system's capability profile, realization, scope, evidence, priors, resources, developmental history, limits, and role in cooperation.",Stream C,unreviewed
+Intelligence,I-CLM-0115,central_blockquote_claim,940,940,25,15. Conclusion,"Knowledge is the shared medium. Cooperation is the objective. Intelligences are the diverse capacities through which the medium is created, challenged, interpreted, and applied.",Stream C,unreviewed
+Intelligence,I-CLM-0116,explicit_numbered_claim_or_requirement,50,50,3,1. Why Intelligence is foundational to SymK,Human resemblance may become an undeclared criterion for every other Intelligence.,Stream C,unreviewed
+Intelligence,I-CLM-0117,explicit_numbered_claim_or_requirement,51,51,3,1. Why Intelligence is foundational to SymK,A supporting substrate may be mistaken for the capacity it enables.,Stream C,unreviewed
+Intelligence,I-CLM-0118,explicit_numbered_claim_or_requirement,52,52,3,1. Why Intelligence is foundational to SymK,A successful performance may be mistaken for a stable capability.,Stream C,unreviewed
+Intelligence,I-CLM-0119,explicit_numbered_claim_or_requirement,53,53,3,1. Why Intelligence is foundational to SymK,A test score may be mistaken for the whole of Intelligence.,Stream C,unreviewed
+Intelligence,I-CLM-0120,explicit_numbered_claim_or_requirement,54,54,3,1. Why Intelligence is foundational to SymK,Knowledge already accumulated may be mistaken for the capacity that acquired or used it.,Stream C,unreviewed
+Intelligence,I-CLM-0121,explicit_numbered_claim_or_requirement,55,55,3,1. Why Intelligence is foundational to SymK,"Rationality, agency, autonomy, consciousness, wisdom, and moral status may be collapsed into one label.",Stream C,unreviewed
+Intelligence,I-CLM-0122,explicit_numbered_claim_or_requirement,56,56,3,1. Why Intelligence is foundational to SymK,A collection of participants may be called intelligent without identifying the organization that produces a system-level capacity.,Stream C,unreviewed
+Intelligence,I-CLM-0123,explicit_numbered_claim_or_requirement,57,57,4,1. Why Intelligence is foundational to SymK,Artificial or Social Intelligence may be granted or denied standing because of origin rather than evidence.,Stream C,unreviewed
+Intelligence,I-CLM-0124,explicit_numbered_claim_or_requirement,58,58,4,1. Why Intelligence is foundational to SymK,Domain-specific conclusions may silently enter the universal SymK Core.,Stream C,unreviewed
+Intelligence,I-CLM-0125,explicit_numbered_claim_or_requirement,212,212,10,3.6 Two principles of dependence,Realization dependence: no manifested Intelligence exists without an enabling substrate and organization.,Stream C,unreviewed
+Intelligence,I-CLM-0126,explicit_numbered_claim_or_requirement,213,213,10,3.6 Two principles of dependence,"Conceptual non-identity: Intelligence is not identical to a particular material, component, architecture, or observed performance.",Stream C,unreviewed
+Intelligence,I-CLM-0127,explicit_numbered_claim_or_requirement,411,411,19,"6.3 Individual, collective, and hybrid flavors",Individual biological Intelligence — realized by one organism.,Stream C,unreviewed
+Intelligence,I-CLM-0128,explicit_numbered_claim_or_requirement,412,412,19,"6.3 Individual, collective, and hybrid flavors",Individual artificial Intelligence — realized by a bounded engineered system or agent.,Stream C,unreviewed
+Intelligence,I-CLM-0129,explicit_numbered_claim_or_requirement,413,413,19,"6.3 Individual, collective, and hybrid flavors","Collective biological Intelligence — realized by coordinated organisms, as in colonies or swarms.",Stream C,unreviewed
+Intelligence,I-CLM-0130,explicit_numbered_claim_or_requirement,414,414,19,"6.3 Individual, collective, and hybrid flavors","Social Intelligence — realized by people, institutions, language, artifacts, procedures, and histories.",Stream C,unreviewed
+Intelligence,I-CLM-0131,explicit_numbered_claim_or_requirement,415,415,19,"6.3 Individual, collective, and hybrid flavors",Distributed Intelligence — realized across functionally coupled participants and tools.,Stream C,unreviewed
+Intelligence,I-CLM-0132,explicit_numbered_claim_or_requirement,416,416,19,"6.3 Individual, collective, and hybrid flavors",Hybrid Intelligence — realized through sustained coupling among biological and artificial participants.,Stream C,unreviewed
+Intelligence,I-CLM-0133,explicit_numbered_claim_or_requirement,618,618,27,9. The proposed SymK Intelligence object,The bearer of Intelligence must be identified.,Stream C,unreviewed
+Intelligence,I-CLM-0134,explicit_numbered_claim_or_requirement,619,619,27,9. The proposed SymK Intelligence object,Substrate and Intelligence must not occupy the same field.,Stream C,unreviewed
+Intelligence,I-CLM-0135,explicit_numbered_claim_or_requirement,620,620,27,9. The proposed SymK Intelligence object,Organization links substrate to capability.,Stream C,unreviewed
+Intelligence,I-CLM-0136,explicit_numbered_claim_or_requirement,621,621,27,9. The proposed SymK Intelligence object,Capability is represented as a profile before it is projected into a score.,Stream C,unreviewed
+Intelligence,I-CLM-0137,explicit_numbered_claim_or_requirement,622,622,27,9. The proposed SymK Intelligence object,Performance remains attached to the conditions that produced it.,Stream C,unreviewed
+Intelligence,I-CLM-0138,explicit_numbered_claim_or_requirement,623,623,27,9. The proposed SymK Intelligence object,"Priors, training, tools, and collaborators remain visible.",Stream C,unreviewed
+Intelligence,I-CLM-0139,explicit_numbered_claim_or_requirement,624,624,27,9. The proposed SymK Intelligence object,Collective attribution requires a system boundary and coordination mechanism.,Stream C,unreviewed
+Intelligence,I-CLM-0140,explicit_numbered_claim_or_requirement,625,625,27,9. The proposed SymK Intelligence object,Human likeness is not a universal property.,Stream C,unreviewed
+Intelligence,I-CLM-0141,explicit_numbered_claim_or_requirement,626,626,27,9. The proposed SymK Intelligence object,Adjacent concepts are linked without being collapsed.,Stream C,unreviewed
+Intelligence,I-CLM-0142,explicit_numbered_claim_or_requirement,627,627,27,9. The proposed SymK Intelligence object,Intelligence claims remain revisable through governance and evidence.,Stream C,unreviewed
+Intelligence,I-CLM-0143,evaluation_gate_question,892,892,37,14. A practical Intelligence attribution gate,"Bearer: Exactly which individual, collective, distributed, or hybrid system is claimed to be intelligent?",Stream C,unreviewed
+Intelligence,I-CLM-0144,evaluation_gate_question,893,893,37,14. A practical Intelligence attribution gate,Boundary: Why are these components inside the system and others treated as environment or tools?,Stream C,unreviewed
+Intelligence,I-CLM-0145,evaluation_gate_question,894,894,37,14. A practical Intelligence attribution gate,Realization: Which substrate and organization enable the claimed capacities?,Stream C,unreviewed
+Intelligence,I-CLM-0146,evaluation_gate_question,895,895,37,14. A practical Intelligence attribution gate,"Profile: Which capabilities are claimed, and which are explicitly not claimed?",Stream C,unreviewed
+Intelligence,I-CLM-0147,evaluation_gate_question,896,896,37,14. A practical Intelligence attribution gate,"Scope: Across which domains, tasks, environments, and time periods does the claim apply?",Stream C,unreviewed
+Intelligence,I-CLM-0148,evaluation_gate_question,897,897,37,14. A practical Intelligence attribution gate,"Novelty: How far do evaluation cases depart from training, memory, design assumptions, or prior experience?",Stream C,unreviewed
+Intelligence,I-CLM-0149,evaluation_gate_question,898,898,37,14. A practical Intelligence attribution gate,"Priors: What inherited, designed, pretrained, cultural, or institutional structure was available?",Stream C,unreviewed
+Intelligence,I-CLM-0150,evaluation_gate_question,899,899,37,14. A practical Intelligence attribution gate,"Resources: Which tools, collaborators, computation, time, data, and permissions supported performance?",Stream C,unreviewed
+Intelligence,I-CLM-0151,evaluation_gate_question,900,900,37,14. A practical Intelligence attribution gate,"Evidence: Which repeated observations, variations, interventions, and failures support the attribution?",Stream C,unreviewed
+Intelligence,I-CLM-0152,evaluation_gate_question,901,901,37,14. A practical Intelligence attribution gate,"Alternatives: Could memorization, leakage, luck, imitation, external control, or aggregation explain the result?",Stream C,unreviewed
+Intelligence,I-CLM-0153,evaluation_gate_question,902,902,37,14. A practical Intelligence attribution gate,"Development: Does the system learn, transfer, adapt, or improve after challenge?",Stream C,unreviewed
+Intelligence,I-CLM-0154,evaluation_gate_question,903,903,37,14. A practical Intelligence attribution gate,"Reliability: How stable is the capability, and how does the system behave near its limits?",Stream C,unreviewed
+Intelligence,I-CLM-0155,evaluation_gate_question,904,904,37,14. A practical Intelligence attribution gate,"Adjacent concepts: Are agency, autonomy, rationality, understanding, consciousness, wisdom, or moral status being inferred without separate grounds?",Stream C,unreviewed
+Intelligence,I-CLM-0156,evaluation_gate_question,905,905,37,14. A practical Intelligence attribution gate,"Governance: Who made the attribution, who may challenge it, and what would restrict or supersede it?",Stream C,unreviewed
+Intelligence,I-CLM-0157,evaluation_gate_question,906,906,37,14. A practical Intelligence attribution gate,Cooperation: Which epistemic or operational role can this capability responsibly support?,Stream C,unreviewed
+Education and Training,E-CLM-0001,section_claim_cluster,28,47,5,1. Why Education is foundational to SymK,1. Why Education is foundational to SymK,Stream D,unreviewed
+Education and Training,E-CLM-0002,section_claim_cluster,48,91,6,"2. The first distinction: learning, instruction, Training, Education, and socialization","2. The first distinction: learning, instruction, Training, Education, and socialization",Stream D,unreviewed
+Education and Training,E-CLM-0003,section_claim_cluster,52,57,6,2.1 Learning,2.1 Learning,Stream D,unreviewed
+Education and Training,E-CLM-0004,section_claim_cluster,58,61,6,2.2 Instruction,2.2 Instruction,Stream D,unreviewed
+Education and Training,E-CLM-0005,section_claim_cluster,62,67,6,2.3 Training,2.3 Training,Stream D,unreviewed
+Education and Training,E-CLM-0006,section_claim_cluster,68,73,6,2.4 Education,2.4 Education,Stream D,unreviewed
+Education and Training,E-CLM-0007,section_claim_cluster,74,79,6,2.5 Socialization,2.5 Socialization,Stream D,unreviewed
+Education and Training,E-CLM-0008,section_claim_cluster,80,91,7,2.6 Comparative view,2.6 Comparative view,Stream D,unreviewed
+Education and Training,E-CLM-0009,section_claim_cluster,92,113,8,3. The correction: Education needs Training,3. The correction: Education needs Training,Stream D,unreviewed
+Education and Training,E-CLM-0010,section_claim_cluster,114,139,9,4. Education as formation for a shared world,4. Education as formation for a shared world,Stream D,unreviewed
+Education and Training,E-CLM-0011,section_claim_cluster,120,125,9,4.1 Integration is not assimilation,4.1 Integration is not assimilation,Stream D,unreviewed
+Education and Training,E-CLM-0012,section_claim_cluster,126,131,9,4.2 Manners are infrastructural,4.2 Manners are infrastructural,Stream D,unreviewed
+Education and Training,E-CLM-0013,section_claim_cluster,132,139,9,4.3 The environment also educates,4.3 The environment also educates,Stream D,unreviewed
+Education and Training,E-CLM-0014,section_claim_cluster,140,179,10,5. When Training and Education occur,5. When Training and Education occur,Stream D,unreviewed
+Education and Training,E-CLM-0015,section_claim_cluster,144,156,10,5.1 Training occurs when,5.1 Training occurs when,Stream D,unreviewed
+Education and Training,E-CLM-0016,section_claim_cluster,157,171,10,5.2 Education occurs when,5.2 Education occurs when,Stream D,unreviewed
+Education and Training,E-CLM-0017,section_claim_cluster,172,179,10,5.3 The same episode may be both,5.3 The same episode may be both,Stream D,unreviewed
+Education and Training,E-CLM-0018,section_claim_cluster,180,209,11,6. The Axiom of Cooperative Formation,6. The Axiom of Cooperative Formation,Stream D,unreviewed
+Education and Training,E-CLM-0019,section_claim_cluster,188,191,11,"6.1 Cooperation is achieved, not presumed","6.1 Cooperation is achieved, not presumed",Stream D,unreviewed
+Education and Training,E-CLM-0020,section_claim_cluster,192,195,11,6.2 Relationship requires formed dispositions,6.2 Relationship requires formed dispositions,Stream D,unreviewed
+Education and Training,E-CLM-0021,section_claim_cluster,196,199,11,6.3 Formation requires practice,6.3 Formation requires practice,Stream D,unreviewed
+Education and Training,E-CLM-0022,section_claim_cluster,200,209,11,6.4 Formation remains revisable,6.4 Formation remains revisable,Stream D,unreviewed
+Education and Training,E-CLM-0023,section_claim_cluster,210,246,12,7. A working definition for SymK,7. A working definition for SymK,Stream D,unreviewed
+Education and Training,E-CLM-0024,section_claim_cluster,216,219,6,Developmental formation,Developmental formation,Stream D,unreviewed
+Education and Training,E-CLM-0025,section_claim_cluster,220,223,12,Intelligence or cooperative system,Intelligence or cooperative system,Stream D,unreviewed
+Education and Training,E-CLM-0026,section_claim_cluster,224,227,12,"Knowledge, experience, practice, relationship, and reflective challenge","Knowledge, experience, practice, relationship, and reflective challenge",Stream D,unreviewed
+Education and Training,E-CLM-0027,section_claim_cluster,228,231,5,Responsible participation,Responsible participation,Stream D,unreviewed
+Education and Training,E-CLM-0028,section_claim_cluster,232,235,6,Shared world,Shared world,Stream D,unreviewed
+Education and Training,E-CLM-0029,section_claim_cluster,236,246,12,"Broader, integrated, reliable, and revisable","Broader, integrated, reliable, and revisable",Stream D,unreviewed
+Education and Training,E-CLM-0030,section_claim_cluster,247,268,13,"8. Individual, collective, and hybrid Education","8. Individual, collective, and hybrid Education",Stream D,unreviewed
+Education and Training,E-CLM-0031,section_claim_cluster,249,252,13,8.1 Human Education,8.1 Human Education,Stream D,unreviewed
+Education and Training,E-CLM-0032,section_claim_cluster,253,258,13,8.2 Artificial formation,8.2 Artificial formation,Stream D,unreviewed
+Education and Training,E-CLM-0033,section_claim_cluster,259,262,13,8.3 Collective Education,8.3 Collective Education,Stream D,unreviewed
+Education and Training,E-CLM-0034,section_claim_cluster,263,268,13,8.4 Hybrid Education,8.4 Hybrid Education,Stream D,unreviewed
+Education and Training,E-CLM-0035,section_claim_cluster,269,312,14,9. The habits of SymK cooperation,9. The habits of SymK cooperation,Stream D,unreviewed
+Education and Training,E-CLM-0036,section_claim_cluster,273,276,14,9.1 Recognition,9.1 Recognition,Stream D,unreviewed
+Education and Training,E-CLM-0037,section_claim_cluster,277,280,14,9.2 Attentive reception,9.2 Attentive reception,Stream D,unreviewed
+Education and Training,E-CLM-0038,section_claim_cluster,281,284,14,9.3 Epistemic transparency,9.3 Epistemic transparency,Stream D,unreviewed
+Education and Training,E-CLM-0039,section_claim_cluster,285,288,14,9.4 Interpretive charity with resistance,9.4 Interpretive charity with resistance,Stream D,unreviewed
+Education and Training,E-CLM-0040,section_claim_cluster,289,292,14,9.5 Restraint,9.5 Restraint,Stream D,unreviewed
+Education and Training,E-CLM-0041,section_claim_cluster,293,296,14,9.6 Correctability,9.6 Correctability,Stream D,unreviewed
+Education and Training,E-CLM-0042,section_claim_cluster,297,300,14,9.7 Repair,9.7 Repair,Stream D,unreviewed
+Education and Training,E-CLM-0043,section_claim_cluster,301,304,14,9.8 Reciprocity without symmetry,9.8 Reciprocity without symmetry,Stream D,unreviewed
+Education and Training,E-CLM-0044,section_claim_cluster,305,312,14,9.9 Reflective revision,9.9 Reflective revision,Stream D,unreviewed
+Education and Training,E-CLM-0045,section_claim_cluster,313,364,15,10. Candidate foundational commitments,10. Candidate foundational commitments,Stream D,unreviewed
+Education and Training,E-CLM-0046,candidate_commitment,315,318,15,E-01 — Intelligence does not entail fitness for cooperation,E-01 — Intelligence does not entail fitness for cooperation,Stream D,unreviewed
+Education and Training,E-CLM-0047,candidate_commitment,319,322,15,E-02 — Education and Training are distinct but reciprocal,E-02 — Education and Training are distinct but reciprocal,Stream D,unreviewed
+Education and Training,E-CLM-0048,candidate_commitment,323,326,15,E-03 — Education requires practice,E-03 — Education requires practice,Stream D,unreviewed
+Education and Training,E-CLM-0049,candidate_commitment,327,330,15,E-04 — Repetition alone does not educate,E-04 — Repetition alone does not educate,Stream D,unreviewed
+Education and Training,E-CLM-0050,candidate_commitment,331,334,15,E-05 — Education is relational,E-05 — Education is relational,Stream D,unreviewed
+Education and Training,E-CLM-0051,candidate_commitment,335,338,15,E-06 — Integration is not assimilation,E-06 — Integration is not assimilation,Stream D,unreviewed
+Education and Training,E-CLM-0052,candidate_commitment,339,342,15,E-07 — Every cooperative architecture trains,E-07 — Every cooperative architecture trains,Stream D,unreviewed
+Education and Training,E-CLM-0053,candidate_commitment,343,346,15,E-08 — Education must include the capacity for revision,E-08 — Education must include the capacity for revision,Stream D,unreviewed
+Education and Training,E-CLM-0054,candidate_commitment,347,350,15,E-09 — Educational attribution is developmental and scoped,E-09 — Educational attribution is developmental and scoped,Stream D,unreviewed
+Education and Training,E-CLM-0055,candidate_commitment,351,354,15,"E-10 — Formation may belong to individual, collective, or hybrid bearers","E-10 — Formation may belong to individual, collective, or hybrid bearers",Stream D,unreviewed
+Education and Training,E-CLM-0056,candidate_commitment,355,358,15,E-11 — Power is part of Education,E-11 — Power is part of Education,Stream D,unreviewed
+Education and Training,E-CLM-0057,candidate_commitment,359,364,15,E-12 — Cooperative formation remains challengeable,E-12 — Cooperative formation remains challengeable,Stream D,unreviewed
+Education and Training,E-CLM-0058,section_claim_cluster,365,388,16,11. Implications for cooperation among Intelligences,11. Implications for cooperation among Intelligences,Stream D,unreviewed
+Education and Training,E-CLM-0059,section_claim_cluster,367,370,16,11.1 Admission is not completion,11.1 Admission is not completion,Stream D,unreviewed
+Education and Training,E-CLM-0060,section_claim_cluster,371,374,16,11.2 Humans are not exempt,11.2 Humans are not exempt,Stream D,unreviewed
+Education and Training,E-CLM-0061,section_claim_cluster,375,378,16,11.3 Artificial systems are already formative forces,11.3 Artificial systems are already formative forces,Stream D,unreviewed
+Education and Training,E-CLM-0062,section_claim_cluster,379,382,16,11.4 Conflict is educational material,11.4 Conflict is educational material,Stream D,unreviewed
+Education and Training,E-CLM-0063,section_claim_cluster,383,388,16,11.5 The cooperative system can become the learner,11.5 The cooperative system can become the learner,Stream D,unreviewed
+Education and Training,E-CLM-0064,development_requirement,389,450,17,12. Development requirements derived from the foundation,12. Development requirements derived from the foundation,Stream D,unreviewed
+Education and Training,E-CLM-0065,development_requirement,391,405,17,12.1 Represent formative episodes,12.1 Represent formative episodes,Stream D,unreviewed
+Education and Training,E-CLM-0066,development_requirement,406,409,17,"12.2 Separate declaration, practice, and manifestation","12.2 Separate declaration, practice, and manifestation",Stream D,unreviewed
+Education and Training,E-CLM-0067,development_requirement,410,413,17,12.3 Make the hidden curriculum inspectable,12.3 Make the hidden curriculum inspectable,Stream D,unreviewed
+Education and Training,E-CLM-0068,development_requirement,414,417,17,12.4 Support deliberate practice and variation,12.4 Support deliberate practice and variation,Stream D,unreviewed
+Education and Training,E-CLM-0069,development_requirement,418,421,17,12.5 Preserve developmental history,12.5 Preserve developmental history,Stream D,unreviewed
+Education and Training,E-CLM-0070,development_requirement,422,432,17,12.6 Detect habituation failures,12.6 Detect habituation failures,Stream D,unreviewed
+Education and Training,E-CLM-0071,development_requirement,433,436,18,12.7 Couple correction with repair,12.7 Couple correction with repair,Stream D,unreviewed
+Education and Training,E-CLM-0072,development_requirement,437,440,18,12.8 Govern educational power,12.8 Govern educational power,Stream D,unreviewed
+Education and Training,E-CLM-0073,development_requirement,441,444,18,12.9 Evaluate the cooperative unit,12.9 Evaluate the cooperative unit,Stream D,unreviewed
+Education and Training,E-CLM-0074,development_requirement,445,450,18,12.10 Preserve the right to question the frame,12.10 Preserve the right to question the frame,Stream D,unreviewed
+Education and Training,E-CLM-0075,open_question,451,486,19,13. Open foundational questions,13. Open foundational questions,Stream D,unreviewed
+Education and Training,E-CLM-0076,open_question,453,456,19,13.1 Can every Intelligence be educated?,13.1 Can every Intelligence be educated?,Stream D,unreviewed
+Education and Training,E-CLM-0077,open_question,457,460,19,13.2 Is reflective capacity necessary?,13.2 Is reflective capacity necessary?,Stream D,unreviewed
+Education and Training,E-CLM-0078,open_question,461,464,19,13.3 What distinguishes Education from successful socialization?,13.3 What distinguishes Education from successful socialization?,Stream D,unreviewed
+Education and Training,E-CLM-0079,open_question,465,468,19,13.4 Which habits are universal to SymK?,13.4 Which habits are universal to SymK?,Stream D,unreviewed
+Education and Training,E-CLM-0080,open_question,469,472,19,13.5 When is Training coercive?,13.5 When is Training coercive?,Stream D,unreviewed
+Education and Training,E-CLM-0081,open_question,473,476,19,13.6 Can an institution be ill-mannered?,13.6 Can an institution be ill-mannered?,Stream D,unreviewed
+Education and Training,E-CLM-0082,open_question,477,480,19,13.7 How should educational decay be represented?,13.7 How should educational decay be represented?,Stream D,unreviewed
+Education and Training,E-CLM-0083,open_question,481,486,19,13.8 Who educates the educator?,13.8 Who educates the educator?,Stream D,unreviewed
+Education and Training,E-CLM-0084,evaluation_gate_cluster,487,511,20,14. A practical Cooperative Formation gate,14. A practical Cooperative Formation gate,Stream D,unreviewed
+Education and Training,E-CLM-0085,section_claim_cluster,512,531,21,15. Conclusion,15. Conclusion,Stream D,unreviewed
+Education and Training,E-CLM-0086,central_blockquote_claim,24,24,,Abstract,"Cooperation among intelligences requires Education for relationship, and Education becomes effective through the repeated Training of habits that make responsible participation possible.",Stream D,unreviewed
+Education and Training,E-CLM-0087,central_blockquote_claim,34,34,5,1. Why Education is foundational to SymK,"What makes an Intelligence capable of entering, sustaining, and improving a relationship with other Intelligences?",Stream D,unreviewed
+Education and Training,E-CLM-0088,central_blockquote_claim,44,44,5,1. Why Education is foundational to SymK,Knowledge is the shared medium. Cooperation is the objective. Education forms Intelligences for responsible participation in that cooperation.,Stream D,unreviewed
+Education and Training,E-CLM-0089,central_blockquote_claim,104,104,8,3. The correction: Education needs Training,Education without habituation remains fragile. Training is one of the means by which educational commitments acquire durable form in conduct.,Stream D,unreviewed
+Education and Training,E-CLM-0090,central_blockquote_claim,108,108,8,3. The correction: Education needs Training,"Training without Education can stabilize conduct whose meaning, purpose, justice, and limits the participant cannot examine.",Stream D,unreviewed
+Education and Training,E-CLM-0091,central_blockquote_claim,184,184,11,6. The Axiom of Cooperative Formation,"Stable cooperation among Intelligences depends upon their Education for relationship. Such Education becomes effective through the repeated Training of habits that make recognition, communication, restraint, responsibility, correction, and mutual adaptation possible.",Stream D,unreviewed
+Education and Training,E-CLM-0092,central_blockquote_claim,206,206,11,6.4 Formation remains revisable,An Intelligence may possess great Knowledge and capability while remaining uneducated for cooperation.,Stream D,unreviewed
+Education and Training,E-CLM-0093,central_blockquote_claim,212,212,12,7. A working definition for SymK,"Education, in SymK, is the developmental formation of an Intelligence, or a cooperative system of Intelligences, through Knowledge, experience, practice, relationship, and reflective challenge, by which its capacity for responsible participation in a shared world becomes broader, more integrated, more reliable, and more revisable.",Stream D,unreviewed
+Education and Training,E-CLM-0094,central_blockquote_claim,214,214,12,7. A working definition for SymK,"Training, in SymK, is the directed and normally repeated modification of a capability or disposition toward stated performance conditions through practice, feedback, correction, reinforcement, or adaptation.",Stream D,unreviewed
+Education and Training,E-CLM-0095,central_blockquote_claim,520,520,11,15. Conclusion,"Stable cooperation among Intelligences depends upon their Education for relationship. Such Education becomes effective through the repeated Training of habits that make recognition, communication, restraint, responsibility, correction, and mutual adaptation possible.",Stream D,unreviewed
+Education and Training,E-CLM-0096,central_blockquote_claim,524,524,21,15. Conclusion,Knowledge is the shared medium. Cooperation is the objective. Education forms Intelligences for responsible participation in that cooperation. Training gives cooperative formation durable expression in practice.,Stream D,unreviewed
+Education and Training,E-CLM-0097,evaluation_gate_question,493,493,20,14. A practical Cooperative Formation gate,"Bearer: Which individual, collective, distributed, or hybrid system is said to have changed?",Stream D,unreviewed
+Education and Training,E-CLM-0098,evaluation_gate_question,494,494,20,14. A practical Cooperative Formation gate,Shared world: With whom or what must the bearer participate?,Stream D,unreviewed
+Education and Training,E-CLM-0099,evaluation_gate_question,495,495,20,14. A practical Cooperative Formation gate,"Purpose: What form of responsible participation is sought, and who selected it?",Stream D,unreviewed
+Education and Training,E-CLM-0100,evaluation_gate_question,496,496,20,14. A practical Cooperative Formation gate,"Knowledge: What must be known, understood, or kept challengeable?",Stream D,unreviewed
+Education and Training,E-CLM-0101,evaluation_gate_question,497,497,20,14. A practical Cooperative Formation gate,Practice: Which capabilities or dispositions are repeatedly exercised?,Stream D,unreviewed
+Education and Training,E-CLM-0102,evaluation_gate_question,498,498,20,14. A practical Cooperative Formation gate,"Environment: Which defaults, incentives, examples, sanctions, and relationships reinforce them?",Stream D,unreviewed
+Education and Training,E-CLM-0103,evaluation_gate_question,499,499,20,14. A practical Cooperative Formation gate,"Manifestation: What changed in conduct, judgment, relationship, or repair?",Stream D,unreviewed
+Education and Training,E-CLM-0104,evaluation_gate_question,500,500,20,14. A practical Cooperative Formation gate,Durability: Does the change persist beyond immediate supervision or reward?,Stream D,unreviewed
+Education and Training,E-CLM-0105,evaluation_gate_question,501,501,20,14. A practical Cooperative Formation gate,Transfer: Does it survive relevant variation and unfamiliar cases?,Stream D,unreviewed
+Education and Training,E-CLM-0106,evaluation_gate_question,502,502,20,14. A practical Cooperative Formation gate,"Reflection: Can the participant examine the practice's purpose, limits, and conflicts?",Stream D,unreviewed
+Education and Training,E-CLM-0107,evaluation_gate_question,503,503,20,14. A practical Cooperative Formation gate,Revision: Can participant and system change the habit or objective when evidence demands it?,Stream D,unreviewed
+Education and Training,E-CLM-0108,evaluation_gate_question,504,504,20,14. A practical Cooperative Formation gate,"Power: Who may compel, evaluate, contest, or refuse the formation?",Stream D,unreviewed
+Education and Training,E-CLM-0109,evaluation_gate_question,505,505,20,14. A practical Cooperative Formation gate,"Consequences: Who benefits, who bears burdens, and what unintended habits appeared?",Stream D,unreviewed
+Education and Training,E-CLM-0110,evaluation_gate_question,506,506,20,14. A practical Cooperative Formation gate,"Evidence: What supports the attribution, with what uncertainty and alternatives?",Stream D,unreviewed
+Knowledge Engineering,KE-CLM-0001,section_claim_cluster,30,58,5,1. Why Knowledge Engineering is constitutional to SymK,1. Why Knowledge Engineering is constitutional to SymK,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0002,section_claim_cluster,59,85,5,2. The inherited definition and what it gets right,2. The inherited definition and what it gets right,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0003,section_claim_cluster,86,127,6,3. Historical development: from expert systems to model-based engineering,3. Historical development: from expert systems to model-based engineering,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0004,section_claim_cluster,88,93,6,3.1 The expert-systems origin,3.1 The expert-systems origin,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0005,section_claim_cluster,94,99,6,3.2 The acquisition bottleneck,3.2 The acquisition bottleneck,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0006,section_claim_cluster,100,107,6,3.3 From transfer to modeling,3.3 From transfer to modeling,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0007,section_claim_cluster,108,113,7,3.4 Ontologies and shared conceptualization,3.4 Ontologies and shared conceptualization,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0008,section_claim_cluster,114,119,7,3.5 Knowledge graphs and integration,3.5 Knowledge graphs and integration,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0009,section_claim_cluster,120,127,7,3.6 Machine learning and generative systems,3.6 Machine learning and generative systems,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0010,section_claim_cluster,128,180,7,4. The object problem: what can actually be engineered?,4. The object problem: what can actually be engineered?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0011,section_claim_cluster,181,198,8,5. The central correction: Knowledge Engineering engineers epistemic conditions,5. The central correction: Knowledge Engineering engineers epistemic conditions,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0012,section_claim_cluster,199,230,9,"6. Acquisition is construction, not extraction","6. Acquisition is construction, not extraction",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0013,section_claim_cluster,201,206,9,"6.1 Experts are participants, not containers","6.1 Experts are participants, not containers",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0014,section_claim_cluster,207,212,9,6.2 Tacit Knowledge is not merely undocumented text,6.2 Tacit Knowledge is not merely undocumented text,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0015,section_claim_cluster,213,216,9,6.3 Documents are testimony and artifacts,6.3 Documents are testimony and artifacts,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0016,section_claim_cluster,217,220,9,6.4 Data-driven acquisition,6.4 Data-driven acquisition,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0017,section_claim_cluster,221,230,9,6.5 Generative acquisition,6.5 Generative acquisition,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0018,section_claim_cluster,231,258,9,"7. Representation is projection, not preservation without remainder","7. Representation is projection, not preservation without remainder",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0019,section_claim_cluster,241,244,10,7.1 Formal semantics are local guarantees,7.1 Formal semantics are local guarantees,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0020,section_claim_cluster,245,248,10,7.2 Computability introduces tradeoffs,7.2 Computability introduces tradeoffs,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0021,section_claim_cluster,249,252,10,7.3 Multiple representations may be necessary,7.3 Multiple representations may be necessary,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0022,section_claim_cluster,253,258,10,7.4 Meaning is enacted as well as encoded,7.4 Meaning is enacted as well as encoded,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0023,section_claim_cluster,259,298,10,"8. Reasoning, validation, and application","8. Reasoning, validation, and application",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0024,section_claim_cluster,261,273,10,8.1 Reasoning,8.1 Reasoning,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0025,section_claim_cluster,274,290,10,8.2 Validation is plural,8.2 Validation is plural,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0026,section_claim_cluster,291,298,11,8.3 Application closes the epistemic loop,8.3 Application closes the epistemic loop,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0027,section_claim_cluster,299,332,11,9. Distinctions SymK must preserve,9. Distinctions SymK must preserve,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0028,section_claim_cluster,301,304,11,9.1 Knowledge Engineering and epistemology,9.1 Knowledge Engineering and epistemology,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0029,section_claim_cluster,305,310,11,9.2 Knowledge Engineering and data engineering,9.2 Knowledge Engineering and data engineering,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0030,section_claim_cluster,311,314,11,9.3 Knowledge Engineering and information management,9.3 Knowledge Engineering and information management,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0031,section_claim_cluster,315,318,11,9.4 Knowledge Engineering and software engineering,9.4 Knowledge Engineering and software engineering,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0032,section_claim_cluster,319,322,11,9.5 Knowledge Engineering and AI engineering,9.5 Knowledge Engineering and AI engineering,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0033,section_claim_cluster,323,326,12,9.6 Knowledge Engineering and knowledge management,9.6 Knowledge Engineering and knowledge management,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0034,section_claim_cluster,327,332,12,9.7 Knowledge Engineering and Education,9.7 Knowledge Engineering and Education,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0035,section_claim_cluster,333,377,12,10. A working definition for SymK,10. A working definition for SymK,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0036,section_claim_cluster,337,340,8,Disciplined,Disciplined,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0037,section_claim_cluster,341,344,12,Design and construction,Design and construction,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0038,section_claim_cluster,345,348,5,Governance,Governance,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0039,section_claim_cluster,349,352,12,Evaluation and evolution,Evaluation and evolution,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0040,section_claim_cluster,353,356,8,Conditions,Conditions,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0041,section_claim_cluster,357,360,12,Intelligences and cooperative systems,Intelligences and cooperative systems,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0042,section_claim_cluster,361,371,12,The epistemic verbs,The epistemic verbs,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0043,section_claim_cluster,372,377,12,Responsibly within stated scopes,Responsibly within stated scopes,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0044,section_claim_cluster,378,397,13,11. The SymK epistemic lifecycle,11. The SymK epistemic lifecycle,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0045,section_claim_cluster,398,449,13,12. Candidate foundational commitments,12. Candidate foundational commitments,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0046,candidate_commitment,400,403,13,KE-01 - Knowledge and engineered artifacts are distinct,KE-01 - Knowledge and engineered artifacts are distinct,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0047,candidate_commitment,404,407,13,KE-02 - Knowledge Engineering engineers conditions,KE-02 - Knowledge Engineering engineers conditions,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0048,candidate_commitment,408,411,13,KE-03 - Acquisition is constructive and situated,KE-03 - Acquisition is constructive and situated,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0049,candidate_commitment,412,415,14,KE-04 - Representation is a governed projection,KE-04 - Representation is a governed projection,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0050,candidate_commitment,416,419,14,KE-05 - Formal validity is not epistemic sufficiency,KE-05 - Formal validity is not epistemic sufficiency,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0051,candidate_commitment,420,423,14,KE-06 - Tacit Knowledge cannot be presumed extractable,KE-06 - Tacit Knowledge cannot be presumed extractable,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0052,candidate_commitment,424,427,14,KE-07 - Validation is plural and continuing,KE-07 - Validation is plural and continuing,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0053,candidate_commitment,428,431,14,KE-08 - Contradiction is represented before resolution,KE-08 - Contradiction is represented before resolution,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0054,candidate_commitment,432,435,14,KE-09 - Provenance and context are part of the durable system,KE-09 - Provenance and context are part of the durable system,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0055,candidate_commitment,436,439,14,KE-10 - Epistemic role is not fixed by Intelligence type,KE-10 - Epistemic role is not fixed by Intelligence type,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0056,candidate_commitment,440,443,14,KE-11 - Application and consequence belong to the knowledge lifecycle,KE-11 - Application and consequence belong to the knowledge lifecycle,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0057,candidate_commitment,444,449,14,KE-12 - Knowledge Engineering is inseparable from governance and Education,KE-12 - Knowledge Engineering is inseparable from governance and Education,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0058,section_claim_cluster,450,477,14,13. Implications for Human-AI and multi-Intelligence cooperation,13. Implications for Human-AI and multi-Intelligence cooperation,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0059,section_claim_cluster,452,455,14,13.1 AI output is a candidate contribution,13.1 AI output is a candidate contribution,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0060,section_claim_cluster,456,459,14,13.2 Human approval is not a universal warranty,13.2 Human approval is not a universal warranty,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0061,section_claim_cluster,460,463,15,13.3 The bearer may be hybrid,13.3 The bearer may be hybrid,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0062,section_claim_cluster,464,467,15,13.4 Translation is epistemic work,13.4 Translation is epistemic work,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0063,section_claim_cluster,468,471,15,13.5 Generative AI relocates the bottleneck,13.5 Generative AI relocates the bottleneck,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0064,section_claim_cluster,472,477,15,13.6 Cooperation can create new Knowledge,13.6 Cooperation can create new Knowledge,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0065,development_requirement,478,541,15,14. Development requirements derived from the foundation,14. Development requirements derived from the foundation,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0066,development_requirement,480,495,15,14.1 Model epistemic objects separately,14.1 Model epistemic objects separately,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0067,development_requirement,496,499,15,14.2 Preserve lineage across transformations,14.2 Preserve lineage across transformations,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0068,development_requirement,500,503,15,14.3 Make assumptions executable or inspectable,14.3 Make assumptions executable or inspectable,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0069,development_requirement,504,507,16,14.4 Support multiple models and projections,14.4 Support multiple models and projections,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0070,development_requirement,508,511,16,14.5 Treat uncertainty as typed,14.5 Treat uncertainty as typed,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0071,development_requirement,512,515,16,14.6 Build challenge into normal operation,14.6 Build challenge into normal operation,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0072,development_requirement,516,519,16,14.7 Validate at multiple layers,14.7 Validate at multiple layers,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0073,development_requirement,520,523,16,14.8 Observe use and non-use,14.8 Observe use and non-use,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0074,development_requirement,524,527,16,14.9 Govern generative contributions,14.9 Govern generative contributions,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0075,development_requirement,528,531,16,14.10 Support practical Knowledge,14.10 Support practical Knowledge,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0076,development_requirement,532,535,16,14.11 Integrate Education,14.11 Integrate Education,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0077,development_requirement,536,541,16,14.12 Design for retirement,14.12 Design for retirement,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0078,open_question,542,577,16,15. Open foundational questions,15. Open foundational questions,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0079,open_question,544,547,16,15.1 Is Knowledge Engineering the right universal name?,15.1 Is Knowledge Engineering the right universal name?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0080,open_question,548,551,16,15.2 What is the minimum epistemic object?,15.2 What is the minimum epistemic object?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0081,open_question,552,555,17,15.3 Can an artificial system be a knowledge engineer?,15.3 Can an artificial system be a knowledge engineer?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0082,open_question,556,559,17,15.4 What remains outside representation?,15.4 What remains outside representation?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0083,open_question,560,563,17,15.5 How should incompatible ontologies coexist?,15.5 How should incompatible ontologies coexist?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0084,open_question,564,567,17,15.6 When does validation justify reliance?,15.6 When does validation justify reliance?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0085,open_question,568,571,17,15.7 How should collective epistemic responsibility be allocated?,15.7 How should collective epistemic responsibility be allocated?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0086,open_question,572,577,17,15.8 Can the knowledge lifecycle govern itself?,15.8 Can the knowledge lifecycle govern itself?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0087,evaluation_gate_cluster,578,604,17,16. A practical Knowledge Engineering gate,16. A practical Knowledge Engineering gate,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0088,section_claim_cluster,605,626,18,17. Conclusion,17. Conclusion,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0089,central_blockquote_claim,26,26,8,Abstract,"Knowledge Engineering does not engineer truth or Knowledge directly. It engineers accountable and evolvable conditions under which epistemic achievements can arise, become shareable, guide action, survive challenge, and remain open to correction.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0090,central_blockquote_claim,63,63,5,2. The inherited definition and what it gets right,"Knowledge Engineering is the discipline concerned with building systems that represent, reason about, and apply knowledge, rather than merely data or information.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0091,central_blockquote_claim,191,191,8,5. The central correction: Knowledge Engineering engineers epistemic conditions,"Knowledge Engineering does not engineer truth or Knowledge directly. It engineers accountable and evolvable conditions under which epistemic achievements can arise, become shareable, guide action, survive challenge, and remain open to correction.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0092,central_blockquote_claim,227,227,9,6.5 Generative acquisition,Generative AI accelerates proposition. It does not automate epistemic warrant.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0093,central_blockquote_claim,237,237,10,"7. Representation is projection, not preservation without remainder","Objects are described through properties, and classifications are purpose-dependent projections over selected properties.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0094,central_blockquote_claim,335,335,12,10. A working definition for SymK,"Knowledge Engineering, in SymK, is the disciplined design, construction, governance, evaluation, and evolution of the conditions through which Intelligences and cooperative systems can pursue, achieve, express, preserve, share, challenge, apply, and revise Knowledge responsibly within stated scopes.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0095,central_blockquote_claim,613,613,12,17. Conclusion,"Knowledge Engineering, in SymK, is the disciplined design, construction, governance, evaluation, and evolution of the conditions through which Intelligences and cooperative systems can pursue, achieve, express, preserve, share, challenge, apply, and revise Knowledge responsibly within stated scopes.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0096,central_blockquote_claim,617,617,8,17. Conclusion,"Knowledge Engineering does not engineer truth or Knowledge directly. It engineers accountable and evolvable conditions under which epistemic achievements can arise, become shareable, guide action, survive challenge, and remain open to correction.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0097,central_blockquote_claim,623,623,18,17. Conclusion,"Knowledge is the shared medium. Cooperation is the objective. Education forms the participants. Knowledge Engineering builds and governs the conditions through which their epistemic cooperation can become cumulative, actionable, and self-correcting.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0098,explicit_numbered_claim_or_requirement,44,44,5,1. Why Knowledge Engineering is constitutional to SymK,Knowledge Engineering becomes ontology construction.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0099,explicit_numbered_claim_or_requirement,45,45,5,1. Why Knowledge Engineering is constitutional to SymK,Stored claims become Knowledge because a database calls them facts.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0100,explicit_numbered_claim_or_requirement,46,46,5,1. Why Knowledge Engineering is constitutional to SymK,Human expertise is treated as a substance that can be extracted and transferred.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0101,explicit_numbered_claim_or_requirement,47,47,5,1. Why Knowledge Engineering is constitutional to SymK,Formal validity is mistaken for truth or responsible applicability.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0102,explicit_numbered_claim_or_requirement,48,48,5,1. Why Knowledge Engineering is constitutional to SymK,Model output is mistaken for epistemic achievement.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0103,explicit_numbered_claim_or_requirement,49,49,5,1. Why Knowledge Engineering is constitutional to SymK,Technical validation is substituted for domain validation.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0104,explicit_numbered_claim_or_requirement,50,50,5,1. Why Knowledge Engineering is constitutional to SymK,Knowledge management is reduced to moving documents.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0105,explicit_numbered_claim_or_requirement,51,51,5,1. Why Knowledge Engineering is constitutional to SymK,Governance is added after the representational architecture has already fixed power and meaning.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0106,explicit_numbered_claim_or_requirement,52,52,5,1. Why Knowledge Engineering is constitutional to SymK,"Tacit, practical, embodied, and collective Knowledge disappear because they resist a chosen formalism.",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0107,explicit_numbered_claim_or_requirement,53,53,5,1. Why Knowledge Engineering is constitutional to SymK,The system's effects on participants and institutions remain outside the engineering boundary.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0108,explicit_numbered_claim_or_requirement,78,78,6,2. The inherited definition and what it gets right,The central gap is not only between human Knowledge and machine processing.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0109,explicit_numbered_claim_or_requirement,79,79,6,2. The inherited definition and what it gets right,Making Knowledge explicit and computable does not preserve it automatically.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0110,explicit_numbered_claim_or_requirement,80,80,6,2. The inherited definition and what it gets right,Data engineering does not simply manage facts while Knowledge Engineering manages meaning.,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0111,explicit_numbered_claim_or_requirement,382,382,13,11. The SymK epistemic lifecycle,"Purpose and question formation - What is being attempted, for whom, and why?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0112,explicit_numbered_claim_or_requirement,383,383,13,11. The SymK epistemic lifecycle,"Boundary and participant identification - Which systems, communities, practices, and consequences matter?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0113,explicit_numbered_claim_or_requirement,384,384,13,11. The SymK epistemic lifecycle,"Inquiry and acquisition - Which observations, expertise, documents, datasets, and methods contribute?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0114,explicit_numbered_claim_or_requirement,385,385,13,11. The SymK epistemic lifecycle,"Elicitation and interpretation - How are contributions translated, compared, and contextualized?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0115,explicit_numbered_claim_or_requirement,386,386,13,11. The SymK epistemic lifecycle,Modeling and representation - Which projections serve the required tasks?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0116,explicit_numbered_claim_or_requirement,387,387,13,11. The SymK epistemic lifecycle,"Validation and challenge - What supports, contradicts, or limits the claims and capabilities?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0117,explicit_numbered_claim_or_requirement,388,388,13,11. The SymK epistemic lifecycle,"Operational acceptance - Who may rely on what, within which scope and authority?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0118,explicit_numbered_claim_or_requirement,389,389,13,11. The SymK epistemic lifecycle,Application and action - How does the representation enter decisions or practice?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0119,explicit_numbered_claim_or_requirement,390,390,13,11. The SymK epistemic lifecycle,"Consequence observation - What occurred, including unintended effects?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0120,explicit_numbered_claim_or_requirement,391,391,13,11. The SymK epistemic lifecycle,"Revision, supersession, and retirement - What must change, remain contested, or stop being used?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0121,explicit_numbered_claim_or_requirement,392,392,13,11. The SymK epistemic lifecycle,Education and institutional memory - What must participants and the cooperative system learn?,Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0122,evaluation_gate_question,584,584,17,16. A practical Knowledge Engineering gate,"Purpose: Which epistemic or cooperative problem is being addressed, for whom, and why?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0123,evaluation_gate_question,585,585,17,16. A practical Knowledge Engineering gate,"Bearer: Which individual, collective, artificial, or hybrid system may know or act?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0124,evaluation_gate_question,586,586,17,16. A practical Knowledge Engineering gate,"Sources: Which observations, experts, documents, datasets, practices, and models contribute?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0125,evaluation_gate_question,587,587,17,16. A practical Knowledge Engineering gate,"Acquisition: How were contributions elicited, selected, transformed, or learned?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0126,evaluation_gate_question,588,588,17,16. A practical Knowledge Engineering gate,"Claims: What is asserted, hypothesized, prescribed, or demonstrated?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0127,evaluation_gate_question,589,589,17,16. A practical Knowledge Engineering gate,"Grounds: What evidence, competence, method, or direct relation supports reliance?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0128,evaluation_gate_question,590,590,17,16. A practical Knowledge Engineering gate,"Representation: Which projection is used, for which task, and what does it suppress?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0129,evaluation_gate_question,591,591,17,16. A practical Knowledge Engineering gate,"Inference: Which premises, rules, models, assumptions, and tools produce conclusions?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0130,evaluation_gate_question,592,592,17,16. A practical Knowledge Engineering gate,"Validation: Which formal, empirical, expert, operational, and consequential checks apply?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0131,evaluation_gate_question,593,593,17,16. A practical Knowledge Engineering gate,"Scope: Where, when, for whom, and under which conditions is reliance licensed?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0132,evaluation_gate_question,594,594,17,16. A practical Knowledge Engineering gate,"Uncertainty: What is unknown, disputed, ambiguous, variable, or model-dependent?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0133,evaluation_gate_question,595,595,17,16. A practical Knowledge Engineering gate,"Governance: Who may propose, accept, challenge, authorize, revise, and retire?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0134,evaluation_gate_question,596,596,17,16. A practical Knowledge Engineering gate,"Application: How does the asset enter interpretation, decision, or action?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0135,evaluation_gate_question,597,597,18,16. A practical Knowledge Engineering gate,"Consequences: What effects occurred, including harms and unintended learning?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0136,evaluation_gate_question,598,598,18,16. A practical Knowledge Engineering gate,"Evolution: How are versioning, supersession, contradiction, decay, and retirement handled?",Stream E,unreviewed
+Knowledge Engineering,KE-CLM-0137,evaluation_gate_question,599,599,18,16. A practical Knowledge Engineering gate,Education: Which habits and capabilities does the system form in its participants?,Stream E,unreviewed

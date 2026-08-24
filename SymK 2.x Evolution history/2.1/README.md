@@ -1,6 +1,6 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — DR-009 through DR-018 Stage-Accepted; 2.1.9 complete for progression; `2.1-rc.1` created; 2.1.10 open, Stream A not started
+**Stage status:** Active — DR-009 through DR-018 Stage-Accepted; 2.1.9 complete for progression; `2.1-rc.1` created; 2.1.10 open, Streams A–G complete, Stream H open with Human review pending
 **Target version:** `2.1`  
 **Current version:** `2.1-rc.1`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
@@ -40,6 +40,8 @@ A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constit
 10. `2.1.10_Foundation_Papers_v0.2_and_Human_Communication.md`
 11. `2.1.11_Final_Consistency_Audit_and_Stage_Acceptance.md`
     - `2.1.11.1_Cross_Document_Consistency_Audit.md`
+    - `2.1.11.1A_PROJECT_NAME_AND_IDENTITY_FITNESS_REVIEW.md`
+    - `2.1.11.1B_POST_3.0_PROJECT_NAME_CHALLENGE_DEFERRAL.md`
     - `2.1.11.2_Final_Stage_Acceptance.md`
 
 2.1.1 through 2.1.8 are complete for progression and DR-009 through DR-017 are Stage-Accepted. Under `SYMK-2X-EV-137`–`138`, 2.1.8 formally opened with its inherited constraints, authority-ranked sources, seven Streams A–G, twenty-four mandatory counterexamples, three-view obligations, overlap routes, and non-effects fixed. Streams A–F evidence `SYMK-2X-EV-139`–`144` establishes and consolidates the complete Question/Reasoning/Answer/quality/time/cost/Value/outcome/consequence/feedback/correction/Learning system. Stream G evidence `SYMK-2X-EV-145` creates the exact 978-line DR-016 proposal. Project-steward evidence `SYMK-2X-EV-148` and the 2.1.8 acceptance record and manifest Stage-Accept that object: Question, Reasoning, Answer, and Value are Foundational concepts; Complex Question is a governed supporting relational qualification; profiles and adjacent families are individually routed; DR-013 dispositions are retained; and the accepted object incorporates nine planes, sixty envelope fields, 180 prohibited entailments, eighteen alternatives, twenty-four mandatory cases, twenty negative controls, 60 dissent questions, thirty reopening conditions, and the universal DQ-014 conceptual answer.
@@ -50,7 +52,15 @@ Project-steward authority `SYMK-2X-EV-149` formally opens 2.1.9 after commit `21
 
 Streams E–F evidence `SYMK-2X-EV-155`–`156` supplies the source-validated tension/DQ/authority/constitutional-readiness closure, affected-artifact map, four-paper plan, bounded project probes and consolidated tests. Stream G evidence `SYMK-2X-EV-157` creates the complete Proposed DR-018 and fully represents the `2.1-rc.1` candidate. It preserves the exact predecessor system and passes eighteen integration tests, eighteen mandatory cases and thirty negative controls. DR-018 awaits project-steward review without authority; `2.1-rc.1` is not created; 2.1.9 remains open; and 2.1.10 remains closed.
 
-Project-steward acceptance `SYMK-2X-EV-158` Stage-Accepts exact DR-018, creates the `2.1-rc.1` checkpoint and completes 2.1.9 for progression. Separate opening authority `SYMK-2X-EV-159` and control `SYMK-2X-EV-160` open 2.1.10 under an immutable v0.1 publication-source manifest. Stream A has not started. No Foundation Paper source/PDF is revised or created, no Human review is satisfied, 2.1.11 remains closed, and no Ratification or commit follows.
+Project-steward acceptance `SYMK-2X-EV-158` Stage-Accepts exact DR-018, creates the `2.1-rc.1` checkpoint and completes 2.1.9 for progression. Opening authority/control `SYMK-2X-EV-159`–`160` open 2.1.10 under immutable v0.1 inputs. Streams A–F evidence `SYMK-2X-EV-161`–`166` verifies, reconstructs and cross-paper integrates all four governed v0.2 Markdown review drafts. Stream G evidence `SYMK-2X-EV-167` creates four reproducible tagged, declared PDF/UA-1 A4 review projections without changing the Markdown hashes. All sixty-three pages, 201 bookmarks, sixty-four links, embedded fonts, selectable text, metadata, language, source coverage, diagrams, rendering and technical accessibility indicators verify; eleven wide tables use lossless stacked labelled projections. Explicit project-steward instruction “H AUTHORIZED,” confirming the earlier shorthand authorization, opens Stream H through `SYMK-2X-EV-168`; the Stream G manifest revalidates and the Human-review protocol, response template and entry manifest fix the exact objects and evidence duties. No Human reading, finding disposition, assistive-technology acceptance, publication acceptance, 2.1.10H decision, 2.1.11 opening, Ratification or commit follows from opening.
+
+While the project steward performs the required Human reading, evidence `SYMK-2X-EV-169` registers `SYMK-2X-PREP-001` as permitted evidence-producing overlap for later 2.2 and 2.3. It freezes twenty-two constitutional and legacy-constitutional artifacts and prepares thirty-nine admission, reconstruction, tension/DQ/View/case/impact, authority, status, Ratifier, standing/challenge, conflict, evidence, urgency, exception, appeal, amendment, version, source-governance, precedence, live-test and anti-circularity work items. Formal 2.2 still requires accepted 2.1; 2.3 candidate testing still requires the exact 2.2 object; Ratification still requires effective 2.3A authority. Neither stage is open.
+
+Project-steward clarification recorded as `SYMK-2X-EV-170` creates the actual closed 2.2 and 2.3 directory/document scaffolds: stage frames, eight 2.2 work packages, nine 2.3 work/checkpoint packages, inert opening/manifest templates, empty stage-local registers, summaries and SHA-256 scaffold manifests. These structures make the future work sequence inspectable but do not satisfy any entry gate, open either stage, start a work package, create a Candidate or governance authority, or Ratify anything.
+
+Project-steward evidence `SYMK-2X-EV-171` registers `SYMK-2X-PLAN-003`, refreshes the full M0–3.0 review/upgrade lifecycle and creates closed scaffolds for 2.4–3.0. It also structures the project-name and historical-expansion concern as a bounded 2.1.11 identity-fitness review without deciding that “SymK” is obsolete, selecting a successor, creating DR-019/DQ-027, or performing a rename. Stream H and all later entry gates remain unchanged.
+
+Project-steward evidence `SYMK-2X-EV-172` records `SYMK-2X-PLAN-004`: “SymK” remains a controlled historical proper name through 3.0; “Symbiotic Knowledge” remains historical lineage rather than presumed current semantics; 3.0E must not endorse the name permanently; and the substantive challenge plus conditional migration belongs to separately opened post-3.0 Stage 3.1. No name decision, Human finding, DR/DQ/TN, rename or later-stage opening follows.
 
 ## Concept disposition classes
 
@@ -151,8 +161,8 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 Program identifiers continue from 2.0:
 
 - current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-018` Stage-Accepted; next unreserved decision: `SYMK-2X-DR-019`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-160`; next available evidence: `SYMK-2X-EV-161`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-113`; next available change: `SYMK-2X-CH-114`;
+- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-172`; next available evidence: `SYMK-2X-EV-173`;
+- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-125`; next available change: `SYMK-2X-CH-126`;
 - current tension lineage adds `SYMK-2X-TN-031`; next new tension: `SYMK-2X-TN-032`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 
