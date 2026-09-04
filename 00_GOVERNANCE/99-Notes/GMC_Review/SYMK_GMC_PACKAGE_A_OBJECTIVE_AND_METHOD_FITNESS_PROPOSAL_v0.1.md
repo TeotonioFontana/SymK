@@ -1,7 +1,7 @@
 # SymK GMC Package A — Objective and Method Fitness Proposal v0.1
 
-**Status:** Superseded as the current proposal by v0.2 after start-control stress
-testing — preserved proposal lineage; never accepted
+**Status:** Superseded by v0.2 after start-control stress testing — preserved
+proposal lineage; never accepted
 **Date:** 4 September 2026
 **Preparation authority:** Project-steward instruction “Go ahead” following the GMC
 package evaluation and its recommendation to develop Package A
@@ -399,6 +399,7 @@ IMPLEMENTATION IS ACCEPTED OR OPENED.**
 
 **Subsequent disposition:** A SPServices-like start-control stress test found that
 v0.1 could detect objective and method defects but did not require an independent
-execution-release decision. The corrected current proposal is
-`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.2.md`. This predecessor
-remains preserved and was never accepted.
+execution-release decision. Its immediate corrected successor was
+`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.2.md`; later proposal
+status is recorded in the package README. This predecessor remains preserved and
+was never accepted.

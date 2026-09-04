@@ -1,6 +1,7 @@
 # SymK GMC Package A — Objective and Method Fitness Proposal v0.2
 
-**Status:** Corrected proposal for project-steward review — not accepted
+**Status:** Superseded as current proposal by v0.3 after method-adequacy stress
+testing — preserved proposal lineage; never accepted
 **Date:** 4 September 2026
 **Supersedes as current proposal:**
 `SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.1.md`
@@ -576,3 +577,11 @@ EVIDENCE, AUTONOMY, CHANGE CONTROL AND STOP CONDITIONS. THE SPSERVICES-LIKE TEST
 STOPS STRATEGICALLY UNCONTROLLED START WHILE ALLOWING BOUNDED LOW-CONSEQUENCE WORK.
 THIS IS A CORRECTED PROPOSAL, NOT ACCEPTANCE, ENFORCEMENT, STAGE OPENING OR
 IMPLEMENTATION AUTHORITY.**
+
+**Subsequent disposition:** The SPServices method-adequacy test showed that v0.2 did
+not make pre-selection empirical comparison sufficiently explicit and could allow a
+documentary alternatives review to rationalize premature deterministic-method
+commitment. It is preserved as the execution-release correction predecessor and is
+superseded as the current proposal by
+`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.3.md`. No version is
+accepted by this disposition.

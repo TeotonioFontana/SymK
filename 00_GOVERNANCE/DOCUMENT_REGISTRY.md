@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.84
+**Version:** 0.85
 **Date:** 4 September 2026
 
 ## 1. Registry summary
@@ -25,7 +25,7 @@
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
 | Policies | 1 | `SYMK-GP-001` is provisional active project-process policy; no constitutional force |
-| GMC upstream review | 1 package | Fourteen-conclusion register, integrated evaluation and corrected Package A v0.2; non-authoritative |
+| GMC upstream review | 1 package | Fourteen-conclusion register, integrated evaluation and corrected Package A v0.3; non-authoritative |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -175,7 +175,7 @@ open a closed stage or resolve the remaining generalizable-method conclusions.
 
 **Holdings:** One package README, one fourteen-item analytical disposition register,
 one integrated evaluation of four cooperating governance packages, preserved
-Package A v0.1 and corrected current Package A v0.2.
+Package A v0.1–v0.2 predecessors and corrected current Package A v0.3.
 
 **Status and effect:** Non-authoritative upstream-learning material. All fourteen
 GMCs have analytical dispositions, proposed routes, evidence needs and preserved
@@ -183,11 +183,12 @@ tensions. The integrated evaluation finds a coherent recursive arrangement acros
 objective/method fitness, epistemic role cooperation, proportional assurance and
 governance cost, and observation/pause/pivot/upstream learning. No GMC or package is
 accepted, rejected, opened or made normative. Package A v0.1 exposed an independent
-execution-release gap in the SPServices-like start-control test and remains
-preserved. Corrected v0.2 adds separate Objective Acceptance, Method Selection and
-Execution Release gates, a proportional execution envelope, bounded autonomy and
-material stop/change controls, but remains Proposed. The package is expressly
-non-exhaustive; other SymK improvements remain open.
+execution-release gap; v0.2 corrected it but exposed insufficient pre-selection
+empirical comparison under the method-adequacy test. Both remain preserved.
+Corrected v0.3 adds credible-candidate admission, proportionate comparative trials,
+distinct Trial and Delivery Releases, continuing-fitness reassessment and pivot
+controls, but remains Proposed. The package is expressly non-exhaustive; other SymK
+improvements remain open.
 
 ## 10. Known unresolved status
 
@@ -239,6 +240,11 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.85 — 2026-09-04:** Preserved Package A v0.2 after its method-adequacy gap and
+  registered corrected v0.3 with credible-candidate admission, proportionate
+  comparative validation, distinct Trial and Delivery Releases, and
+  continuing-fitness/pivot controls. No GMC, method, real execution authority or
+  stage was accepted or opened.
 - **0.84 — 2026-09-04:** Preserved Package A v0.1 after its start-control gap and
   registered corrected v0.2 with independent Objective Acceptance, Method Selection
   and Execution Release gates. No GMC, method, real execution authority or stage was
