@@ -55,9 +55,12 @@ relation that needs candidate development.
 **Recommended analytical state:** **READY FOR A LATER METHOD-GOVERNANCE PROPOSAL.**
 This does not open 2.4 or accept a universal objective form.
 
-**Subsequent state:** The exact Package A proposal is now prepared in
-`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.1.md` for separate
-project-steward review. Preparation does not constitute acceptance.
+**Subsequent state:** Package A v0.1 exposed an execution-release gap under the
+SPServices-like start-control test and remains preserved without acceptance. The
+corrected current proposal is
+`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.2.md`; it adds separate
+Objective Acceptance, Method Selection and Execution Release gates and proportional
+bounded autonomy. Correction does not constitute acceptance.
 
 ## 4. Package B — Epistemic role cooperation
 
