@@ -1,6 +1,7 @@
 # SymK GMC Disposition Register v0.1
 
-**Status:** Analytical intake register with subsequent Package A acceptance noted
+**Status:** Analytical intake register with subsequent Package A and B acceptances
+noted
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction “do it” in direct response to the proposed
 GMC disposition-register and four-package evaluation
@@ -54,9 +55,10 @@ reject, supersede or implement a GMC.
 | `HOLD_FOR_ROUTE` | 013 | 1 |
 | **Total** | 001–014 | **14** |
 
-No table row is reclassified as `ACCEPT`, `REJECT` or `COMPLETE` because these remain
-analytical dispositions. A separate later decision accepts GMC-001 and GMC-002 only
-through exact Package A v0.3; it does not alter the meaning of the analytical table.
+No table row is reclassified as `ACCEPT`, `REJECT` or `COMPLETE` because these
+remain analytical dispositions. Separate later decisions accept GMC-001–002 through
+exact Package A v0.3 and GMC-003–008 through exact Package B v0.1; they do not alter
+the meaning of the analytical table.
 
 ## 5. Cross-GMC dependencies
 
@@ -82,14 +84,16 @@ provisional project-method governance profile through
 accepted only through that profile. Their original analytical dispositions remain
 preserved; GMC-003–014 remain neither accepted nor rejected.
 
-**Subsequent Package B state:** Package B v0.1 is now prepared in
-`SYMK_GMC_PACKAGE_B_EPISTEMIC_ROLE_COOPERATION_PROPOSAL_v0.1.md`. It uses GMC-003
-as the functional non-substitution boundary, GMC-004 as an optional,
-architecture-neutral cooperation pattern and GMC-005–008 as bounded safeguards for
-standards, AI, Human adjudication and deterministic verification. It includes
-overlap, handoff-loss, cross-Domain and SPServices medical-property tests. This
-preparation does not change any analytical disposition, accept Package B or
-GMC-003–008, allocate a real role, issue execution authority or open 2.4/2.6.
+**Subsequent Package B state:** Package B v0.1 uses GMC-003 as the functional
+non-substitution boundary, GMC-004 as an optional, architecture-neutral cooperation
+pattern and GMC-005–008 as bounded safeguards for standards, AI, Human adjudication
+and deterministic verification. It includes overlap, handoff-loss, cross-Domain and
+SPServices medical-property tests. The project steward subsequently accepted exact
+v0.1 as a provisional epistemic-role-cooperation profile through
+`SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`. GMC-003–008 are accepted
+only through that profile. Their original analytical dispositions remain preserved;
+GMC-009–014 remain neither accepted nor rejected. No real role is allocated, no
+execution authority is issued and neither 2.4 nor 2.6 is opened.
 
 ## 6. Conflicts and tensions preserved
 

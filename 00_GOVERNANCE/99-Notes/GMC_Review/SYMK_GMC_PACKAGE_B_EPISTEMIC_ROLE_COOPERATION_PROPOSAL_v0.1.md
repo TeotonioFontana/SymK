@@ -1,20 +1,26 @@
-# SymK GMC Package B — Epistemic Role Cooperation Proposal v0.1
+# SymK GMC Package B — Epistemic Role Cooperation Profile v0.1
 
-**Status:** Proposal for project-steward review — not accepted
+**Status:** Accepted provisional SymK epistemic-role-cooperation profile
 **Date:** 4 September 2026
+**Effective date:** 4 September 2026
 **Preparation authority:** Project-steward instruction “Do it” in direct response
 to the proposed Package B v0.1 preparation
+**Acceptance authority:** Explicit project-steward instruction “let's accept package
+B” after review of v0.1
+**Acceptance record:** `SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
 **Members:** GMC-003 through GMC-008
 **Depends on:** Stage-Accepted DR-009–018 distinctions, accepted Package A v0.3,
 the GMC disposition register, the cooperating-packages evaluation and provisional
 active `SYMK-GP-001`
 **Interfaces with:** Packages C and D; later 2.4C classification and 2.6
 derived-project specialization when those stages are competent
-**Normative effect:** None unless separately accepted through competent procedure
+**Normative effect:** Provisional SymK project-process governance profile within its
+declared Scope; not a constitutional norm, universal role architecture, real role
+assignment, method selection, Execution Release or stage opening
 
-## 1. Proposal result
+## 1. Profile result
 
-Package B v0.1 converts GMC-003–008 into an architecture-neutral candidate
+Package B v0.1 converts GMC-003–008 into an architecture-neutral provisional
 governance profile. Its core boundary is:
 
 > **A function that discovers or proposes meaning does not thereby validate,
@@ -27,9 +33,10 @@ participants or resources, not universally required roles. It governs what
 functions occur, how their claims travel and which invalid status or authority
 transfers must be prevented.
 
-## 2. Decision requested
+## 2. Acceptance decision and effect
 
-Accept, correct or reject an optional epistemic-role-cooperation profile that:
+The project steward accepts this exact v0.1 as a provisional SymK
+epistemic-role-cooperation profile. The accepted profile:
 
 - separates semantic discovery from grounding, validation, adjudication,
   authorization, execution control and observation;
@@ -50,12 +57,12 @@ Accept, correct or reject an optional epistemic-role-cooperation profile that:
 - composes with accepted Package A without selecting a method, assigning a real
   role or issuing execution authority.
 
-Acceptance would make this a provisional SymK epistemic-role-cooperation profile
-and incorporate GMC-003–008 only through its exact bounded formulations. It would
-make later operational-template work eligible for a separate Execution Release and
-later 2.4C classification or 2.6 specialization eligible when those stages are
-competent. It would not open either stage, prescribe one universal workflow or
-accept Packages C–D or GMC-009–014.
+Acceptance incorporates GMC-003–008 only through this profile's exact bounded
+formulations, controls and non-entailments. It makes later operational-template
+work eligible only under a separate Execution Release and makes later 2.4C
+classification or 2.6 specialization eligible when those stages are competent. It
+does not open either stage, prescribe one universal workflow or accept Packages
+C–D or GMC-009–014.
 
 ## 3. Problem addressed
 
@@ -81,7 +88,7 @@ separation.
 
 ## 4. Compatibility boundary
 
-This proposal operationalizes without reopening accepted distinctions among:
+This profile operationalizes without reopening accepted distinctions among:
 
 - output, claim, Ground, Evidence, assessment, Answer and Knowledge;
 - Representation, represented subject and Projection;
@@ -115,7 +122,7 @@ subject to later classification.
 | handoff | transfer or presentation of an object from one function, participant, stage or system boundary to another | preservation of meaning, status or authority by default |
 | declared loss | known omission, transformation, uncertainty or limitation introduced by representation or handoff | proof that all other meaning was preserved |
 
-These are proposal-local working terms and do not amend accepted SymK vocabulary.
+These are profile-local working terms and do not amend accepted SymK vocabulary.
 
 ## 6. GMC-003 core rule — functional non-substitution
 
@@ -381,7 +388,7 @@ Package D may reveal divergence or failure and return Package A or B for
 reassessment. Observation does not automatically establish the cause, responsible
 participant, correct replacement or required lifecycle response.
 
-Packages C and D remain unaccepted. These interfaces are proposal boundaries, not
+Packages C and D remain unaccepted. These interfaces are profile boundaries, not
 authority transfer.
 
 ## 18. Minimum role-cooperation decision record
@@ -500,7 +507,8 @@ material loss to be visible, challengeable and proportionately recoverable.
 
 ## 22. Cross-Domain adequacy cases
 
-Before acceptance, Package B should remain usable in materially different cases:
+As a continuing condition of fitness, Package B should remain usable in materially
+different cases:
 
 1. a single researcher interprets a small public dataset;
 2. a regulated clinical terminology decision;
@@ -551,9 +559,11 @@ configuration is adequate across Domains.
 16. A deterministic result is semantically correct. GMC-008 does not make
     determinism evidence against adequacy.
 
-## 24. Acceptance tests for v0.1
+## 24. Acceptance conditions and continuing tests
 
-Before acceptance, review must establish that Package B v0.1:
+Acceptance adopts the following continuing tests. A material failure triggers
+challenge and reassessment under Sections 27–28; it does not silently amend the
+profile or retroactively erase the recorded acceptance:
 
 1. preserves exact DR-009–018 distinctions and accepted Package A boundaries;
 2. introduces no new Foundational concept or universal workflow;
@@ -633,7 +643,7 @@ component or universal role vocabulary.
 16. Provenance does not establish truth or excuse harmful use.
 17. An optional four-family pattern does not require standards, AI, Humans or
     deterministic systems in every case.
-18. Package B acceptance would not accept a real role arrangement, method,
+18. Package B acceptance does not accept a real role arrangement, method,
     Execution Release, Package C/D or GMC-009–014.
 19. Later classification eligibility does not open 2.4C or 2.6.
 20. Package B is not the only or necessarily highest-priority remaining SymK
@@ -686,9 +696,9 @@ Reassess Package B if:
 
 ## 29. Authorities and non-effects
 
-This proposal does not:
+This accepted profile does not:
 
-- accept GMC-003–008 or Package B;
+- give GMC-003–008 independent universal force outside the exact accepted profile;
 - assign a Human, AI system, standard, institution or deterministic tool to a real
   role;
 - establish competence, authority, authorship, Responsibility or liability;
@@ -703,15 +713,17 @@ This proposal does not:
 - accept Packages C–D or GMC-009–014; or
 - establish that the GMC set exhausts SymK improvement.
 
-## 30. Proposal result
+## 30. Acceptance result
 
-**PACKAGE B V0.1 IS PREPARED FOR PROJECT-STEWARD REVIEW AS A NON-AUTHORITATIVE
-EPISTEMIC-ROLE-COOPERATION PROPOSAL. GMC-003 SUPPLIES THE FUNCTIONAL
-NON-SUBSTITUTION BOUNDARY; GMC-004 DEFINES AN OPTIONAL, ARCHITECTURE-NEUTRAL
-COOPERATION PATTERN; GMC-005–008 CONSTRAIN STANDARDS, AI, HUMAN AND DETERMINISTIC
-CONTRIBUTIONS WITHOUT MAKING ANY PARTICIPANT FAMILY UNIVERSALLY NECESSARY OR
-SUFFICIENT. THE PROFILE PERMITS EXPLICIT, PROPORTIONATE FUNCTIONAL OVERLAP, REQUIRES
-MATERIAL HANDOFFS TO PRESERVE STATUS, PROVENANCE, EVIDENCE, UNCERTAINTY, DISSENT,
-AUTHORITY AND DECLARED LOSS, AND PASSES A FIRST SPSERVICES MEDICAL-PROPERTY STRESS
-TEST. THIS IS A PROPOSAL, NOT PACKAGE OR GMC ACCEPTANCE, ROLE ASSIGNMENT, METHOD
-SELECTION, EXECUTION RELEASE, STAGE OPENING OR IMPLEMENTATION AUTHORITY.**
+**PACKAGE B V0.1 IS ACCEPTED AS A PROVISIONAL SYMK
+EPISTEMIC-ROLE-COOPERATION PROFILE. GMC-003–008 ARE ACCEPTED ONLY THROUGH THIS
+PROFILE'S EXACT BOUNDED FORMULATIONS, CONTROLS AND NON-ENTAILMENTS. GMC-003 SUPPLIES
+THE FUNCTIONAL NON-SUBSTITUTION BOUNDARY; GMC-004 DEFINES AN OPTIONAL,
+ARCHITECTURE-NEUTRAL COOPERATION PATTERN; GMC-005–008 CONSTRAIN STANDARDS, AI,
+HUMAN AND DETERMINISTIC CONTRIBUTIONS WITHOUT MAKING ANY PARTICIPANT FAMILY
+UNIVERSALLY NECESSARY OR SUFFICIENT. THE PROFILE PERMITS EXPLICIT, PROPORTIONATE
+FUNCTIONAL OVERLAP, REQUIRES MATERIAL HANDOFFS TO PRESERVE STATUS, PROVENANCE,
+EVIDENCE, UNCERTAINTY, DISSENT, AUTHORITY AND DECLARED LOSS, AND PASSES A FIRST
+SPSERVICES MEDICAL-PROPERTY STRESS TEST. THIS ACCEPTANCE DOES NOT ASSIGN A REAL
+ROLE, SELECT A METHOD, ISSUE AN EXECUTION RELEASE, OPEN 2.4C OR 2.6, CREATE
+CONSTITUTIONAL AUTHORITY, OR ACCEPT PACKAGES C–D OR GMC-009–014.**

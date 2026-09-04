@@ -1,7 +1,7 @@
 # SymK Governance Policies
 
 **Status:** Canonical policy location
-**Version:** 0.3
+**Version:** 0.4
 **Date:** 4 September 2026
 
 This directory indexes project-governance policies and accepted profiles whose
@@ -22,6 +22,11 @@ epistemic truth or universal applicability.
    objectives, comparative method validation, Trial and Delivery Releases, and
    continuing-fitness reassessment. Its acceptance record is maintained beside the
    profile.
+2. `../99-Notes/GMC_Review/SYMK_GMC_PACKAGE_B_EPISTEMIC_ROLE_COOPERATION_PROPOSAL_v0.1.md`
+   — accepted provisional epistemic-role-cooperation profile for functional
+   non-substitution, optional role allocation, overlap, handoff preservation,
+   standards, AI, Human adjudication and deterministic verification. Its acceptance
+   record is maintained beside the profile.
 
 ## Authority boundary
 
@@ -37,12 +42,15 @@ effect of the change.
 ## Related open review
 
 The GMC disposition register and four-package evaluation are held under
-`../99-Notes/GMC_Review/`. Package A v0.3 is accepted provisionally through its
-separate project-steward record. Packages B–D remain non-authoritative
-upstream learning. Package A does not alter or supersede `SYMK-GP-001`.
+`../99-Notes/GMC_Review/`. Packages A v0.3 and B v0.1 are accepted provisionally
+through separate project-steward records. Packages C–D remain non-authoritative
+upstream learning. Neither accepted profile alters or supersedes `SYMK-GP-001`.
 
 ## Version history
 
+- **0.4 — 2026-09-04:** Registered accepted provisional Package B v0.1 as an
+  epistemic-role-cooperation profile without assigning a real role, issuing
+  execution authority, opening 2.4C/2.6 or accepting Packages C–D.
 - **0.3 — 2026-09-04:** Registered accepted provisional Package A v0.3 as a
   project-method governance profile without converting it into constitutional
   policy, opening 2.4 or accepting Packages B–D.

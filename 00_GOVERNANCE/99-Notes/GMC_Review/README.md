@@ -1,8 +1,8 @@
 # SymK GMC Review Package
 
-**Status:** Mixed-status GMC package — Package A v0.3 accepted provisionally;
-remaining review material non-authoritative
-**Version:** 0.6
+**Status:** Mixed-status GMC package — Packages A v0.3 and B v0.1 accepted
+provisionally; remaining review material non-authoritative
+**Version:** 0.7
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
@@ -34,10 +34,12 @@ project authority or treating local learning as a universal SymK rule.
    controls.
 6. `SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md` — exact
    project-steward acceptance, accepted-object hash, effects and non-effects.
-7. `SYMK_GMC_PACKAGE_B_EPISTEMIC_ROLE_COOPERATION_PROPOSAL_v0.1.md` —
-   non-authoritative current Package B proposal covering functional
+7. `SYMK_GMC_PACKAGE_B_EPISTEMIC_ROLE_COOPERATION_PROPOSAL_v0.1.md` — accepted
+   provisional epistemic-role-cooperation profile covering functional
    non-substitution, optional role cooperation, overlap, handoff loss, standards,
    AI, Human adjudication and deterministic verification.
+8. `SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md` — exact
+   project-steward acceptance, accepted-object hash, effects and non-effects.
 
 ## Current result
 
@@ -45,14 +47,15 @@ The integrated evaluation is complete. Package A v0.1 exposed the start-control 
 v0.2 corrected execution release but exposed insufficient pre-selection empirical
 comparison under the method-adequacy test. Both remain preserved. Exact v0.3 is now
 accepted as a provisional SymK project-method governance profile. GMC-001 and
-GMC-002 are accepted only through that profile's bounded formulations. Packages
-B–D and GMC-003–014 remain neither accepted nor rejected. `SYMK-GP-001` remains the
-independently adopted negative-control policy and is not superseded.
+GMC-002 are accepted only through that profile's bounded formulations.
+`SYMK-GP-001` remains the independently adopted negative-control policy and is not
+superseded.
 
-Package B v0.1 is now prepared for separate review. It operationalizes GMC-003–008
-as an optional, architecture-neutral epistemic-role-cooperation profile and passes
-a first SPServices medical-property stress test. It is not accepted, assigns no
-real role, issues no execution authority and opens no stage.
+Exact Package B v0.1 is now accepted as a provisional SymK
+epistemic-role-cooperation profile. GMC-003–008 are accepted only through that
+profile's bounded formulations. Packages C–D and GMC-009–014 remain neither
+accepted nor rejected. Package B assigns no real role, selects no method, issues no
+execution authority and opens no stage.
 
 The GMCs remain a non-exhaustive improvement set. Other SymK improvements may exist
 outside this package and remain discoverable through ordinary governance and
@@ -60,8 +63,8 @@ challenge processes.
 
 ## Prohibited inferences — what this package does not mean
 
-- evaluation alone does not establish acceptance; Package A acceptance comes from
-  its separate project-steward record;
+- evaluation alone does not establish acceptance; Packages A and B derive
+  acceptance from their separate project-steward records;
 - compatibility does not establish redundancy or completeness;
 - a proposed route does not open its destination stage;
 - grouping conclusions does not erase their independent status;
@@ -70,6 +73,10 @@ challenge processes.
 
 ## Version history
 
+- **0.7 — 2026-09-04:** Registered project-steward acceptance of exact Package B
+  v0.1 as a provisional epistemic-role-cooperation profile; accepted GMC-003–008
+  only through that bounded profile; left Packages C–D and GMC-009–014 unaccepted
+  and opened no stage, method selection, role assignment or execution authority.
 - **0.6 — 2026-09-04:** Added Package B v0.1 for separate review with GMC-003 as the
   functional non-substitution boundary, GMC-004 as an optional role pattern and
   GMC-005–008 as standards/AI/Human/deterministic safeguards; no Package B or GMC

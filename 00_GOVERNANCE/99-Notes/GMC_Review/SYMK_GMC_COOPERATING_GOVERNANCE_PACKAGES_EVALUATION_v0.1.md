@@ -1,7 +1,7 @@
 # SymK GMC Cooperating Governance Packages Evaluation v0.1
 
-**Status:** Integrated evaluation — Package A v0.3 accepted provisionally; Packages
-B–D remain analytical; no stage opened
+**Status:** Integrated evaluation — Packages A v0.3 and B v0.1 accepted
+provisionally; Packages C–D remain analytical; no stage opened
 **Date:** 4 September 2026
 **Depends on:** `SYMK_GMC_DISPOSITION_REGISTER_v0.1.md` and provisional active
 `SYMK-GP-001`
@@ -64,9 +64,9 @@ preserved without acceptance. Corrected v0.3 adds credible candidate admission,
 bounded comparative validation, distinct Trial and Delivery Release lanes, and
 continuing-fitness reassessment and pivot control. The project steward subsequently
 accepted exact v0.3 as a provisional project-method governance profile through
-`SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`. This accepts GMC-001 and
-GMC-002 only through that bounded profile and does not accept Packages B–D or
-GMC-003–014.
+`SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`. That decision accepts
+GMC-001 and GMC-002 only through the bounded Package A profile and did not itself
+accept Packages B–D or GMC-003–014.
 
 ## 4. Package B — Epistemic role cooperation
 
@@ -93,12 +93,15 @@ would conflict with substrate independence and legitimate project variation.
 **Recommended analytical state:** **READY FOR OPTIONAL PROFILE DESIGN AND
 COUNTEREXAMPLE TESTING.** No role allocation or Domain authority is accepted.
 
-**Subsequent state:** Package B v0.1 is prepared in
+**Subsequent state:** Package B v0.1 was prepared in
 `SYMK_GMC_PACKAGE_B_EPISTEMIC_ROLE_COOPERATION_PROPOSAL_v0.1.md`. It defines a
 function topology rather than a mandatory participant architecture; permits
 proportionate, explicit overlap; requires material handoff controls; and tests the
 profile against SPServices medical-property, cross-Domain and negative cases.
-Package B and GMC-003–008 remain unaccepted.
+The project steward subsequently accepted exact v0.1 as a provisional
+epistemic-role-cooperation profile through
+`SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`. GMC-003–008 are accepted
+only through that bounded profile. Packages C–D and GMC-009–014 remain unaccepted.
 
 ## 5. Package C — Proportional assurance and governance cost
 
@@ -199,8 +202,8 @@ When separately authorized and when owning stages are competent:
 
 1. operationalize accepted Package A through separately released template work and
    later competent classification;
-2. review, correct or accept prepared Package B v0.1 as an optional
-   role-cooperation profile after its counterexample tests;
+2. operationalize accepted Package B through separately released template work and
+   later competent classification/specialization;
 3. stress-test Package C across multiple Domains before proposing an assurance policy
    or standard;
 4. design Package D jointly with derived-project and observability governance;
@@ -224,8 +227,8 @@ This order is a proposed dependency sequence, not execution authority.
 9. `SYMK-GP-001` adoption does not accept any package or GMC.
 10. This evaluation does not establish that the GMCs are SymK's only or most
     important remaining improvements.
-11. Package A acceptance does not transfer acceptance to Packages B–D or convert
-    their analytical recommendations into authority.
+11. Package A or B acceptance does not transfer acceptance to another package or
+    convert remaining analytical recommendations into authority.
 
 ## 12. Evaluation result
 
@@ -234,8 +237,8 @@ GOVERNS PURPOSE AND METHOD FITNESS; PACKAGE B ORGANIZES EPISTEMIC ROLES; PACKAGE
 CALIBRATES ASSURANCE AND GOVERNANCE COST; PACKAGE D OBSERVES, PAUSES, PIVOTS AND
 RETURNS LEARNING; AND SYMK-GP-001 PROTECTS THEIR INTERFACES. EXACT PACKAGE A V0.3 IS
 ACCEPTED AS A PROVISIONAL PROJECT-METHOD GOVERNANCE PROFILE, INCLUDING GMC-001 AND
-GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. PACKAGE B V0.1 IS PREPARED FOR
-SEPARATE REVIEW AFTER OPTIONAL-PROFILE, OVERLAP, HANDOFF-LOSS, CROSS-DOMAIN AND
-SPSERVICES TESTING; PACKAGE C REMAINS FOR MULTI-DOMAIN STRESS TESTING, AND PACKAGE D
-FOR FUTURE LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGES B–D AND GMC-003–014 ARE NOT
-ACCEPTED, REJECTED, OPENED OR MADE NORMATIVE.**
+GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. EXACT PACKAGE B V0.1 IS ACCEPTED AS A
+PROVISIONAL EPISTEMIC-ROLE-COOPERATION PROFILE, INCLUDING GMC-003–008 ONLY THROUGH
+ITS BOUNDED FORMULATIONS. PACKAGE C REMAINS FOR MULTI-DOMAIN STRESS TESTING, AND
+PACKAGE D FOR FUTURE LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGES C–D AND GMC-009–014
+ARE NOT ACCEPTED, REJECTED, OPENED OR MADE NORMATIVE.**
