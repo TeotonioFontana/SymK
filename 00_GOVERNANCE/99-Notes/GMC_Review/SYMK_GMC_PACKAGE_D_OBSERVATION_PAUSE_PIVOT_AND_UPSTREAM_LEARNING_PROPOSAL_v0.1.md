@@ -1,9 +1,14 @@
-# SymK GMC Package D — Observation, Pause, Pivot and Upstream Learning Proposal v0.1
+# SymK GMC Package D — Observation, Pause, Pivot and Upstream Learning Profile v0.1
 
-**Status:** Proposal for project-steward review — not accepted
+**Status:** Accepted provisional SymK lifecycle-observation and upstream-learning
+profile
 **Date:** 4 September 2026
+**Effective date:** 4 September 2026
 **Preparation authority:** Project-steward instruction “Prepare package D” after
 acceptance of Package C v0.1
+**Acceptance authority:** Explicit project-steward instruction “Package D accepted”
+after review of v0.1
+**Acceptance record:** `SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
 **Members:** GMC-011 through GMC-014
 **Depends on:** Stage-Accepted DR-012–014 and DR-016 distinctions, accepted Package
 A v0.3, accepted Package B v0.1, accepted Package C v0.1, the GMC disposition
@@ -11,11 +16,14 @@ register, the cooperating-packages evaluation and provisional active `SYMK-GP-00
 **Interfaces with:** Later competent method-lifecycle and observability work; the
 closed 2.6 derived-project governance/upstream-proposal route; future conflict,
 challenge, correction and corpus-governance procedures
-**Normative effect:** None unless separately accepted through competent procedure
+**Normative effect:** Provisional SymK project-process governance profile within its
+declared Scope; not a constitutional norm, universal progress/lifecycle model, real
+progress verdict, lifecycle decision, pause/pivot authority, upstream decision,
+SymK amendment, policy, standard, Execution Release or stage opening
 
-## 1. Proposal summary
+## 1. Profile summary
 
-Package D v0.1 converts GMC-011–014 into a candidate lifecycle-observation and
+Package D v0.1 converts GMC-011–014 into a provisional lifecycle-observation and
 upstream-learning profile. Its core rule is:
 
 > **Outcome/learning progress and control/readiness progress must remain separately
@@ -28,10 +36,10 @@ The profile closes the feedback loop among accepted Packages A–C without turni
 measurement into authority, progress into one score, a signal into a pivot, a pause
 into indefinite limbo or local experience into universal SymK doctrine.
 
-## 2. Decision requested
+## 2. Acceptance decision and effect
 
-Accept, correct or reject a provisional observation, pause, pivot and upstream-
-learning profile that:
+The project steward accepts this exact v0.1 as a provisional SymK
+lifecycle-observation and upstream-learning profile. The accepted profile:
 
 - keeps outcome/learning progress distinct from control/readiness progress;
 - preserves plural indicators, Evidence, uncertainty, disagreement and affected
@@ -48,13 +56,13 @@ learning profile that:
 - composes with accepted Packages A–C without changing their authority; and
 - remains compatible with later 2.6 and observability work without opening either.
 
-Acceptance would make this a provisional SymK lifecycle-observation and
-upstream-learning profile and incorporate GMC-011–014 only through its exact bounded
-formulations. It would make later operational-template work eligible for a separate
-Execution Release and later classification or specialization eligible when the
-owning stages are competent. It would not select indicators or thresholds for a
-real project, trigger a real pause or pivot, open 2.6, approve an upstream proposal,
-amend SymK or create a universal lifecycle workflow.
+Acceptance incorporates GMC-011–014 only through this profile's exact bounded
+formulations, controls and non-entailments. It makes later operational-template work
+eligible only under a separate Execution Release and makes later classification or
+specialization eligible when the owning stages are competent. It does not select
+indicators or thresholds for a real project, trigger a real pause or pivot, open
+2.6, approve an upstream proposal, amend SymK or create a universal lifecycle
+workflow.
 
 ## 3. Problem addressed
 
@@ -80,7 +88,7 @@ Package D makes these transitions explicit and challengeable.
 
 ## 4. Compatibility and jurisdiction boundary
 
-This proposal operationalizes without reopening accepted distinctions among:
+This profile operationalizes without reopening accepted distinctions among:
 
 - objective, method, implementation, output, outcome, consequence and Value;
 - observation, datum, indicator, signal, Ground, Evidence, assessment and decision;
@@ -125,7 +133,7 @@ also must not be assumed to own every observability question merely because earl
 | upstream proposal | attributable request that a competent parent process assess a declared change, exception, challenge or learning claim | automatic acceptance, inheritance or synchronization |
 | generalization claim | evidence-bearing assertion about transfer from observed project conditions to a wider Scope | repetition, popularity or universal validity |
 
-These are proposal-local working terms and do not amend accepted SymK vocabulary.
+These are profile-local working terms and do not amend accepted SymK vocabulary.
 
 ## 6. Lifecycle observation contract
 
@@ -552,8 +560,8 @@ may prepare candidate inputs and tests, but cannot:
 - reserve evidence, change or decision identifiers; or
 - satisfy a 2.6 gate.
 
-If Package D is later accepted, its project-process profile remains provisional
-input to competent 2.6 work, not a substitute for it.
+As accepted, Package D remains provisional project-process input to competent 2.6
+work, not a substitute for it.
 
 ## 27. Composition with accepted Package A
 
@@ -612,9 +620,9 @@ assurance-cost review under Package C. It would not have proved that determinist
 work was worthless or dictated an AI–Human pivot.
 
 The actual governance response—pause the plan, preserve the technical work, record
-the method conclusion and extract bounded GMCs for SymK—illustrates the candidate
-Package D loop. The local experience supports the proposal; it does not validate the
-universal profile by itself.
+the method conclusion and extract bounded GMCs for SymK—illustrates the Package D
+loop. The local experience supports the profile; it does not validate its universal
+applicability by itself.
 
 ## 31. Multi-Domain stress-test suite
 
@@ -699,9 +707,11 @@ without determining the locally competent conclusion.
 15. Observability costs more and causes more exposure than the consequence it is
     intended to detect.
 
-## 35. Acceptance tests for v0.1
+## 35. Acceptance conditions and continuing tests
 
-Before acceptance, review must establish that Package D v0.1:
+Acceptance adopts the following continuing tests. A material failure triggers
+challenge and reassessment under Sections 38–39; it does not silently amend the
+profile or retroactively erase the recorded acceptance:
 
 1. preserves exact DR-012–014 and DR-016 distinctions and authority;
 2. introduces no Foundational concept, universal metric set or fixed lifecycle
@@ -736,8 +746,8 @@ Before acceptance, review must establish that Package D v0.1:
 27. passes every multi-Domain, lifecycle and upstream-learning case;
 28. applies `SYMK-GP-001` with material, testable negative controls;
 29. preserves challenge, correction, dissent and reopening; and
-30. does not accept Package D or GMC-011–014, trigger a real lifecycle decision,
-    open a stage or amend SymK by preparation alone.
+30. does not trigger a real progress verdict or lifecycle decision, create
+    pause/pivot authority, approve an upstream proposal, open a stage or amend SymK.
 
 ## 36. Operational record shapes
 
@@ -824,8 +834,9 @@ dashboard, metric, threshold, workflow engine, API, database or Execution Releas
     control.
 28. Package D does not own Domain semantics, causal truth, objective selection,
     method selection, role assignment, risk tolerance or external law.
-29. Package D preparation does not accept GMC-011–014 or create a lifecycle policy,
-    upstream procedure or observability standard.
+29. Package D acceptance gives GMC-011–014 no independent universal force outside
+    the exact accepted profile and creates no lifecycle policy, upstream procedure
+    or observability standard.
 30. Package D is not the only or necessarily highest-priority remaining SymK
     improvement.
 
@@ -889,9 +900,9 @@ Reassess Package D if:
 
 ## 40. Authorities and non-effects
 
-This proposal does not:
+This accepted profile does not:
 
-- accept Package D or GMC-011–014;
+- give GMC-011–014 independent universal force outside the exact accepted profile;
 - select an indicator, metric, instrument, baseline, comparator, threshold, target,
   dashboard or observation system for a real project;
 - establish actual progress, divergence, cause, method failure or outcome;
@@ -911,17 +922,18 @@ This proposal does not:
 - change SPServices, its roadmap, method, implementation or medical properties; or
 - establish that the GMC set exhausts SymK improvement.
 
-## 41. Proposal result
+## 41. Acceptance result
 
-**PACKAGE D V0.1 IS PREPARED FOR PROJECT-STEWARD REVIEW AS A NON-AUTHORITATIVE
-LIFECYCLE-OBSERVATION AND UPSTREAM-LEARNING PROPOSAL. GMC-014 KEEPS
+**PACKAGE D V0.1 IS ACCEPTED AS A PROVISIONAL SYMK LIFECYCLE-OBSERVATION AND
+UPSTREAM-LEARNING PROFILE. GMC-011–014 ARE ACCEPTED ONLY THROUGH THIS PROFILE'S
+EXACT BOUNDED FORMULATIONS, CONTROLS AND NON-ENTAILMENTS. GMC-014 KEEPS
 OUTCOME/LEARNING AND CONTROL/READINESS PROGRESS INDEPENDENTLY INSPECTABLE WITHOUT ONE
 UNIVERSAL SCORE. GMC-011 MAKES MATERIAL DIVERGENCE A REVIEW SIGNAL RATHER THAN A
 CAUSAL VERDICT OR AUTOMATIC PIVOT. GMC-012 DEFINES PAUSE AS A BOUNDED, ATTRIBUTABLE
 LIFECYCLE STATE WITH PRESERVATION, EXPIRY AND RESUMPTION OBLIGATIONS. GMC-013 ROUTES
 QUALIFIED DERIVED-PROJECT EVIDENCE UPSTREAM WITHOUT SILENT UNIVERSALIZATION OR
 AUTHORITY TRANSFER. THE PROFILE PASSES INITIAL SPSERVICES, MULTI-DOMAIN, DIVERGENCE,
-PAUSE, RESUMPTION, METRIC-GAMING AND UPSTREAM-LEARNING TESTS. THIS IS A PROPOSAL, NOT
-PACKAGE OR GMC ACCEPTANCE, A PROGRESS VERDICT, LIFECYCLE DECISION, PAUSE/PIVOT
-AUTHORITY, UPSTREAM DECISION, SYMK AMENDMENT, STAGE OPENING, POLICY, STANDARD OR
-IMPLEMENTATION AUTHORITY.**
+PAUSE, RESUMPTION, METRIC-GAMING AND UPSTREAM-LEARNING TESTS. THIS ACCEPTANCE DOES
+NOT ESTABLISH A REAL PROGRESS VERDICT, TRIGGER A LIFECYCLE DECISION, CREATE
+PAUSE/PIVOT AUTHORITY, APPROVE AN UPSTREAM PROPOSAL, AMEND SYMK, OPEN A STAGE, OR
+CREATE A POLICY, STANDARD OR IMPLEMENTATION AUTHORITY.**

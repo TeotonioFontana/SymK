@@ -1,8 +1,8 @@
 # SymK GMC Review Package
 
-**Status:** Mixed-status GMC package — Packages A v0.3, B v0.1 and C v0.1 accepted
-provisionally; remaining review material non-authoritative
-**Version:** 1.0
+**Status:** Packages A v0.3, B v0.1, C v0.1 and D v0.1 accepted provisionally;
+analytical intake and evaluation lineage retained
+**Version:** 1.1
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
@@ -11,8 +11,10 @@ provisionally; remaining review material non-authoritative
 `SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
 **Package C acceptance authority:** Exact project-steward decision recorded in
 `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
-**Normative effect:** This index creates none; Packages A v0.3, B v0.1 and C v0.1
-have only the project-process effects established by their separate acceptance
+**Package D acceptance authority:** Exact project-steward decision recorded in
+`SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
+**Normative effect:** This index creates none; Packages A v0.3, B v0.1, C v0.1 and D
+v0.1 have only the project-process effects established by their separate acceptance
 records
 
 ## Purpose
@@ -52,9 +54,11 @@ project authority or treating local learning as a universal SymK rule.
 10. `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md` — exact
     project-steward acceptance, accepted-object hash, effects and non-effects.
 11. `SYMK_GMC_PACKAGE_D_OBSERVATION_PAUSE_PIVOT_AND_UPSTREAM_LEARNING_PROPOSAL_v0.1.md`
-    — non-authoritative current Package D proposal covering independent progress
-    profiles, divergence review, governed pause/resumption and qualified upstream
-    learning.
+    — accepted provisional lifecycle-observation and upstream-learning profile
+    covering independent progress profiles, divergence review, governed
+    pause/resumption and qualified upstream learning.
+12. `SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md` — exact
+    project-steward acceptance, accepted-object hash, effects and non-effects.
 
 ## Current result
 
@@ -73,16 +77,15 @@ issues no execution authority and opens no stage.
 
 Exact Package C v0.1 is now accepted as a provisional SymK proportional-assurance
 and governance-cost profile. GMC-009–010 are accepted only through that profile's
-bounded formulations. Package D and GMC-011–014 remain neither accepted nor
-rejected. Package C sets no real risk tolerance or assurance configuration, creates
-no policy or standard, issues no execution authority and opens no stage.
+bounded formulations. That Package C decision did not itself accept Package D or
+GMC-011–014. Package C sets no real risk tolerance or assurance configuration,
+creates no policy or standard, issues no execution authority and opens no stage.
 
-Package D v0.1 is now prepared for separate review. It operationalizes GMC-011–014
-as a lifecycle-observation and upstream-learning proposal, keeps outcome/learning
-and control/readiness progress independently inspectable, treats divergence as a
-review signal, gives pause a bounded envelope and routes qualified project evidence
-upstream. It is not accepted, triggers no real lifecycle decision, opens no stage
-and amends no SymK artifact.
+Exact Package D v0.1 is now accepted as a provisional SymK lifecycle-observation and
+upstream-learning profile. GMC-011–014 are accepted only through that profile's
+bounded formulations. Package D establishes no real progress verdict, triggers no
+lifecycle decision, creates no pause/pivot authority, approves no upstream proposal,
+opens no stage and amends no SymK artifact.
 
 The GMCs remain a non-exhaustive improvement set. Other SymK improvements may exist
 outside this package and remain discoverable through ordinary governance and
@@ -90,7 +93,7 @@ challenge processes.
 
 ## Prohibited inferences — what this package does not mean
 
-- evaluation alone does not establish acceptance; Packages A, B and C derive
+- evaluation alone does not establish acceptance; Packages A, B, C and D derive
   acceptance from their separate project-steward records;
 - compatibility does not establish redundancy or completeness;
 - a proposed route does not open its destination stage;
@@ -100,6 +103,11 @@ challenge processes.
 
 ## Version history
 
+- **1.1 — 2026-09-04:** Registered project-steward acceptance of exact Package D
+  v0.1 as a provisional lifecycle-observation and upstream-learning profile;
+  accepted GMC-011–014 only through that bounded profile and created no real
+  progress verdict, lifecycle decision, pause/pivot authority, upstream decision,
+  SymK amendment, stage opening, policy, standard or execution authority.
 - **1.0 — 2026-09-04:** Added Package D v0.1 for separate review with independent
   progress profiles, divergence/false-signal controls, bounded pause/resumption,
   qualified upstream evidence, and SPServices/multi-Domain tests; no Package D or

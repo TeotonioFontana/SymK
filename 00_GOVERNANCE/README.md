@@ -1,7 +1,7 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.14
+**Version:** 0.15
 **Date:** 4 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
@@ -15,8 +15,8 @@ This directory contains SymK's governed orientation, constitutional work, founda
 5. `../SymK 2.x Evolution history/2.0/README.md` — governed `2.0-rc.1` evolution and migration record.
 6. `05_Governance_Policies/README.md` — canonical policy location and current
    project-process policies.
-7. `99-Notes/GMC_Review/README.md` — mixed-status GMC package containing accepted
-   provisional Packages A–C and proposed Package D.
+7. `99-Notes/GMC_Review/README.md` — GMC review package containing accepted
+   provisional Packages A–D and retained analytical lineage.
 
 ## Authority rule
 
@@ -35,14 +35,15 @@ Canonical location, constitutional force, semantic authority, external authority
 - GMC Package C v0.1 is an accepted provisional proportional-assurance and
   governance-cost profile for consequence-sensitive assurance, governance
   total-cost/risk analysis and bidirectional calibration.
-- GMC Package D v0.1 is a non-authoritative proposal for independent progress
-  observation, divergence review, bounded pause/resumption and qualified upstream
-  learning.
+- GMC Package D v0.1 is an accepted provisional lifecycle-observation and upstream-
+  learning profile for independent progress observation, divergence review,
+  bounded pause/resumption and qualified upstream learning.
 
 None has constitutional force. Package acceptance does not assign a real role,
-select a real method, issue an Execution Release, open SymK 2.4C/2.6 or accept
-Package D. Package C acceptance does not set a real risk tolerance or assurance
-configuration or create a policy or standard.
+select a real method, issue an Execution Release or open an evolution stage. Package
+C acceptance does not set a real risk tolerance or assurance configuration. Package
+D acceptance does not establish a real progress verdict or lifecycle decision,
+create pause/pivot authority, approve an upstream proposal or amend SymK.
 
 ## Current SymK 2.0 state
 
@@ -50,6 +51,11 @@ SymK 2.0 is Stage-Accepted through DR-008 after completion of all nine migration
 
 ## Version history
 
+- **0.15 — 2026-09-04:** Registered project-steward acceptance of exact GMC Package
+  D v0.1 as a provisional lifecycle-observation and upstream-learning profile;
+  GMC-011–014 are accepted only through that bounded profile, with no real progress
+  verdict, lifecycle decision, pause/pivot authority, upstream decision, SymK
+  amendment, policy/standard, execution authority or stage opening.
 - **0.14 — 2026-09-04:** Registered non-authoritative GMC Package D v0.1 for
   separate review after SPServices, multi-Domain, false-divergence,
   pause/resumption, metric-gaming and upstream-learning tests; no Package D or

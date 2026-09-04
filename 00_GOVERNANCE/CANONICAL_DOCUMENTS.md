@@ -1,7 +1,7 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.8
+**Version:** 0.9
 **Date:** 4 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
@@ -93,6 +93,10 @@ Their precise future status and relationship to the SymK 2.x conceptual corpus r
   — accepted provisional proportional-assurance and governance-cost profile.
 - `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
   — exact acceptance authority, accepted-object hash, effects and non-effects.
+- `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_D_OBSERVATION_PAUSE_PIVOT_AND_UPSTREAM_LEARNING_PROPOSAL_v0.1.md`
+  — accepted provisional lifecycle-observation and upstream-learning profile.
+- `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
+  — exact acceptance authority, accepted-object hash, effects and non-effects.
 
 `SYMK-GP-001` prospectively requires material new or revised governed artifacts to
 make material prohibited inferences inspectable and testable in proportion to their
@@ -119,8 +123,17 @@ Package C v0.1 prospectively governs material SymK project assurance calibration
 and governance total-cost/risk assessment within project-steward jurisdiction.
 GMC-009–010 are accepted only through the profile's exact bounded formulations. The
 profile does not set a real risk tolerance or assurance configuration, select a
-method, issue execution authority, create a policy or standard, open 2.4/2.6, create
-constitutional force or accept Package D or GMC-011–014.
+method, issue execution authority, create a policy or standard, open 2.4/2.6 or
+create constitutional force. The Package C acceptance itself did not transfer
+acceptance to Package D or GMC-011–014.
+
+Package D v0.1 prospectively governs material SymK project progress observation,
+divergence review, pause/resumption and qualified upstream-evidence preparation
+within project-steward jurisdiction. GMC-011–014 are accepted only through the
+profile's exact bounded formulations. The profile does not establish a real progress
+verdict or lifecycle decision, create pause/pivot authority, approve an upstream
+proposal, amend SymK, open 2.6/2.8, create a policy or standard, or create
+constitutional force.
 
 ## 7. Known unresolved conflicts and deferrals
 
@@ -138,6 +151,11 @@ No document becomes a Ratified SymK axiom, constitutional article, concept, or s
 
 ## 9. Version history
 
+- **0.9 — 2026-09-04:** Registered accepted provisional Package D v0.1 and its exact
+  project-steward acceptance record; accepted GMC-011–014 only through that bounded
+  profile without establishing a real progress verdict or lifecycle decision,
+  creating pause/pivot authority, approving an upstream proposal, amending SymK or
+  opening 2.6/2.8.
 - **0.8 — 2026-09-04:** Registered accepted provisional Package C v0.1 and its exact
   project-steward acceptance record; accepted GMC-009–010 only through that bounded
   profile without setting a real risk tolerance or assurance configuration,

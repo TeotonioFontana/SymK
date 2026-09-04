@@ -1,7 +1,7 @@
 # SymK GMC Cooperating Governance Packages Evaluation v0.1
 
-**Status:** Integrated evaluation — Packages A v0.3, B v0.1 and C v0.1 accepted
-provisionally; Package D remains analytical; no stage opened
+**Status:** Integrated evaluation — Packages A v0.3, B v0.1, C v0.1 and D v0.1
+accepted provisionally; no stage opened
 **Date:** 4 September 2026
 **Depends on:** `SYMK_GMC_DISPOSITION_REGISTER_v0.1.md` and provisional active
 `SYMK-GP-001`
@@ -136,8 +136,8 @@ governance-caused cost and risk; and passes initial SPServices, multi-Domain,
 escalation/de-escalation and negative cases. The project steward subsequently
 accepted exact v0.1 as a provisional proportional-assurance and governance-cost
 profile through `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`.
-GMC-009–010 are accepted only through that bounded profile. Package D and
-GMC-011–014 remain unaccepted.
+GMC-009–010 are accepted only through that bounded profile. That Package C decision
+did not itself accept Package D or GMC-011–014.
 
 ## 6. Package D — Observation, pause, pivot and upstream learning
 
@@ -163,14 +163,17 @@ work but cannot activate it.
 **Recommended analytical state:** **HOLD AS AN INTEGRATED CANDIDATE FOR FUTURE
 METHOD-LIFECYCLE, 2.6 AND OBSERVABILITY WORK.**
 
-**Subsequent state:** Package D v0.1 is prepared in
+**Subsequent state:** Package D v0.1 was prepared in
 `SYMK_GMC_PACKAGE_D_OBSERVATION_PAUSE_PIVOT_AND_UPSTREAM_LEARNING_PROPOSAL_v0.1.md`.
 It keeps outcome/learning and control/readiness progress independently inspectable;
 treats material divergence as a review signal rather than an automatic pivot;
 defines bounded pause, expiry and resumption controls; and packages project evidence
 for qualified upstream review without authority transfer. It passes initial
 SPServices, multi-Domain, false-divergence, pause/resumption, metric-gaming and
-upstream-learning cases. Package D and GMC-011–014 remain unaccepted.
+upstream-learning cases. The project steward subsequently accepted exact v0.1 as a
+provisional lifecycle-observation and upstream-learning profile through
+`SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`. GMC-011–014 are accepted
+only through that bounded profile.
 
 ## 7. Cooperation contract among the packages
 
@@ -228,8 +231,8 @@ When separately authorized and when owning stages are competent:
    later competent classification/specialization;
 3. operationalize accepted Package C through separately released template work and
    later competent classification/specialization;
-4. review, correct or accept prepared Package D v0.1 as a lifecycle-observation and
-   upstream-learning profile after its cross-project and lifecycle tests;
+4. operationalize accepted Package D through separately released template work and
+   later competent classification/specialization;
 5. re-run the package interaction tests and `SYMK-GP-001` prohibited-inference review;
 6. decide each GMC independently before any integrated adoption claim; and
 7. preserve an open route for improvements not represented by the GMC set.
@@ -250,8 +253,9 @@ This order is a proposed dependency sequence, not execution authority.
 9. `SYMK-GP-001` adoption does not accept any package or GMC.
 10. This evaluation does not establish that the GMCs are SymK's only or most
     important remaining improvements.
-11. Package A, B or C acceptance does not transfer acceptance to another package or
-    convert remaining analytical recommendations into authority.
+11. Package A, B, C or D acceptance does not transfer authority to another stage,
+    artifact, project or external jurisdiction or convert analytical dispositions
+    into independent universal rules.
 
 ## 12. Evaluation result
 
@@ -264,7 +268,8 @@ GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. EXACT PACKAGE B V0.1 IS ACCEPTED 
 PROVISIONAL EPISTEMIC-ROLE-COOPERATION PROFILE, INCLUDING GMC-003–008 ONLY THROUGH
 ITS BOUNDED FORMULATIONS. EXACT PACKAGE C V0.1 IS ACCEPTED AS A PROVISIONAL
 PROPORTIONAL-ASSURANCE AND GOVERNANCE-COST PROFILE, INCLUDING GMC-009–010 ONLY
-THROUGH ITS BOUNDED FORMULATIONS. PACKAGE D V0.1 IS PREPARED FOR SEPARATE REVIEW
-AFTER SPSERVICES, MULTI-DOMAIN, FALSE-DIVERGENCE, PAUSE/RESUMPTION, METRIC-GAMING
-AND UPSTREAM-LEARNING TESTS. PACKAGE D AND GMC-011–014 ARE NOT ACCEPTED, REJECTED,
-OPENED OR MADE NORMATIVE.**
+THROUGH ITS BOUNDED FORMULATIONS. EXACT PACKAGE D V0.1 IS ACCEPTED AS A PROVISIONAL
+LIFECYCLE-OBSERVATION AND UPSTREAM-LEARNING PROFILE, INCLUDING GMC-011–014 ONLY
+THROUGH ITS BOUNDED FORMULATIONS. ALL FOUR PACKAGES AND GMC-001–014 ARE ACCEPTED
+ONLY THROUGH THEIR SEPARATE BOUNDED PROFILES; NO UNIVERSAL WORKFLOW, STAGE OPENING,
+REAL PROJECT DECISION, SYMK AMENDMENT OR INTEGRATED CONSTITUTIONAL FORCE FOLLOWS.**

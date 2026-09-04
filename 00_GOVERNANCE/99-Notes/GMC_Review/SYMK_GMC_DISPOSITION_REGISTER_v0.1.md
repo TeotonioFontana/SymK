@@ -1,7 +1,7 @@
 # SymK GMC Disposition Register v0.1
 
-**Status:** Analytical intake register with subsequent Package A, B and C
-acceptances and Package D proposal noted
+**Status:** Analytical intake register with subsequent Package A, B, C and D
+acceptances noted
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction “do it” in direct response to the proposed
 GMC disposition-register and four-package evaluation
@@ -58,7 +58,8 @@ reject, supersede or implement a GMC.
 No table row is reclassified as `ACCEPT`, `REJECT` or `COMPLETE` because these
 remain analytical dispositions. Separate later decisions accept GMC-001–002 through
 exact Package A v0.3, GMC-003–008 through exact Package B v0.1 and GMC-009–010
-through exact Package C v0.1; they do not alter the meaning of the analytical table.
+through exact Package C v0.1 and GMC-011–014 through exact Package D v0.1; they do
+not alter the meaning of the analytical table.
 
 ## 5. Cross-GMC dependencies
 
@@ -107,15 +108,18 @@ dispositions remain preserved; GMC-011–014 remain neither accepted nor rejecte
 No real risk tolerance or assurance configuration is set, no policy or standard is
 created, no execution authority is issued and neither 2.4 nor 2.6 is opened.
 
-**Subsequent Package D state:** Package D v0.1 is now prepared in
-`SYMK_GMC_PACKAGE_D_OBSERVATION_PAUSE_PIVOT_AND_UPSTREAM_LEARNING_PROPOSAL_v0.1.md`.
-It uses GMC-014 to preserve independent outcome/learning and control/readiness
-progress profiles, GMC-011 to make material divergence a review signal, GMC-012 to
-define bounded pause/resumption and GMC-013 to route qualified project evidence
-upstream. It includes SPServices, multi-Domain, false-divergence, pause/resumption,
-metric-gaming, cross-project and upstream-learning tests. This preparation does not
-change an analytical disposition, accept Package D or GMC-011–014, trigger a real
-lifecycle decision, open 2.6/2.8, approve an upstream proposal or amend SymK.
+**Subsequent Package D state:** Package D v0.1 uses GMC-014 to preserve independent
+outcome/learning and control/readiness progress profiles, GMC-011 to make material
+divergence a review signal, GMC-012 to define bounded pause/resumption and GMC-013
+to route qualified project evidence upstream. It includes SPServices, multi-Domain,
+false-divergence, pause/resumption, metric-gaming, cross-project and upstream-
+learning tests. The project steward subsequently accepted exact v0.1 as a
+provisional lifecycle-observation and upstream-learning profile through
+`SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`. GMC-011–014 are accepted
+only through that profile. Their original analytical dispositions remain preserved.
+No real progress verdict or lifecycle decision is established, no pause/pivot
+authority is created, no stage is opened, no upstream proposal is approved and no
+SymK artifact is amended.
 
 ## 6. Conflicts and tensions preserved
 
@@ -155,4 +159,6 @@ DISTINCTIONS, FOUR SUGGEST OPERATIONALIZATION, FIVE REQUIRE CANDIDATE DEVELOPMEN
 ONE AWAITS ITS COMPETENT DERIVED-PROJECT ROUTE. THESE ANALYTICAL DISPOSITIONS DO NOT
 BY THEMSELVES ACCEPT, REJECT OR MAKE A GMC NORMATIVE. SEPARATE RECORDS ACCEPT
 GMC-001–002 ONLY THROUGH PACKAGE A, GMC-003–008 ONLY THROUGH PACKAGE B AND
-GMC-009–010 ONLY THROUGH PACKAGE C; GMC-011–014 REMAIN UNACCEPTED.**
+GMC-009–010 ONLY THROUGH PACKAGE C, AND GMC-011–014 ONLY THROUGH PACKAGE D. NO GMC
+GAINS INDEPENDENT UNIVERSAL FORCE FROM ITS ANALYTICAL DISPOSITION OR PROFILE
+MEMBERSHIP.**
