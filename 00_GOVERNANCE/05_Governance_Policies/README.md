@@ -1,7 +1,7 @@
 # SymK Governance Policies
 
 **Status:** Canonical policy location
-**Version:** 0.1
+**Version:** 0.2
 **Date:** 4 September 2026
 
 This directory contains project-governance policies whose individual status,
@@ -24,3 +24,16 @@ being active.
 Policies remain challengeable. Revision, supersession and retirement require an
 explicit record that preserves lineage and identifies the authority and effect of
 the change.
+
+## Related open review
+
+The non-authoritative GMC disposition register and four-package evaluation are held
+under `../99-Notes/GMC_Review/`. They remain open upstream-learning material and do
+not alter `SYMK-GP-001` or create another policy.
+
+## Version history
+
+- **0.2 — 2026-09-04:** Linked the non-authoritative GMC review package without
+  changing policy status or accepting another GMC.
+- **0.1 — 2026-09-04:** Established the canonical policy location and registered
+  provisional active `SYMK-GP-001`.

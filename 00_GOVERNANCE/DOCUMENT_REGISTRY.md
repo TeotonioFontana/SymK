@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.81
+**Version:** 0.82
 **Date:** 4 September 2026
 
 ## 1. Registry summary
@@ -25,6 +25,7 @@
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
 | Policies | 1 | `SYMK-GP-001` is provisional active project-process policy; no constitutional force |
+| GMC upstream review | 1 package | Fourteen-conclusion disposition register and four-package evaluation; non-authoritative |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -168,7 +169,22 @@ proportional to claim and consequence. The policy standardizes an existing SymK
 analytical practice; it does not amend DR-009–018, Ratify constitutional content,
 open a closed stage or resolve the remaining generalizable-method conclusions.
 
-## 9. Known unresolved status
+## 9. GMC upstream review package
+
+**Location:** `99-Notes/GMC_Review/`
+
+**Holdings:** One package README, one fourteen-item analytical disposition register
+and one integrated evaluation of four cooperating governance packages.
+
+**Status and effect:** Non-authoritative upstream-learning material. All fourteen
+GMCs have analytical dispositions, proposed routes, evidence needs and preserved
+tensions. The integrated evaluation finds a coherent recursive arrangement across
+objective/method fitness, epistemic role cooperation, proportional assurance and
+governance cost, and observation/pause/pivot/upstream learning. No GMC or package is
+accepted, rejected, opened or made normative. The package is expressly
+non-exhaustive; other SymK improvements remain open.
+
+## 10. Known unresolved status
 
 - A0 remains Proposed and conflicts with the accepted purpose by calling cooperation the objective; substantive axiom review belongs to SymK 2.2.
 - A6 remains Proposed and its final artifact class is unresolved.
@@ -179,7 +195,7 @@ open a closed stage or resolve the remaining generalizable-method conclusions.
 
 These items are governed uncertainty. They must not be hidden by the Stage-Accepted version label.
 
-## 10. Registration rules
+## 11. Registration rules
 
 1. Canonical location, normative force, epistemic authority, and implementation fact are distinct.
 2. Every registered governed artifact must state status, version, owner or authority, and scope.
@@ -188,7 +204,7 @@ These items are governed uncertainty. They must not be hidden by the Stage-Accep
 5. Counts must be updated when artifact classification changes.
 6. Material conflicts and deferrals remain visible until governed disposition.
 
-## 11. SymK 2.x migration plan
+## 12. SymK 2.x migration plan
 
 **Registered artifact:** `../SymK 2.x Evolution history/01_ROADMAP/SYMK-2X-PLAN-002_Migration_and_Consolidation_Plan_v0.1.md`
 
@@ -216,8 +232,12 @@ PLAN-003 maps the complete M0–3.0 lifecycle, stage authorities and dependencie
 
 PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0, prohibits permanent name endorsement by 3.0E, and assigns the substantive challenge and any conditional migration to separately opened 3.1 after accepted 3.0E. It makes no name decision.
 
-## 12. Version history
+## 13. Version history
 
+- **0.82 — 2026-09-04:** Registered the non-authoritative GMC review package: all
+  fourteen conclusions now have analytical dispositions and are evaluated as four
+  cooperating packages under `SYMK-GP-001`. No GMC acceptance, stage opening,
+  normative effect or claim that the package exhausts SymK improvement follows.
 - **0.81 — 2026-09-04:** Populated the policy category with provisional active
   `SYMK-GP-001`, a prospective requirement for proportional, inspectable prohibited
   inferences in material governed artifacts. This is one bounded improvement; the
