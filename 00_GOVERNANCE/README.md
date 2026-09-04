@@ -1,7 +1,7 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.9
+**Version:** 0.10
 **Date:** 4 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
@@ -29,6 +29,8 @@ Canonical location, constitutional force, semantic authority, external authority
 - GMC Package A v0.3 is an accepted provisional project-method governance profile
   for outcome-facing objectives, comparative method validation and bounded Trial
   and Delivery Releases.
+- GMC Package B v0.1 is a non-authoritative proposal for functional
+  non-substitution, optional epistemic-role cooperation and handoff preservation.
 
 Neither has constitutional force. Package A does not accept Packages B–D, select a
 real method, issue an Execution Release or open SymK 2.4.
@@ -39,6 +41,10 @@ SymK 2.0 is Stage-Accepted through DR-008 after completion of all nine migration
 
 ## Version history
 
+- **0.10 — 2026-09-04:** Registered non-authoritative GMC Package B v0.1 for
+  separate review after overlap, handoff-loss, cross-Domain and SPServices
+  medical-property tests; no Package B/GMC-003–008 acceptance, real role assignment,
+  execution authority or stage opening.
 - **0.9 — 2026-09-04:** Registered project-steward acceptance of exact GMC Package
   A v0.3 as a provisional project-method governance profile; GMC-001 and GMC-002 are
   accepted only through that bounded profile, with no Package B–D acceptance, stage

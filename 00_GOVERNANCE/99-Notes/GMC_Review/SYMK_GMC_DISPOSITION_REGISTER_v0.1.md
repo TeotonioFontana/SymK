@@ -82,6 +82,15 @@ provisional project-method governance profile through
 accepted only through that profile. Their original analytical dispositions remain
 preserved; GMC-003–014 remain neither accepted nor rejected.
 
+**Subsequent Package B state:** Package B v0.1 is now prepared in
+`SYMK_GMC_PACKAGE_B_EPISTEMIC_ROLE_COOPERATION_PROPOSAL_v0.1.md`. It uses GMC-003
+as the functional non-substitution boundary, GMC-004 as an optional,
+architecture-neutral cooperation pattern and GMC-005–008 as bounded safeguards for
+standards, AI, Human adjudication and deterministic verification. It includes
+overlap, handoff-loss, cross-Domain and SPServices medical-property tests. This
+preparation does not change any analytical disposition, accept Package B or
+GMC-003–008, allocate a real role, issue execution authority or open 2.4/2.6.
+
 ## 6. Conflicts and tensions preserved
 
 1. outcome legibility versus legitimate long-horizon or indirect purpose;

@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.86
+**Version:** 0.87
 **Date:** 4 September 2026
 
 ## 1. Registry summary
@@ -25,7 +25,7 @@
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
 | Policies and project-governance profiles | 2 | `SYMK-GP-001` is a provisional active policy; Package A v0.3 is an accepted provisional profile; neither has constitutional force |
-| GMC upstream review | 1 package | Package A v0.3 accepted provisionally; Packages B–D and GMC-003–014 remain analytical and unaccepted |
+| GMC upstream review | 1 package | Package A v0.3 accepted provisionally; Package B v0.1 proposed; Packages C–D and GMC-003–014 remain unaccepted |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -190,7 +190,7 @@ accept Packages B–D or GMC-003–014.
 **Holdings:** One package README, one fourteen-item analytical disposition register,
 one integrated evaluation of four cooperating governance packages, preserved
 Package A v0.1–v0.2 predecessors, accepted Package A v0.3 and its exact acceptance
-record.
+record, and proposed Package B v0.1.
 
 **Status and effect:** Mixed-status upstream-learning package. All fourteen GMCs
 retain analytical dispositions, proposed routes, evidence needs and preserved
@@ -198,8 +198,11 @@ tensions. Package A v0.1 exposed an independent execution-release gap; v0.2
 corrected it but exposed insufficient pre-selection empirical comparison. Both
 remain preserved. Exact Package A v0.3 is accepted provisionally, including GMC-001
 and GMC-002 only through its bounded profile. Packages B–D and GMC-003–014 remain
-analytical and neither accepted nor rejected. No stage is opened. The package is
-expressly non-exhaustive; other SymK improvements remain open.
+unaccepted. Package B v0.1 now operationalizes GMC-003–008 as a non-authoritative,
+architecture-neutral epistemic-role-cooperation proposal with overlap, handoff-loss,
+cross-Domain and SPServices medical-property tests. Its preparation assigns no real
+role and opens no stage. The package is expressly non-exhaustive; other SymK
+improvements remain open.
 
 ## 10. Known unresolved status
 
@@ -251,6 +254,11 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.87 — 2026-09-04:** Registered Package B v0.1 as a non-authoritative
+  epistemic-role-cooperation proposal with GMC-003 functional non-substitution,
+  optional GMC-004 role patterns, GMC-005–008 safeguards and overlap/handoff/
+  cross-Domain/SPServices tests. No Package B or GMC-003–008 acceptance, role
+  assignment, execution authority or stage opening follows.
 - **0.86 — 2026-09-04:** Registered project-steward acceptance of exact Package A
   v0.3 as a provisional project-method governance profile and GMC-001/GMC-002 only
   through that profile. Registered the acceptance record and hash; left Packages

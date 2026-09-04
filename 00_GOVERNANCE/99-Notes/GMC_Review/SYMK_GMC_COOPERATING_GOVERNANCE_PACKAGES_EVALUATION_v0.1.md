@@ -93,6 +93,13 @@ would conflict with substrate independence and legitimate project variation.
 **Recommended analytical state:** **READY FOR OPTIONAL PROFILE DESIGN AND
 COUNTEREXAMPLE TESTING.** No role allocation or Domain authority is accepted.
 
+**Subsequent state:** Package B v0.1 is prepared in
+`SYMK_GMC_PACKAGE_B_EPISTEMIC_ROLE_COOPERATION_PROPOSAL_v0.1.md`. It defines a
+function topology rather than a mandatory participant architecture; permits
+proportionate, explicit overlap; requires material handoff controls; and tests the
+profile against SPServices medical-property, cross-Domain and negative cases.
+Package B and GMC-003–008 remain unaccepted.
+
 ## 5. Package C — Proportional assurance and governance cost
 
 **Members:** GMC-009 and GMC-010.
@@ -192,7 +199,8 @@ When separately authorized and when owning stages are competent:
 
 1. operationalize accepted Package A through separately released template work and
    later competent classification;
-2. design Package B as an optional role-cooperation profile and test alternatives;
+2. review, correct or accept prepared Package B v0.1 as an optional
+   role-cooperation profile after its counterexample tests;
 3. stress-test Package C across multiple Domains before proposing an assurance policy
    or standard;
 4. design Package D jointly with derived-project and observability governance;
@@ -226,7 +234,8 @@ GOVERNS PURPOSE AND METHOD FITNESS; PACKAGE B ORGANIZES EPISTEMIC ROLES; PACKAGE
 CALIBRATES ASSURANCE AND GOVERNANCE COST; PACKAGE D OBSERVES, PAUSES, PIVOTS AND
 RETURNS LEARNING; AND SYMK-GP-001 PROTECTS THEIR INTERFACES. EXACT PACKAGE A V0.3 IS
 ACCEPTED AS A PROVISIONAL PROJECT-METHOD GOVERNANCE PROFILE, INCLUDING GMC-001 AND
-GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. PACKAGE B REMAINS FOR
-OPTIONAL-PROFILE TESTING, PACKAGE C FOR MULTI-DOMAIN STRESS TESTING, AND PACKAGE D
+GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. PACKAGE B V0.1 IS PREPARED FOR
+SEPARATE REVIEW AFTER OPTIONAL-PROFILE, OVERLAP, HANDOFF-LOSS, CROSS-DOMAIN AND
+SPSERVICES TESTING; PACKAGE C REMAINS FOR MULTI-DOMAIN STRESS TESTING, AND PACKAGE D
 FOR FUTURE LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGES B–D AND GMC-003–014 ARE NOT
 ACCEPTED, REJECTED, OPENED OR MADE NORMATIVE.**
