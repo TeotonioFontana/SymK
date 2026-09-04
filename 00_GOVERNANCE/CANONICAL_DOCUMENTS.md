@@ -1,7 +1,7 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.7
+**Version:** 0.8
 **Date:** 4 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
@@ -89,6 +89,10 @@ Their precise future status and relationship to the SymK 2.x conceptual corpus r
   — accepted provisional epistemic-role-cooperation profile.
 - `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
   — exact acceptance authority, accepted-object hash, effects and non-effects.
+- `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_C_PROPORTIONAL_ASSURANCE_AND_GOVERNANCE_COST_PROPOSAL_v0.1.md`
+  — accepted provisional proportional-assurance and governance-cost profile.
+- `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
+  — exact acceptance authority, accepted-object hash, effects and non-effects.
 
 `SYMK-GP-001` prospectively requires material new or revised governed artifacts to
 make material prohibited inferences inspectable and testable in proportion to their
@@ -108,7 +112,15 @@ Package B v0.1 prospectively governs material SymK project function distinctions
 role claims, overlap and handoffs within project-steward jurisdiction. GMC-003–008
 are accepted only through the profile's exact bounded formulations. The profile
 does not assign a real role, select a method, issue execution authority, open 2.4C
-or 2.6, create constitutional force or accept Packages C–D or GMC-009–014.
+or 2.6 or create constitutional force. The Package B acceptance itself did not
+transfer acceptance to Packages C–D or GMC-009–014.
+
+Package C v0.1 prospectively governs material SymK project assurance calibration
+and governance total-cost/risk assessment within project-steward jurisdiction.
+GMC-009–010 are accepted only through the profile's exact bounded formulations. The
+profile does not set a real risk tolerance or assurance configuration, select a
+method, issue execution authority, create a policy or standard, open 2.4/2.6, create
+constitutional force or accept Package D or GMC-011–014.
 
 ## 7. Known unresolved conflicts and deferrals
 
@@ -126,6 +138,10 @@ No document becomes a Ratified SymK axiom, constitutional article, concept, or s
 
 ## 9. Version history
 
+- **0.8 — 2026-09-04:** Registered accepted provisional Package C v0.1 and its exact
+  project-steward acceptance record; accepted GMC-009–010 only through that bounded
+  profile without setting a real risk tolerance or assurance configuration,
+  creating a policy/standard, opening 2.4/2.6 or accepting Package D.
 - **0.7 — 2026-09-04:** Registered accepted provisional Package B v0.1 and its exact
   project-steward acceptance record; accepted GMC-003–008 only through that bounded
   profile without assigning a real role, opening 2.4C/2.6 or accepting Packages

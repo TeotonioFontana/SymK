@@ -1,7 +1,7 @@
 # SymK GMC Disposition Register v0.1
 
-**Status:** Analytical intake register with subsequent Package A and B acceptances
-and Package C proposal noted
+**Status:** Analytical intake register with subsequent Package A, B and C
+acceptances noted
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction “do it” in direct response to the proposed
 GMC disposition-register and four-package evaluation
@@ -57,8 +57,8 @@ reject, supersede or implement a GMC.
 
 No table row is reclassified as `ACCEPT`, `REJECT` or `COMPLETE` because these
 remain analytical dispositions. Separate later decisions accept GMC-001–002 through
-exact Package A v0.3 and GMC-003–008 through exact Package B v0.1; they do not alter
-the meaning of the analytical table.
+exact Package A v0.3, GMC-003–008 through exact Package B v0.1 and GMC-009–010
+through exact Package C v0.1; they do not alter the meaning of the analytical table.
 
 ## 5. Cross-GMC dependencies
 
@@ -82,7 +82,7 @@ pivot controls. The project steward subsequently accepted exact v0.3 as a
 provisional project-method governance profile through
 `SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`. GMC-001 and GMC-002 are
 accepted only through that profile. Their original analytical dispositions remain
-preserved; GMC-003–014 remain neither accepted nor rejected.
+preserved. That Package A decision did not itself accept GMC-003–014.
 
 **Subsequent Package B state:** Package B v0.1 uses GMC-003 as the functional
 non-substitution boundary, GMC-004 as an optional, architecture-neutral cooperation
@@ -92,19 +92,20 @@ SPServices medical-property tests. The project steward subsequently accepted exa
 v0.1 as a provisional epistemic-role-cooperation profile through
 `SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`. GMC-003–008 are accepted
 only through that profile. Their original analytical dispositions remain preserved;
-GMC-009–014 remain neither accepted nor rejected. No real role is allocated, no
-execution authority is issued and neither 2.4 nor 2.6 is opened.
+that Package B decision did not itself accept GMC-009–014. No real role is
+allocated, no execution authority is issued and neither 2.4 nor 2.6 is opened.
 
-**Subsequent Package C state:** Package C v0.1 is now prepared in
-`SYMK_GMC_PACKAGE_C_PROPORTIONAL_ASSURANCE_AND_GOVERNANCE_COST_PROPOSAL_v0.1.md`.
-It uses GMC-009 as a multidimensional consequence-proportional assurance rule and
-GMC-010 to include governance burden, opportunity cost and governance-caused risk
-inside method assessment. It includes bidirectional calibration,
-escalation/de-escalation, SPServices, multi-Domain, under-governance and
-over-governance tests. This preparation does not change any analytical disposition,
-accept Package C or GMC-009–010, set a real risk tolerance or assurance
-configuration, create a policy or standard, issue execution authority or open
-2.4/2.6. GMC-011–014 remain neither accepted nor rejected.
+**Subsequent Package C state:** Package C v0.1 uses GMC-009 as a multidimensional
+consequence-proportional assurance rule and GMC-010 to include governance burden,
+opportunity cost and governance-caused risk inside method assessment. It includes
+bidirectional calibration, escalation/de-escalation, SPServices, multi-Domain,
+under-governance and over-governance tests. The project steward subsequently
+accepted exact v0.1 as a provisional proportional-assurance and governance-cost
+profile through `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`.
+GMC-009–010 are accepted only through that profile. Their original analytical
+dispositions remain preserved; GMC-011–014 remain neither accepted nor rejected.
+No real risk tolerance or assurance configuration is set, no policy or standard is
+created, no execution authority is issued and neither 2.4 nor 2.6 is opened.
 
 ## 6. Conflicts and tensions preserved
 
@@ -143,5 +144,5 @@ EVIDENCE, CROSS-DEPENDENCIES AND PRESERVED TENSIONS. FOUR CONFIRM EXISTING
 DISTINCTIONS, FOUR SUGGEST OPERATIONALIZATION, FIVE REQUIRE CANDIDATE DEVELOPMENT AND
 ONE AWAITS ITS COMPETENT DERIVED-PROJECT ROUTE. THESE ANALYTICAL DISPOSITIONS DO NOT
 BY THEMSELVES ACCEPT, REJECT OR MAKE A GMC NORMATIVE. SEPARATE RECORDS ACCEPT
-GMC-001–002 ONLY THROUGH PACKAGE A AND GMC-003–008 ONLY THROUGH PACKAGE B;
-GMC-009–014 REMAIN UNACCEPTED.**
+GMC-001–002 ONLY THROUGH PACKAGE A, GMC-003–008 ONLY THROUGH PACKAGE B AND
+GMC-009–010 ONLY THROUGH PACKAGE C; GMC-011–014 REMAIN UNACCEPTED.**

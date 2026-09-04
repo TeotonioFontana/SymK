@@ -1,16 +1,19 @@
 # SymK GMC Review Package
 
-**Status:** Mixed-status GMC package — Packages A v0.3 and B v0.1 accepted
+**Status:** Mixed-status GMC package — Packages A v0.3, B v0.1 and C v0.1 accepted
 provisionally; remaining review material non-authoritative
-**Version:** 0.8
+**Version:** 0.9
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
 `SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`
 **Package B acceptance authority:** Exact project-steward decision recorded in
 `SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
-**Normative effect:** This index creates none; Packages A v0.3 and B v0.1 have only
-the project-process effects established by their separate acceptance records
+**Package C acceptance authority:** Exact project-steward decision recorded in
+`SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
+**Normative effect:** This index creates none; Packages A v0.3, B v0.1 and C v0.1
+have only the project-process effects established by their separate acceptance
+records
 
 ## Purpose
 
@@ -43,9 +46,11 @@ project authority or treating local learning as a universal SymK rule.
 8. `SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md` — exact
    project-steward acceptance, accepted-object hash, effects and non-effects.
 9. `SYMK_GMC_PACKAGE_C_PROPORTIONAL_ASSURANCE_AND_GOVERNANCE_COST_PROPOSAL_v0.1.md`
-   — non-authoritative current Package C proposal covering consequence-proportional
-   assurance, governance total cost and risk, bidirectional calibration,
-   escalation/de-escalation and multi-Domain tests.
+   — accepted provisional proportional-assurance and governance-cost profile
+   covering consequence-proportional assurance, governance total cost and risk,
+   bidirectional calibration, escalation/de-escalation and multi-Domain tests.
+10. `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md` — exact
+    project-steward acceptance, accepted-object hash, effects and non-effects.
 
 ## Current result
 
@@ -57,18 +62,16 @@ GMC-002 are accepted only through that profile's bounded formulations.
 `SYMK-GP-001` remains the independently adopted negative-control policy and is not
 superseded.
 
-Exact Package B v0.1 is now accepted as a provisional SymK
+Exact Package B v0.1 is accepted as a provisional SymK
 epistemic-role-cooperation profile. GMC-003–008 are accepted only through that
-profile's bounded formulations. Packages C–D and GMC-009–014 remain neither
-accepted nor rejected. Package B assigns no real role, selects no method, issues no
-execution authority and opens no stage.
+profile's bounded formulations. Package B assigns no real role, selects no method,
+issues no execution authority and opens no stage.
 
-Package C v0.1 is now prepared for separate review. It operationalizes GMC-009–010
-as a multidimensional proportional-assurance and governance-cost proposal, tests
-under-governance and over-governance independently, and passes initial SPServices,
-multi-Domain and escalation/de-escalation cases. It is not accepted, sets no real
-risk tolerance or assurance configuration, issues no execution authority and opens
-no stage.
+Exact Package C v0.1 is now accepted as a provisional SymK proportional-assurance
+and governance-cost profile. GMC-009–010 are accepted only through that profile's
+bounded formulations. Package D and GMC-011–014 remain neither accepted nor
+rejected. Package C sets no real risk tolerance or assurance configuration, creates
+no policy or standard, issues no execution authority and opens no stage.
 
 The GMCs remain a non-exhaustive improvement set. Other SymK improvements may exist
 outside this package and remain discoverable through ordinary governance and
@@ -76,10 +79,8 @@ challenge processes.
 
 ## Prohibited inferences — what this package does not mean
 
-- evaluation alone does not establish acceptance; Packages A and B derive
+- evaluation alone does not establish acceptance; Packages A, B and C derive
   acceptance from their separate project-steward records;
-- preparation and stress testing of Package C do not accept Package C or
-  GMC-009–010;
 - compatibility does not establish redundancy or completeness;
 - a proposed route does not open its destination stage;
 - grouping conclusions does not erase their independent status;
@@ -88,6 +89,11 @@ challenge processes.
 
 ## Version history
 
+- **0.9 — 2026-09-04:** Registered project-steward acceptance of exact Package C
+  v0.1 as a provisional proportional-assurance and governance-cost profile;
+  accepted GMC-009–010 only through that bounded profile; left Package D and
+  GMC-011–014 unaccepted and created no risk acceptance, assurance assignment,
+  policy, standard, stage opening or execution authority.
 - **0.8 — 2026-09-04:** Added Package C v0.1 for separate review with
   consequence-sensitive assurance, governance total-cost/risk analysis,
   bidirectional calibration, escalation/de-escalation and SPServices/multi-Domain

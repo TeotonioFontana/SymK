@@ -1,21 +1,29 @@
-# SymK GMC Package C — Proportional Assurance and Governance Cost Proposal v0.1
+# SymK GMC Package C — Proportional Assurance and Governance Cost Profile v0.1
 
-**Status:** Proposal for project-steward review — not accepted
+**Status:** Accepted provisional SymK proportional-assurance and governance-cost
+profile
 **Date:** 4 September 2026
+**Effective date:** 4 September 2026
 **Preparation authority:** Project-steward instruction “Prepare it” after review of
 the existing Package C analytical outline
+**Acceptance authority:** Explicit project-steward instruction “Package C accepted”
+after review of v0.1
+**Acceptance record:** `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
 **Members:** GMC-009 and GMC-010
 **Depends on:** Stage-Accepted DR-014 and DR-016 distinctions, accepted Package A
 v0.3, accepted Package B v0.1, the GMC disposition register, the cooperating-packages
 evaluation and provisional active `SYMK-GP-001`
 **Interfaces with:** Package D; later 2.4 method/standard classification and 2.6
 derived-project specialization when those stages are competent
-**Normative effect:** None unless separately accepted through competent procedure
+**Normative effect:** Provisional SymK project-process governance profile within its
+declared Scope; not a constitutional norm, universal risk model, real risk
+acceptance, assurance assignment, policy, standard, method selection, Execution
+Release or stage opening
 
-## 1. Proposal summary
+## 1. Profile summary
 
-Package C v0.1 converts GMC-009 and GMC-010 into a candidate assurance profile that
-asks two questions together:
+Package C v0.1 converts GMC-009 and GMC-010 into a provisional assurance profile
+that asks two questions together:
 
 > **What assurance is warranted by the material consequences of this work, and what
 > consequences are created by the assurance arrangement itself?**
@@ -26,10 +34,10 @@ The profile makes under-governance and over-governance separately visible and
 challengeable without reducing sensitivity, uncertainty, harm, reversibility,
 external effect, governance cost or risk tolerance to one universal scalar.
 
-## 2. Decision requested
+## 2. Acceptance decision and effect
 
-Accept, correct or reject a provisional proportional-assurance and governance-cost
-profile that:
+The project steward accepts this exact v0.1 as a provisional SymK
+proportional-assurance and governance-cost profile. The accepted profile:
 
 - relates assurance measures to material consequence rather than document or gate
   count;
@@ -45,13 +53,12 @@ profile that:
 - supplies Package D with observable assurance assumptions, burdens and outcomes
   without accepting Package D.
 
-Acceptance would make this a provisional SymK proportional-assurance and
-governance-cost profile and incorporate GMC-009–010 only through its exact bounded
-formulations. It would make later operational-template work eligible for a separate
-Execution Release and later 2.4 classification or 2.6 specialization eligible when
-those stages are competent. It would not set a universal risk tolerance, assign an
-assurance level to a real project, issue an Execution Release, open a stage or
-accept Package D or GMC-011–014.
+Acceptance incorporates GMC-009–010 only through this profile's exact bounded
+formulations, controls and non-entailments. It makes later operational-template work
+eligible only under a separate Execution Release and makes later 2.4 classification
+or 2.6 specialization eligible when those stages are competent. It does not set a
+universal risk tolerance, assign an assurance level to a real project, issue an
+Execution Release, open a stage or accept Package D or GMC-011–014.
 
 ## 3. Problem addressed
 
@@ -82,7 +89,7 @@ organizational, legal and external authority.
 
 ## 4. Compatibility boundary
 
-This proposal operationalizes without reopening accepted distinctions among:
+This profile operationalizes without reopening accepted distinctions among:
 
 - risk, uncertainty, harm, consequence, Value and Responsibility;
 - sensitivity, severity, likelihood, exposure and affected distribution;
@@ -116,7 +123,7 @@ remain with competent owners.
 | residual uncertainty | material uncertainty remaining after proportionate inquiry or control | accepted residual risk, harmlessness or permission to proceed |
 | risk acceptance | attributable decision by competent authority to tolerate a declared residual exposure for a declared purpose and Scope | semantic truth, assurance adequacy or transfer of consequences to others |
 
-These are proposal-local working terms and do not amend accepted SymK vocabulary.
+These are profile-local working terms and do not amend accepted SymK vocabulary.
 
 ## 6. GMC-009 core rule — consequence-proportional assurance
 
@@ -564,9 +571,11 @@ without pretending to determine the locally competent answer.
 9. Review delay makes a security fix arrive after exploitation.
 10. Teams optimize gate completion while the outcome-facing objective deteriorates.
 
-## 29. Acceptance tests for v0.1
+## 29. Acceptance conditions and continuing tests
 
-Before acceptance, review must establish that Package C v0.1:
+Acceptance adopts the following continuing tests. A material failure triggers
+challenge and reassessment under Sections 32–33; it does not silently amend the
+profile or retroactively erase the recorded acceptance:
 
 1. preserves exact DR-014 and DR-016 distinctions and authority;
 2. introduces no Foundational concept, universal risk scale or fixed workflow;
@@ -594,8 +603,9 @@ Before acceptance, review must establish that Package C v0.1:
 23. passes every multi-Domain case and escalation/de-escalation case;
 24. applies `SYMK-GP-001` with material, testable negative controls;
 25. preserves dissent, challenge, correction and reopening; and
-26. does not accept Package C, GMC-009–010, Package D or GMC-011–014 by preparation
-   alone.
+26. does not accept Package D or GMC-011–014, set a real risk tolerance or assurance
+   configuration, create a policy or standard, issue execution authority or open a
+   stage.
 
 ## 30. Operational record shape
 
@@ -656,7 +666,8 @@ component, numerical model or Execution Release.
     compliance in operation.
 22. Package C does not own Domain semantics, objective selection, method selection,
     role assignment, risk tolerance or external law.
-23. Package C preparation does not accept GMC-009–010 or create a policy or standard.
+23. Package C acceptance gives GMC-009–010 no independent universal force outside
+    the exact accepted profile and creates no policy or standard.
 24. Later classification eligibility does not open 2.4 or 2.6.
 25. Package C is not the only or necessarily highest-priority remaining SymK
     improvement.
@@ -712,9 +723,9 @@ Reassess Package C if:
 
 ## 34. Authorities and non-effects
 
-This proposal does not:
+This accepted profile does not:
 
-- accept Package C or GMC-009–010;
+- give GMC-009–010 independent universal force outside the exact accepted profile;
 - create a universal risk ontology, score, tolerance, level or assurance workflow;
 - assess or accept risk for any real project;
 - assign an assurance configuration, reviewer, approver or affected-subject role;
@@ -729,16 +740,17 @@ This proposal does not:
 - accept Package D or GMC-011–014; or
 - establish that the GMC set exhausts SymK improvement.
 
-## 35. Proposal result
+## 35. Acceptance result
 
-**PACKAGE C V0.1 IS PREPARED FOR PROJECT-STEWARD REVIEW AS A NON-AUTHORITATIVE
-PROPORTIONAL-ASSURANCE AND GOVERNANCE-COST PROPOSAL. GMC-009 MAKES ASSURANCE
+**PACKAGE C V0.1 IS ACCEPTED AS A PROVISIONAL SYMK PROPORTIONAL-ASSURANCE AND
+GOVERNANCE-COST PROFILE. GMC-009–010 ARE ACCEPTED ONLY THROUGH THIS PROFILE'S EXACT
+BOUNDED FORMULATIONS, CONTROLS AND NON-ENTAILMENTS. GMC-009 MAKES ASSURANCE
 CONSEQUENCE-SENSITIVE WITHOUT CREATING ONE UNIVERSAL RISK SCALAR, THRESHOLD OR
 WORKFLOW. GMC-010 PLACES GOVERNANCE DELAY, OPPORTUNITY COST, FATIGUE, DISPLACEMENT,
 EXPOSURE, LOCK-IN, EXCLUSION AND LOST LEARNING INSIDE TOTAL-COST AND CONSEQUENCE
 ANALYSIS. THE PROFILE TESTS UNDER-GOVERNANCE AND OVER-GOVERNANCE INDEPENDENTLY,
 REQUIRES EVIDENCE-BEARING ESCALATION AND DE-ESCALATION, PRESERVES NON-COMPENSABLE
 CONDITIONS AND PASSES INITIAL SPSERVICES, MULTI-DOMAIN AND COUNTEREXAMPLE TESTS. THIS
-IS A PROPOSAL, NOT PACKAGE OR GMC ACCEPTANCE, RISK ACCEPTANCE, METHOD SELECTION,
-ASSURANCE ASSIGNMENT, EXECUTION RELEASE, POLICY, STANDARD, STAGE OPENING OR
-IMPLEMENTATION AUTHORITY.**
+ACCEPTANCE DOES NOT SET A REAL RISK TOLERANCE OR ASSURANCE CONFIGURATION, SELECT A
+METHOD, ISSUE AN EXECUTION RELEASE, CREATE A POLICY OR STANDARD, OPEN A STAGE OR
+ACCEPT PACKAGE D OR GMC-011–014.**

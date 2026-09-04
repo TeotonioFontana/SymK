@@ -1,7 +1,7 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.12
+**Version:** 0.13
 **Date:** 4 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
@@ -16,8 +16,7 @@ This directory contains SymK's governed orientation, constitutional work, founda
 6. `05_Governance_Policies/README.md` — canonical policy location and current
    project-process policies.
 7. `99-Notes/GMC_Review/README.md` — mixed-status GMC package containing accepted
-   provisional Packages A–B, proposed Package C and the still-analytical Package D
-   evaluation.
+   provisional Packages A–C and the still-analytical Package D evaluation.
 
 ## Authority rule
 
@@ -33,12 +32,14 @@ Canonical location, constitutional force, semantic authority, external authority
 - GMC Package B v0.1 is an accepted provisional epistemic-role-cooperation profile
   for functional non-substitution, optional role cooperation and handoff
   preservation.
-- GMC Package C v0.1 is a non-authoritative proposal for consequence-proportional
-  assurance, governance total-cost/risk analysis and bidirectional calibration.
+- GMC Package C v0.1 is an accepted provisional proportional-assurance and
+  governance-cost profile for consequence-sensitive assurance, governance
+  total-cost/risk analysis and bidirectional calibration.
 
 None has constitutional force. Package acceptance does not assign a real role,
 select a real method, issue an Execution Release, open SymK 2.4C/2.6 or accept
-Packages C–D.
+Package D. Package C acceptance does not set a real risk tolerance or assurance
+configuration or create a policy or standard.
 
 ## Current SymK 2.0 state
 
@@ -46,6 +47,11 @@ SymK 2.0 is Stage-Accepted through DR-008 after completion of all nine migration
 
 ## Version history
 
+- **0.13 — 2026-09-04:** Registered project-steward acceptance of exact GMC Package
+  C v0.1 as a provisional proportional-assurance and governance-cost profile;
+  GMC-009–010 are accepted only through that bounded profile, with no Package D
+  acceptance, real risk acceptance, assurance assignment, policy/standard creation,
+  execution authority or stage opening.
 - **0.12 — 2026-09-04:** Registered non-authoritative GMC Package C v0.1 for
   separate review after SPServices, multi-Domain, escalation/de-escalation,
   governance-cost and negative tests; no Package C/GMC-009–010 acceptance, risk

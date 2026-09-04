@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.89
+**Version:** 0.90
 **Date:** 4 September 2026
 
 ## 1. Registry summary
@@ -24,8 +24,8 @@
 | SymK 2.x migration/project plans | 3 | `SYMK-2X-PLAN-002`, `PLAN-003` and post-3.0 naming `PLAN-004` v0.1 registered as complementary Proposed plans; no independent normative effect |
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
-| Policies and project-governance profiles | 3 | `SYMK-GP-001` is a provisional active policy; Packages A v0.3 and B v0.1 are accepted provisional profiles; none has constitutional force |
-| GMC upstream review | 1 package | Packages A v0.3 and B v0.1 accepted provisionally; Package C v0.1 proposed; Package D and GMC-009–014 remain unaccepted |
+| Policies and project-governance profiles | 4 | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1 and C v0.1 are accepted provisional profiles; none has constitutional force |
+| GMC upstream review | 1 package | Packages A v0.3, B v0.1 and C v0.1 accepted provisionally; Package D and GMC-011–014 remain unaccepted |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -174,6 +174,12 @@ DR-010 makes Identity, Context, Scope, Domain, and Representation foundational f
 **Profile acceptance record:**
 `../99-Notes/GMC_Review/SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
 
+**Registered proportional-assurance and governance-cost profile:**
+`../99-Notes/GMC_Review/SYMK_GMC_PACKAGE_C_PROPORTIONAL_ASSURANCE_AND_GOVERNANCE_COST_PROPOSAL_v0.1.md`
+
+**Profile acceptance record:**
+`../99-Notes/GMC_Review/SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
+
 **Status and effect:** Provisional active project-governance policy, effective
 prospectively from 4 September 2026. Material new or revised governed artifacts must
 make their material prohibited inferences inspectable and testable, with burden
@@ -194,8 +200,18 @@ Package B v0.1 is an accepted provisional epistemic-role-cooperation profile,
 effective 4 September 2026. It prospectively governs material SymK project function
 distinctions, role claims, overlap and handoffs within project-steward jurisdiction.
 It accepts GMC-003–008 only through its exact bounded formulations. It does not
-assign a real role, select a method, issue an Execution Release, open 2.4C/2.6,
-create constitutional force or accept Packages C–D or GMC-009–014.
+assign a real role, select a method, issue an Execution Release, open 2.4C/2.6 or
+create constitutional force. The Package B acceptance itself did not transfer
+acceptance to Packages C–D or GMC-009–014.
+
+Package C v0.1 is an accepted provisional proportional-assurance and
+governance-cost profile, effective 4 September 2026. It prospectively governs
+material SymK project assurance calibration and governance total-cost/risk
+assessment within project-steward jurisdiction. It accepts GMC-009–010 only through
+its exact bounded formulations. It does not set a real risk tolerance or assurance
+configuration, select a method, issue an Execution Release, create a policy or
+standard, open 2.4/2.6, create constitutional force or accept Package D or
+GMC-011–014.
 
 ## 9. GMC upstream review package
 
@@ -204,8 +220,8 @@ create constitutional force or accept Packages C–D or GMC-009–014.
 **Holdings:** One package README, one fourteen-item analytical disposition register,
 one integrated evaluation of four cooperating governance packages, preserved
 Package A v0.1–v0.2 predecessors, accepted Package A v0.3 and its exact acceptance
-record, accepted Package B v0.1 and its exact acceptance record, and proposed
-Package C v0.1.
+record, accepted Package B v0.1 and its exact acceptance record, and accepted
+Package C v0.1 and its exact acceptance record.
 
 **Status and effect:** Mixed-status upstream-learning package. All fourteen GMCs
 retain analytical dispositions, proposed routes, evidence needs and preserved
@@ -214,13 +230,11 @@ corrected it but exposed insufficient pre-selection empirical comparison. Both
 remain preserved. Exact Package A v0.3 is accepted provisionally, including GMC-001
 and GMC-002 only through its bounded profile. Exact Package B v0.1 is accepted
 provisionally, including GMC-003–008 only through its bounded profile. Package B
-remains architecture-neutral and assigns no real role. Packages C–D and GMC-009–014
-remain unaccepted. Package C v0.1 now operationalizes GMC-009–010 as a
-non-authoritative, multidimensional proportional-assurance and governance-cost
-proposal with bidirectional calibration, escalation/de-escalation and SPServices/
-multi-Domain tests. Its preparation sets no real risk tolerance or assurance
-configuration, creates no policy or standard and opens no stage. The package is
-expressly non-exhaustive; other SymK improvements remain open.
+remains architecture-neutral and assigns no real role. Exact Package C v0.1 is
+accepted provisionally, including GMC-009–010 only through its bounded profile. It
+sets no real risk tolerance or assurance configuration and creates no policy or
+standard. Package D and GMC-011–014 remain unaccepted. No stage is opened. The
+package is expressly non-exhaustive; other SymK improvements remain open.
 
 ## 10. Known unresolved status
 
@@ -272,6 +286,11 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.90 — 2026-09-04:** Registered project-steward acceptance of exact Package C
+  v0.1 as a provisional proportional-assurance and governance-cost profile and
+  GMC-009–010 only through that profile. Registered the acceptance record and hash;
+  left Package D, GMC-011–014, all stages, real risk acceptance, assurance
+  assignment, policy/standard creation and execution authority unchanged.
 - **0.89 — 2026-09-04:** Registered Package C v0.1 as a non-authoritative
   proportional-assurance and governance-cost proposal with GMC-009
   consequence-sensitive calibration, GMC-010 governance total-cost/risk analysis,

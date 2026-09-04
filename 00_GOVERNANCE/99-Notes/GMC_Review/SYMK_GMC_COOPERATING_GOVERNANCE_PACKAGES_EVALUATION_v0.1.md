@@ -1,7 +1,7 @@
 # SymK GMC Cooperating Governance Packages Evaluation v0.1
 
-**Status:** Integrated evaluation — Packages A v0.3 and B v0.1 accepted
-provisionally; Packages C–D remain analytical; no stage opened
+**Status:** Integrated evaluation — Packages A v0.3, B v0.1 and C v0.1 accepted
+provisionally; Package D remains analytical; no stage opened
 **Date:** 4 September 2026
 **Depends on:** `SYMK_GMC_DISPOSITION_REGISTER_v0.1.md` and provisional active
 `SYMK-GP-001`
@@ -101,7 +101,8 @@ profile against SPServices medical-property, cross-Domain and negative cases.
 The project steward subsequently accepted exact v0.1 as a provisional
 epistemic-role-cooperation profile through
 `SYMK_GMC_PACKAGE_B_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`. GMC-003–008 are accepted
-only through that bounded profile. Packages C–D and GMC-009–014 remain unaccepted.
+only through that bounded profile. That Package B decision did not itself accept
+Packages C–D or GMC-009–014.
 
 ## 5. Package C — Proportional assurance and governance cost
 
@@ -127,13 +128,16 @@ protection against strategic understatement of risk.
 **Recommended analytical state:** **READY FOR MULTI-DOMAIN STRESS TESTING BEFORE A
 POLICY OR STANDARD PROPOSAL.**
 
-**Subsequent state:** Package C v0.1 is prepared in
+**Subsequent state:** Package C v0.1 was prepared in
 `SYMK_GMC_PACKAGE_C_PROPORTIONAL_ASSURANCE_AND_GOVERNANCE_COST_PROPOSAL_v0.1.md`.
 It defines a multidimensional consequence profile rather than a universal risk
 scalar; tests assurance deficiency and assurance excess independently; includes
 governance-caused cost and risk; and passes initial SPServices, multi-Domain,
-escalation/de-escalation and negative cases. Package C and GMC-009–010 remain
-unaccepted.
+escalation/de-escalation and negative cases. The project steward subsequently
+accepted exact v0.1 as a provisional proportional-assurance and governance-cost
+profile through `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`.
+GMC-009–010 are accepted only through that bounded profile. Package D and
+GMC-011–014 remain unaccepted.
 
 ## 6. Package D — Observation, pause, pivot and upstream learning
 
@@ -213,8 +217,8 @@ When separately authorized and when owning stages are competent:
    later competent classification;
 2. operationalize accepted Package B through separately released template work and
    later competent classification/specialization;
-3. review, correct or accept prepared Package C v0.1 as a proportional-assurance
-   and governance-cost profile after its multi-Domain tests;
+3. operationalize accepted Package C through separately released template work and
+   later competent classification/specialization;
 4. design Package D jointly with derived-project and observability governance;
 5. re-run the package interaction tests and `SYMK-GP-001` prohibited-inference review;
 6. decide each GMC independently before any integrated adoption claim; and
@@ -236,7 +240,7 @@ This order is a proposed dependency sequence, not execution authority.
 9. `SYMK-GP-001` adoption does not accept any package or GMC.
 10. This evaluation does not establish that the GMCs are SymK's only or most
     important remaining improvements.
-11. Package A or B acceptance does not transfer acceptance to another package or
+11. Package A, B or C acceptance does not transfer acceptance to another package or
     convert remaining analytical recommendations into authority.
 
 ## 12. Evaluation result
@@ -248,7 +252,8 @@ RETURNS LEARNING; AND SYMK-GP-001 PROTECTS THEIR INTERFACES. EXACT PACKAGE A V0.
 ACCEPTED AS A PROVISIONAL PROJECT-METHOD GOVERNANCE PROFILE, INCLUDING GMC-001 AND
 GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. EXACT PACKAGE B V0.1 IS ACCEPTED AS A
 PROVISIONAL EPISTEMIC-ROLE-COOPERATION PROFILE, INCLUDING GMC-003–008 ONLY THROUGH
-ITS BOUNDED FORMULATIONS. PACKAGE C V0.1 IS PREPARED FOR SEPARATE REVIEW AFTER
-SPSERVICES, MULTI-DOMAIN, ESCALATION/DE-ESCALATION, GOVERNANCE-COST AND NEGATIVE
-TESTS; PACKAGE D REMAINS FOR FUTURE LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGES C–D
-AND GMC-009–014 ARE NOT ACCEPTED, REJECTED, OPENED OR MADE NORMATIVE.**
+ITS BOUNDED FORMULATIONS. EXACT PACKAGE C V0.1 IS ACCEPTED AS A PROVISIONAL
+PROPORTIONAL-ASSURANCE AND GOVERNANCE-COST PROFILE, INCLUDING GMC-009–010 ONLY
+THROUGH ITS BOUNDED FORMULATIONS. PACKAGE D REMAINS FOR FUTURE
+LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGE D AND GMC-011–014 ARE NOT ACCEPTED,
+REJECTED, OPENED OR MADE NORMATIVE.**

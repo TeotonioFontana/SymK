@@ -1,7 +1,7 @@
 # SymK Governance Policies
 
 **Status:** Canonical policy location
-**Version:** 0.4
+**Version:** 0.5
 **Date:** 4 September 2026
 
 This directory indexes project-governance policies and accepted profiles whose
@@ -27,6 +27,11 @@ epistemic truth or universal applicability.
    non-substitution, optional role allocation, overlap, handoff preservation,
    standards, AI, Human adjudication and deterministic verification. Its acceptance
    record is maintained beside the profile.
+3. `../99-Notes/GMC_Review/SYMK_GMC_PACKAGE_C_PROPORTIONAL_ASSURANCE_AND_GOVERNANCE_COST_PROPOSAL_v0.1.md`
+   — accepted provisional proportional-assurance and governance-cost profile for
+   consequence-sensitive assurance, bidirectional calibration, governance total
+   cost/risk and evidence-bearing escalation/de-escalation. Its acceptance record is
+   maintained beside the profile.
 
 ## Authority boundary
 
@@ -42,12 +47,17 @@ effect of the change.
 ## Related open review
 
 The GMC disposition register and four-package evaluation are held under
-`../99-Notes/GMC_Review/`. Packages A v0.3 and B v0.1 are accepted provisionally
-through separate project-steward records. Packages C–D remain non-authoritative
-upstream learning. Neither accepted profile alters or supersedes `SYMK-GP-001`.
+`../99-Notes/GMC_Review/`. Packages A v0.3, B v0.1 and C v0.1 are accepted
+provisionally through separate project-steward records. Package D remains
+non-authoritative upstream learning. None of the accepted profiles alters or
+supersedes `SYMK-GP-001`.
 
 ## Version history
 
+- **0.5 — 2026-09-04:** Registered accepted provisional Package C v0.1 as a
+  proportional-assurance and governance-cost profile without setting a real risk
+  tolerance or assurance configuration, creating a policy or standard, issuing
+  execution authority, opening 2.4/2.6 or accepting Package D.
 - **0.4 — 2026-09-04:** Registered accepted provisional Package B v0.1 as an
   epistemic-role-cooperation profile without assigning a real role, issuing
   execution authority, opening 2.4C/2.6 or accepting Packages C–D.
