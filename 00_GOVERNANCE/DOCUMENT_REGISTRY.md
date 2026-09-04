@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.85
+**Version:** 0.86
 **Date:** 4 September 2026
 
 ## 1. Registry summary
@@ -24,8 +24,8 @@
 | SymK 2.x migration/project plans | 3 | `SYMK-2X-PLAN-002`, `PLAN-003` and post-3.0 naming `PLAN-004` v0.1 registered as complementary Proposed plans; no independent normative effect |
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
-| Policies | 1 | `SYMK-GP-001` is provisional active project-process policy; no constitutional force |
-| GMC upstream review | 1 package | Fourteen-conclusion register, integrated evaluation and corrected Package A v0.3; non-authoritative |
+| Policies and project-governance profiles | 2 | `SYMK-GP-001` is a provisional active policy; Package A v0.3 is an accepted provisional profile; neither has constitutional force |
+| GMC upstream review | 1 package | Package A v0.3 accepted provisionally; Packages B–D and GMC-003–014 remain analytical and unaccepted |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -155,12 +155,18 @@ Registration does not pre-judge whether they will be retained, revised, supersed
 
 DR-010 makes Identity, Context, Scope, Domain, and Representation foundational for the 2.x program baseline; governs Relationship, Applicability, Bearer, and Projection as supporting distinctions; imports System as support; and removes Entity from foundational status while preserving it as a possible 2.5 engineering/meta-model construct. No final `FC-*` package or canonical concept artifact was created or migrated by acceptance.
 
-## 8. Governance policies
+## 8. Governance policies and profiles
 
 **Canonical location:** `05_Governance_Policies/`
 
 **Registered policy:**
 `SYMK-GP-001_PROHIBITED_INFERENCE_AND_NEGATIVE_CONTROL_POLICY_v0.1.md`
+
+**Registered project-method profile:**
+`../99-Notes/GMC_Review/SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.3.md`
+
+**Profile acceptance record:**
+`../99-Notes/GMC_Review/SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`
 
 **Status and effect:** Provisional active project-governance policy, effective
 prospectively from 4 September 2026. Material new or revised governed artifacts must
@@ -169,26 +175,31 @@ proportional to claim and consequence. The policy standardizes an existing SymK
 analytical practice; it does not amend DR-009–018, Ratify constitutional content,
 open a closed stage or resolve the remaining generalizable-method conclusions.
 
+Package A v0.3 is an accepted provisional project-method governance profile,
+effective 4 September 2026. It prospectively governs material SymK project
+objectives, comparative method validation, Trial and Delivery Releases, and
+continuing-fitness reassessment within project-steward jurisdiction. It accepts
+GMC-001 and GMC-002 only through its exact bounded formulations. It does not select
+a real method, issue an Execution Release, open 2.4, create constitutional force or
+accept Packages B–D or GMC-003–014.
+
 ## 9. GMC upstream review package
 
 **Location:** `99-Notes/GMC_Review/`
 
 **Holdings:** One package README, one fourteen-item analytical disposition register,
 one integrated evaluation of four cooperating governance packages, preserved
-Package A v0.1–v0.2 predecessors and corrected current Package A v0.3.
+Package A v0.1–v0.2 predecessors, accepted Package A v0.3 and its exact acceptance
+record.
 
-**Status and effect:** Non-authoritative upstream-learning material. All fourteen
-GMCs have analytical dispositions, proposed routes, evidence needs and preserved
-tensions. The integrated evaluation finds a coherent recursive arrangement across
-objective/method fitness, epistemic role cooperation, proportional assurance and
-governance cost, and observation/pause/pivot/upstream learning. No GMC or package is
-accepted, rejected, opened or made normative. Package A v0.1 exposed an independent
-execution-release gap; v0.2 corrected it but exposed insufficient pre-selection
-empirical comparison under the method-adequacy test. Both remain preserved.
-Corrected v0.3 adds credible-candidate admission, proportionate comparative trials,
-distinct Trial and Delivery Releases, continuing-fitness reassessment and pivot
-controls, but remains Proposed. The package is expressly non-exhaustive; other SymK
-improvements remain open.
+**Status and effect:** Mixed-status upstream-learning package. All fourteen GMCs
+retain analytical dispositions, proposed routes, evidence needs and preserved
+tensions. Package A v0.1 exposed an independent execution-release gap; v0.2
+corrected it but exposed insufficient pre-selection empirical comparison. Both
+remain preserved. Exact Package A v0.3 is accepted provisionally, including GMC-001
+and GMC-002 only through its bounded profile. Packages B–D and GMC-003–014 remain
+analytical and neither accepted nor rejected. No stage is opened. The package is
+expressly non-exhaustive; other SymK improvements remain open.
 
 ## 10. Known unresolved status
 
@@ -240,6 +251,10 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.86 — 2026-09-04:** Registered project-steward acceptance of exact Package A
+  v0.3 as a provisional project-method governance profile and GMC-001/GMC-002 only
+  through that profile. Registered the acceptance record and hash; left Packages
+  B–D, GMC-003–014, all stages and real execution authority unchanged.
 - **0.85 — 2026-09-04:** Preserved Package A v0.2 after its method-adequacy gap and
   registered corrected v0.3 with credible-candidate admission, proportionate
   comparative validation, distinct Trial and Delivery Releases, and

@@ -1,7 +1,7 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.8
+**Version:** 0.9
 **Date:** 4 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
@@ -15,12 +15,23 @@ This directory contains SymK's governed orientation, constitutional work, founda
 5. `../SymK 2.x Evolution history/2.0/README.md` — governed `2.0-rc.1` evolution and migration record.
 6. `05_Governance_Policies/README.md` — canonical policy location and current
    project-process policies.
-7. `99-Notes/GMC_Review/README.md` — non-authoritative GMC upstream-learning
-   disposition and integrated evaluation package.
+7. `99-Notes/GMC_Review/README.md` — mixed-status GMC package containing accepted
+   provisional Package A and the still-analytical Packages B–D evaluation.
 
 ## Authority rule
 
 Canonical location, constitutional force, semantic authority, external authority, and implementation fact are distinct. Every governed artifact must declare its own status, version, jurisdiction, and authority. Nothing becomes Ratified merely because it is stored here.
+
+## Current project-process governance
+
+- `SYMK-GP-001` is a provisional active prohibited-inference and negative-control
+  policy.
+- GMC Package A v0.3 is an accepted provisional project-method governance profile
+  for outcome-facing objectives, comparative method validation and bounded Trial
+  and Delivery Releases.
+
+Neither has constitutional force. Package A does not accept Packages B–D, select a
+real method, issue an Execution Release or open SymK 2.4.
 
 ## Current SymK 2.0 state
 
@@ -28,6 +39,10 @@ SymK 2.0 is Stage-Accepted through DR-008 after completion of all nine migration
 
 ## Version history
 
+- **0.9 — 2026-09-04:** Registered project-steward acceptance of exact GMC Package
+  A v0.3 as a provisional project-method governance profile; GMC-001 and GMC-002 are
+  accepted only through that bounded profile, with no Package B–D acceptance, stage
+  opening or real execution authority.
 - **0.8 — 2026-09-04:** Registered corrected GMC Package A v0.3 after v0.2 exposed
   insufficient pre-selection empirical comparison; added credible candidates,
   bounded comparative trials, distinct Trial and Delivery Releases, and

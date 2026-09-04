@@ -1,10 +1,14 @@
 # SymK GMC Review Package
 
-**Status:** Non-authoritative upstream-learning review package
-**Version:** 0.4
+**Status:** Mixed-status GMC package — Package A v0.3 accepted provisionally;
+remaining review material non-authoritative
+**Version:** 0.5
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
-**Normative effect:** None
+**Package A acceptance authority:** Exact project-steward decision recorded in
+`SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`
+**Normative effect:** This index creates none; Package A v0.3 has only the
+project-process effect established by its separate acceptance record
 
 ## Purpose
 
@@ -24,18 +28,22 @@ project authority or treating local learning as a universal SymK rule.
 4. `SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.2.md` — preserved
    execution-release correction predecessor; never accepted.
 5. `SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.3.md` — corrected
-   current proposal adding credible-candidate admission, proportionate comparative
-   validation, separate Trial and Delivery Release lanes, and continuing-fitness
-   reassessment and pivot controls.
+   and now accepted provisional project-method governance profile adding
+   credible-candidate admission, proportionate comparative validation, separate
+   Trial and Delivery Release lanes, and continuing-fitness reassessment and pivot
+   controls.
+6. `SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md` — exact
+   project-steward acceptance, accepted-object hash, effects and non-effects.
 
 ## Current result
 
 The integrated evaluation is complete. Package A v0.1 exposed the start-control gap;
 v0.2 corrected execution release but exposed insufficient pre-selection empirical
-comparison under the method-adequacy test. Both remain preserved. Corrected v0.3 is
-now the current proposal for review. No GMC is accepted, rejected or made normative
-by this package. `SYMK-GP-001` remains the independently adopted negative-control
-policy; its adoption does not dispose of any GMC.
+comparison under the method-adequacy test. Both remain preserved. Exact v0.3 is now
+accepted as a provisional SymK project-method governance profile. GMC-001 and
+GMC-002 are accepted only through that profile's bounded formulations. Packages
+B–D and GMC-003–014 remain neither accepted nor rejected. `SYMK-GP-001` remains the
+independently adopted negative-control policy and is not superseded.
 
 The GMCs remain a non-exhaustive improvement set. Other SymK improvements may exist
 outside this package and remain discoverable through ordinary governance and
@@ -43,7 +51,8 @@ challenge processes.
 
 ## Prohibited inferences — what this package does not mean
 
-- evaluation does not establish acceptance;
+- evaluation alone does not establish acceptance; Package A acceptance comes from
+  its separate project-steward record;
 - compatibility does not establish redundancy or completeness;
 - a proposed route does not open its destination stage;
 - grouping conclusions does not erase their independent status;
@@ -52,6 +61,10 @@ challenge processes.
 
 ## Version history
 
+- **0.5 — 2026-09-04:** Registered project-steward acceptance of exact Package A
+  v0.3 as a provisional project-method governance profile; accepted GMC-001 and
+  GMC-002 only through that bounded profile; left Packages B–D and GMC-003–014
+  unaccepted and opened no stage or real execution authority.
 - **0.4 — 2026-09-04:** Preserved Package A v0.2 after the method-adequacy test and
   registered corrected v0.3 with credible alternatives, bounded comparative trials,
   distinct Trial and Delivery Releases, and continuing-fitness/pivot controls; no

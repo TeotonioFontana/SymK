@@ -1,16 +1,22 @@
 # SymK GMC Package A — Objective and Method Fitness Proposal v0.3
 
-**Status:** Corrected proposal for project-steward review — not accepted
+**Status:** Accepted provisional SymK project-method governance profile
 **Date:** 4 September 2026
-**Supersedes as current proposal:**
+**Effective date:** 4 September 2026
+**Supersedes in proposal lineage:**
 `SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.2.md`
 **Correction authority:** Project-steward instruction to correct Package A after
 the SPServices method-adequacy test exposed premature deterministic-method
 commitment and inadequate comparative validation
+**Acceptance authority:** Explicit project-steward instruction “So, let's approve
+package A” after review of corrected v0.3
+**Acceptance record:** `SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`
 **Members:** GMC-001 and GMC-002, with bounded interfaces to GMC-009–012 and GMC-014
 **Depends on:** Stage-Accepted DR-014 and DR-016 distinctions, the GMC disposition
 register, the cooperating-packages evaluation and provisional active `SYMK-GP-001`
-**Normative effect:** None unless separately accepted through competent procedure
+**Normative effect:** Provisional SymK project-process governance profile within its
+declared Scope; not a constitutional norm, universal Domain rule, real method
+selection, Trial Release, Delivery Release or stage opening
 
 ## 1. Correction result
 
@@ -42,9 +48,10 @@ No approval of a plan, roadmap, proposal, objective, candidate, experiment or me
 authorizes later execution. No amount of prior implementation effort establishes
 comparative method fitness.
 
-## 2. Decision requested
+## 2. Acceptance decision and effect
 
-Accept, correct or reject a project-method governance profile that:
+The project steward accepts this exact v0.3 as a provisional SymK project-method
+governance profile. The accepted profile:
 
 - requires an externally meaningful and assessable outcome-facing objective;
 - governs every material candidate and selected method as a separate, challengeable
@@ -62,10 +69,12 @@ Accept, correct or reject a project-method governance profile that:
 - stops or escalates only when authority is absent, expired, materially ambiguous or
   exceeded, or when a declared material stop condition occurs.
 
-Acceptance would make this a provisional SymK project-method governance profile and
-authorize later operational template work and competent 2.4 classification. It
-would not select or trial a real method, open a closed evolution stage, create
-constitutional force or accept GMC-003–014.
+Acceptance incorporates GMC-001 and GMC-002 only through the bounded formulations,
+controls and non-entailments of this exact profile. It authorizes later operational
+template work only under a separately applicable Execution Release and makes the
+profile eligible for classification when SymK 2.4 is competent. It does not select
+or trial a real method, open a closed evolution stage, create constitutional force
+or accept GMC-003–014.
 
 ## 3. Problem addressed
 
@@ -634,9 +643,11 @@ The v0.1 and v0.2 cases remain applicable. Version 0.3 adds:
 | evidence supports complementary strengths | permit a hybrid selection with separately governed roles and interfaces |
 | urgent provisional selection is necessary | record expiry, compensating observation and earliest comparison point |
 
-## 24. Acceptance tests for v0.3
+## 24. Acceptance conditions and continuing tests
 
-Before acceptance, review must establish that v0.3:
+Acceptance adopts the following continuing tests. A material failure triggers
+challenge and reassessment under Sections 27–28; it does not silently amend the
+profile or retroactively erase the recorded acceptance:
 
 1. preserves exact DR-014 and DR-016 authority, plan, action, outcome and Value
    boundaries;
@@ -729,7 +740,7 @@ This shape is illustrative and creates no schema or mandatory file format.
 17. A pivot trigger does not establish project failure or dictate abandonment.
 18. Documentation compliance does not prove substantive control, fair comparison or non-ceremonial
    review.
-19. Acceptance of v0.3 would not accept Packages B–D or GMC-003–014.
+19. Acceptance of v0.3 does not accept Packages B–D or GMC-003–014.
 20. Package A is not the only or necessarily highest-priority SymK improvement.
 
 ## 27. Dissent and open questions
@@ -791,9 +802,10 @@ Reassess v0.3 if:
 
 ## 29. Authorities and non-effects
 
-This corrected proposal does not:
+This accepted profile does not:
 
-- accept GMC-001 or GMC-002;
+- give GMC-001 or GMC-002 independent universal force outside the exact accepted
+  profile;
 - issue an Objective Acceptance, Trial Release, Method Selection or Delivery Release
   for real work;
 - create a metric, threshold, schema, runtime guard or enforcement mechanism;
@@ -803,7 +815,7 @@ This corrected proposal does not:
 - accept or reject GMC-003–014; or
 - establish that the GMC set exhausts SymK improvement.
 
-## 30. Corrected proposal result
+## 30. Acceptance result
 
 **PACKAGE A V0.3 PRESERVES THE V0.2 EXECUTION-RELEASE CORRECTION AND ADDS THE MISSING
 CONTROL AGAINST PREMATURE METHOD COMMITMENT. AN ACCEPTED OBJECTIVE MAY ENTER A BOUNDED
@@ -815,6 +827,8 @@ OR CONTINUATION AUTHORITY. EXCEPTIONS, CONTINUING-FITNESS TRIGGERS, STOP-LOSS AN
 PIVOT DECISIONS REMAIN EXPLICIT AND CHALLENGEABLE. THE SPSERVICES-LIKE TEST NOW STOPS
 STRATEGICALLY UNCONTROLLED START AND REQUIRES REASSESSMENT BEFORE PROLONGED DELIVERY
 OF AN INADEQUATELY TESTED PRIMARY METHOD, WHILE ALLOWING PROPORTIONATE EXPLORATION.
-THIS IS A CORRECTED PROPOSAL,
-NOT ACCEPTANCE, ENFORCEMENT, STAGE OPENING, METHOD SELECTION OR IMPLEMENTATION
-AUTHORITY.**
+PACKAGE A V0.3 IS ACCEPTED AS A PROVISIONAL SYMK PROJECT-METHOD GOVERNANCE PROFILE.
+GMC-001 AND GMC-002 ARE ACCEPTED ONLY THROUGH THIS PROFILE'S EXACT BOUNDED
+FORMULATIONS, CONTROLS AND NON-ENTAILMENTS. THIS ACCEPTANCE DOES NOT ITSELF CREATE
+ENFORCEMENT, OPEN A STAGE, SELECT OR TRIAL A REAL METHOD, OR ISSUE A TRIAL, DELIVERY
+OR IMPLEMENTATION AUTHORITY. PACKAGES B–D AND GMC-003–014 REMAIN UNACCEPTED.**

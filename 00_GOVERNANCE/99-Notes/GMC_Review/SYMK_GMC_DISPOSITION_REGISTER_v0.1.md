@@ -1,6 +1,6 @@
 # SymK GMC Disposition Register v0.1
 
-**Status:** Analytical intake register — no GMC accepted or rejected
+**Status:** Analytical intake register with subsequent Package A acceptance noted
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction “do it” in direct response to the proposed
 GMC disposition-register and four-package evaluation
@@ -54,8 +54,9 @@ reject, supersede or implement a GMC.
 | `HOLD_FOR_ROUTE` | 013 | 1 |
 | **Total** | 001–014 | **14** |
 
-No item is classified `ACCEPT`, `REJECT` or `COMPLETE` because this analytical pass
-does not possess that effect.
+No table row is reclassified as `ACCEPT`, `REJECT` or `COMPLETE` because these remain
+analytical dispositions. A separate later decision accepts GMC-001 and GMC-002 only
+through exact Package A v0.3; it does not alter the meaning of the analytical table.
 
 ## 5. Cross-GMC dependencies
 
@@ -73,11 +74,13 @@ does not possess that effect.
 Execution Release gap. Version 0.2 corrected that gap but the SPServices
 method-adequacy test then exposed insufficient control of pre-selection comparative
 evidence and premature deterministic-method commitment. Both remain preserved
-without acceptance. Corrected v0.3 is now prepared in
-`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.3.md`; it adds credible
-candidate admission, bounded comparative trials, distinct Trial and Delivery
-Releases, and continuing-fitness/pivot controls. The correction does not change
-either analytical disposition or accept either GMC.
+without acceptance. Corrected v0.3 adds credible candidate admission, bounded
+comparative trials, distinct Trial and Delivery Releases, and continuing-fitness/
+pivot controls. The project steward subsequently accepted exact v0.3 as a
+provisional project-method governance profile through
+`SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`. GMC-001 and GMC-002 are
+accepted only through that profile. Their original analytical dispositions remain
+preserved; GMC-003–014 remain neither accepted nor rejected.
 
 ## 6. Conflicts and tensions preserved
 

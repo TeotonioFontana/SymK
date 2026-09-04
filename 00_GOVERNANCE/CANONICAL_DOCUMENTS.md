@@ -1,7 +1,7 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.5
+**Version:** 0.6
 **Date:** 4 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
@@ -76,11 +76,15 @@ Their registration does not pre-judge retention, revision, supersession, reclass
 
 Their precise future status and relationship to the SymK 2.x conceptual corpus remain subject to later content and legacy review.
 
-## 6. Governance Policies
+## 6. Governance Policies and Profiles
 
 - `05_Governance_Policies/README.md` — canonical policy location.
 - `05_Governance_Policies/SYMK-GP-001_PROHIBITED_INFERENCE_AND_NEGATIVE_CONTROL_POLICY_v0.1.md`
   — provisional active project-governance policy.
+- `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.3.md`
+  — accepted provisional project-method governance profile.
+- `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`
+  — exact acceptance authority, accepted-object hash, effects and non-effects.
 
 `SYMK-GP-001` prospectively requires material new or revised governed artifacts to
 make material prohibited inferences inspectable and testable in proportion to their
@@ -88,6 +92,13 @@ claims and consequences. It standardizes a governance practice already present i
 SymK analytical records. It is not constitutionally Ratified, does not amend
 Stage-Accepted decisions, and does not resolve the remaining generalizable-method
 conclusions.
+
+Package A v0.3 prospectively governs material SymK project objectives, comparative
+method validation, bounded Trial and Delivery Releases, and continuing-fitness
+reassessment within project-steward jurisdiction. GMC-001 and GMC-002 are accepted
+only through the profile's exact bounded formulations. The profile does not select
+a real method, issue execution authority, open 2.4, create constitutional force or
+accept Packages B–D or GMC-003–014.
 
 ## 7. Known unresolved conflicts and deferrals
 
@@ -105,6 +116,9 @@ No document becomes a Ratified SymK axiom, constitutional article, concept, or s
 
 ## 9. Version history
 
+- **0.6 — 2026-09-04:** Registered accepted provisional Package A v0.3 and its exact
+  project-steward acceptance record; accepted GMC-001 and GMC-002 only through that
+  bounded profile without opening 2.4 or accepting Packages B–D.
 - **0.5 — 2026-09-04:** Registered the governance-policy directory and provisional
   active `SYMK-GP-001`; preserved its project-process scope and the open status of
   the remaining generalizable-method conclusions.

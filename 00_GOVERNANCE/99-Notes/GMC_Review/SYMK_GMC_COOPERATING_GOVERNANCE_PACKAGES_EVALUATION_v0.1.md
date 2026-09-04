@@ -1,6 +1,7 @@
 # SymK GMC Cooperating Governance Packages Evaluation v0.1
 
-**Status:** Integrated analytical evaluation — no package accepted or opened
+**Status:** Integrated evaluation — Package A v0.3 accepted provisionally; Packages
+B–D remain analytical; no stage opened
 **Date:** 4 September 2026
 **Depends on:** `SYMK_GMC_DISPOSITION_REGISTER_v0.1.md` and provisional active
 `SYMK-GP-001`
@@ -59,11 +60,13 @@ This does not open 2.4 or accept a universal objective form.
 corrected it with separate Objective Acceptance, Method Selection and Execution
 Release decisions. The SPServices method-adequacy test then showed that v0.2 did not
 make pre-selection empirical comparison sufficiently explicit. Both remain
-preserved without acceptance. The corrected current proposal is
-`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.3.md`; it adds credible
-candidate admission, bounded comparative validation, distinct Trial and Delivery
-Release lanes, and continuing-fitness reassessment and pivot control. Correction
-does not constitute acceptance.
+preserved without acceptance. Corrected v0.3 adds credible candidate admission,
+bounded comparative validation, distinct Trial and Delivery Release lanes, and
+continuing-fitness reassessment and pivot control. The project steward subsequently
+accepted exact v0.3 as a provisional project-method governance profile through
+`SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`. This accepts GMC-001 and
+GMC-002 only through that bounded profile and does not accept Packages B–D or
+GMC-003–014.
 
 ## 4. Package B — Epistemic role cooperation
 
@@ -187,7 +190,8 @@ Before any package-level acceptance, later work must test at least:
 
 When separately authorized and when owning stages are competent:
 
-1. develop Package A as a method-fitness proposal;
+1. operationalize accepted Package A through separately released template work and
+   later competent classification;
 2. design Package B as an optional role-cooperation profile and test alternatives;
 3. stress-test Package C across multiple Domains before proposing an assurance policy
    or standard;
@@ -212,13 +216,17 @@ This order is a proposed dependency sequence, not execution authority.
 9. `SYMK-GP-001` adoption does not accept any package or GMC.
 10. This evaluation does not establish that the GMCs are SymK's only or most
     important remaining improvements.
+11. Package A acceptance does not transfer acceptance to Packages B–D or convert
+    their analytical recommendations into authority.
 
 ## 12. Evaluation result
 
 **THE FOUR GMC PACKAGES FORM A COHERENT RECURSIVE GOVERNANCE CANDIDATE: PACKAGE A
 GOVERNS PURPOSE AND METHOD FITNESS; PACKAGE B ORGANIZES EPISTEMIC ROLES; PACKAGE C
 CALIBRATES ASSURANCE AND GOVERNANCE COST; PACKAGE D OBSERVES, PAUSES, PIVOTS AND
-RETURNS LEARNING; AND SYMK-GP-001 PROTECTS THEIR INTERFACES. PACKAGE A IS READY FOR A
-LATER METHOD PROPOSAL, PACKAGE B FOR OPTIONAL-PROFILE TESTING, PACKAGE C FOR
-MULTI-DOMAIN STRESS TESTING, AND PACKAGE D FOR FUTURE LIFECYCLE/2.6/OBSERVABILITY
-WORK. NO GMC OR PACKAGE IS ACCEPTED, REJECTED, OPENED OR MADE NORMATIVE.**
+RETURNS LEARNING; AND SYMK-GP-001 PROTECTS THEIR INTERFACES. EXACT PACKAGE A V0.3 IS
+ACCEPTED AS A PROVISIONAL PROJECT-METHOD GOVERNANCE PROFILE, INCLUDING GMC-001 AND
+GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. PACKAGE B REMAINS FOR
+OPTIONAL-PROFILE TESTING, PACKAGE C FOR MULTI-DOMAIN STRESS TESTING, AND PACKAGE D
+FOR FUTURE LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGES B–D AND GMC-003–014 ARE NOT
+ACCEPTED, REJECTED, OPENED OR MADE NORMATIVE.**
