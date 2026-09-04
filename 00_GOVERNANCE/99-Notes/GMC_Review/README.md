@@ -2,7 +2,7 @@
 
 **Status:** Mixed-status GMC package — Packages A v0.3, B v0.1 and C v0.1 accepted
 provisionally; remaining review material non-authoritative
-**Version:** 0.9
+**Version:** 1.0
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
@@ -51,6 +51,10 @@ project authority or treating local learning as a universal SymK rule.
    bidirectional calibration, escalation/de-escalation and multi-Domain tests.
 10. `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md` — exact
     project-steward acceptance, accepted-object hash, effects and non-effects.
+11. `SYMK_GMC_PACKAGE_D_OBSERVATION_PAUSE_PIVOT_AND_UPSTREAM_LEARNING_PROPOSAL_v0.1.md`
+    — non-authoritative current Package D proposal covering independent progress
+    profiles, divergence review, governed pause/resumption and qualified upstream
+    learning.
 
 ## Current result
 
@@ -73,6 +77,13 @@ bounded formulations. Package D and GMC-011–014 remain neither accepted nor
 rejected. Package C sets no real risk tolerance or assurance configuration, creates
 no policy or standard, issues no execution authority and opens no stage.
 
+Package D v0.1 is now prepared for separate review. It operationalizes GMC-011–014
+as a lifecycle-observation and upstream-learning proposal, keeps outcome/learning
+and control/readiness progress independently inspectable, treats divergence as a
+review signal, gives pause a bounded envelope and routes qualified project evidence
+upstream. It is not accepted, triggers no real lifecycle decision, opens no stage
+and amends no SymK artifact.
+
 The GMCs remain a non-exhaustive improvement set. Other SymK improvements may exist
 outside this package and remain discoverable through ordinary governance and
 challenge processes.
@@ -89,6 +100,11 @@ challenge processes.
 
 ## Version history
 
+- **1.0 — 2026-09-04:** Added Package D v0.1 for separate review with independent
+  progress profiles, divergence/false-signal controls, bounded pause/resumption,
+  qualified upstream evidence, and SPServices/multi-Domain tests; no Package D or
+  GMC acceptance, lifecycle decision, pause/pivot authority, upstream decision,
+  SymK amendment, stage opening, policy, standard or execution authority follows.
 - **0.9 — 2026-09-04:** Registered project-steward acceptance of exact Package C
   v0.1 as a provisional proportional-assurance and governance-cost profile;
   accepted GMC-009–010 only through that bounded profile; left Package D and

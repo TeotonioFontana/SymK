@@ -1,7 +1,7 @@
 # SymK GMC Disposition Register v0.1
 
 **Status:** Analytical intake register with subsequent Package A, B and C
-acceptances noted
+acceptances and Package D proposal noted
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction “do it” in direct response to the proposed
 GMC disposition-register and four-package evaluation
@@ -106,6 +106,16 @@ GMC-009–010 are accepted only through that profile. Their original analytical
 dispositions remain preserved; GMC-011–014 remain neither accepted nor rejected.
 No real risk tolerance or assurance configuration is set, no policy or standard is
 created, no execution authority is issued and neither 2.4 nor 2.6 is opened.
+
+**Subsequent Package D state:** Package D v0.1 is now prepared in
+`SYMK_GMC_PACKAGE_D_OBSERVATION_PAUSE_PIVOT_AND_UPSTREAM_LEARNING_PROPOSAL_v0.1.md`.
+It uses GMC-014 to preserve independent outcome/learning and control/readiness
+progress profiles, GMC-011 to make material divergence a review signal, GMC-012 to
+define bounded pause/resumption and GMC-013 to route qualified project evidence
+upstream. It includes SPServices, multi-Domain, false-divergence, pause/resumption,
+metric-gaming, cross-project and upstream-learning tests. This preparation does not
+change an analytical disposition, accept Package D or GMC-011–014, trigger a real
+lifecycle decision, open 2.6/2.8, approve an upstream proposal or amend SymK.
 
 ## 6. Conflicts and tensions preserved
 

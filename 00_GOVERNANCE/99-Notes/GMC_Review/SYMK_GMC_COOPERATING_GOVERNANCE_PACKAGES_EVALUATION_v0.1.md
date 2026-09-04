@@ -163,6 +163,15 @@ work but cannot activate it.
 **Recommended analytical state:** **HOLD AS AN INTEGRATED CANDIDATE FOR FUTURE
 METHOD-LIFECYCLE, 2.6 AND OBSERVABILITY WORK.**
 
+**Subsequent state:** Package D v0.1 is prepared in
+`SYMK_GMC_PACKAGE_D_OBSERVATION_PAUSE_PIVOT_AND_UPSTREAM_LEARNING_PROPOSAL_v0.1.md`.
+It keeps outcome/learning and control/readiness progress independently inspectable;
+treats material divergence as a review signal rather than an automatic pivot;
+defines bounded pause, expiry and resumption controls; and packages project evidence
+for qualified upstream review without authority transfer. It passes initial
+SPServices, multi-Domain, false-divergence, pause/resumption, metric-gaming and
+upstream-learning cases. Package D and GMC-011–014 remain unaccepted.
+
 ## 7. Cooperation contract among the packages
 
 | From | To | Required relation | Failure prevented |
@@ -219,7 +228,8 @@ When separately authorized and when owning stages are competent:
    later competent classification/specialization;
 3. operationalize accepted Package C through separately released template work and
    later competent classification/specialization;
-4. design Package D jointly with derived-project and observability governance;
+4. review, correct or accept prepared Package D v0.1 as a lifecycle-observation and
+   upstream-learning profile after its cross-project and lifecycle tests;
 5. re-run the package interaction tests and `SYMK-GP-001` prohibited-inference review;
 6. decide each GMC independently before any integrated adoption claim; and
 7. preserve an open route for improvements not represented by the GMC set.
@@ -254,6 +264,7 @@ GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. EXACT PACKAGE B V0.1 IS ACCEPTED 
 PROVISIONAL EPISTEMIC-ROLE-COOPERATION PROFILE, INCLUDING GMC-003–008 ONLY THROUGH
 ITS BOUNDED FORMULATIONS. EXACT PACKAGE C V0.1 IS ACCEPTED AS A PROVISIONAL
 PROPORTIONAL-ASSURANCE AND GOVERNANCE-COST PROFILE, INCLUDING GMC-009–010 ONLY
-THROUGH ITS BOUNDED FORMULATIONS. PACKAGE D REMAINS FOR FUTURE
-LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGE D AND GMC-011–014 ARE NOT ACCEPTED,
-REJECTED, OPENED OR MADE NORMATIVE.**
+THROUGH ITS BOUNDED FORMULATIONS. PACKAGE D V0.1 IS PREPARED FOR SEPARATE REVIEW
+AFTER SPSERVICES, MULTI-DOMAIN, FALSE-DIVERGENCE, PAUSE/RESUMPTION, METRIC-GAMING
+AND UPSTREAM-LEARNING TESTS. PACKAGE D AND GMC-011–014 ARE NOT ACCEPTED, REJECTED,
+OPENED OR MADE NORMATIVE.**

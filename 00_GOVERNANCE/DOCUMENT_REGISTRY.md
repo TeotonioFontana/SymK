@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.90
+**Version:** 0.91
 **Date:** 4 September 2026
 
 ## 1. Registry summary
@@ -25,7 +25,7 @@
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
 | Policies and project-governance profiles | 4 | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1 and C v0.1 are accepted provisional profiles; none has constitutional force |
-| GMC upstream review | 1 package | Packages A v0.3, B v0.1 and C v0.1 accepted provisionally; Package D and GMC-011–014 remain unaccepted |
+| GMC upstream review | 1 package | Packages A v0.3, B v0.1 and C v0.1 accepted provisionally; Package D v0.1 proposed; GMC-011–014 remain unaccepted |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -220,8 +220,8 @@ GMC-011–014.
 **Holdings:** One package README, one fourteen-item analytical disposition register,
 one integrated evaluation of four cooperating governance packages, preserved
 Package A v0.1–v0.2 predecessors, accepted Package A v0.3 and its exact acceptance
-record, accepted Package B v0.1 and its exact acceptance record, and accepted
-Package C v0.1 and its exact acceptance record.
+record, accepted Package B v0.1 and its exact acceptance record, accepted Package C
+v0.1 and its exact acceptance record, and proposed Package D v0.1.
 
 **Status and effect:** Mixed-status upstream-learning package. All fourteen GMCs
 retain analytical dispositions, proposed routes, evidence needs and preserved
@@ -233,7 +233,11 @@ provisionally, including GMC-003–008 only through its bounded profile. Package
 remains architecture-neutral and assigns no real role. Exact Package C v0.1 is
 accepted provisionally, including GMC-009–010 only through its bounded profile. It
 sets no real risk tolerance or assurance configuration and creates no policy or
-standard. Package D and GMC-011–014 remain unaccepted. No stage is opened. The
+standard. Package D and GMC-011–014 remain unaccepted. Package D v0.1 now
+operationalizes them as a non-authoritative lifecycle-observation and
+upstream-learning proposal with independent progress profiles, divergence review,
+bounded pause/resumption and qualified upstream-evidence tests. Its preparation
+triggers no lifecycle decision, opens no stage and amends no SymK artifact. The
 package is expressly non-exhaustive; other SymK improvements remain open.
 
 ## 10. Known unresolved status
@@ -286,6 +290,12 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.91 — 2026-09-04:** Registered Package D v0.1 as a non-authoritative
+  lifecycle-observation and upstream-learning proposal with GMC-011 divergence
+  review, GMC-012 bounded pause/resumption, GMC-013 qualified upstream return and
+  GMC-014 independent progress profiles. No Package D or GMC-011–014 acceptance,
+  lifecycle decision, pause/pivot authority, upstream decision, SymK amendment,
+  stage opening, policy, standard or execution authority follows.
 - **0.90 — 2026-09-04:** Registered project-steward acceptance of exact Package C
   v0.1 as a provisional proportional-assurance and governance-cost profile and
   GMC-009–010 only through that profile. Registered the acceptance record and hash;
