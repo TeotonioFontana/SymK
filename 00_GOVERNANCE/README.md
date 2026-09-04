@@ -1,8 +1,8 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.3
-**Date:** 18 August 2026
+**Version:** 0.4
+**Date:** 4 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
 
@@ -13,6 +13,8 @@ This directory contains SymK's governed orientation, constitutional work, founda
 3. `DOCUMENT_REGISTRY.md` — registered artifact classes, counts, statuses, and migration state.
 4. `02_Axioms/Constitution_vNext/README.md` — canonical constitutional review package.
 5. `../SymK 2.x Evolution history/2.0/README.md` — governed `2.0-rc.1` evolution and migration record.
+6. `05_Governance_Policies/README.md` — canonical policy location and current
+   project-process policies.
 
 ## Authority rule
 
@@ -24,6 +26,10 @@ SymK 2.0 is Stage-Accepted through DR-008 after completion of all nine migration
 
 ## Version history
 
+- **0.4 — 2026-09-04:** Populated the governance-policy category with provisional
+  active `SYMK-GP-001`, requiring proportional, inspectable prohibited inferences in
+  material new or revised governed artifacts; no constitutional or later-GMC
+  disposition follows.
 - **0.3 — 2026-08-18:** Recorded final SymK 2.0 Stage-Acceptance, DR-008, completion of step 9, and progression to 2.1.
 - **0.2 — 2026-08-18:** Replaced the obsolete proposed-repository notice with the canonical governance entry point and registered the `2.0-rc.1` migration context.
 - **0.1:** Initial proposed repository-structure notice.

@@ -1,8 +1,8 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.4
-**Date:** 18 August 2026
+**Version:** 0.5
+**Date:** 4 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
 
@@ -76,7 +76,20 @@ Their registration does not pre-judge retention, revision, supersession, reclass
 
 Their precise future status and relationship to the SymK 2.x conceptual corpus remain subject to later content and legacy review.
 
-## 6. Known unresolved conflicts and deferrals
+## 6. Governance Policies
+
+- `05_Governance_Policies/README.md` — canonical policy location.
+- `05_Governance_Policies/SYMK-GP-001_PROHIBITED_INFERENCE_AND_NEGATIVE_CONTROL_POLICY_v0.1.md`
+  — provisional active project-governance policy.
+
+`SYMK-GP-001` prospectively requires material new or revised governed artifacts to
+make material prohibited inferences inspectable and testable in proportion to their
+claims and consequences. It standardizes a governance practice already present in
+SymK analytical records. It is not constitutionally Ratified, does not amend
+Stage-Accepted decisions, and does not resolve the remaining generalizable-method
+conclusions.
+
+## 7. Known unresolved conflicts and deferrals
 
 - Proposed A0 still calls cooperation the objective and requires SymK 2.2 review.
 - Proposed A6's necessity and artifact class remain unresolved.
@@ -86,12 +99,15 @@ Their precise future status and relationship to the SymK 2.x conceptual corpus r
 - cross-document consistency passed because these conflicts are visible, non-Ratified, bounded, and assigned;
 - SymK 2.0 Stage-Acceptance does not resolve or Ratify these later-stage questions.
 
-## 7. Governance rule
+## 8. Governance rule
 
 No document becomes a Ratified SymK axiom, constitutional article, concept, or standard merely by being listed here or stored in a canonical directory. Status, version, jurisdiction, authority, effective date, and supersession lineage must be explicit. Operational evidence and legitimate challenge may reopen any governed artifact through its owning process.
 
-## 8. Version history
+## 9. Version history
 
+- **0.5 — 2026-09-04:** Registered the governance-policy directory and provisional
+  active `SYMK-GP-001`; preserved its project-process scope and the open status of
+  the remaining generalizable-method conclusions.
 - **0.4 — 2026-08-18:** Registered DR-008, Product Vision v0.3, Stage-Accepted SymK 2.0, completion of step 9, and progression to 2.1; no constitutional Ratification.
 - **0.3 — 2026-08-18:** Recorded completion of migration step 8 and the cross-document consistency pass with governed deferrals; final stage decision remains pending.
 - **0.2 — 2026-08-18:** Registered Product Vision v0.2, the six-axiom-plus-J1 constitutional package, the `2.0-rc.1` evolution record, DR-001–DR-007 authority, completed migration steps, and unresolved conflicts.

@@ -1,8 +1,8 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.80
-**Date:** 23 August 2026
+**Version:** 0.81
+**Date:** 4 September 2026
 
 ## 1. Registry summary
 
@@ -24,7 +24,7 @@
 | SymK 2.x migration/project plans | 3 | `SYMK-2X-PLAN-002`, `PLAN-003` and post-3.0 naming `PLAN-004` v0.1 registered as complementary Proposed plans; no independent normative effect |
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
-| Policies | 0 | Category exists; population pending |
+| Policies | 1 | `SYMK-GP-001` is provisional active project-process policy; no constitutional force |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -154,7 +154,21 @@ Registration does not pre-judge whether they will be retained, revised, supersed
 
 DR-010 makes Identity, Context, Scope, Domain, and Representation foundational for the 2.x program baseline; governs Relationship, Applicability, Bearer, and Projection as supporting distinctions; imports System as support; and removes Entity from foundational status while preserving it as a possible 2.5 engineering/meta-model construct. No final `FC-*` package or canonical concept artifact was created or migrated by acceptance.
 
-## 8. Known unresolved status
+## 8. Governance policies
+
+**Canonical location:** `05_Governance_Policies/`
+
+**Registered policy:**
+`SYMK-GP-001_PROHIBITED_INFERENCE_AND_NEGATIVE_CONTROL_POLICY_v0.1.md`
+
+**Status and effect:** Provisional active project-governance policy, effective
+prospectively from 4 September 2026. Material new or revised governed artifacts must
+make their material prohibited inferences inspectable and testable, with burden
+proportional to claim and consequence. The policy standardizes an existing SymK
+analytical practice; it does not amend DR-009–018, Ratify constitutional content,
+open a closed stage or resolve the remaining generalizable-method conclusions.
+
+## 9. Known unresolved status
 
 - A0 remains Proposed and conflicts with the accepted purpose by calling cooperation the objective; substantive axiom review belongs to SymK 2.2.
 - A6 remains Proposed and its final artifact class is unresolved.
@@ -165,7 +179,7 @@ DR-010 makes Identity, Context, Scope, Domain, and Representation foundational f
 
 These items are governed uncertainty. They must not be hidden by the Stage-Accepted version label.
 
-## 9. Registration rules
+## 10. Registration rules
 
 1. Canonical location, normative force, epistemic authority, and implementation fact are distinct.
 2. Every registered governed artifact must state status, version, owner or authority, and scope.
@@ -174,7 +188,7 @@ These items are governed uncertainty. They must not be hidden by the Stage-Accep
 5. Counts must be updated when artifact classification changes.
 6. Material conflicts and deferrals remain visible until governed disposition.
 
-## 10. SymK 2.x migration plan
+## 11. SymK 2.x migration plan
 
 **Registered artifact:** `../SymK 2.x Evolution history/01_ROADMAP/SYMK-2X-PLAN-002_Migration_and_Consolidation_Plan_v0.1.md`
 
@@ -202,8 +216,13 @@ PLAN-003 maps the complete M0–3.0 lifecycle, stage authorities and dependencie
 
 PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0, prohibits permanent name endorsement by 3.0E, and assigns the substantive challenge and any conditional migration to separately opened 3.1 after accepted 3.0E. It makes no name decision.
 
-## 11. Version history
+## 12. Version history
 
+- **0.81 — 2026-09-04:** Populated the policy category with provisional active
+  `SYMK-GP-001`, a prospective requirement for proportional, inspectable prohibited
+  inferences in material governed artifacts. This is one bounded improvement; the
+  remaining generalizable-method conclusions stay open, and no Stage-Accepted or
+  constitutional status changes.
 - **0.80 — 2026-08-23:** Registered `SYMK-2X-PLAN-004`, exact post-3.0 name-challenge deferral, provisional proper-name convention, 3.0E non-endorsement, 2.4/2.8/3.0 constraint addenda and closed 3.1 scaffold through `SYMK-2X-EV-172` / `SYMK-2X-CH-125`; made no name decision, rename, Human finding, stage opening, semantic migration, release acceptance or commit.
 - **0.79 — 2026-08-23:** Registered `SYMK-2X-PLAN-003`, the bounded 2.1.11 project-name/identity fitness review, refreshed evolution/versioning/stage-gate controls, and closed 2.4–3.0 project scaffolds through `SYMK-2X-EV-171` / `SYMK-2X-CH-124`; created fifty work-package templates, 106 inert Markdown stage artifacts and seven manifests; made no name decision, rename, stage opening, semantic migration, governance activation, Ratification, release authorization or commit.
 - **0.78 — 2026-08-23:** Registered the closed SymK 2.2 and 2.3 directory/document scaffolds through `SYMK-2X-EV-170` / `SYMK-2X-CH-123`: thirty-three Markdown stage-frame, work-package, checkpoint, control, register and summary artifacts plus two SHA-256 manifests; preserved every predecessor, authority, status and anti-circularity gate; opened no stage and started no work package.
