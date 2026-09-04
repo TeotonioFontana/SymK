@@ -1,7 +1,7 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.5
+**Version:** 0.6
 **Date:** 4 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
@@ -28,6 +28,9 @@ SymK 2.0 is Stage-Accepted through DR-008 after completion of all nine migration
 
 ## Version history
 
+- **0.6 — 2026-09-04:** Registered the non-normative GMC Package A
+  objective-and-method-fitness proposal for separate review; no GMC, method or stage
+  was accepted or opened.
 - **0.5 — 2026-09-04:** Registered the non-authoritative fourteen-GMC disposition
   register and four-package evaluation; no GMC acceptance, stage opening or claim of
   improvement completeness follows.

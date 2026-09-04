@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.82
+**Version:** 0.83
 **Date:** 4 September 2026
 
 ## 1. Registry summary
@@ -25,7 +25,7 @@
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
 | Policies | 1 | `SYMK-GP-001` is provisional active project-process policy; no constitutional force |
-| GMC upstream review | 1 package | Fourteen-conclusion disposition register and four-package evaluation; non-authoritative |
+| GMC upstream review | 1 package | Fourteen-conclusion register, four-package evaluation and Package A proposal; non-authoritative |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -173,16 +173,20 @@ open a closed stage or resolve the remaining generalizable-method conclusions.
 
 **Location:** `99-Notes/GMC_Review/`
 
-**Holdings:** One package README, one fourteen-item analytical disposition register
-and one integrated evaluation of four cooperating governance packages.
+**Holdings:** One package README, one fourteen-item analytical disposition register,
+one integrated evaluation of four cooperating governance packages and one exact
+Package A objective-and-method-fitness proposal.
 
 **Status and effect:** Non-authoritative upstream-learning material. All fourteen
 GMCs have analytical dispositions, proposed routes, evidence needs and preserved
 tensions. The integrated evaluation finds a coherent recursive arrangement across
 objective/method fitness, epistemic role cooperation, proportional assurance and
 governance cost, and observation/pause/pivot/upstream learning. No GMC or package is
-accepted, rejected, opened or made normative. The package is expressly
-non-exhaustive; other SymK improvements remain open.
+accepted, rejected, opened or made normative. The Package A proposal now
+operationalizes GMC-001 and develops GMC-002 through outcome-facing objective,
+method-hypothesis, fitness, authority, trigger, counterexample and acceptance-test
+controls, but remains Proposed. The package is expressly non-exhaustive; other SymK
+improvements remain open.
 
 ## 10. Known unresolved status
 
@@ -234,6 +238,9 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.83 — 2026-09-04:** Registered the exact non-normative GMC Package A
+  objective-and-method-fitness proposal. It operationalizes GMC-001 and develops
+  GMC-002 for separate review without accepting a GMC, method, policy or stage.
 - **0.82 — 2026-09-04:** Registered the non-authoritative GMC review package: all
   fourteen conclusions now have analytical dispositions and are evaluated as four
   cooperating packages under `SYMK-GP-001`. No GMC acceptance, stage opening,

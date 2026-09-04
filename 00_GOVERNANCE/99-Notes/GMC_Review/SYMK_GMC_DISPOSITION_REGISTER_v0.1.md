@@ -69,6 +69,11 @@ does not possess that effect.
 - `SYMK-GP-001` protects every dependency from property, status and authority
   transfer; it does not decide the dependency.
 
+**Subsequent Package A state:** The exact non-normative proposal covering GMC-001
+and GMC-002 is prepared in
+`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.1.md`. Preparation does
+not change either analytical disposition or accept either GMC.
+
 ## 6. Conflicts and tensions preserved
 
 1. outcome legibility versus legitimate long-horizon or indirect purpose;

@@ -55,6 +55,10 @@ relation that needs candidate development.
 **Recommended analytical state:** **READY FOR A LATER METHOD-GOVERNANCE PROPOSAL.**
 This does not open 2.4 or accept a universal objective form.
 
+**Subsequent state:** The exact Package A proposal is now prepared in
+`SYMK_GMC_PACKAGE_A_OBJECTIVE_AND_METHOD_FITNESS_PROPOSAL_v0.1.md` for separate
+project-steward review. Preparation does not constitute acceptance.
+
 ## 4. Package B — Epistemic role cooperation
 
 **Members:** GMC-003 through GMC-008.
