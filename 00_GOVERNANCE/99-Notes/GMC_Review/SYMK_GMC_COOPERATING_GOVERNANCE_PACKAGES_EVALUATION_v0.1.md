@@ -127,6 +127,14 @@ protection against strategic understatement of risk.
 **Recommended analytical state:** **READY FOR MULTI-DOMAIN STRESS TESTING BEFORE A
 POLICY OR STANDARD PROPOSAL.**
 
+**Subsequent state:** Package C v0.1 is prepared in
+`SYMK_GMC_PACKAGE_C_PROPORTIONAL_ASSURANCE_AND_GOVERNANCE_COST_PROPOSAL_v0.1.md`.
+It defines a multidimensional consequence profile rather than a universal risk
+scalar; tests assurance deficiency and assurance excess independently; includes
+governance-caused cost and risk; and passes initial SPServices, multi-Domain,
+escalation/de-escalation and negative cases. Package C and GMC-009–010 remain
+unaccepted.
+
 ## 6. Package D — Observation, pause, pivot and upstream learning
 
 **Members:** GMC-011 through GMC-014.
@@ -182,7 +190,8 @@ METHOD-LIFECYCLE, 2.6 AND OBSERVABILITY WORK.**
 
 ## 9. Principal tensions and counterexamples still required
 
-Before any package-level acceptance, later work must test at least:
+For unaccepted packages and the continuing fitness of accepted packages, later work
+must test at least:
 
 - legitimate objectives that cannot be observed within the project horizon;
 - regulated methods that cannot pivot freely;
@@ -204,8 +213,8 @@ When separately authorized and when owning stages are competent:
    later competent classification;
 2. operationalize accepted Package B through separately released template work and
    later competent classification/specialization;
-3. stress-test Package C across multiple Domains before proposing an assurance policy
-   or standard;
+3. review, correct or accept prepared Package C v0.1 as a proportional-assurance
+   and governance-cost profile after its multi-Domain tests;
 4. design Package D jointly with derived-project and observability governance;
 5. re-run the package interaction tests and `SYMK-GP-001` prohibited-inference review;
 6. decide each GMC independently before any integrated adoption claim; and
@@ -239,6 +248,7 @@ RETURNS LEARNING; AND SYMK-GP-001 PROTECTS THEIR INTERFACES. EXACT PACKAGE A V0.
 ACCEPTED AS A PROVISIONAL PROJECT-METHOD GOVERNANCE PROFILE, INCLUDING GMC-001 AND
 GMC-002 ONLY THROUGH ITS BOUNDED FORMULATIONS. EXACT PACKAGE B V0.1 IS ACCEPTED AS A
 PROVISIONAL EPISTEMIC-ROLE-COOPERATION PROFILE, INCLUDING GMC-003–008 ONLY THROUGH
-ITS BOUNDED FORMULATIONS. PACKAGE C REMAINS FOR MULTI-DOMAIN STRESS TESTING, AND
-PACKAGE D FOR FUTURE LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGES C–D AND GMC-009–014
-ARE NOT ACCEPTED, REJECTED, OPENED OR MADE NORMATIVE.**
+ITS BOUNDED FORMULATIONS. PACKAGE C V0.1 IS PREPARED FOR SEPARATE REVIEW AFTER
+SPSERVICES, MULTI-DOMAIN, ESCALATION/DE-ESCALATION, GOVERNANCE-COST AND NEGATIVE
+TESTS; PACKAGE D REMAINS FOR FUTURE LIFECYCLE/2.6/OBSERVABILITY WORK. PACKAGES C–D
+AND GMC-009–014 ARE NOT ACCEPTED, REJECTED, OPENED OR MADE NORMATIVE.**

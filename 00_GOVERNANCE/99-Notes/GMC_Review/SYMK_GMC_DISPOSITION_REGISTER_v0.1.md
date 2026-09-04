@@ -1,7 +1,7 @@
 # SymK GMC Disposition Register v0.1
 
 **Status:** Analytical intake register with subsequent Package A and B acceptances
-noted
+and Package C proposal noted
 **Date:** 4 September 2026
 **Authority:** Project-steward instruction “do it” in direct response to the proposed
 GMC disposition-register and four-package evaluation
@@ -95,6 +95,17 @@ only through that profile. Their original analytical dispositions remain preserv
 GMC-009–014 remain neither accepted nor rejected. No real role is allocated, no
 execution authority is issued and neither 2.4 nor 2.6 is opened.
 
+**Subsequent Package C state:** Package C v0.1 is now prepared in
+`SYMK_GMC_PACKAGE_C_PROPORTIONAL_ASSURANCE_AND_GOVERNANCE_COST_PROPOSAL_v0.1.md`.
+It uses GMC-009 as a multidimensional consequence-proportional assurance rule and
+GMC-010 to include governance burden, opportunity cost and governance-caused risk
+inside method assessment. It includes bidirectional calibration,
+escalation/de-escalation, SPServices, multi-Domain, under-governance and
+over-governance tests. This preparation does not change any analytical disposition,
+accept Package C or GMC-009–010, set a real risk tolerance or assurance
+configuration, create a policy or standard, issue execution authority or open
+2.4/2.6. GMC-011–014 remain neither accepted nor rejected.
+
 ## 6. Conflicts and tensions preserved
 
 1. outcome legibility versus legitimate long-horizon or indirect purpose;
@@ -130,5 +141,7 @@ tests and jurisdiction-sensitive choices.
 **ALL FOURTEEN GMCS HAVE ANALYTICAL DISPOSITIONS, PROPOSED ROUTES, REQUIRED NEXT
 EVIDENCE, CROSS-DEPENDENCIES AND PRESERVED TENSIONS. FOUR CONFIRM EXISTING
 DISTINCTIONS, FOUR SUGGEST OPERATIONALIZATION, FIVE REQUIRE CANDIDATE DEVELOPMENT AND
-ONE AWAITS ITS COMPETENT DERIVED-PROJECT ROUTE. NONE IS ACCEPTED, REJECTED OR MADE
-NORMATIVE.**
+ONE AWAITS ITS COMPETENT DERIVED-PROJECT ROUTE. THESE ANALYTICAL DISPOSITIONS DO NOT
+BY THEMSELVES ACCEPT, REJECT OR MAKE A GMC NORMATIVE. SEPARATE RECORDS ACCEPT
+GMC-001–002 ONLY THROUGH PACKAGE A AND GMC-003–008 ONLY THROUGH PACKAGE B;
+GMC-009–014 REMAIN UNACCEPTED.**
