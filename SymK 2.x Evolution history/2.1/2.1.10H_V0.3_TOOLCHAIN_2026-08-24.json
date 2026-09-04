@@ -1,0 +1,8 @@
+{
+  "pandoc": "pandoc 3.8.3",
+  "libreoffice": "LibreOfficeDev 26.8.0.0.alpha0 2c87e51eeaa2b413ff4ae097b2705eea1995d8e5",
+  "python": "3.12.13",
+  "python_docx": "1.2.0",
+  "pdf_export": "writer_pdf_Export with tagged PDF, PDF/UA compliance and bookmarks enabled",
+  "projection_rule": "wide Markdown tables become stacked header-labelled records; the source text remains complete; a dedicated cover precedes the contents"
+}

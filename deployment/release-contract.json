@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "project_id": "symk",
+  "artifact_type": "publication",
+  "version": {"source": "git-short"},
+  "include": [
+    {"pattern": "deployment/**", "required": true},
+    {"pattern": "00_GOVERNANCE/**", "required": true},
+    {"pattern": "02_CORE_MODEL/**", "required": true},
+    {"pattern": "04_STANDARDS/**", "required": true},
+    {"pattern": "Knowledge/**", "required": true},
+    {"pattern": "SymK 2.x Evolution history/**", "required": true},
+    {"pattern": "SymK/**", "required": true},
+    {"pattern": "CANONICAL_ASSETS.md", "required": true},
+    {"pattern": "MIGRATION_LOG.md", "required": true}
+  ],
+  "exclude": [
+    "*.py",
+    "*.pyc",
+    "*.pyo",
+    "__pycache__/**",
+    ".DS_Store",
+    "._*"
+  ],
+  "forbidden_path_components": [
+    ".git", ".idea", ".venv", "venv", "__pycache__", "node_modules", "vendor", "logs"
+  ],
+  "forbidden_path_patterns": [
+    "*.pyc", "*.pyo", "*.zip", "*.key", "*.pem", ".env", ".env.*", "*.log", ".DS_Store"
+  ],
+  "forbidden_content_patterns": [
+    {
+      "label": "private key material",
+      "pattern": "-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----"
+    }
+  ],
+  "content_scan_exempt_paths": ["deployment/release-contract.json"],
+  "maximum_file_size_bytes": 52428800
+}

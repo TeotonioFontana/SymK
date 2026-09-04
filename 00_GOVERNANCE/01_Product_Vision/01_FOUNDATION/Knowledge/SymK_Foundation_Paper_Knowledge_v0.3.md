@@ -2,7 +2,7 @@
 
 ## How claims become challengeable, scoped and fit for responsible reliance
 
-> **Review status:** Governed v0.2 review draft. The technical reconstruction is complete, but Human reread, newcomer testing and publication acceptance remain pending.
+> **Review status:** Governed v0.3 review draft. The coordinated reconstruction is complete, but Human reread, newcomer testing and publication acceptance remain pending.
 
 ## Purpose and audience
 
@@ -65,13 +65,13 @@ SymK does not claim to settle every philosophical dispute about Knowledge. Its e
 
 ## Review status and source control
 
-**Status:** Governed v0.2 Markdown review draft - conceptual reconstruction, Stream F cross-paper integration and Stream H newcomer-first correction complete; Human reread and publication acceptance pending  
-**Version:** 0.2 review draft, Stream H corrective iteration  
+**Status:** Governed v0.3 Markdown review draft - conceptual reconstruction, cross-paper integration and Stream H Human-review corrections consolidated; Human reread and publication acceptance pending  
+**Version:** 0.3 coordinated Human-review draft  
 **Date:** 24 August 2026  
-**Source lineage:** The v0.1 Markdown and PDF publications remain immutable historical objects  
+**Source lineage:** The v0.1 publications and v0.2 review artifacts remain preserved predecessor objects  
 **Conceptual baseline:** Stage-Accepted `SYMK-2X-DR-009` through `SYMK-2X-DR-018`; `2.1-rc.1`  
-**Review lineage:** Stream B `SYMK-2X-EV-162`; Stream F cross-paper integration `SYMK-2X-EV-166`; Stream H Human-reading corrections `SYMK-2X-EV-173` through `SYMK-2X-EV-176`  
-**Publication state:** Corrected Markdown and PDF review objects produced; complete Human reread, genuine-newcomer testing, any assistive-technology evaluation actually used, and publication acceptance remain pending  
+**Review lineage:** Stream B `SYMK-2X-EV-162`; Stream F cross-paper integration `SYMK-2X-EV-166`; Stream H Human-reading corrections `SYMK-2X-EV-173` through `SYMK-2X-EV-177`  
+**Publication state:** Coordinated v0.3 Markdown and PDF review objects produced; complete Human reread, genuine-newcomer testing, any assistive-technology evaluation actually used, and publication acceptance remain pending  
 **Authority boundary:** Governed explanatory source; not a constitutional norm, final vocabulary or contract package, formal specification, authority allocation or implementation
 
 ---
@@ -724,7 +724,7 @@ W3C (2014). *RDF 1.1 Concepts and Abstract Syntax*. W3C Recommendation. [Specifi
 
 ## Document governance note
 
-This v0.2 review draft is a new governed edition. It does not overwrite v0.1 and is not publication-accepted. Stream F cross-paper integration is complete analytically through `SYMK-2X-EV-166`. Later changes must distinguish:
+This v0.3 review draft is a new governed edition derived from the preserved v0.2 review state. It does not overwrite v0.1 and is not publication-accepted. Stream F cross-paper integration is complete analytically through `SYMK-2X-EV-166`. Later changes must distinguish:
 
 - correction of source or bibliographic error;
 - change to explanatory wording;

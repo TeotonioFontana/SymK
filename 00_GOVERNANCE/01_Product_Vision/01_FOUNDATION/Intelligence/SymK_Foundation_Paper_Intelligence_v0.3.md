@@ -2,7 +2,7 @@
 
 ## Capability without human resemblance, rank or automatic authority
 
-> **Review status:** Governed v0.2 review draft. The technical reconstruction is complete, but Human reread, newcomer testing and publication acceptance remain pending.
+> **Review status:** Governed v0.3 review draft. The coordinated reconstruction is complete, but Human reread, newcomer testing and publication acceptance remain pending.
 
 ## Purpose and audience
 
@@ -65,13 +65,13 @@ This paper separates an actual capacity from its manifestations and from fallibl
 
 ## Review status and source control
 
-**Status:** Governed v0.2 Markdown review draft - conceptual reconstruction, Stream F cross-paper integration and Stream H newcomer-first correction complete; Human reread and publication acceptance pending  
-**Version:** 0.2 review draft, Stream H corrective iteration  
+**Status:** Governed v0.3 Markdown review draft - conceptual reconstruction, cross-paper integration and Stream H Human-review corrections consolidated; Human reread and publication acceptance pending  
+**Version:** 0.3 coordinated Human-review draft  
 **Date:** 24 August 2026  
-**Source lineage:** The v0.1 Markdown and PDF publications remain immutable historical objects  
+**Source lineage:** The v0.1 publications and v0.2 review artifacts remain preserved predecessor objects  
 **Conceptual baseline:** Stage-Accepted `SYMK-2X-DR-009` through `SYMK-2X-DR-018`; `2.1-rc.1`  
-**Review lineage:** 2.1.3G and 2.1.3H early non-canonical review drafts; Stage-Accepted DR-011-018; Stream C `SYMK-2X-EV-163`; Stream F `SYMK-2X-EV-166`; Stream H Human-reading corrections `SYMK-2X-EV-173` through `SYMK-2X-EV-176`  
-**Publication state:** Corrected Markdown and PDF review objects produced; complete Human reread, genuine-newcomer testing, any assistive-technology evaluation actually used, and publication acceptance remain pending  
+**Review lineage:** 2.1.3G and 2.1.3H early non-canonical review drafts; Stage-Accepted DR-011-018; Stream C `SYMK-2X-EV-163`; Stream F `SYMK-2X-EV-166`; Stream H Human-reading corrections `SYMK-2X-EV-173` through `SYMK-2X-EV-177`  
+**Publication state:** Coordinated v0.3 Markdown and PDF review objects produced; complete Human reread, genuine-newcomer testing, any assistive-technology evaluation actually used, and publication acceptance remain pending  
 **Authority boundary:** Governed explanatory source; not a constitutional norm, final vocabulary or contract package, formal specification, authority allocation or implementation
 
 ---
@@ -490,7 +490,7 @@ Human Intelligence remains a central participant and source of evidence without 
 
 Knowledge and Intelligence remain distinct and reciprocal. Cooperation can contribute to new capability but does not guarantee it. Amplification is a comparative, scoped, temporal, and evidenced relation concerning a material contribution to increased effective capability at an identified organized Bearer relative to a materially comparable baseline across declared relevant variation. DIA remains a principal but non-exhaustive realization of the wider responsible Knowledge Engineering framework.
 
-This v0.2 Markdown has completed Stream F cross-paper integration and is ready for later publication-projection work and complete Human reading. It is not yet a published edition. No PDF, accessibility acceptance, Human-comprehension result, constitutional Ratification, semantic package, or implementation Authority follows.
+This v0.3 Markdown consolidates the completed Stream F cross-paper integration and is ready for complete Human reading. Its corresponding v0.3 PDF is a controlled review projection, not a published edition. No accessibility acceptance, Human-comprehension result, constitutional Ratification, semantic package, or implementation Authority follows.
 
 ---
 

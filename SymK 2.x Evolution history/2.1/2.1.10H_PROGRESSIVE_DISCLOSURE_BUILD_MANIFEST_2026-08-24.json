@@ -1,0 +1,57 @@
+{
+  "evidence": "SYMK-2X-EV-173",
+  "date": "2026-08-24",
+  "baseline": "2.1-rc.1",
+  "status": "Stream H corrective review set; Human reread and publication acceptance pending",
+  "artifacts": [
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge/SymK_Foundation_Paper_Knowledge_v0.2.md",
+      "sha256": "463293cb5f414c8dca98e27bdcdabaaf0817547641c33295e2f6f3a52e78552b"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge/SymK_Foundation_Paper_Knowledge_v0.2.pdf",
+      "sha256": "c336b454001191bde10569d43804e67c4fabd589e2360a2b5fe6e99fb2e5b73e"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Intelligence/SymK_Foundation_Paper_Intelligence_v0.2.md",
+      "sha256": "a1a6ac8cd67b321e0d099a7a850fb6e1c77d10057729e99e364a949f7c1d29f5"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Intelligence/SymK_Foundation_Paper_Intelligence_v0.2.pdf",
+      "sha256": "f9e3b19d4ce5be8ae6fc93f0af2ae526701b5189eb2b7e5c73855f20193fb329"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Education_and_Training/SymK_Foundation_Paper_Education_for_Cooperation_v0.2.md",
+      "sha256": "312a45de9054ffc84a10f929353f644d181c9b41eb9ce970cee44c2ff4da6ee7"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Education_and_Training/SymK_Foundation_Paper_Education_for_Cooperation_v0.2.pdf",
+      "sha256": "661201d7aaa9cb9895a7a1ba1124b8cf35872cf39e8ecfe10758a3547b80e51b"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge_Engineering/SymK_Foundation_Paper_Knowledge_Engineering_v0.2.md",
+      "sha256": "4e4825171acabfea53fa7d5c36992eebb828741e9da3591191bd402e0bf437a0"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge_Engineering/SymK_Foundation_Paper_Knowledge_Engineering_v0.2.pdf",
+      "sha256": "5c7912fbacb052b05ebb8fb24bed1c001307c083043c28c09f2a5cc802fead6b"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Reader_Orientation/SymK_Reader_Orientation_and_Shared_Glossary_v0.1.md",
+      "sha256": "25582d73ae2350291b724564ba53cdfe60f49f3e87d20d0852ba174a3a16b5ec"
+    },
+    {
+      "path": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Reader_Orientation/SymK_Reader_Orientation_and_Shared_Glossary_v0.1.pdf",
+      "sha256": "d6b12310ea94d39a7c32982a322820c2d7b0362fc3eeb98d3e28dad972703539"
+    }
+  ],
+  "verification": {
+    "pdf_count": 5,
+    "pages": 81,
+    "bookmarks": 240,
+    "external_links": 64,
+    "source_token_coverage": 1.0,
+    "rendered_pages_visually_inspected": 81,
+    "result": "PASS"
+  }
+}

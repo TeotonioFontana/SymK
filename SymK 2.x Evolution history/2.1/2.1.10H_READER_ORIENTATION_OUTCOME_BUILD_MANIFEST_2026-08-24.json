@@ -1,0 +1,13 @@
+[
+  {
+    "key": "reader_orientation",
+    "source": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Reader_Orientation/SymK_Reader_Orientation_and_Shared_Glossary_v0.1.md",
+    "source_sha256": "2849453f12da505df93f968e494d0be1fbc1039a9ae197444ae9feb471275d30",
+    "projection_markdown": "build/reader_orientation.publication.md",
+    "intermediate_docx": "build/SymK_Reader_Orientation_and_Shared_Glossary_v0.1.enhanced.docx",
+    "output": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Reader_Orientation/SymK_Reader_Orientation_and_Shared_Glossary_v0.1.pdf",
+    "output_sha256": "14293439d1d530555adcba7e16ed3743039f40feed81be64ee566dd481bd77cd",
+    "pandoc_log": "build/reader_orientation.pandoc-docx.log",
+    "libreoffice_log": "build/reader_orientation.libreoffice.log"
+  }
+]

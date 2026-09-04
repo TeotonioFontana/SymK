@@ -1,0 +1,57 @@
+[
+  {
+    "key": "knowledge",
+    "source": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge/SymK_Foundation_Paper_Knowledge_v0.3.md",
+    "source_sha256": "fd3b2fddd4e591eb19ed00831f3023e9fe8ad5b327078cd9383a55d6077f2a41",
+    "projection_markdown": "build/knowledge.publication.md",
+    "intermediate_docx": "build/SymK_Foundation_Paper_Knowledge_v0.3.enhanced.docx",
+    "output": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge/SymK_Foundation_Paper_Knowledge_v0.3.pdf",
+    "output_sha256": "06638d80fe8e602d1530c3c6132d361ea083a4af7188d2d59c2beb8fca3d8bb7",
+    "pandoc_log": "build/knowledge.pandoc-docx.log",
+    "libreoffice_log": "build/knowledge.libreoffice.log"
+  },
+  {
+    "key": "intelligence",
+    "source": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Intelligence/SymK_Foundation_Paper_Intelligence_v0.3.md",
+    "source_sha256": "3fb25c8d0f7b2fb045babf94f2f1b9b72222692513f0625ae3273f051461ad7c",
+    "projection_markdown": "build/intelligence.publication.md",
+    "intermediate_docx": "build/SymK_Foundation_Paper_Intelligence_v0.3.enhanced.docx",
+    "output": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Intelligence/SymK_Foundation_Paper_Intelligence_v0.3.pdf",
+    "output_sha256": "cba8ffd7bc14aab33d7601080936f4134d372ef7e13d0157f5a68261e66fabbb",
+    "pandoc_log": "build/intelligence.pandoc-docx.log",
+    "libreoffice_log": "build/intelligence.libreoffice.log"
+  },
+  {
+    "key": "education",
+    "source": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Education_and_Training/SymK_Foundation_Paper_Education_for_Cooperation_v0.3.md",
+    "source_sha256": "b758b42ea661e8d49124225a5e3235fc7cd654835f4cfc5dec7745a07a1ad8cb",
+    "projection_markdown": "build/education.publication.md",
+    "intermediate_docx": "build/SymK_Foundation_Paper_Education_for_Cooperation_v0.3.enhanced.docx",
+    "output": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Education_and_Training/SymK_Foundation_Paper_Education_for_Cooperation_v0.3.pdf",
+    "output_sha256": "dda294888f616e9d4fc79e89a8635833409772bcc2df60bc911df484e85c8d14",
+    "pandoc_log": "build/education.pandoc-docx.log",
+    "libreoffice_log": "build/education.libreoffice.log"
+  },
+  {
+    "key": "knowledge_engineering",
+    "source": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge_Engineering/SymK_Foundation_Paper_Knowledge_Engineering_v0.3.md",
+    "source_sha256": "218a5195156d3650f677a448e88a110e77341a51bcd78f53adc51dc4fea6b4db",
+    "projection_markdown": "build/knowledge_engineering.publication.md",
+    "intermediate_docx": "build/SymK_Foundation_Paper_Knowledge_Engineering_v0.3.enhanced.docx",
+    "output": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Knowledge_Engineering/SymK_Foundation_Paper_Knowledge_Engineering_v0.3.pdf",
+    "output_sha256": "9f92fa151aa7d8c2a2c06b4645dde037d9555b146c061dc523782347013194cd",
+    "pandoc_log": "build/knowledge_engineering.pandoc-docx.log",
+    "libreoffice_log": "build/knowledge_engineering.libreoffice.log"
+  },
+  {
+    "key": "reader_orientation",
+    "source": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Reader_Orientation/SymK_Reader_Orientation_and_Shared_Glossary_v0.3.md",
+    "source_sha256": "f83e9fb9f973c65a0027e012af15aa8cec8189384192f8752e194a8a77b1ca37",
+    "projection_markdown": "build/reader_orientation.publication.md",
+    "intermediate_docx": "build/SymK_Reader_Orientation_and_Shared_Glossary_v0.3.enhanced.docx",
+    "output": "00_GOVERNANCE/01_Product_Vision/01_FOUNDATION/Reader_Orientation/SymK_Reader_Orientation_and_Shared_Glossary_v0.3.pdf",
+    "output_sha256": "679c929a4f103da90479d10857768daca3a011b4854126786362813847f43b21",
+    "pandoc_log": "build/reader_orientation.pandoc-docx.log",
+    "libreoffice_log": "build/reader_orientation.libreoffice.log"
+  }
+]

@@ -1,6 +1,6 @@
 # SymK 2.1 — Foundational Conceptual System
 
-**Stage status:** Active — DR-009 through DR-018 Stage-Accepted; 2.1.9 complete for progression; `2.1-rc.1` created; 2.1.10 open, Streams A–G complete, Stream H open with Human review pending
+**Stage status:** Active - DR-009 through DR-018 Stage-Accepted; 2.1.9 complete for progression; 2.1-rc.1 created; 2.1.10 Stream H open; coordinated v0.3 review set created after eight material Human findings, complete Human reread and checkpoint decision pending
 **Target version:** `2.1`  
 **Current version:** `2.1-rc.1`
 **Predecessor:** SymK `2.0`, Stage-Accepted through `SYMK-2X-DR-008` on 18 August 2026  
@@ -61,6 +61,15 @@ Project-steward clarification recorded as `SYMK-2X-EV-170` creates the actual cl
 Project-steward evidence `SYMK-2X-EV-171` registers `SYMK-2X-PLAN-003`, refreshes the full M0–3.0 review/upgrade lifecycle and creates closed scaffolds for 2.4–3.0. It also structures the project-name and historical-expansion concern as a bounded 2.1.11 identity-fitness review without deciding that “SymK” is obsolete, selecting a successor, creating DR-019/DQ-027, or performing a rename. Stream H and all later entry gates remain unchanged.
 
 Project-steward evidence `SYMK-2X-EV-172` records `SYMK-2X-PLAN-004`: “SymK” remains a controlled historical proper name through 3.0; “Symbiotic Knowledge” remains historical lineage rather than presumed current semantics; 3.0E must not endorse the name permanently; and the substantive challenge plus conditional migration belongs to separately opened post-3.0 Stage 3.1. No name decision, Human finding, DR/DQ/TN, rename or later-stage opening follows.
+
+
+## Stream H progressive-disclosure correction
+
+Evidence SYMK-2X-EV-173 records Human findings SYMK-2X-HF-001 through 005, each dispositioned REVISE_V0.2. Additive evidence SYMK-2X-EV-174 records SYMK-2X-HF-006 and places a one-paragraph Knowledge Engineering definition and mindset call on the Reader Orientation cover and at the start of its governed Markdown. Additive evidence SYMK-2X-EV-175 records SYMK-2X-HF-007 and adds the intended practical result: governed, domain-centred, knowledge-intensive systems, principally Domain Intelligence Amplifiers, with LexBrain identified as a legal-domain derived-project example rather than SymK itself. The four v0.2 papers retain their newcomer-oriented structure, and the non-canonical Reader Orientation remains an optional companion.
+
+Additive evidence SYMK-2X-EV-176 records SYMK-2X-HF-008 and aligns all five sources around an explicit functional architecture: Knowledge Engineering is the integrative center; Knowledge, Intelligence and Formation are constitutive; Education and Training are conditional formative practices; and future supporting concepts remain admissible through evidence-controlled governance without automatic Foundational promotion. Five rebuilt tagged A4 projections total eighty-two pages, 241 bookmarks and sixty-four governed links, with full source coverage and page-by-page visual verification.
+
+The five reproducible A4 PDFs contain eighty-one visually inspected pages, 240 bookmarks and sixty-four governed links. This implements the correction only: complete Human reread, genuine-newcomer testing, assistive-technology review actually used, publication acceptance and checkpoint 2.1.10H remain pending. No DR-009-018 reopening, tension, deferred question, Authority, duty, mature vocabulary/contract package, 2.1.11 opening or commit follows.
 
 ## Concept disposition classes
 
@@ -156,13 +165,17 @@ In addition to the program Stage Gates, 2.1 must demonstrate that:
 - Foundation Papers v0.2 are mutually consistent, human-readable, traceable to v0.1, and visually verified;
 - every unresolved remainder has a destination and does not destroy stage coherence.
 
+## Coordinated v0.3 review set
+
+Project-steward evidence `SYMK-2X-EV-177` designates the complete corrected set as v0.3. Four v0.3 Foundation Paper Markdown/PDF pairs and the v0.3 Reader Orientation companion are now the active Stream-H review objects. The v0.1 publications, four v0.2 review pairs and Reader Orientation v0.1 remain preserved predecessors. The designation changes version identity and lineage only: complete Human reread, newcomer testing, publication acceptance and checkpoint 2.1.10H remain pending.
+
 ## Identifier continuity
 
 Program identifiers continue from 2.0:
 
 - current decision lineage: `SYMK-2X-DR-009` through `SYMK-2X-DR-018` Stage-Accepted; next unreserved decision: `SYMK-2X-DR-019`;
-- current evidence lineage: `SYMK-2X-EV-067` through `SYMK-2X-EV-172`; next available evidence: `SYMK-2X-EV-173`;
-- current change lineage: `SYMK-2X-CH-041` through `SYMK-2X-CH-125`; next available change: `SYMK-2X-CH-126`;
+- current evidence lineage: SYMK-2X-EV-067 through SYMK-2X-EV-177; next available evidence: SYMK-2X-EV-178;
+- current change lineage: SYMK-2X-CH-041 through SYMK-2X-CH-130; next available change: SYMK-2X-CH-131;
 - current tension lineage adds `SYMK-2X-TN-031`; next new tension: `SYMK-2X-TN-032`;
 - next new deferred question: `SYMK-2X-DQ-027`.
 
