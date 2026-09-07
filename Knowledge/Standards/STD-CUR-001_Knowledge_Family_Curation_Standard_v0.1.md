@@ -3,7 +3,8 @@
 **Identifier:** STD-CUR-001\
 **Status:** Draft v0.1\
 **Category:** SymK Standard\
-**Scope:** All SymK Knowledge Families
+**Scope:** All SymK Knowledge Families\
+**Authority:** Candidate only; not canonical, accepted or active
 
 ------------------------------------------------------------------------
 

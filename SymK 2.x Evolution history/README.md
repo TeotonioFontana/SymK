@@ -41,7 +41,7 @@ SymK 2.x Evolution history/
 │   ├── DEFERRED_QUESTIONS.md
 │   ├── CHANGE_LOG.md
 │   └── Summary.md
-└── 2.1/
+├── 2.1/
     ├── README.md
     ├── work packages 2.1.1 through 2.1.11
     ├── CONCEPT_REGISTER.md
@@ -51,7 +51,9 @@ SymK 2.x Evolution history/
     ├── TENSION_REGISTER.md
     ├── DEFERRED_QUESTIONS.md
     ├── CHANGE_LOG.md
-    └── Summary.md
+│   └── Summary.md
+├── 2.2/ through 3.0/ — closed stage scaffolds
+└── 3.1/ — closed post-3.0 name/identity-expression scaffold
 ```
 
 ## Reading order

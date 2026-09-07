@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.96
+**Version:** 0.97
 **Date:** 6 September 2026
 
 ## 1. Registry summary
@@ -20,6 +20,7 @@
 | SymK 2.3 closed scaffold | 1 stage scaffold | The 2.3 directory contains an inert stage frame, seven analytical packages, separate 2.3A and 2.3R checkpoints, control templates, empty registers, summary and integrity manifest; not open, no governance active and no Ratifier constituted |
 | SymK 2.4–3.0 closed project scaffolds | 7 stage scaffolds | Inert stage frames, fifty work-package templates, control templates, empty registers, summaries and seven manifests registered through EV-171; 106 Markdown artifacts; no stage open, no package started and no semantic/migration/release effect |
 | SymK 3.1 closed name/identity-expression scaffold | 1 stage scaffold | Seven inert work packages plus stage/control/register/summary artifacts and manifest registered through EV-172; requires accepted 3.0E and separate opening; no name decision or migration |
+| Repository entry point | 1 | Root `README.md` routes current authority, repository zones, source boundaries and hygiene warnings; no independent normative effect |
 | M0 corpus-control package | 1 control package | Accepted by the project steward on 20 August 2026; manifest, archive classification, recovery boundary, routing, and integrity records preserved |
 | SymK 2.x migration/project plans | 3 | `SYMK-2X-PLAN-002`, `PLAN-003` and post-3.0 naming `PLAN-004` v0.1 registered as complementary Proposed plans; no independent normative effect |
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
@@ -27,6 +28,8 @@
 | Policies and project-governance profiles | 6 | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the Problem-Investment Control Method v0.1 are accepted provisional profiles; none has constitutional force |
 | GMC upstream review | 1 package | Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the minimum-sufficient Problem-Investment Control Method v0.1 are accepted provisionally; GMC-001–014 remain accepted only through their separate bounded profiles |
 | Candidate Knowledge corpus | 8 families | Imported `Sources/` remain evidence without SymK authority; `Curation/` and `Canonical/` names do not confer status; exact admission requires governed disposition under `SYMK-KB-001` |
+| Candidate Standards curation | 2 logical candidates plus lineage | Coding-rules v1.0/v1.1 retained as non-authoritative source lineage; root `STD-CUR-001` placeholder retired; substantive v0.1 retained as sole inactive content candidate |
+| Review queue | 553 tracked artifacts after README correction and template preservation | Reversible recovery quarantine owned by 2.8; no bulk deletion, promotion, execution or authority |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -298,6 +301,11 @@ remain authoritative for its decision.
 - The eight-family `Knowledge/` corpus remains incompletely curated. Imported sources,
   placeholders and candidate canonical artifacts have no SymK authority unless an
   exact governed disposition and canonical registration say otherwise.
+- No active SymK coding standard or Knowledge-family curation standard is selected.
+  The apparent coding-rules source lineage and `STD-CUR-001` placeholder collision
+  are dispositioned without adopting either candidate.
+- `REVIEW_QUEUE/` remains a reversible recovery quarantine assigned to 2.8. Its
+  contents require individual identity and lineage decisions.
 - Cross-document verification passed with governed deferrals, and SymK 2.0 is Stage-Accepted; the deferrals remain active for later 2.x stages.
 
 These items are governed uncertainty. They must not be hidden by the Stage-Accepted version label.
@@ -343,6 +351,10 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.97 — 2026-09-06:** Registered the standards-source lineage and `STD-CUR-001`
+  placeholder disposition; registered the corrected Review Queue index and preserved
+  Discovery template; and linked the new repository entry point without selecting a
+  standard or disposing a quarantined artifact.
 - **0.96 — 2026-09-06:** Registered the current-status and lineage reader note for
   Packages A–D and the Problem-Investment Control Method; preserved every exact
   accepted object and distinguished decision-time non-transfer clauses from current

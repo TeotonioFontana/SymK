@@ -1,54 +1,36 @@
-# 1. Discovery — Meta Phase Definition
+# SymK Review Queue
 
-This is the **meta definition** of the Discovery phase. It is **project-agnostic** and
-acts as a template for any product created with the SymK devkit.
+**Status:** Reversible recovery quarantine and future disposition input
+**Owning stage:** SymK 2.8 — Corpus Consolidation
+**Authority:** Evidence only; no file becomes canonical or executable by placement
 
-## 1. Purpose
+This directory mixes potentially valuable historical artifacts, recovered source
+trees, archives and hundreds of flattened Git objects. It must be processed through
+manifest-based recovery and individual disposition. Never delete, promote, execute
+or bulk-classify the queue as one object.
 
-Clarify **why** the product exists, **for whom**, and **in which context** before
-any detailed architecture or planning work begins.
+## Current handling rules
 
-## 2. Recommended Inputs
+1. Preserve filenames and bytes until an item has a recorded identity and lineage.
+2. Treat source-internal authority labels under `SYMK-KB-001`; they do not
+   self-activate.
+3. Inspect archives and Git objects through read-only recovery procedures.
+4. Route code, documentation, governance and binary artifacts separately.
+5. Move or promote an item only through a governed disposition with a reversible
+   source-to-destination record.
+6. Do not treat successful execution as semantic or governance authority.
 
-These are informal; they usually come from outside the PLC:
+The complete recovery and disposition work remains assigned to
+[`2.8B — Review Queue Recovery, Quarantine and Disposition`](../SymK%202.x%20Evolution%20history/2.8/2.8B_Review_Queue_Recovery_Quarantine_and_Disposition.md).
 
-- Initial idea or problem statement.
-- Any strategic context (business goals, constraints).
-- Notes from early conversations or experiments.
+## Known readable entry points
 
-They are *not* enforced by tooling, but should be captured in some form (notes, docs).
+- `SYMK-CHARTER-001_The_SymK_Charter_v0.1.md` — historical charter evidence, not
+  canonical authority.
+- `1_Discovery.zip` and `project_init.zip` — classified recovery bundles; retain in
+  reversible quarantine.
+- `Discovery_Meta_Phase_Definition.md` — the Discovery template formerly misplaced
+  as this directory's README.
 
-## 3. Recommended Tooling & Models
-
-- Project Model Canvas (PMC) to consolidate intent on a single page.
-- AI-assisted ideation (e.g., ChatGPT) for framing vision and options.
-- Stakeholder interviews or discovery calls.
-- Simple documentation in Markdown (no heavy tooling required).
-
-## 4. Required Human-Facing Outcomes
-
-Every project should produce **at least** the following artifacts in its PLC instance:
-
-- Product Vision — clear statement of what the product is, for whom, and why now.
-- Market Research — market definition, target segments, competitors, main hypotheses.
-- Stakeholder Map — main stakeholders, their interest and influence, goals and pains.
-
-Optional but strongly recommended:
-
-- Project Model Canvas — one-page synthesis connecting value, objectives,
-  stakeholders, risks, and assumptions.
-
-The exact filenames and folders are suggested by the meta JSON template for consistency,
-but can be adapted as needed if the project PLC state is kept in sync.
-
-## 5. Machine-Facing Template
-
-The companion `phase_template.json` in this folder defines the **schema** of Discovery
-outputs for tools. It does **not** contain project data, only the definition of what a
-valid Discovery phase must expose.
-
-Tools will:
-
-- Read the meta template to know expected outputs.
-- Read each project's `phase_state.json` to see the actual state.
-- Validate that required outputs exist and are wired into downstream phases.
+The presence of `.symbiotic.yaml`, `pyproject.toml`, code, manuals or templates does
+not make this directory a buildable or active project.
