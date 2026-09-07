@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 1.1
+**Version:** 1.3
 **Date:** 7 September 2026
 
 ## 1. Registry summary
@@ -27,6 +27,7 @@
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
 | Policies and project-governance profiles | 8 registered objects | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1, C v0.1 and D v0.1, Problem-Investment v0.1 and Acting Roadmap v0.1 are accepted provisional profiles; the problem-first correction remains challenged and unaccepted; none has constitutional force |
 | GMC upstream review | 1 package | Six accepted provisional objects now govern through separate records; the SPServices evidence and challenged problem-first lineage remain evidence; Acting Roadmap acceptance activates no mediation, project change or execution |
+| Acting Roadmap operational templates | 1 accepted provisional suite with 3 forms | Event, candidate-call and mediation-constitution v0.1 templates are accepted as operational Representations; the dry run remains evidence; no real engagement or action is active |
 | Candidate Knowledge corpus | 8 families | Imported `Sources/` remain evidence without SymK authority; `Curation/` and `Canonical/` names do not confer status; exact admission requires governed disposition under `SYMK-KB-001` |
 | Candidate Standards curation | 2 logical candidates plus lineage | Coding-rules v1.0/v1.1 retained as non-authoritative source lineage; root `STD-CUR-001` placeholder retired; substantive v0.1 retained as sole inactive content candidate |
 | Review queue | 553 tracked artifacts after README correction and template preservation | Reversible recovery quarantine owned by 2.8; no bulk deletion, promotion, execution or authority |
@@ -228,6 +229,30 @@ DR-010 makes Identity, Context, Scope, Domain, and Representation foundational f
 **Current six-object status and lineage note:**
 `../99-Notes/GMC_Review/SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-07.md`
 
+**Proposed minimum Acting Roadmap intake template suite:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_PROPOSAL_v0.1.md`
+
+**Proposed event record template:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_EVENT_RECORD_TEMPLATE_v0.1.md`
+
+**Proposed candidate-call template:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_CANDIDATE_CALL_TEMPLATE_v0.1.md`
+
+**Proposed mediation-constitution template:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_MEDIATION_CONSTITUTION_TEMPLATE_v0.1.md`
+
+**Template-suite dry-run evidence:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_DRY_RUN_v0.1.md`
+
+**Template-suite review manifest:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_v0.1_MANIFEST.sha256`
+
+**Template-suite acceptance record:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_v0.1_ACCEPTANCE_RECORD_2026-09-07.md`
+
+**Template-suite acceptance manifest:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_v0.1_ACCEPTANCE_MANIFEST_2026-09-07.sha256`
+
 **Status and effect:** Provisional active project-governance policy, effective
 prospectively from 4 September 2026. Material new or revised governed artifacts must
 make their material prohibited inferences inspectable and testable, with burden
@@ -298,7 +323,9 @@ non-authoritative stress-test report, one accepted-identity and acting-boundary
 audit, one O1/T1-contamination challenge record, one exact accepted Acting Roadmap
 with proposal-time wording preserved, its non-authoritative stress-test report, the
 roadmap acceptance record and integrity manifest, and one governed six-object
-current-status successor note.
+current-status successor note, plus the accepted provisional minimum intake
+template-suite proposal and three forms, one non-authoritative dry-run report, one
+exact-object review manifest, and the suite acceptance record and manifest.
 
 **Status and effect:** Mixed-status upstream-learning package. All fourteen GMCs
 retain analytical dispositions, proposed routes, evidence needs and preserved
@@ -336,6 +363,12 @@ personifying SymK or reopening identity. Exact Acting Roadmap v0.1 is accepted
 provisionally through its separate record, producing the present six-object set.
 The challenge, audit, roadmap acceptance and tests do not reopen a derived project,
 activate mediation, select a route or create execution authority.
+
+The accepted provisional minimum intake suite separates event, candidate call and
+mediation constitution while defaulting authority to none. The forms remain
+proportionate operational Representations rather than semantic authority or a
+universal paperwork quota. Their acceptance activates no real event, engagement,
+route, derived project or action; the dry run remains evidence only.
 
 ## 10. Known unresolved status
 
@@ -416,6 +449,14 @@ release state and does not open 2.5.
 
 ## 13. Version history
 
+- **1.3 — 2026-09-07:** Registered exact project-steward acceptance of the minimum
+  Acting Roadmap intake suite and its three forms, plus the acceptance record and
+  manifest; retained the dry run as evidence and created no engagement, route,
+  SPServices change or action authority.
+- **1.2 — 2026-09-07:** Registered the unaccepted minimum Acting Roadmap intake
+  template suite, its separate event/candidate-call/mediation-constitution forms and
+  passing structural dry run plus exact-object review manifest; created no template
+  adoption, engagement, route, SPServices change or action authority.
 - **1.1 — 2026-09-07:** Registered exact project-steward acceptance of Acting
   Roadmap v0.1, its acceptance record and integrity manifest, and the governed
   six-object current-status note; preserved the challenged problem-first lineage

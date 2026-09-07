@@ -1,7 +1,7 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.20
+**Version:** 0.22
 **Date:** 7 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
@@ -61,6 +61,10 @@ bounded SymK role.
   event recognition, mediation constitution, route selection, bounded action and
   recursive return. Acceptance activates no real mediation, route, derived-project
   change or execution authority.
+- The minimum event, candidate-call and mediation-constitution template suite is
+  accepted as a provisional operational Representation. It preserves three
+  separate states, remains proportionate and activates no real engagement, route or
+  consequential action.
 
 None has constitutional force. Package acceptance does not assign a real role,
 select a real method, issue an Execution Release or open an evolution stage. Package
@@ -82,6 +86,13 @@ Ratification or later-stage opening follows.
 
 ## Version history
 
+- **0.22 — 2026-09-07:** Registered project-steward acceptance of the exact minimum
+  Acting Roadmap intake suite and its three forms as provisional operational
+  Representations; created no real engagement, route, SPServices change or action
+  authority.
+- **0.21 — 2026-09-07:** Indexed the unaccepted minimum Acting Roadmap intake
+  template suite and dry-run evidence without creating template adoption, real
+  engagement, route selection, SPServices change or action authority.
 - **0.20 — 2026-09-07:** Registered project-steward acceptance of exact Acting
   Roadmap v0.1 as the sixth provisional project-process governance object; preserved
   the challenged problem-first proposal and created no real mediation, SPServices

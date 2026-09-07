@@ -2,8 +2,9 @@
 
 **Status:** Packages A v0.3, B v0.1, C v0.1 and D v0.1, the Problem-Investment
 Control Method v0.1 and the Acting Roadmap v0.1 are accepted provisionally; the
-problem-first root proposal remains challenged and unaccepted
-**Version:** 1.6
+minimum intake template suite is accepted as a provisional operational
+Representation; the problem-first root proposal remains challenged and unaccepted
+**Version:** 1.8
 **Date:** 7 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
@@ -19,9 +20,14 @@ decision recorded in
 `SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
 **Acting Roadmap acceptance authority:** Exact project-steward decision recorded in
 `SYMK_ACTING_ROADMAP_v0.1_ACCEPTANCE_RECORD_2026-09-07.md`
+**Minimum intake template-suite acceptance authority:** Exact project-steward
+decision recorded in
+`SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_v0.1_ACCEPTANCE_RECORD_2026-09-07.md`
 **Normative effect:** This index creates none; Packages A v0.3, B v0.1, C v0.1 and
 D v0.1, the Problem-Investment Control Method v0.1 and Acting Roadmap v0.1 have only
-the project-process effects established by their separate acceptance records
+the project-process effects established by their separate acceptance records; the
+minimum intake templates have only the operational-Representation effect stated in
+their suite acceptance record
 
 ## Purpose
 
@@ -104,6 +110,25 @@ project authority or treating local learning as a universal SymK rule.
 25. `SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-07.md`
     — governed successor current-status note recording the six accepted objects
     without changing their exact contents or effects.
+26. `SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_PROPOSAL_v0.1.md` — proposed
+    minimum operational suite separating event, candidate call and mediation
+    constitution; not accepted.
+27. `SYMK_ACTING_ROADMAP_EVENT_RECORD_TEMPLATE_v0.1.md` — proposed concise event
+    Representation with explicit zero engagement and action authority.
+28. `SYMK_ACTING_ROADMAP_CANDIDATE_CALL_TEMPLATE_v0.1.md` — proposed caller-framing,
+    feasibility and pre-constitution assessment record.
+29. `SYMK_ACTING_ROADMAP_MEDIATION_CONSTITUTION_TEMPLATE_v0.1.md` — proposed
+    undertaking, participant, mediator, authority, feasibility and
+    engagement-admission record; route selection remains later.
+30. `SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_DRY_RUN_v0.1.md` — structural
+    and six-scenario dry-run evidence; no template acceptance or real engagement.
+31. `SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_v0.1_MANIFEST.sha256` —
+    reproducible exact-object snapshot for suite review; no acceptance effect.
+32. `SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_v0.1_ACCEPTANCE_RECORD_2026-09-07.md`
+    — exact project-steward acceptance of the suite proposal and three template
+    objects, with governing effects and non-effects.
+33. `SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_v0.1_ACCEPTANCE_MANIFEST_2026-09-07.sha256`
+    — immutable acceptance-lineage checksums including the exact roadmap dependency.
 
 ## Current result
 
@@ -158,6 +183,12 @@ record and manifest. It governs event-to-call, mediation-constitution, route,
 bounded-action and recursive-return distinctions but activates no real mediation,
 SPServices change or execution authority.
 
+The minimum three-record intake template suite is now accepted provisionally through
+its separate acceptance record and manifest. It keeps event, candidate call and
+mediation constitution distinct, permits short-form stopping under standing
+authority and creates no route selection, real engagement or action authority. The
+dry run remains evidence rather than operational validation.
+
 The GMCs remain a non-exhaustive improvement set. Other SymK improvements may exist
 outside this package and remain discoverable through ordinary governance and
 challenge processes.
@@ -175,6 +206,14 @@ challenge processes.
 
 ## Version history
 
+- **1.8 — 2026-09-07:** Registered project-steward acceptance of the exact minimum
+  intake template suite and its three template objects, plus the acceptance record
+  and manifest; kept the dry run as evidence and created no engagement, route,
+  SPServices change or action authority.
+- **1.7 — 2026-09-07:** Added the unaccepted minimum intake template-suite proposal,
+  separate event, candidate-call and mediation-constitution forms, and a passing
+  structural dry run plus exact-object manifest; created no template adoption,
+  SPServices engagement, route or action authority.
 - **1.6 — 2026-09-07:** Registered exact project-steward acceptance of Acting
   Roadmap v0.1, its acceptance record and integrity manifest, and the six-object
   current-status note; preserved the challenged problem-first lineage and created
