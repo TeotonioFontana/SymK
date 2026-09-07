@@ -1,8 +1,8 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.17
-**Date:** 6 September 2026
+**Version:** 0.20
+**Date:** 7 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
 
@@ -53,12 +53,22 @@ bounded SymK role.
   sufficient project-governance method for contextual complexity, incremental
   investment, induced-complexity control, enabling-capability viability, context
   portability and present-sufficiency review.
+- The unaccepted problem-first project-governance correction is preserved as
+  challenged lineage after review found that it retained an O1/T1-style project
+  pipeline as SymK's root acting structure.
+- Acting Roadmap v0.1 is an accepted provisional project-process profile. It begins
+  with “What is this application of SymK being called to mediate?”, then governs
+  event recognition, mediation constitution, route selection, bounded action and
+  recursive return. Acceptance activates no real mediation, route, derived-project
+  change or execution authority.
 
 None has constitutional force. Package acceptance does not assign a real role,
 select a real method, issue an Execution Release or open an evolution stage. Package
 C acceptance does not set a real risk tolerance or assurance configuration. Package
 D acceptance does not establish a real progress verdict or lifecycle decision,
-create pause/pivot authority, approve an upstream proposal or amend SymK.
+create pause/pivot authority, approve an upstream proposal or amend SymK. Acting
+Roadmap acceptance does not personify SymK, admit a real engagement, select a route
+or authorize consequential action.
 
 ## Current SymK state
 
@@ -72,6 +82,17 @@ Ratification or later-stage opening follows.
 
 ## Version history
 
+- **0.20 — 2026-09-07:** Registered project-steward acceptance of exact Acting
+  Roadmap v0.1 as the sixth provisional project-process governance object; preserved
+  the challenged problem-first proposal and created no real mediation, SPServices
+  change, route selection or execution authority.
+- **0.19 — 2026-09-07:** Registered the challenge to the unaccepted problem-first
+  root proposal and indexed the accepted-identity audit, unaccepted event-driven
+  Acting Roadmap and sixteen-case stress test without changing accepted authority,
+  SPServices or execution state.
+- **0.18 — 2026-09-07:** Indexed the qualified SPServices solution-first upstream
+  evidence, unaccepted problem-first governance correction proposal and its initial
+  stress-test report without changing accepted profiles or derived-project state.
 - **0.17 — 2026-09-06:** Registered the imported-source authority boundary and made
   explicit that source-internal authority labels do not self-activate in SymK.
 - **0.16 — 2026-09-06:** Corrected the Product Vision route to v0.3; added the

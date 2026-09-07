@@ -1,10 +1,10 @@
 # SymK GMC Review Package
 
-**Status:** Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the Problem-Investment
-Control Method v0.1 are accepted provisionally; analytical intake and evaluation
-lineage retained
-**Version:** 1.3
-**Date:** 6 September 2026
+**Status:** Packages A v0.3, B v0.1, C v0.1 and D v0.1, the Problem-Investment
+Control Method v0.1 and the Acting Roadmap v0.1 are accepted provisionally; the
+problem-first root proposal remains challenged and unaccepted
+**Version:** 1.6
+**Date:** 7 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
 `SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`
@@ -17,9 +17,11 @@ lineage retained
 **Problem-Investment Control Method acceptance authority:** Exact project-steward
 decision recorded in
 `SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
-**Normative effect:** This index creates none; Packages A v0.3, B v0.1, C v0.1 and D
-v0.1 and the Problem-Investment Control Method v0.1 have only the project-process
-effects established by their separate acceptance records
+**Acting Roadmap acceptance authority:** Exact project-steward decision recorded in
+`SYMK_ACTING_ROADMAP_v0.1_ACCEPTANCE_RECORD_2026-09-07.md`
+**Normative effect:** This index creates none; Packages A v0.3, B v0.1, C v0.1 and
+D v0.1, the Problem-Investment Control Method v0.1 and Acting Roadmap v0.1 have only
+the project-process effects established by their separate acceptance records
 
 ## Purpose
 
@@ -73,6 +75,35 @@ project authority or treating local learning as a universal SymK rule.
 15. `SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-06.md`
     — governed reader note distinguishing current accepted status from proposal-time
     and decision-time wording without changing any accepted object or hash.
+16. `SYMK_SPSERVICES_SOLUTION_FIRST_DRIFT_UPSTREAM_EVIDENCE_BUNDLE_v0.1.md` —
+    qualified derived-project evidence that the accepted profiles did not reliably
+    require an independently accepted problem before a property-shaped objective.
+17. `SYMK_PROBLEM_FIRST_PROJECT_GOVERNANCE_CORRECTION_PROPOSAL_v0.1.md` — proposed
+    PD Problem Discovery, PA Problem Acceptance, solution-contamination testing,
+    complete alternative admission and predecessor traceability; not accepted.
+18. `SYMK_PROBLEM_FIRST_PROJECT_GOVERNANCE_STRESS_TEST_v0.1.md` — twelve-case
+    conceptual test evidence supporting review of the exact correction proposal;
+    evidence only, not acceptance.
+19. `SYMK_MEDIATION_IDENTITY_AND_ACTING_BOUNDARY_AUDIT_v0.1.md` — verifies that
+    accepted DR-013/016/017/018 support mediation-centered operational derivation
+    while prohibiting reification of SymK as actor or authority.
+20. `SYMK_PROBLEM_FIRST_PROPOSAL_O1_T1_CONTAMINATION_CHALLENGE_RECORD_v0.1.md` —
+    preserves the exact challenge showing that the unaccepted problem-first
+    proposal remained contaminated by the O1/T1 project pipeline.
+21. `SYMK_ACTING_ROADMAP_PROPOSAL_v0.1.md` — event-driven mediation-intake,
+    engagement-admission, route-composition, bounded-action and recursive-return
+    proposal; not accepted.
+22. `SYMK_ACTING_ROADMAP_STRESS_TEST_v0.1.md` — sixteen-case conceptual stress
+    test of the Acting Roadmap; evidence only, not acceptance.
+23. `SYMK_ACTING_ROADMAP_v0.1_ACCEPTANCE_RECORD_2026-09-07.md` — exact
+    project-steward acceptance, accepted-object hash, governing effects and
+    non-effects.
+24. `SYMK_ACTING_ROADMAP_v0.1_ACCEPTANCE_MANIFEST_2026-09-07.sha256` — immutable
+    integrity manifest for the accepted object, acceptance record and evidence
+    lineage.
+25. `SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-07.md`
+    — governed successor current-status note recording the six accepted objects
+    without changing their exact contents or effects.
 
 ## Current result
 
@@ -113,6 +144,20 @@ capability and context portability explicit feasibility constraints. It selects 
 real method, assigns no role, determines no technology availability and issues no
 execution or derived-project authority.
 
+The SPServices solution-first occurrence is preserved as qualified upstream
+evidence. The initial problem-first correction correctly identified solution
+contamination but is now challenged as a root SymK profile because it retained the
+O1/T1 problem-objective-trial pipeline. It remains unchanged and unaccepted as
+analytical lineage.
+
+The identity audit finds that accepted DR-013/016/017/018 support an operational
+mediation-centered derivation without reopening SymK identity, provided the
+framework is not reified as an actor or authority. Exact Acting Roadmap v0.1 is now
+accepted as a provisional project-process profile through its separate acceptance
+record and manifest. It governs event-to-call, mediation-constitution, route,
+bounded-action and recursive-return distinctions but activates no real mediation,
+SPServices change or execution authority.
+
 The GMCs remain a non-exhaustive improvement set. Other SymK improvements may exist
 outside this package and remain discoverable through ordinary governance and
 challenge processes.
@@ -130,6 +175,18 @@ challenge processes.
 
 ## Version history
 
+- **1.6 — 2026-09-07:** Registered exact project-steward acceptance of Acting
+  Roadmap v0.1, its acceptance record and integrity manifest, and the six-object
+  current-status note; preserved the challenged problem-first lineage and created
+  no real mediation, SPServices change or execution authority.
+- **1.5 — 2026-09-07:** Preserved the O1/T1-contamination challenge against the
+  unaccepted problem-first root proposal; added the accepted-identity audit,
+  unaccepted event-driven Acting Roadmap and sixteen-case stress test; no profile
+  acceptance, semantic reopening, SPServices change or execution authority follows.
+- **1.4 — 2026-09-07:** Registered the SPServices solution-first drift as qualified
+  upstream evidence and added a non-authoritative problem-first correction proposal
+  plus twelve-case stress-test report for separate review; no profile acceptance,
+  predecessor amendment, SPServices change or execution authority follows.
 - **1.3 — 2026-09-06:** Added a governed current-status and lineage note that
   resolves misleading present-tense readings of immutable proposal-time and
   decision-time clauses without changing accepted objects, hashes or effects.

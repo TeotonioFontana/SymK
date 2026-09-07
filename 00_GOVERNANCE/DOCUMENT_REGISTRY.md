@@ -1,8 +1,8 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.98
-**Date:** 6 September 2026
+**Version:** 1.1
+**Date:** 7 September 2026
 
 ## 1. Registry summary
 
@@ -25,8 +25,8 @@
 | SymK 2.x migration/project plans | 3 | `SYMK-2X-PLAN-002`, `PLAN-003` and post-3.0 naming `PLAN-004` v0.1 registered as complementary Proposed plans; no independent normative effect |
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
-| Policies and project-governance profiles | 6 | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the Problem-Investment Control Method v0.1 are accepted provisional profiles; none has constitutional force |
-| GMC upstream review | 1 package | Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the minimum-sufficient Problem-Investment Control Method v0.1 are accepted provisionally; GMC-001–014 remain accepted only through their separate bounded profiles |
+| Policies and project-governance profiles | 8 registered objects | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1, C v0.1 and D v0.1, Problem-Investment v0.1 and Acting Roadmap v0.1 are accepted provisional profiles; the problem-first correction remains challenged and unaccepted; none has constitutional force |
+| GMC upstream review | 1 package | Six accepted provisional objects now govern through separate records; the SPServices evidence and challenged problem-first lineage remain evidence; Acting Roadmap acceptance activates no mediation, project change or execution |
 | Candidate Knowledge corpus | 8 families | Imported `Sources/` remain evidence without SymK authority; `Curation/` and `Canonical/` names do not confer status; exact admission requires governed disposition under `SYMK-KB-001` |
 | Candidate Standards curation | 2 logical candidates plus lineage | Coding-rules v1.0/v1.1 retained as non-authoritative source lineage; root `STD-CUR-001` placeholder retired; substantive v0.1 retained as sole inactive content candidate |
 | Review queue | 553 tracked artifacts after README correction and template preservation | Reversible recovery quarantine owned by 2.8; no bulk deletion, promotion, execution or authority |
@@ -198,6 +198,36 @@ DR-010 makes Identity, Context, Scope, Domain, and Representation foundational f
 **Method acceptance record:**
 `../99-Notes/GMC_Review/SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
 
+**Qualified problem-first upstream evidence:**
+`../99-Notes/GMC_Review/SYMK_SPSERVICES_SOLUTION_FIRST_DRIFT_UPSTREAM_EVIDENCE_BUNDLE_v0.1.md`
+
+**Proposed problem-first project-governance correction:**
+`../99-Notes/GMC_Review/SYMK_PROBLEM_FIRST_PROJECT_GOVERNANCE_CORRECTION_PROPOSAL_v0.1.md`
+
+**Problem-first proposal stress-test evidence:**
+`../99-Notes/GMC_Review/SYMK_PROBLEM_FIRST_PROJECT_GOVERNANCE_STRESS_TEST_v0.1.md`
+
+**Mediation identity and acting-boundary audit:**
+`../99-Notes/GMC_Review/SYMK_MEDIATION_IDENTITY_AND_ACTING_BOUNDARY_AUDIT_v0.1.md`
+
+**O1/T1 contamination challenge record:**
+`../99-Notes/GMC_Review/SYMK_PROBLEM_FIRST_PROPOSAL_O1_T1_CONTAMINATION_CHALLENGE_RECORD_v0.1.md`
+
+**Accepted SymK Acting Roadmap object (proposal-time wording preserved):**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_PROPOSAL_v0.1.md`
+
+**Acting Roadmap stress-test evidence:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_STRESS_TEST_v0.1.md`
+
+**Acting Roadmap acceptance record:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_v0.1_ACCEPTANCE_RECORD_2026-09-07.md`
+
+**Acting Roadmap acceptance manifest:**
+`../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_v0.1_ACCEPTANCE_MANIFEST_2026-09-07.sha256`
+
+**Current six-object status and lineage note:**
+`../99-Notes/GMC_Review/SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-07.md`
+
 **Status and effect:** Provisional active project-governance policy, effective
 prospectively from 4 September 2026. Material new or revised governed artifacts must
 make their material prohibited inferences inspectable and testable, with burden
@@ -261,8 +291,14 @@ Package A v0.1–v0.2 predecessors, accepted Package A v0.3 and its exact accept
 record, accepted Package B v0.1 and its exact acceptance record, accepted Package C
 v0.1 and its exact acceptance record, and accepted Package D v0.1 and its exact
 acceptance record, plus the accepted provisional Problem-Investment Control Method
-v0.1, its exact acceptance record, and one governed current-status and lineage note
-that changes no accepted object or effect.
+v0.1, its exact acceptance record, one governed current-status and lineage note that
+changes no accepted object or effect, one qualified SPServices solution-first
+upstream evidence bundle, one unaccepted problem-first correction proposal, its
+non-authoritative stress-test report, one accepted-identity and acting-boundary
+audit, one O1/T1-contamination challenge record, one exact accepted Acting Roadmap
+with proposal-time wording preserved, its non-authoritative stress-test report, the
+roadmap acceptance record and integrity manifest, and one governed six-object
+current-status successor note.
 
 **Status and effect:** Mixed-status upstream-learning package. All fourteen GMCs
 retain analytical dispositions, proposed routes, evidence needs and preserved
@@ -287,11 +323,19 @@ method-induced-complexity control, enabling-capability viability and context
 portability without selecting a real method, technology, role arrangement or
 execution.
 
-`SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-06.md`
-records the present five-object accepted set and distinguishes it from proposal-time
-and decision-time non-transfer wording preserved inside immutable objects. The note
-has no independent normative effect; each acceptance record and accepted-object hash
-remain authoritative for its decision.
+`SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-07.md`
+records the present six-object accepted set and supersedes the 2026-09-06 note only
+for current-status reading. Both notes have no independent normative effect; each
+acceptance record and accepted-object hash remain authoritative for its decision.
+
+The problem-first objects identify a possible missing predecessor before Objective
+Acceptance, but the exact proposal is challenged as a root profile because it
+retains the O1/T1 project pipeline. The identity audit finds that accepted
+DR-013/016/017/018 support an operational mediation-centered Acting Roadmap without
+personifying SymK or reopening identity. Exact Acting Roadmap v0.1 is accepted
+provisionally through its separate record, producing the present six-object set.
+The challenge, audit, roadmap acceptance and tests do not reopen a derived project,
+activate mediation, select a route or create execution authority.
 
 ## 10. Known unresolved status
 
@@ -372,6 +416,19 @@ release state and does not open 2.5.
 
 ## 13. Version history
 
+- **1.1 — 2026-09-07:** Registered exact project-steward acceptance of Acting
+  Roadmap v0.1, its acceptance record and integrity manifest, and the governed
+  six-object current-status note; preserved the challenged problem-first lineage
+  and all mediation, SPServices and execution non-effects.
+- **1.0 — 2026-09-07:** Registered the O1/T1-contamination challenge against the
+  unaccepted problem-first root proposal, the accepted-identity and acting-boundary
+  audit, the unaccepted mediation-centered Acting Roadmap and its sixteen-case
+  stress test; preserved the five-object accepted set, SPServices boundary and all
+  action/execution non-effects.
+- **0.99 — 2026-09-07:** Registered a qualified SPServices solution-first upstream
+  evidence bundle, an unaccepted problem-first governance correction proposal and
+  its twelve-case stress-test report; preserved all accepted profiles, hashes,
+  derived-project boundaries and execution non-effects.
 - **0.98 — 2026-09-06:** Registered the Proposed Core Model and its two candidate
   semantic packages under future 2.5 ownership; registered `SYMK-MAN-001` as a
   prospective manifest convention while preserving historical manifests unchanged.
