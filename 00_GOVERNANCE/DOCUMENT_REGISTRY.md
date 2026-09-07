@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.94
+**Version:** 0.95
 **Date:** 6 September 2026
 
 ## 1. Registry summary
@@ -26,6 +26,7 @@
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
 | Policies and project-governance profiles | 6 | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the Problem-Investment Control Method v0.1 are accepted provisional profiles; none has constitutional force |
 | GMC upstream review | 1 package | Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the minimum-sufficient Problem-Investment Control Method v0.1 are accepted provisionally; GMC-001–014 remain accepted only through their separate bounded profiles |
+| Candidate Knowledge corpus | 8 families | Imported `Sources/` remain evidence without SymK authority; `Curation/` and `Canonical/` names do not confer status; exact admission requires governed disposition under `SYMK-KB-001` |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -287,6 +288,9 @@ execution.
 - J1 is reclassified but remains unratified; its exact procedural force belongs to SymK 2.3.
 - The current legacy artifacts have not received final disposition.
 - Detailed conflict, exception, compatibility, inheritance, and migration procedures remain deferred.
+- The eight-family `Knowledge/` corpus remains incompletely curated. Imported sources,
+  placeholders and candidate canonical artifacts have no SymK authority unless an
+  exact governed disposition and canonical registration say otherwise.
 - Cross-document verification passed with governed deferrals, and SymK 2.0 is Stage-Accepted; the deferrals remain active for later 2.x stages.
 
 These items are governed uncertainty. They must not be hidden by the Stage-Accepted version label.
@@ -299,6 +303,8 @@ These items are governed uncertainty. They must not be hidden by the Stage-Accep
 4. Superseded and reclassified artifacts retain lineage.
 5. Counts must be updated when artifact classification changes.
 6. Material conflicts and deferrals remain visible until governed disposition.
+7. Imported or recovered source labels do not self-activate. `SYMK-KB-001` governs
+   their default evidence-only status and exact-object admission gate.
 
 ## 12. SymK 2.x migration plan
 
@@ -330,6 +336,10 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.95 — 2026-09-06:** Registered `SYMK-KB-001` and the eight-family candidate
+  Knowledge corpus; made imported sources evidence-only by default and required an
+  exact governed disposition before internal canonical, normative, mandatory,
+  Stable or production-blocking claims can acquire SymK effect.
 - **0.94 — 2026-09-06:** Synchronized the current 2.1 control boundary through
   `SYMK-2X-EV-177`; registered eight dispositioned Stream-H Human findings and the
   five coordinated v0.3 Markdown/PDF pairs as the active Human-review set while

@@ -1,7 +1,7 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.16
+**Version:** 0.17
 **Date:** 6 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
@@ -21,10 +21,17 @@ This directory contains SymK's governed orientation, constitutional work, founda
    project-process policies.
 8. `99-Notes/GMC_Review/README.md` — GMC review package containing accepted
    provisional Packages A–D and retained analytical lineage.
+9. `SYMK-KB-001_IMPORTED_SOURCE_AUTHORITY_BOUNDARY_v0.1.md` — canonical
+   interpretation of imported and candidate Knowledge sources.
 
 ## Authority rule
 
 Canonical location, constitutional force, semantic authority, external authority, and implementation fact are distinct. Every governed artifact must declare its own status, version, jurisdiction, and authority. Nothing becomes Ratified merely because it is stored here.
+
+Imported, recovered and candidate sources are additionally governed by `SYMK-KB-001`:
+their internal “canonical,” “normative,” “mandatory,” “Stable,” or production-
+blocking labels remain source claims until an exact governed disposition accepts a
+bounded SymK role.
 
 ## Current project-process governance
 
@@ -65,6 +72,8 @@ Ratification or later-stage opening follows.
 
 ## Version history
 
+- **0.17 — 2026-09-06:** Registered the imported-source authority boundary and made
+  explicit that source-internal authority labels do not self-activate in SymK.
 - **0.16 — 2026-09-06:** Corrected the Product Vision route to v0.3; added the
   active SymK 2.1/EV-177 entry point and current state; and indexed the accepted
   provisional Problem-Investment Control Method without expanding its authority.

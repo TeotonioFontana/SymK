@@ -1,7 +1,7 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.10
+**Version:** 0.11
 **Date:** 6 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
@@ -171,6 +171,24 @@ review. Its acceptance does not select a real method, issue execution authority,
 adopt it in a derived project, promote it into canonical Methodology, open a stage or
 create constitutional force.
 
+## 6A. Imported Knowledge Source Authority Boundary
+
+- `SYMK-KB-001_IMPORTED_SOURCE_AUTHORITY_BOUNDARY_v0.1.md`
+- `../Knowledge/README.md`
+
+**Status:** Canonical repository-control interpretation for imported, recovered and
+candidate sources.
+
+**Authority:** Applies the existing distinction between placement, canonical
+location, normative force, epistemic authority and implementation fact. Material in
+`Knowledge/**/Sources/` remains evidence without SymK authority unless an exact
+object and bounded scope are accepted through a governed disposition and registered
+here or in another applicable canonical index.
+
+**Non-effects:** This boundary does not delete, rewrite, reject, validate or adopt a
+source; select a canonical Knowledge asset; create a production requirement; or
+grant constitutional, stage, derived-project or execution authority.
+
 ## 7. Known unresolved conflicts and deferrals
 
 - Proposed A0 still calls cooperation the objective and requires SymK 2.2 review.
@@ -187,6 +205,9 @@ No document becomes a Ratified SymK axiom, constitutional article, concept, or s
 
 ## 9. Version history
 
+- **0.11 — 2026-09-06:** Registered `SYMK-KB-001` as the imported-source authority
+  boundary and linked the candidate Knowledge corpus without selecting or validating
+  a canonical Knowledge asset.
 - **0.10 — 2026-09-06:** Added the active SymK 2.1/EV-177 authority route and
   five-document v0.3 Human-review state; indexed the accepted provisional Problem-
   Investment Control Method and its exact acceptance record without expanding its
