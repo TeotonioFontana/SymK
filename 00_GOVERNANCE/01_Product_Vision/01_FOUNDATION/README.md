@@ -4,7 +4,7 @@ Foundation Papers explain the conceptual basis needed to understand, interpret a
 
 ## Start here
 
-New readers may begin with any paper. Each v0.2 paper contains an explicit purpose and audience, a plain-language introduction to SymK, a short and a full reading path, one shared bridge-inspection example, essential local terms, a newcomer-first abstract and the complete deeper technical body.
+New readers may begin with any paper. Each v0.3 paper contains an explicit purpose and audience, a plain-language introduction to SymK, a short and a full reading path, one shared bridge-inspection example, essential local terms, a newcomer-first abstract and the complete deeper technical body.
 
 The optional Reader Orientation and Shared Glossary opens with a Knowledge Engineering definition, mindset call and intended practical result: governed, domain-centred, knowledge-intensive systems, principally Domain Intelligence Amplifiers. It names LexBrain as a concrete legal-domain derived-project example, then provides a common map and current-use glossary. It is a reading aid, not a canonical vocabulary or contract. If a main argument requires the companion, the relevant paper still needs revision.
 

@@ -18,7 +18,7 @@ The stage treats concepts as an interdependent system rather than a dictionary. 
 
 ## Principal outcome
 
-A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constitutional analysis, accompanied by revised Foundation Papers v0.2 that communicate the resulting understanding to humans without acquiring constitutional authority merely by publication.
+A Stage-Accepted conceptual baseline sufficiently precise to support 2.2 constitutional analysis, accompanied by a coordinated five-document v0.3 Human-review set that communicates the resulting understanding without acquiring constitutional authority merely by publication.
 
 ## Work packages
 

@@ -1,6 +1,6 @@
 # SymK 2.1 Concept Register
 
-**Status:** Complete routed inventory; DR-009 through DR-017 Stage-Accepted for continuation of 2.1
+**Status:** Complete routed inventory; DR-009 through DR-018 Stage-Accepted for continuation of 2.1; active explanatory review set at v0.3 through `SYMK-2X-EV-177`
 **Authority:** Evolution-control docket only
 
 ## Disposition classes
@@ -200,11 +200,11 @@ The complete governing wording is `2.1.8G_PROPOSED_DR-016_QUESTIONS_REASONING_AN
 
 ## 2.1.9 opening control — no new dispositions
 
-Opening evidence `SYMK-2X-EV-149`–`150` authorized integration analysis. Streams A–G completed through `SYMK-2X-EV-157`; exact DR-018 was Stage-Accepted through `SYMK-2X-EV-158`, creating `2.1-rc.1` and completing 2.1.9. Acceptance retains exactly seventeen Foundational anchors and changes no predecessor disposition. Separate evidence `SYMK-2X-EV-159`–`160` opens 2.1.10 without creating or revising a Foundation Paper; Stream A has not started.
+Opening evidence `SYMK-2X-EV-149`–`150` authorized integration analysis. Streams A–G completed through `SYMK-2X-EV-157`; exact DR-018 was Stage-Accepted through `SYMK-2X-EV-158`, creating `2.1-rc.1` and completing 2.1.9. Acceptance retains exactly seventeen Foundational anchors and changes no predecessor disposition. Separate evidence `SYMK-2X-EV-159`–`160` opened 2.1.10 without itself creating or revising a Foundation Paper. Streams A–G completed through `SYMK-2X-EV-167`; Stream H opened through `SYMK-2X-EV-168`; eight material Human findings were dispositioned through `SYMK-2X-EV-173`–`176`; and `SYMK-2X-EV-177` designated five coordinated v0.3 Markdown/PDF pairs as the active Human-review set. None of those explanatory or publication actions changes a concept disposition.
 
 ## 2.1.10 opening control — publication work, no concept change
 
-The 2.1.10 opening freezes the four v0.1 Markdown/PDF pairs and the accepted DR-018/`2.1-rc.1` baseline for conceptual, cross-paper, human-communication and publication review. Its Streams A–H may improve explanation and publication while preserving exact semantic authority. No paper wording, review finding, diagram, citation, PDF, terminology harmonization or Human preference may add, remove, merge, split, redefine or reclassify a concept outside competent decision procedure. Stream A has not started.
+The 2.1.10 opening freezes the four v0.1 Markdown/PDF pairs and the accepted DR-018/`2.1-rc.1` baseline for conceptual, cross-paper, human-communication and publication review. Its Streams A–H may improve explanation and publication while preserving exact semantic authority. No paper wording, review finding, diagram, citation, PDF, terminology harmonization or Human preference may add, remove, merge, split, redefine or reclassify a concept outside competent decision procedure. Stream H remains open at the active v0.3 review set; complete Human reread, newcomer testing, publication acceptance and the separate 2.1.10H decision remain pending.
 
 ## 2.1.9 Stream A normalized inventory — no new dispositions
 

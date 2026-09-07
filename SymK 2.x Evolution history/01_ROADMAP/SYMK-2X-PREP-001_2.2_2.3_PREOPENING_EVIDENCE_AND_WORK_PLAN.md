@@ -2,7 +2,7 @@
 
 **Status:** Controlled pre-opening preparation — evidence-producing overlap only; neither stage is open  
 **Date:** 23 August 2026  
-**Current baseline:** `2.1-rc.1`; 2.1.10 Stream H open through `SYMK-2X-EV-168`; complete Human review and checkpoint 2.1.10H pending  
+**Preparation-time baseline:** `2.1-rc.1`; 2.1.10 Stream H opened through `SYMK-2X-EV-168`; complete Human review and checkpoint 2.1.10H pending
 **Preparation authority:** project-steward instruction to use the Foundation Paper reading interval for steps 2.2 and 2.3, recorded as `SYMK-2X-EV-169`  
 **Change:** `SYMK-2X-CH-122`  
 **Plan identifier:** `SYMK-2X-PREP-001`  
@@ -157,4 +157,3 @@ Stop preparation and return to the proper owner if:
 **PASS FOR PRE-OPENING PREPARATION — 2.2 AND 2.3 REMAIN CLOSED.**
 
 The source set is frozen; admission and governance defect queues are explicit; the formal work architectures and test matrix are ready for later stage opening. Completion of preparation does not satisfy Stream H, 2.1.11, accepted 2.1, 2.2 candidacy, 2.3A governance or 2.3R Ratification.
-
