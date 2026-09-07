@@ -1,7 +1,7 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.12
+**Version:** 0.13
 **Date:** 6 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
@@ -206,8 +206,27 @@ grant constitutional, stage, derived-project or execution authority.
 
 No document becomes a Ratified SymK axiom, constitutional article, concept, or standard merely by being listed here or stored in a canonical directory. Status, version, jurisdiction, authority, effective date, and supersession lineage must be explicit. Operational evidence and legitimate challenge may reopen any governed artifact through its owning process.
 
+### Repository integrity convention
+
+- `SYMK-MAN-001_FUTURE_INTEGRITY_MANIFEST_CONVENTION_v0.1.md`
+
+`SYMK-MAN-001` governs future manifest metadata, path bases, mutability classes and
+verification states. It does not rewrite or invalidate historical manifests and does
+not derive semantic validity or acceptance from byte identity.
+
+### Proposed Core Model
+
+- `../02_CORE_MODEL/README.md`
+
+The Core Model is a Proposed, non-normative scaffold owned by future Stage 2.5. Its
+two candidate semantic packages are registered for discoverability only; no concept,
+package anatomy, serialization, alignment or release state is accepted.
+
 ## 9. Version history
 
+- **0.13 — 2026-09-06:** Registered the prospective integrity-manifest convention
+  and the Proposed Core Model under future 2.5 ownership without changing historical
+  manifests or accepting semantic-package content.
 - **0.12 — 2026-09-06:** Indexed the governed current-status and lineage note for
   immutable accepted governance objects without changing their hashes or effects.
 - **0.11 — 2026-09-06:** Registered `SYMK-KB-001` as the imported-source authority

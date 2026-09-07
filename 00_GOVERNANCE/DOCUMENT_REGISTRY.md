@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.97
+**Version:** 0.98
 **Date:** 6 September 2026
 
 ## 1. Registry summary
@@ -30,6 +30,8 @@
 | Candidate Knowledge corpus | 8 families | Imported `Sources/` remain evidence without SymK authority; `Curation/` and `Canonical/` names do not confer status; exact admission requires governed disposition under `SYMK-KB-001` |
 | Candidate Standards curation | 2 logical candidates plus lineage | Coding-rules v1.0/v1.1 retained as non-authoritative source lineage; root `STD-CUR-001` placeholder retired; substantive v0.1 retained as sole inactive content candidate |
 | Review queue | 553 tracked artifacts after README correction and template preservation | Reversible recovery quarantine owned by 2.8; no bulk deletion, promotion, execution or authority |
+| Proposed Core Model | 1 scaffold with 2 candidate semantic packages | `02_CORE_MODEL/` is a non-normative 2.5 candidate; no concept, package anatomy, serialization or release status accepted |
+| Future integrity-manifest convention | 1 | `SYMK-MAN-001` standardizes metadata, path bases, mutability classes and verification states prospectively; historical manifests remain unchanged |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -306,6 +308,8 @@ remain authoritative for its decision.
   are dispositioned without adopting either candidate.
 - `REVIEW_QUEUE/` remains a reversible recovery quarantine assigned to 2.8. Its
   contents require individual identity and lineage decisions.
+- The `02_CORE_MODEL/` semantic-package scaffold remains Proposed for 2.5. Its two
+  candidate packages have no current semantic or release authority.
 - Cross-document verification passed with governed deferrals, and SymK 2.0 is Stage-Accepted; the deferrals remain active for later 2.x stages.
 
 These items are governed uncertainty. They must not be hidden by the Stage-Accepted version label.
@@ -320,6 +324,8 @@ These items are governed uncertainty. They must not be hidden by the Stage-Accep
 6. Material conflicts and deferrals remain visible until governed disposition.
 7. Imported or recovered source labels do not self-activate. `SYMK-KB-001` governs
    their default evidence-only status and exact-object admission gate.
+8. Future integrity manifests follow `SYMK-MAN-001`; historical manifests retain
+   their original bytes and checkpoint meaning.
 
 ## 12. SymK 2.x migration plan
 
@@ -349,8 +355,26 @@ PLAN-003 maps the complete M0–3.0 lifecycle, stage authorities and dependencie
 
 PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0, prohibits permanent name endorsement by 3.0E, and assigns the substantive challenge and any conditional migration to separately opened 3.1 after accepted 3.0E. It makes no name decision.
 
+## 12A. Proposed Core Model
+
+**Location:** `../02_CORE_MODEL/`
+
+**Status:** Proposed scaffold; no normative effect.
+
+**Owning stage:** SymK 2.5 — Semantic packaging and projection architecture.
+
+The scaffold contains candidate `symk.semantic.property` and
+`symk.semantic.document` packages. They test separation among governed definitions,
+machine-semantic projections, Domain-owned specialization and runtime assertions.
+Registration makes the candidates discoverable; it does not accept their concepts,
+package anatomy, identifiers, dependencies, serialization, alignment claims or
+release state and does not open 2.5.
+
 ## 13. Version history
 
+- **0.98 — 2026-09-06:** Registered the Proposed Core Model and its two candidate
+  semantic packages under future 2.5 ownership; registered `SYMK-MAN-001` as a
+  prospective manifest convention while preserving historical manifests unchanged.
 - **0.97 — 2026-09-06:** Registered the standards-source lineage and `STD-CUR-001`
   placeholder disposition; registered the corrected Review Queue index and preserved
   Discovery template; and linked the new repository entry point without selecting a

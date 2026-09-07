@@ -68,4 +68,5 @@ Before committing governed changes:
 
 Historical evidence manifests may reference earlier bytes of mutable control files.
 Acceptance manifests and accepted-object hashes are the integrity boundary for
-accepted decisions.
+accepted decisions. Future manifests follow
+[`SYMK-MAN-001`](00_GOVERNANCE/SYMK-MAN-001_FUTURE_INTEGRITY_MANIFEST_CONVENTION_v0.1.md).
