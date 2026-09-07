@@ -1,21 +1,25 @@
 # SymK Governance
 
 **Status:** Canonical governance entry point
-**Version:** 0.15
-**Date:** 4 September 2026
+**Version:** 0.16
+**Date:** 6 September 2026
 
 This directory contains SymK's governed orientation, constitutional work, foundational corpus, methodology, templates, registries, and historical artifacts. Directory placement alone does not determine normative authority.
 
 ## Current entry points
 
-1. `01_Product_Vision/00_SYMK_PRODUCT_VISION.md` — canonical Product Vision v0.2.
+1. `01_Product_Vision/00_SYMK_PRODUCT_VISION.md` — canonical Product Vision v0.3.
 2. `CANONICAL_DOCUMENTS.md` — canonical locations and current authority.
 3. `DOCUMENT_REGISTRY.md` — registered artifact classes, counts, statuses, and migration state.
 4. `02_Axioms/Constitution_vNext/README.md` — canonical constitutional review package.
-5. `../SymK 2.x Evolution history/2.0/README.md` — governed `2.0-rc.1` evolution and migration record.
-6. `05_Governance_Policies/README.md` — canonical policy location and current
+5. `../SymK 2.x Evolution history/2.1/README.md` — active governed `2.1-rc.1`
+   evolution record and v0.3 Foundation Paper Human-review state through
+   `SYMK-2X-EV-177`.
+6. `../SymK 2.x Evolution history/2.0/README.md` — Stage-Accepted predecessor
+   evolution and migration record.
+7. `05_Governance_Policies/README.md` — canonical policy location and current
    project-process policies.
-7. `99-Notes/GMC_Review/README.md` — GMC review package containing accepted
+8. `99-Notes/GMC_Review/README.md` — GMC review package containing accepted
    provisional Packages A–D and retained analytical lineage.
 
 ## Authority rule
@@ -38,6 +42,10 @@ Canonical location, constitutional force, semantic authority, external authority
 - GMC Package D v0.1 is an accepted provisional lifecycle-observation and upstream-
   learning profile for independent progress observation, divergence review,
   bounded pause/resumption and qualified upstream learning.
+- The Problem-Investment Control Method v0.1 is an accepted provisional minimum-
+  sufficient project-governance method for contextual complexity, incremental
+  investment, induced-complexity control, enabling-capability viability, context
+  portability and present-sufficiency review.
 
 None has constitutional force. Package acceptance does not assign a real role,
 select a real method, issue an Execution Release or open an evolution stage. Package
@@ -45,12 +53,21 @@ C acceptance does not set a real risk tolerance or assurance configuration. Pack
 D acceptance does not establish a real progress verdict or lifecycle decision,
 create pause/pivot authority, approve an upstream proposal or amend SymK.
 
-## Current SymK 2.0 state
+## Current SymK state
 
-SymK 2.0 is Stage-Accepted through DR-008 after completion of all nine migration and review steps. DR-001–DR-008 form the governed Identity and Jurisdiction decision lineage within their declared scopes. They are not constitutionally Ratified, and all declared deferrals remain active for later 2.x stages.
+SymK 2.0 is the Stage-Accepted predecessor through DR-008. The active stage is SymK
+2.1 at `2.1-rc.1`: DR-009–DR-018 are Stage-Accepted, 2.1.1–2.1.9 are complete for
+progression, and 2.1.10 Stream H is open through `SYMK-2X-EV-177`. Five coordinated
+v0.3 Markdown/PDF pairs form the active Human-review set after eight material Human
+findings were dispositioned. Complete Human reread, newcomer testing, publication
+acceptance and the separate 2.1.10H checkpoint remain pending. No constitutional
+Ratification or later-stage opening follows.
 
 ## Version history
 
+- **0.16 — 2026-09-06:** Corrected the Product Vision route to v0.3; added the
+  active SymK 2.1/EV-177 entry point and current state; and indexed the accepted
+  provisional Problem-Investment Control Method without expanding its authority.
 - **0.15 — 2026-09-04:** Registered project-steward acceptance of exact GMC Package
   D v0.1 as a provisional lifecycle-observation and upstream-learning profile;
   GMC-011–014 are accepted only through that bounded profile, with no real progress

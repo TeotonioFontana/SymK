@@ -1,8 +1,8 @@
 # SymK Governance Policies
 
 **Status:** Canonical policy location
-**Version:** 0.6
-**Date:** 4 September 2026
+**Version:** 0.7
+**Date:** 6 September 2026
 
 This directory indexes project-governance policies and accepted profiles whose
 individual status, authority, scope and effective date are declared in each
@@ -37,6 +37,11 @@ epistemic truth or universal applicability.
    independent progress profiles, divergence review, bounded pause/resumption and
    qualified project-to-SymK evidence return. Its acceptance record is maintained
    beside the profile.
+5. `../99-Notes/GMC_Review/SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_PROPOSAL_v0.1.md`
+   — accepted provisional minimum-sufficient problem-investment control method for
+   contextual complexity, incremental investment, induced-complexity control,
+   enabling-capability viability, context portability and present-sufficiency
+   review. Its acceptance record is maintained beside the method.
 
 ## Authority boundary
 
@@ -51,13 +56,16 @@ effect of the change.
 
 ## Related GMC review
 
-The GMC disposition register and four-package evaluation are held under
-`../99-Notes/GMC_Review/`. Packages A v0.3, B v0.1, C v0.1 and D v0.1 are accepted
-provisionally through separate project-steward records. None of the accepted
-profiles alters or supersedes `SYMK-GP-001`.
+The GMC disposition register, four-package evaluation and Problem-Investment Control
+Method are held under `../99-Notes/GMC_Review/`. Packages A v0.3, B v0.1, C v0.1 and
+D v0.1 and the method v0.1 are accepted provisionally through separate project-
+steward records. None alters or supersedes `SYMK-GP-001`.
 
 ## Version history
 
+- **0.7 — 2026-09-06:** Indexed the accepted provisional Problem-Investment Control
+  Method v0.1 and its bounded scope without creating constitutional, Domain,
+  derived-project or execution authority.
 - **0.6 — 2026-09-04:** Registered accepted provisional Package D v0.1 as a
   lifecycle-observation and upstream-learning profile without establishing a real
   progress verdict, triggering a lifecycle decision, creating pause/pivot authority,

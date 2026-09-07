@@ -1,8 +1,8 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.9
-**Date:** 4 September 2026
+**Version:** 0.10
+**Date:** 6 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
 
@@ -58,6 +58,30 @@ The package contains:
 
 **Stage state:** All nine migration and review steps are complete. Cross-document verification passed with explicit governed deferrals. SymK 2.0 is Stage-Accepted through DR-008 and may progress to 2.1.
 
+## 3A. Active SymK 2.1 Evolution Record
+
+- `../SymK 2.x Evolution history/2.1/README.md`
+- `../SymK 2.x Evolution history/2.1/Summary.md`
+- `../SymK 2.x Evolution history/2.1/DECISION_REGISTER.md`
+- `../SymK 2.x Evolution history/2.1/EVIDENCE_REGISTER.md`
+- `../SymK 2.x Evolution history/2.1/CONCEPT_REGISTER.md`
+- `../SymK 2.x Evolution history/2.1/TENSION_REGISTER.md`
+- `../SymK 2.x Evolution history/2.1/DEFERRED_QUESTIONS.md`
+- `../SymK 2.x Evolution history/2.1/CHANGE_LOG.md`
+
+**Status:** Active governed evolution record at `2.1-rc.1`; DR-009–DR-018
+Stage-Accepted; 2.1.10 Stream H open through `SYMK-2X-EV-177`.
+
+**Current review state:** Five coordinated v0.3 Markdown/PDF pairs are the active
+Foundation Paper Human-review objects after eight material Human findings were
+dispositioned. Complete Human reread, newcomer testing, any assistive-technology
+evaluation actually used, publication acceptance and the separate 2.1.10H decision
+remain pending.
+
+**Authority:** The Stage-Accepted decisions provide provisional program authority
+within their declared scopes. The v0.3 review objects remain governed explanatory
+sources, not constitutionally Ratified norms or final concept packages.
+
 ## 4. Current legacy axiom and philosophy artifacts
 
 These remain current historical/canonical artifacts pending later explicit disposition:
@@ -97,6 +121,10 @@ Their precise future status and relationship to the SymK 2.x conceptual corpus r
   — accepted provisional lifecycle-observation and upstream-learning profile.
 - `99-Notes/GMC_Review/SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
   — exact acceptance authority, accepted-object hash, effects and non-effects.
+- `99-Notes/GMC_Review/SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_PROPOSAL_v0.1.md`
+  — accepted provisional minimum-sufficient project-governance method.
+- `99-Notes/GMC_Review/SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
+  — exact acceptance authority, accepted-object hash, effects and non-effects.
 
 `SYMK-GP-001` prospectively requires material new or revised governed artifacts to
 make material prohibited inferences inspectable and testable in proportion to their
@@ -135,6 +163,14 @@ verdict or lifecycle decision, create pause/pivot authority, approve an upstream
 proposal, amend SymK, open 2.6/2.8, create a policy or standard, or create
 constitutional force.
 
+The Problem-Investment Control Method v0.1 prospectively governs minimum-sufficient
+problem complexity and investment control within project-steward jurisdiction. It
+requires contextual complexity, incremental investment, induced-complexity review,
+viability of enabling capabilities, context portability and present-sufficiency
+review. Its acceptance does not select a real method, issue execution authority,
+adopt it in a derived project, promote it into canonical Methodology, open a stage or
+create constitutional force.
+
 ## 7. Known unresolved conflicts and deferrals
 
 - Proposed A0 still calls cooperation the objective and requires SymK 2.2 review.
@@ -151,6 +187,10 @@ No document becomes a Ratified SymK axiom, constitutional article, concept, or s
 
 ## 9. Version history
 
+- **0.10 — 2026-09-06:** Added the active SymK 2.1/EV-177 authority route and
+  five-document v0.3 Human-review state; indexed the accepted provisional Problem-
+  Investment Control Method and its exact acceptance record without expanding its
+  authority.
 - **0.9 — 2026-09-04:** Registered accepted provisional Package D v0.1 and its exact
   project-steward acceptance record; accepted GMC-011–014 only through that bounded
   profile without establishing a real progress verdict or lifecycle decision,
