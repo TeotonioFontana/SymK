@@ -1,7 +1,7 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.95
+**Version:** 0.96
 **Date:** 6 September 2026
 
 ## 1. Registry summary
@@ -256,7 +256,8 @@ Package A v0.1–v0.2 predecessors, accepted Package A v0.3 and its exact accept
 record, accepted Package B v0.1 and its exact acceptance record, accepted Package C
 v0.1 and its exact acceptance record, and accepted Package D v0.1 and its exact
 acceptance record, plus the accepted provisional Problem-Investment Control Method
-v0.1 and its exact acceptance record.
+v0.1, its exact acceptance record, and one governed current-status and lineage note
+that changes no accepted object or effect.
 
 **Status and effect:** Mixed-status upstream-learning package. All fourteen GMCs
 retain analytical dispositions, proposed routes, evidence needs and preserved
@@ -280,6 +281,12 @@ adds a contextual complexity profile, incremental investment assessment,
 method-induced-complexity control, enabling-capability viability and context
 portability without selecting a real method, technology, role arrangement or
 execution.
+
+`SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-06.md`
+records the present five-object accepted set and distinguishes it from proposal-time
+and decision-time non-transfer wording preserved inside immutable objects. The note
+has no independent normative effect; each acceptance record and accepted-object hash
+remain authoritative for its decision.
 
 ## 10. Known unresolved status
 
@@ -336,6 +343,10 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.96 — 2026-09-06:** Registered the current-status and lineage reader note for
+  Packages A–D and the Problem-Investment Control Method; preserved every exact
+  accepted object and distinguished decision-time non-transfer clauses from current
+  acceptance status.
 - **0.95 — 2026-09-06:** Registered `SYMK-KB-001` and the eight-family candidate
   Knowledge corpus; made imported sources evidence-only by default and required an
   exact governed disposition before internal canonical, normative, mandatory,

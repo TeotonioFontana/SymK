@@ -1,7 +1,7 @@
 # SymK Governance Policies
 
 **Status:** Canonical policy location
-**Version:** 0.7
+**Version:** 0.8
 **Date:** 6 September 2026
 
 This directory indexes project-governance policies and accepted profiles whose
@@ -43,6 +43,10 @@ epistemic truth or universal applicability.
    enabling-capability viability, context portability and present-sufficiency
    review. Its acceptance record is maintained beside the method.
 
+Current accepted status and decision-time non-transfer clauses are reconciled in
+`../99-Notes/GMC_Review/SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-06.md`.
+That reader note changes no accepted object or effect.
+
 ## Authority boundary
 
 Governance policies and profiles regulate the SymK project process within their
@@ -63,6 +67,9 @@ steward records. None alters or supersedes `SYMK-GP-001`.
 
 ## Version history
 
+- **0.8 — 2026-09-06:** Linked the governed current-status and lineage note so
+  proposal-time and decision-time clauses in immutable accepted objects cannot be
+  mistaken for the present acceptance state.
 - **0.7 — 2026-09-06:** Indexed the accepted provisional Problem-Investment Control
   Method v0.1 and its bounded scope without creating constitutional, Domain,
   derived-project or execution authority.

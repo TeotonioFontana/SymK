@@ -3,7 +3,7 @@
 **Status:** Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the Problem-Investment
 Control Method v0.1 are accepted provisionally; analytical intake and evaluation
 lineage retained
-**Version:** 1.2
+**Version:** 1.3
 **Date:** 6 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
@@ -70,6 +70,9 @@ project authority or treating local learning as a universal SymK rule.
 14. `SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
     — exact project-steward acceptance, accepted-object hash, effects and
     non-effects.
+15. `SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-06.md`
+    — governed reader note distinguishing current accepted status from proposal-time
+    and decision-time wording without changing any accepted object or hash.
 
 ## Current result
 
@@ -80,6 +83,10 @@ accepted as a provisional SymK project-method governance profile. GMC-001 and
 GMC-002 are accepted only through that profile's bounded formulations.
 `SYMK-GP-001` remains the independently adopted negative-control policy and is not
 superseded.
+
+The current-status and lineage note governs how readers distinguish the present
+accepted set from non-transfer clauses preserved at each decision checkpoint. It
+has no independent normative effect and cannot amend an accepted object.
 
 Exact Package B v0.1 is accepted as a provisional SymK
 epistemic-role-cooperation profile. GMC-003–008 are accepted only through that
@@ -123,6 +130,9 @@ challenge processes.
 
 ## Version history
 
+- **1.3 — 2026-09-06:** Added a governed current-status and lineage note that
+  resolves misleading present-tense readings of immutable proposal-time and
+  decision-time clauses without changing accepted objects, hashes or effects.
 - **1.2 — 2026-09-06:** Registered project-steward acceptance of exact
   Problem-Investment Control Method v0.1 as a provisional minimum-sufficient SymK
   project-governance method; added contextual complexity, incremental investment,

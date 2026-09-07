@@ -1,7 +1,7 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.11
+**Version:** 0.12
 **Date:** 6 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
@@ -125,6 +125,9 @@ Their precise future status and relationship to the SymK 2.x conceptual corpus r
   — accepted provisional minimum-sufficient project-governance method.
 - `99-Notes/GMC_Review/SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
   — exact acceptance authority, accepted-object hash, effects and non-effects.
+- `99-Notes/GMC_Review/SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-06.md`
+  — current-status and decision-time interpretation note; no independent normative
+  effect.
 
 `SYMK-GP-001` prospectively requires material new or revised governed artifacts to
 make material prohibited inferences inspectable and testable in proportion to their
@@ -205,6 +208,8 @@ No document becomes a Ratified SymK axiom, constitutional article, concept, or s
 
 ## 9. Version history
 
+- **0.12 — 2026-09-06:** Indexed the governed current-status and lineage note for
+  immutable accepted governance objects without changing their hashes or effects.
 - **0.11 — 2026-09-06:** Registered `SYMK-KB-001` as the imported-source authority
   boundary and linked the candidate Knowledge corpus without selecting or validating
   a canonical Knowledge asset.
