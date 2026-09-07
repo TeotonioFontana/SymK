@@ -1,9 +1,10 @@
 # SymK GMC Review Package
 
-**Status:** Packages A v0.3, B v0.1, C v0.1 and D v0.1 accepted provisionally;
-analytical intake and evaluation lineage retained
-**Version:** 1.1
-**Date:** 4 September 2026
+**Status:** Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the Problem-Investment
+Control Method v0.1 are accepted provisionally; analytical intake and evaluation
+lineage retained
+**Version:** 1.2
+**Date:** 6 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
 `SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`
@@ -13,9 +14,12 @@ analytical intake and evaluation lineage retained
 `SYMK_GMC_PACKAGE_C_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
 **Package D acceptance authority:** Exact project-steward decision recorded in
 `SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
+**Problem-Investment Control Method acceptance authority:** Exact project-steward
+decision recorded in
+`SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
 **Normative effect:** This index creates none; Packages A v0.3, B v0.1, C v0.1 and D
-v0.1 have only the project-process effects established by their separate acceptance
-records
+v0.1 and the Problem-Investment Control Method v0.1 have only the project-process
+effects established by their separate acceptance records
 
 ## Purpose
 
@@ -59,6 +63,13 @@ project authority or treating local learning as a universal SymK rule.
     pause/resumption and qualified upstream learning.
 12. `SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md` — exact
     project-steward acceptance, accepted-object hash, effects and non-effects.
+13. `SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_PROPOSAL_v0.1.md` — accepted
+    provisional minimum-sufficient project-governance method covering contextual
+    complexity profiling, incremental investment worth, induced complexity,
+    enabling-capability viability, context portability and bounded present use.
+14. `SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
+    — exact project-steward acceptance, accepted-object hash, effects and
+    non-effects.
 
 ## Current result
 
@@ -87,6 +98,14 @@ bounded formulations. Package D establishes no real progress verdict, triggers n
 lifecycle decision, creates no pause/pivot authority, approves no upstream proposal,
 opens no stage and amends no SymK artifact.
 
+Exact Problem-Investment Control Method v0.1 is accepted as a provisional
+minimum-sufficient SymK project-governance method. It composes with Packages A–D,
+adds a multidimensional problem-complexity profile, incremental worth gates and
+investment envelopes, and makes method-induced complexity, presently viable
+capability and context portability explicit feasibility constraints. It selects no
+real method, assigns no role, determines no technology availability and issues no
+execution or derived-project authority.
+
 The GMCs remain a non-exhaustive improvement set. Other SymK improvements may exist
 outside this package and remain discoverable through ordinary governance and
 challenge processes.
@@ -99,10 +118,18 @@ challenge processes.
 - a proposed route does not open its destination stage;
 - grouping conclusions does not erase their independent status;
 - one derived-project experience does not establish universal validity; and
-- the fourteen GMCs are not claimed to be the only possible SymK improvements.
+- the fourteen GMCs and the accepted minimum-sufficient method are not claimed to be
+  the only possible SymK improvements.
 
 ## Version history
 
+- **1.2 — 2026-09-06:** Registered project-steward acceptance of exact
+  Problem-Investment Control Method v0.1 as a provisional minimum-sufficient SymK
+  project-governance method; added contextual complexity, incremental investment,
+  induced-complexity, enabling-capability viability, context-portability and
+  present-sufficiency controls; created no real method selection, technology
+  finding, execution authority, derived-project adoption, canonical Methodology
+  promotion, stage opening or constitutional change.
 - **1.1 — 2026-09-04:** Registered project-steward acceptance of exact Package D
   v0.1 as a provisional lifecycle-observation and upstream-learning profile;
   accepted GMC-011–014 only through that bounded profile and created no real

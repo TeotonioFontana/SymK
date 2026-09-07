@@ -1,8 +1,8 @@
 # SymK Document Registry
 
 **Status:** Canonical registry
-**Version:** 0.92
-**Date:** 4 September 2026
+**Version:** 0.93
+**Date:** 6 September 2026
 
 ## 1. Registry summary
 
@@ -24,8 +24,8 @@
 | SymK 2.x migration/project plans | 3 | `SYMK-2X-PLAN-002`, `PLAN-003` and post-3.0 naming `PLAN-004` v0.1 registered as complementary Proposed plans; no independent normative effect |
 | Foundational Principles | 5 | Four `SYMK-P-*` artifacts plus one consolidated working draft; separate content audit pending |
 | Foundation Methodology | 5 | Existing methodology artifacts; separate authority and content audit pending |
-| Policies and project-governance profiles | 5 | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1, C v0.1 and D v0.1 are accepted provisional profiles; none has constitutional force |
-| GMC upstream review | 1 package | Packages A v0.3, B v0.1, C v0.1 and D v0.1 accepted provisionally; GMC-001–014 accepted only through their separate bounded profiles |
+| Policies and project-governance profiles | 6 | `SYMK-GP-001` is a provisional active policy; Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the Problem-Investment Control Method v0.1 are accepted provisional profiles; none has constitutional force |
+| GMC upstream review | 1 package | Packages A v0.3, B v0.1, C v0.1 and D v0.1 plus the minimum-sufficient Problem-Investment Control Method v0.1 are accepted provisionally; GMC-001–014 remain accepted only through their separate bounded profiles |
 | Templates and PLC methods | 5 artifacts | Maintained separately under `06_Templates/PLC/Product_Vision/`; not SymK Product Vision content |
 
 Counts describe registered artifacts or packages, not normative weight.
@@ -186,6 +186,12 @@ DR-010 makes Identity, Context, Scope, Domain, and Representation foundational f
 **Profile acceptance record:**
 `../99-Notes/GMC_Review/SYMK_GMC_PACKAGE_D_v0.1_ACCEPTANCE_RECORD_2026-09-04.md`
 
+**Registered minimum-sufficient problem-investment control method:**
+`../99-Notes/GMC_Review/SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_PROPOSAL_v0.1.md`
+
+**Method acceptance record:**
+`../99-Notes/GMC_Review/SYMK_PROBLEM_INVESTMENT_CONTROL_METHOD_v0.1_ACCEPTANCE_RECORD_2026-09-06.md`
+
 **Status and effect:** Provisional active project-governance policy, effective
 prospectively from 4 September 2026. Material new or revised governed artifacts must
 make their material prohibited inferences inspectable and testable, with burden
@@ -228,6 +234,17 @@ real progress verdict or lifecycle decision, create pause/pivot authority, appro
 an upstream proposal, amend SymK, open 2.6/2.8, create a policy or standard, or
 create constitutional force.
 
+Problem-Investment Control Method v0.1 is an accepted provisional
+minimum-sufficient SymK project-governance method, effective 6 September 2026. It
+prospectively governs material SymK project problem-situation complexity profiles
+and bounded investment recommendations within project-steward jurisdiction. It
+adds explicit method-induced-complexity, enabling-capability-viability,
+context-portability, progressive-role-activation and present-sufficiency controls
+while composing with Packages A–D. It does not select a real method, establish a
+technology finding, assign a role, issue an execution release, require derived-
+project adoption, open a stage, enter the canonical Methodology family or create
+constitutional force.
+
 ## 9. GMC upstream review package
 
 **Location:** `99-Notes/GMC_Review/`
@@ -237,7 +254,8 @@ one integrated evaluation of four cooperating governance packages, preserved
 Package A v0.1–v0.2 predecessors, accepted Package A v0.3 and its exact acceptance
 record, accepted Package B v0.1 and its exact acceptance record, accepted Package C
 v0.1 and its exact acceptance record, and accepted Package D v0.1 and its exact
-acceptance record.
+acceptance record, plus the accepted provisional Problem-Investment Control Method
+v0.1 and its exact acceptance record.
 
 **Status and effect:** Mixed-status upstream-learning package. All fourteen GMCs
 retain analytical dispositions, proposed routes, evidence needs and preserved
@@ -255,7 +273,12 @@ independent progress profiles, divergence review, bounded pause/resumption and
 qualified upstream-evidence tests. It establishes no real progress verdict or
 lifecycle decision, creates no pause/pivot authority, approves no upstream proposal,
 opens no stage and amends no SymK artifact. The package is expressly non-exhaustive;
-other SymK improvements remain open.
+other SymK improvements remain open. Exact Problem-Investment Control Method v0.1 is
+also accepted provisionally as a minimum-sufficient project-governance method. It
+adds a contextual complexity profile, incremental investment assessment,
+method-induced-complexity control, enabling-capability viability and context
+portability without selecting a real method, technology, role arrangement or
+execution.
 
 ## 10. Known unresolved status
 
@@ -307,6 +330,14 @@ PLAN-004 preserves “SymK” as a controlled historical proper name through 3.0
 
 ## 13. Version history
 
+- **0.93 — 2026-09-06:** Registered project-steward acceptance of exact
+  Problem-Investment Control Method v0.1 as a provisional minimum-sufficient SymK
+  project-governance method and its accepted-object hash; made contextual complexity,
+  incremental investment, induced-complexity, enabling-capability viability,
+  context-portability and present-sufficiency controls prospectively applicable
+  within project-steward jurisdiction; created no real method selection, technology
+  finding, execution authority, derived-project adoption, canonical Methodology
+  promotion, stage opening or constitutional change.
 - **0.92 — 2026-09-04:** Registered project-steward acceptance of exact Package D
   v0.1 as a provisional lifecycle-observation and upstream-learning profile and
   GMC-011–014 only through that profile. Registered the acceptance record and hash;
