@@ -1,0 +1,131 @@
+{
+  "$schema": "urn:symk:comparative-observation-synthetic-fixture:0.1",
+  "fixture_id": "symk.synthetic.legal-comparison.001",
+  "status": "synthetic_test_only",
+  "created_at": "2026-09-16T00:00:00Z",
+  "disclaimers": [
+    "No record represents a real document, person, client, proceeding or SharePoint item.",
+    "Counts and distributions are constructed to test the protocol.",
+    "The fixture creates no vocabulary, legal or operational authority."
+  ],
+  "baseline_freeze": {
+    "record_id": "bfr-syn-001",
+    "prior_sample_id": "S1",
+    "prior_sample_size": 20,
+    "prior_instrument_id": "I1",
+    "prior_instrument_version": "0.1",
+    "prior_vocabulary_id": "V1",
+    "prior_vocabulary_version": "0.1",
+    "supported_claims": [
+      "The synthetic baseline contains filename token, procedural-shape and timestamp observations."
+    ],
+    "unsupported_claims": [
+      "The synthetic baseline represents any real legal corpus.",
+      "Any tested alias or mapping is legally valid."
+    ]
+  },
+  "comparative_plan": {
+    "plan_id": "cop-syn-001",
+    "status": "accepted_for_synthetic_dry_run",
+    "result_visibility_at_acceptance": "none",
+    "target_population": "synthetic heterogeneous legal-document corpus",
+    "samples": {
+      "S1": {"size": 20, "strata": {"legacy_firm_a": 20}},
+      "S2": {"size": 200, "strata": {"legacy_firm_a": 50, "firm_b": 70, "court_exports": 80}}
+    },
+    "instruments": {
+      "I1": {"version": "0.1", "description": "filename and metadata rule baseline"},
+      "I2": {"version": "0.2", "description": "context-aware candidate classifier"}
+    },
+    "primary_questions": [
+      "Does filename token INI reliably map to initial petition?",
+      "Does the label initial describe procedural phase or document event?",
+      "Can source modified time support legal issue date?"
+    ],
+    "predeclared_classes": [
+      "replication",
+      "coverage_extension",
+      "alias_extension",
+      "specialization",
+      "scope_restriction",
+      "semantic_contradiction",
+      "observational_contradiction",
+      "source_heterogeneity",
+      "temporal_drift",
+      "instrument_drift",
+      "sampling_effect",
+      "data_quality_failure",
+      "unsupported_generalization",
+      "inconclusive"
+    ]
+  },
+  "crossed_results": [
+    {
+      "case_id": "C1-INI",
+      "question": "INI alias mapping",
+      "cells": [
+        {"sample": "S1", "instrument": "I1", "observed_token_count": 8, "interpretations": {"initial_petition": 8}},
+        {"sample": "S2", "instrument": "I1", "observed_token_count": 40, "interpretations": {"initial_petition": 40}},
+        {"sample": "S1", "instrument": "I2", "observed_token_count": 8, "interpretations": {"initial_petition": 6, "initial_bundle_document": 1, "unresolved": 1}},
+        {"sample": "S2", "instrument": "I2", "observed_token_count": 42, "interpretations": {"initial_petition": 21, "initial_bundle_document": 15, "unresolved": 6}}
+      ],
+      "stratum_detail_for_s2_i2": {
+        "legacy_firm_a": {"initial_petition": 12, "initial_bundle_document": 1, "unresolved": 1},
+        "firm_b": {"initial_petition": 8, "initial_bundle_document": 4, "unresolved": 2},
+        "court_exports": {"initial_petition": 1, "initial_bundle_document": 10, "unresolved": 3}
+      }
+    },
+    {
+      "case_id": "C2-INITIAL",
+      "question": "Initial phase versus initial event",
+      "cells": [
+        {"sample": "S1", "instrument": "I1", "observed_signal_count": 12, "interpretations": {"initial_phase": 12}},
+        {"sample": "S2", "instrument": "I1", "observed_signal_count": 96, "interpretations": {"initial_phase": 96}},
+        {"sample": "S1", "instrument": "I2", "observed_signal_count": 12, "interpretations": {"initial_phase": 7, "filing_event": 4, "unresolved": 1}},
+        {"sample": "S2", "instrument": "I2", "observed_signal_count": 101, "interpretations": {"initial_phase": 43, "filing_event": 39, "initial_document_state": 12, "unresolved": 7}}
+      ]
+    },
+    {
+      "case_id": "C3-DATE",
+      "question": "Modified time versus legal issue date",
+      "cells": [
+        {"sample": "S1", "instrument": "I1", "timestamp_count": 20, "interpretations": {"issue_date": 20}},
+        {"sample": "S2", "instrument": "I1", "timestamp_count": 200, "interpretations": {"issue_date": 200}},
+        {"sample": "S1", "instrument": "I2", "timestamp_count": 20, "interpretations": {"source_modified_at": 20, "issue_date_supported": 0}},
+        {"sample": "S2", "instrument": "I2", "timestamp_count": 200, "interpretations": {"source_modified_at": 200, "issue_date_supported": 0}}
+      ]
+    }
+  ],
+  "synthetic_divergences": [
+    {
+      "divergence_id": "DIV-SYN-001",
+      "case_id": "C1-INI",
+      "primary_class": "scope_restriction",
+      "secondary_qualifiers": ["source_heterogeneity", "instrument_drift", "unsupported_generalization"],
+      "proposed_disposition": "Restrict INI to a context-qualified candidate alias; prohibit global automatic mapping."
+    },
+    {
+      "divergence_id": "DIV-SYN-002",
+      "case_id": "C2-INITIAL",
+      "primary_class": "specialization",
+      "secondary_qualifiers": ["semantic_contradiction", "instrument_drift"],
+      "proposed_disposition": "Separate procedural phase, filing event and document state; retain unresolved cases."
+    },
+    {
+      "divergence_id": "DIV-SYN-003",
+      "case_id": "C3-DATE",
+      "primary_class": "unsupported_generalization",
+      "secondary_qualifiers": ["instrument_drift"],
+      "proposed_disposition": "Keep source_modified_at as technical metadata and reject derivation of legal issue date without independent evidence."
+    }
+  ],
+  "synthetic_adjudication": {
+    "record_id": "DAR-SYN-001",
+    "status": "dry_run_only",
+    "decision": "accept_comparative_classifications_for_protocol_test",
+    "vocabulary_effect": "none",
+    "migration_effect": "none",
+    "publication_effect": "none",
+    "rationale": "The dry run tests whether the protocol preserves observations while restricting unsupported interpretations."
+  }
+}

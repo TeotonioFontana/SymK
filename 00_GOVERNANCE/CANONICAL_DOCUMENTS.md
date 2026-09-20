@@ -1,8 +1,8 @@
 # Canonical Documents
 
 **Status:** Canonical index
-**Version:** 0.13
-**Date:** 6 September 2026
+**Version:** 0.14
+**Date:** 8 September 2026
 
 This index identifies canonical locations and current authority. Canonical means governed as the official location or baseline for its declared purpose; it does not mean constitutionally Ratified, epistemically true, or universally binding.
 
@@ -128,6 +128,14 @@ Their precise future status and relationship to the SymK 2.x conceptual corpus r
 - `99-Notes/GMC_Review/SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-06.md`
   — current-status and decision-time interpretation note; no independent normative
   effect.
+- `99-Notes/GMC_Review/SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-08.md`
+  — current reader note after externalization of prospective problem-solving work;
+  exact historical acceptances remain unchanged.
+- `99-Notes/GMC_Review/SYMK_PROBLEM_SOLVING_SCOPE_EXTRACTION_AND_HANDOFF_RECORD_2026-09-08.md`
+  — active scope disposition preserving historical accepted bytes while returning
+  SymK to a mediation-centered prospective boundary.
+- `99-Notes/GMC_Review/SYMK_EXTERNAL_PROBLEM_SOLVING_HANDOFF_INTERFACE_PROPOSAL_v0.1.md`
+  — unaccepted thin-interface proposal for optional external analysis.
 
 `SYMK-GP-001` prospectively requires material new or revised governed artifacts to
 make material prohibited inferences inspectable and testable in proportion to their
@@ -166,13 +174,14 @@ verdict or lifecycle decision, create pause/pivot authority, approve an upstream
 proposal, amend SymK, open 2.6/2.8, create a policy or standard, or create
 constitutional force.
 
-The Problem-Investment Control Method v0.1 prospectively governs minimum-sufficient
-problem complexity and investment control within project-steward jurisdiction. It
-requires contextual complexity, incremental investment, induced-complexity review,
-viability of enabling capabilities, context portability and present-sufficiency
-review. Its acceptance does not select a real method, issue execution authority,
-adopt it in a derived project, promote it into canonical Methodology, open a stage or
-create constitutional force.
+The Problem-Investment Control Method v0.1 remains an immutable historical accepted
+object. Under the 8 September 2026 scope disposition, prospective general
+problem-solving, complexity and investment-control work is externalized from SymK;
+future SymK applications may use a bounded external handoff after mediation
+admission and route selection. The exact external method and handoff interface are
+not accepted. The disposition neither rewrites the 6 September acceptance nor
+selects a method, issues execution authority, adopts a derived-project method,
+promotes canonical Methodology, opens a stage or creates constitutional force.
 
 ## 6A. Imported Knowledge Source Authority Boundary
 
@@ -224,6 +233,10 @@ package anatomy, serialization, alignment or release state is accepted.
 
 ## 9. Version history
 
+- **0.14 — 2026-09-08:** Registered the project-steward scope disposition that
+  externalizes prospective general problem-solving and investment-control work,
+  indexed the successor current-status note and unaccepted thin handoff interface,
+  and preserved all historical accepted objects, hashes and decision records.
 - **0.13 — 2026-09-06:** Registered the prospective integrity-manifest convention
   and the Proposed Core Model under future 2.5 ownership without changing historical
   manifests or accepting semantic-package content.

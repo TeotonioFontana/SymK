@@ -229,6 +229,15 @@ DR-010 makes Identity, Context, Scope, Domain, and Representation foundational f
 **Current six-object status and lineage note:**
 `../99-Notes/GMC_Review/SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-07.md`
 
+**Problem-solving scope extraction and handoff record:**
+`../99-Notes/GMC_Review/SYMK_PROBLEM_SOLVING_SCOPE_EXTRACTION_AND_HANDOFF_RECORD_2026-09-08.md`
+
+**Current post-extraction status and lineage note:**
+`../99-Notes/GMC_Review/SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-08.md`
+
+**Proposed external problem-solving handoff interface:**
+`../99-Notes/GMC_Review/SYMK_EXTERNAL_PROBLEM_SOLVING_HANDOFF_INTERFACE_PROPOSAL_v0.1.md`
+
 **Proposed minimum Acting Roadmap intake template suite:**
 `../99-Notes/GMC_Review/SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_PROPOSAL_v0.1.md`
 
@@ -295,16 +304,13 @@ real progress verdict or lifecycle decision, create pause/pivot authority, appro
 an upstream proposal, amend SymK, open 2.6/2.8, create a policy or standard, or
 create constitutional force.
 
-Problem-Investment Control Method v0.1 is an accepted provisional
-minimum-sufficient SymK project-governance method, effective 6 September 2026. It
-prospectively governs material SymK project problem-situation complexity profiles
-and bounded investment recommendations within project-steward jurisdiction. It
-adds explicit method-induced-complexity, enabling-capability-viability,
-context-portability, progressive-role-activation and present-sufficiency controls
-while composing with Packages A–D. It does not select a real method, establish a
-technology finding, assign a role, issue an execution release, require derived-
-project adoption, open a stage, enter the canonical Methodology family or create
-constitutional force.
+Problem-Investment Control Method v0.1 remains an exact historical accepted SymK
+object effective at its 6 September 2026 decision. The 8 September scope disposition
+suspends its prospective operational use inside SymK and externalizes general
+problem-solving, complexity and investment-control development. SymK retains
+mediation intake, constitution, routing, disagreement and authority boundaries and
+may request bounded external analysis through a separately reviewed interface. No
+external method or interface is accepted or selected by that disposition.
 
 ## 9. GMC upstream review package
 
@@ -350,10 +356,11 @@ method-induced-complexity control, enabling-capability viability and context
 portability without selecting a real method, technology, role arrangement or
 execution.
 
-`SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-07.md`
-records the present six-object accepted set and supersedes the 2026-09-06 note only
-for current-status reading. Both notes have no independent normative effect; each
-acceptance record and accepted-object hash remain authoritative for its decision.
+`SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-08.md`
+records the current scope disposition while preserving all six historical
+acceptances. It supersedes the 2026-09-07 note only for current-status reading.
+Historical notes retain evidentiary value; each acceptance record and exact object
+remain authoritative for its decision.
 
 The problem-first objects identify a possible missing predecessor before Objective
 Acceptance, but the exact proposal is challenged as a root profile because it

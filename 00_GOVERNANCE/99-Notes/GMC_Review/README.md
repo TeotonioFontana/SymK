@@ -1,11 +1,13 @@
 # SymK GMC Review Package
 
 **Status:** Packages A v0.3, B v0.1, C v0.1 and D v0.1, the Problem-Investment
-Control Method v0.1 and the Acting Roadmap v0.1 are accepted provisionally; the
-minimum intake template suite is accepted as a provisional operational
-Representation; the problem-first root proposal remains challenged and unaccepted
-**Version:** 1.8
-**Date:** 7 September 2026
+Control Method v0.1 and the Acting Roadmap v0.1 are historical accepted provisional
+objects; prospective general problem-solving and investment-control work is
+externalized under the 8 September scope disposition; the minimum intake template
+suite remains an accepted provisional operational Representation; the external
+handoff interface and problem-first root proposal are unaccepted
+**Version:** 1.9
+**Date:** 8 September 2026
 **Authority:** Project-steward instruction to return to and evaluate the GMCs
 **Package A acceptance authority:** Exact project-steward decision recorded in
 `SYMK_GMC_PACKAGE_A_v0.3_ACCEPTANCE_RECORD_2026-09-04.md`
@@ -129,6 +131,14 @@ project authority or treating local learning as a universal SymK rule.
     objects, with governing effects and non-effects.
 33. `SYMK_ACTING_ROADMAP_MINIMUM_INTAKE_TEMPLATE_SUITE_v0.1_ACCEPTANCE_MANIFEST_2026-09-07.sha256`
     — immutable acceptance-lineage checksums including the exact roadmap dependency.
+34. `SYMK_PROBLEM_SOLVING_SCOPE_EXTRACTION_AND_HANDOFF_RECORD_2026-09-08.md` —
+    active project-steward scope disposition externalizing prospective general
+    problem-solving work while preserving historical acceptance evidence.
+35. `SYMK_ACCEPTED_GOVERNANCE_PROFILES_CURRENT_STATUS_AND_LINEAGE_2026-09-08.md`
+    — successor reader note distinguishing six historical acceptances from the
+    current prospective ownership boundary.
+36. `SYMK_EXTERNAL_PROBLEM_SOLVING_HANDOFF_INTERFACE_PROPOSAL_v0.1.md` — proposed
+    thin interface for optional external analysis; not accepted or activated.
 
 ## Current result
 
@@ -161,13 +171,13 @@ bounded formulations. Package D establishes no real progress verdict, triggers n
 lifecycle decision, creates no pause/pivot authority, approves no upstream proposal,
 opens no stage and amends no SymK artifact.
 
-Exact Problem-Investment Control Method v0.1 is accepted as a provisional
-minimum-sufficient SymK project-governance method. It composes with Packages A–D,
-adds a multidimensional problem-complexity profile, incremental worth gates and
-investment envelopes, and makes method-induced complexity, presently viable
-capability and context portability explicit feasibility constraints. It selects no
-real method, assigns no role, determines no technology availability and issues no
-execution or derived-project authority.
+Exact Problem-Investment Control Method v0.1 remains a historical accepted
+provisional SymK project-governance object. Under the 8 September scope disposition,
+its prospective operational use in SymK is suspended and general problem-solving,
+complexity and investment-control development is transferred to an independent
+project without transferring acceptance. The Acting Roadmap remains SymK's root;
+the proposed external handoff interface is unaccepted and no external method,
+route, role, investment or execution is selected.
 
 The SPServices solution-first occurrence is preserved as qualified upstream
 evidence. The initial problem-first correction correctly identified solution
@@ -206,6 +216,10 @@ challenge processes.
 
 ## Version history
 
+- **1.9 — 2026-09-08:** Registered the project-steward scope extraction,
+  post-extraction current-status note and unaccepted external handoff interface;
+  externalized prospective general problem-solving and investment-control work
+  without modifying historical accepted objects or transferring acceptance.
 - **1.8 — 2026-09-07:** Registered project-steward acceptance of the exact minimum
   intake template suite and its three template objects, plus the acceptance record
   and manifest; kept the dry run as evidence and created no engagement, route,
