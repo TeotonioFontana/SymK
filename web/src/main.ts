@@ -26,7 +26,7 @@ function render(): void {
   const done = wave.tasks.filter((_, index) => checked.has(`${wave.id}:${index}`)).length;
   const percent = wave.tasks.length ? Math.round(done / wave.tasks.length * 100) : wave.state === 'complete' ? 100 : 0;
   app!.innerHTML = `<main>
-    <header class="topbar"><a class="back" href="/knowledge-engineering.html">← Knowledge Engineering</a><span class="version">SymK Web v0.2.0 · build 2</span></header>
+    <header class="topbar"><a class="back" href="/knowledge-engineering.html">← Knowledge Engineering</a><span class="version">SymK Web v0.3.0 · build 4</span></header>
     <p class="eyebrow">${escapeHtml(project.eyebrow)}</p><h1>${escapeHtml(project.name)}</h1><p class="lead">${escapeHtml(project.description)}</p>
     <aside class="notice"><strong>Current status: ${escapeHtml(project.statusTitle)}</strong><p>${escapeHtml(project.statusDetail)}</p></aside>
     <h2>Migration waves</h2><section class="waves" aria-label="Migration waves">${project.waves.map(waveCard).join('')}</section>
@@ -35,7 +35,7 @@ function render(): void {
       <div class="checklist">${wave.tasks.length ? wave.tasks.map((task, index) => `<label class="check"><input type="checkbox" data-task="${wave.id}:${index}" ${checked.has(`${wave.id}:${index}`) ? 'checked' : ''}><span>${escapeHtml(task)}</span></label>`).join('') : '<p class="empty">No actionable checklist is open for this wave.</p>'}</div>
     </section>
     <h2>Boundary</h2><aside class="boundary"><h3>${escapeHtml(project.boundaryTitle)}</h3><p>${escapeHtml(project.boundary)}</p></aside>
-    <nav class="actions"><a class="action primary" href="${project.counterpartHref}">${escapeHtml(project.counterpartLabel)}</a><a class="action" href="/knowledge-engineering.html">Return to program</a></nav>
+    <nav class="actions"><a class="action primary" href="/symk/management.html">Open SymK management</a><a class="action" href="/symk/propositions.html">Review SymK propositions</a><a class="action" href="${project.counterpartHref}">${escapeHtml(project.counterpartLabel)}</a><a class="action" href="/knowledge-engineering.html">Return to program</a></nav>
   </main>`;
   bind();
 }
