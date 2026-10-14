@@ -12,14 +12,17 @@ export async function copyReviewPrompt(text: string): Promise<boolean> {
 export function shell(options: {
   title: string; eyebrow: string; lead: string; boundary: string; version: string;
   tabs: Tab[]; active: string; message: string; body: string;
+  groupHref?: string; groupLabel?: string;
 }): string {
+  const groupHref = options.groupHref ?? 'management-protocol.html';
+  const groupLabel = options.groupLabel ?? 'Protocol governance';
   return `<main class="protocol-app">
-    <header class="topbar"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/knowledge-engineering.html">Knowledge Engineering</a><span>›</span><a href="management.html">SymK Management</a><span>›</span><a href="management-protocol.html">Protocol governance</a><span>›</span><strong>${esc(options.title)}</strong></nav><span class="version">${esc(options.version)}</span></header>
+    <header class="topbar"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/knowledge-engineering.html">Knowledge Engineering</a><span>›</span><a href="management.html">SymK Management</a><span>›</span><a href="${esc(groupHref)}">${esc(groupLabel)}</a><span>›</span><strong>${esc(options.title)}</strong></nav><span class="version">${esc(options.version)}</span></header>
     <p class="eyebrow">${esc(options.eyebrow)}</p><h1>${esc(options.title)}</h1><p class="lead">${esc(options.lead)}</p>
     <aside class="boundary"><strong>Protocol boundary</strong><p>${esc(options.boundary)}</p></aside>
     <nav class="tabs" aria-label="Management operations">${options.tabs.map((tab) => `<button type="button" data-tab="${tab.id}" class="${tab.id === options.active ? 'active' : ''}"><span>${tab.number}</span>${esc(tab.label)}</button>`).join('')}</nav>
     ${options.message ? `<div class="message" role="status">${esc(options.message)}</div>` : ''}${options.body}
-    <nav class="actions"><a class="button secondary" href="management-protocol.html">Back to Protocol governance</a><a class="button secondary" href="management.html">All SymK groups</a><a class="button secondary" href="/symk/">Migration workspace</a></nav>
+    <nav class="actions"><a class="button secondary" href="${esc(groupHref)}">Back to ${esc(groupLabel)}</a><a class="button secondary" href="management.html">All SymK groups</a><a class="button secondary" href="/symk/">Migration workspace</a></nav>
   </main>`;
 }
 

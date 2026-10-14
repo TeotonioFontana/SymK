@@ -26,3 +26,16 @@ operations, or decide domain truth. Their current records are persisted in the l
 browser so the interaction contract can be exercised without silently changing a
 governed source. Each authoring flow labels candidate records explicitly and includes
 AI-review prompt generation for decisions that require collaborative judgment.
+
+## Protocol assurance modules
+
+- `conformance.html` manages conformance requirements and claims evaluated against
+  an exact SymK version.
+- `versions.html` assembles exact protocol manifests, compares versions, records
+  compatibility assessments, and preserves named ratification authority.
+- `releases.html` creates content-identified release packages, validates dependency
+  closure, records readiness review, and publishes immutable release lineage.
+
+These browser-persistent registers are an interim write contract. Conformance,
+ratification, and publication remain separate governed decisions, and no release
+silently certifies an implementation or grants external authority.
